@@ -7,7 +7,7 @@ https://ourairports.com/data/
 ## Direct download links
 
 * https://davidmegginson.github.io/ourairports-data/airports.csv
-* https://davidmegginson.github.io/ourairports-data/airport-frequencies
+* https://davidmegginson.github.io/ourairports-data/airport-frequencies.csv
 * https://davidmegginson.github.io/ourairports-data/runways.csv
 * https://davidmegginson.github.io/ourairports-data/navaids.csv
 * https://davidmegginson.github.io/ourairports-data/countries.csv
