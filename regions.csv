@@ -2772,35 +2772,30 @@
 305259,"RO-VN","VN","Vrancea County","EU","RO","https://en.wikipedia.org/wiki/Vrancea_County","Moldavia, Moldavian"
 305260,"RO-VS","VS","Vaslui County","EU","RO","https://en.wikipedia.org/wiki/Vaslui_County","Moldavia, Moldavian"
 306590,"RS-00",00,"Beograd (city)","EU","RS","https://en.wikipedia.org/wiki/Beograd_(city)",
-306591,"RS-01",01,"Northern Bačka","EU","RS","https://en.wikipedia.org/wiki/Northern_Bačka",
-306592,"RS-02",02,"Central Banat","EU","RS","https://en.wikipedia.org/wiki/Central_Banat",
-306593,"RS-03",03,"North Banat","EU","RS","https://en.wikipedia.org/wiki/North_Banat",
-306594,"RS-04",04,"South Banat","EU","RS","https://en.wikipedia.org/wiki/South_Banat",
-306595,"RS-05",05,"West Bačka","EU","RS","https://en.wikipedia.org/wiki/West_Bačka",
+306591,"RS-01",01,"North Bačka District","EU","RS","https://en.wikipedia.org/wiki/North_Bačka_District",
+306592,"RS-02",02,"Central Banat District","EU","RS","https://en.wikipedia.org/wiki/Central_Banat_District",
+306593,"RS-03",03,"North Banat District","EU","RS","https://en.wikipedia.org/wiki/North_Banat_District",
+306594,"RS-04",04,"South Banat District","EU","RS","https://en.wikipedia.org/wiki/South_Banat_District",
+306595,"RS-05",05,"West Bačka District","EU","RS","https://en.wikipedia.org/wiki/West_Bačka_District",
 306596,"RS-06",06,"South Bačka District","EU","RS","https://en.wikipedia.org/wiki/South_Bačka_District",
-306597,"RS-07",07,"Srem","EU","RS","https://en.wikipedia.org/wiki/Srem",
-306598,"RS-08",08,"Mačva","EU","RS","https://en.wikipedia.org/wiki/Mačva",
-306599,"RS-09",09,"Kolubara","EU","RS","https://en.wikipedia.org/wiki/Kolubara",
-306600,"RS-10",10,"Podunavlje","EU","RS","https://en.wikipedia.org/wiki/Podunavlje",
+306597,"RS-07",07,"Srem District","EU","RS","https://en.wikipedia.org/wiki/Srem_District",
+306598,"RS-08",08,"Mačva District","EU","RS","https://en.wikipedia.org/wiki/Mačva_District",
+306599,"RS-09",09,"Kolubara District","EU","RS","https://en.wikipedia.org/wiki/Kolubara_District",
+306600,"RS-10",10,"Podunavlje District","EU","RS","https://en.wikipedia.org/wiki/Podunavlje_District",
 306601,"RS-11",11,"Braničevo District","EU","RS","https://en.wikipedia.org/wiki/Braničevo_District",
-306602,"RS-12",12,"Šumadija","EU","RS","https://en.wikipedia.org/wiki/Šumadija",
-306603,"RS-13",13,"Pomoravlje","EU","RS","https://en.wikipedia.org/wiki/Pomoravlje",
+306602,"RS-12",12,"Šumadija District","EU","RS","https://en.wikipedia.org/wiki/Šumadija_District",
+306603,"RS-13",13,"Pomoravlje District","EU","RS","https://en.wikipedia.org/wiki/Pomoravlje_District",
 306604,"RS-14",14,"Bor District","EU","RS","https://en.wikipedia.org/wiki/Bor_District",
-306605,"RS-15",15,"Zaječar","EU","RS","https://en.wikipedia.org/wiki/Zaječar",
-306606,"RS-16",16,"Zlatibor","EU","RS","https://en.wikipedia.org/wiki/Zlatibor",
-306607,"RS-17",17,"Moravica","EU","RS","https://en.wikipedia.org/wiki/Moravica",
-306608,"RS-18",18,"Raška","EU","RS","https://en.wikipedia.org/wiki/Raška",
-306609,"RS-19",19,"Rasina","EU","RS","https://en.wikipedia.org/wiki/Rasina",
-306610,"RS-20",20,"Nišava","EU","RS","https://en.wikipedia.org/wiki/Nišava",
-306611,"RS-21",21,"Toplica","EU","RS","https://en.wikipedia.org/wiki/Toplica",
-306612,"RS-22",22,"Pirot","EU","RS","https://en.wikipedia.org/wiki/Pirot",
+306605,"RS-15",15,"Zaječar District","EU","RS","https://en.wikipedia.org/wiki/Zaječar_District",
+306606,"RS-16",16,"Zlatibor District","EU","RS","https://en.wikipedia.org/wiki/Zlatibor_District",
+306607,"RS-17",17,"Moravica District","EU","RS","https://en.wikipedia.org/wiki/Moravica_District",
+306608,"RS-18",18,"Raška District","EU","RS","https://en.wikipedia.org/wiki/Raška_District",
+306609,"RS-19",19,"Rasina District","EU","RS","https://en.wikipedia.org/wiki/Rasina_District",
+306610,"RS-20",20,"Nišava District","EU","RS","https://en.wikipedia.org/wiki/Nišava_District",
+306611,"RS-21",21,"Toplica District","EU","RS","https://en.wikipedia.org/wiki/Toplica_District",
+306612,"RS-22",22,"Pirot District","EU","RS","https://en.wikipedia.org/wiki/Pirot_District",
 306613,"RS-23",23,"Jablanica District","EU","RS","https://en.wikipedia.org/wiki/Jablanica_District",
-306614,"RS-24",24,"Pčinja","EU","RS","https://en.wikipedia.org/wiki/Pčinja",
-306615,"RS-25",25,"Kosovo","EU","RS","https://en.wikipedia.org/wiki/Kosovo",
-306616,"RS-26",26,"Peć","EU","RS","https://en.wikipedia.org/wiki/Peć",
-306617,"RS-27",27,"Prizren","EU","RS","https://en.wikipedia.org/wiki/Prizren",
-306618,"RS-28",28,"Kosovska Mitrovica","EU","RS","https://en.wikipedia.org/wiki/Kosovska_Mitrovica",
-306619,"RS-29",29,"Kosovo-Pomoravlje","EU","RS","https://en.wikipedia.org/wiki/Kosovo-Pomoravlje",
+306614,"RS-24",24,"Pčinja District","EU","RS","https://en.wikipedia.org/wiki/Pčinja_District",
 305261,"RS-U-A","U-A","(unassigned)","EU","RS",,
 305262,"RU-AD","AD","Republic of Adygea","EU","RU","https://en.wikipedia.org/wiki/Republic_of_Adygea","Adygeya"
 305263,"RU-AL","AL","Altai Republic","EU","RU","https://en.wikipedia.org/wiki/Altai_Republic","Altay"
@@ -3199,15 +3194,15 @@
 305588,"SI-193",193,"Zuzemberk","EU","SI","https://en.wikipedia.org/wiki/Zuzemberk",
 305589,"SI-194",194,"Smartno pri Litiji","EU","SI","https://en.wikipedia.org/wiki/Smartno_pri_Litiji",
 305590,"SI-U-A","U-A","(unassigned)","EU","SI",,
-305591,"SK-BC","BC","Banská Bystrica","EU","SK","https://en.wikipedia.org/wiki/Banská_Bystrica","Banskobystrický kraj"
-305592,"SK-BL","BL","Bratislava","EU","SK","https://en.wikipedia.org/wiki/Bratislava","Bratislavský kraj"
-305593,"SK-KI","KI","Košice","EU","SK","https://en.wikipedia.org/wiki/Košice","Košický kraj"
-305594,"SK-NJ","NJ","Nitra","EU","SK","https://en.wikipedia.org/wiki/Nitra","Nitriansky kraj"
-305595,"SK-PV","PV","Prešov","EU","SK","https://en.wikipedia.org/wiki/Prešov","Prešovský kraj"
-305596,"SK-TA","TA","Trnava","EU","SK","https://en.wikipedia.org/wiki/Trnava","Trnavský kraj"
-305597,"SK-TC","TC","Trenčín","EU","SK","https://en.wikipedia.org/wiki/Trenčín","Trenčíansky kraj"
+305591,"SK-BC","BC","Banská Bystrica Region","EU","SK","https://en.wikipedia.org/wiki/Banská_Bystrica_Region","Banskobystrický kraj"
+305592,"SK-BL","BL","Bratislava Region","EU","SK","https://en.wikipedia.org/wiki/Bratislava_Region","Bratislavský kraj"
+305593,"SK-KI","KI","Košice Region","EU","SK","https://en.wikipedia.org/wiki/Košice_Region","Košický kraj"
+305594,"SK-NJ","NJ","Nitra Region","EU","SK","https://en.wikipedia.org/wiki/Nitra_Region","Nitriansky kraj"
+305595,"SK-PV","PV","Prešov Region","EU","SK","https://en.wikipedia.org/wiki/Prešov_Region","Prešovský kraj"
+305596,"SK-TA","TA","Trnava Region","EU","SK","https://en.wikipedia.org/wiki/Trnava_Region","Trnavský kraj"
+305597,"SK-TC","TC","Trenčín Region","EU","SK","https://en.wikipedia.org/wiki/Trenčín_Region","Trenčíansky kraj"
 305598,"SK-U-A","U-A","(unassigned)","EU","SK",,
-305599,"SK-ZI","ZI","Žilina","EU","SK","https://en.wikipedia.org/wiki/Žilina","Žilinský kraj"
+305599,"SK-ZI","ZI","Žilina Region","EU","SK","https://en.wikipedia.org/wiki/Žilina_Region","Žilinský kraj"
 305600,"SL-E","E","Eastern Province","AF","SL","https://en.wikipedia.org/wiki/Eastern_Province,_Sierra_Leone",
 305601,"SL-N","N","Northern Province","AF","SL","https://en.wikipedia.org/wiki/Northern_Province,_Sierra_Leone",
 305602,"SL-S","S","Southern Province","AF","SL","https://en.wikipedia.org/wiki/Southern_Province,_Sierra_Leone",
