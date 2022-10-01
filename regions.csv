@@ -1125,14 +1125,21 @@
 303840,"GG-U-A","U-A","(unassigned)","EU","GG",,"Airports in (unassigned)"
 303841,"GH-AA","AA","Greater Accra Region","AF","GH","https://en.wikipedia.org/wiki/Greater_Accra_Region","Airports in Greater Accra Region"
 303842,"GH-AH","AH","Ashanti Region","AF","GH","https://en.wikipedia.org/wiki/Ashanti_Region","Airports in Ashanti Region"
+430286,"GH-AO","AO","Ahafo Region","AF","GH","https://en.wikipedia.org/wiki/Ahafo_Region",
 303843,"GH-BA","BA","Brong-Ahafo Region","AF","GH","https://en.wikipedia.org/wiki/Brong-Ahafo_Region","Airports in Brong-Ahafo Region"
+430288,"GH-BE","BE","Bono East Region","AF","GH","https://en.wikipedia.org/wiki/Bono_East_Region",
+430287,"GH-BO","BO","Bono Region","AF","GH","https://en.wikipedia.org/wiki/Bono_Region",
 303844,"GH-CP","CP","Central Region","AF","GH","https://en.wikipedia.org/wiki/Central_Region_(Ghana)","Airports in Central Region"
 303845,"GH-EP","EP","Eastern Region","AF","GH","https://en.wikipedia.org/wiki/Eastern_Region_(Ghana)","Airports in Eastern Region"
+430290,"GH-NE","NE","North East Region","AF","GH","https://en.wikipedia.org/wiki/North_East_Region,_Ghana",
 303846,"GH-NP","NP","Northern Region","AF","GH","https://en.wikipedia.org/wiki/Northern_Region,_Ghana","Airports in Northern Region"
+430282,"GH-OT","OT","Oti Region","AF","GH","https://en.wikipedia.org/wiki/Oti_Region",
+430289,"GH-SA","SA","Savannah Region","AF","GH","https://en.wikipedia.org/wiki/Savannah_Region",
 303847,"GH-TV","TV","Volta Region","AF","GH","https://en.wikipedia.org/wiki/Volta_Region","Airports in Volta Region"
 303848,"GH-U-A","U-A","(unassigned)","AF","GH",,"Airports in (unassigned)"
 303849,"GH-UE","UE","Upper East Region","AF","GH","https://en.wikipedia.org/wiki/Upper_East_Region","Airports in Upper East Region"
 303850,"GH-UW","UW","Upper West Region","AF","GH","https://en.wikipedia.org/wiki/Upper_West_Region","Airports in Upper West Region"
+430283,"GH-WN","WN","Western North Region","AF","GH","https://en.wikipedia.org/wiki/Western_North_Region",
 303851,"GH-WP","WP","Western Region","AF","GH","https://en.wikipedia.org/wiki/Western_Region_(Ghana)","Airports in Western Region"
 303852,"GI-U-A","U-A","(unassigned)","EU","GI",,"Airports in (unassigned)"
 303853,"GL-U-A","U-A","(unassigned)","NA","GL",,"Airports in (unassigned)"
@@ -1342,6 +1349,9 @@
 304117,"ID-NT","NT","Nusa Tenggara Timur","AS","ID","https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur","Airports in Nusa Tenggara Timur"
 304118,"ID-PA","PA","Papua","AS","ID","https://en.wikipedia.org/wiki/Papua","Airports in Papua"
 304103,"ID-PB","PB","West Papua","AS","ID","https://en.wikipedia.org/wiki/West_Papua_(region)","Irian Jaya"
+430275,"ID-PP","PP","Papua Pegunungan","AS","ID","https://en.wikipedia.org/wiki/Highland_Papua",
+430277,"ID-PS","PS","Papua Selatan","AS","ID","https://en.wikipedia.org/wiki/South_Papua",
+430276,"ID-PT","PT","Papua Tengah","AS","ID","https://en.wikipedia.org/wiki/Central_Papua",
 304119,"ID-RI","RI","Riau","AS","ID","https://en.wikipedia.org/wiki/Riau","Airports in Riau"
 304120,"ID-SA","SA","Sulawesi Utara","AS","ID","https://en.wikipedia.org/wiki/Sulawesi_Utara","Airports in Sulawesi Utara"
 304121,"ID-SB","SB","Sumatra Barat","AS","ID","https://en.wikipedia.org/wiki/Sumatra_Barat","Airports in Sumatra Barat"
@@ -1675,6 +1685,7 @@
 306757,"KW-MU","MU","Mubarak Al-Kabeer Governorate","AS","KW","https://en.wikipedia.org/wiki/Mubarak_Al-Kabeer_Governorate","Airports in Mubarak Al-Kabeer Governorate"
 304422,"KW-U-A","U-A","(unassigned)","AS","KW",,"Airports in (unassigned)"
 304423,"KY-U-A","U-A","(unassigned)","NA","KY",,"Airports in (unassigned)"
+430273,"KZ-ABA","ABA","Abai Region","AS","KZ","https://en.wikipedia.org/wiki/Abai_Region",
 304424,"KZ-AKM","AKM","Akmola Region","AS","KZ","https://en.wikipedia.org/wiki/Akmola_Region","Ақмола облысы"
 304425,"KZ-AKT","AKT","Aktobe Region","AS","KZ","https://en.wikipedia.org/wiki/Aktobe_Region","Ақтөбе облысы"
 304426,"KZ-ALA","ALA","Almaty City","AS","KZ","https://en.wikipedia.org/wiki/Almaty","Алматы қаласы"
@@ -1682,6 +1693,7 @@
 304428,"KZ-AST","AST","Astana City","AS","KZ","https://en.wikipedia.org/wiki/Astana","Астана қаласы"
 304429,"KZ-ATY","ATY","Atyrau Region","AS","KZ","https://en.wikipedia.org/wiki/Atyrau_Region","Атырау облысы"
 306378,"KZ-BAY","BAY","Baikonur City","AS","KZ","https://en.wikipedia.org/wiki/Baikonur","Байқоңыр қаласы"
+430278,"KZ-JET","JET","Jetisu Region","AS","KZ","https://en.wikipedia.org/wiki/Jetisu_Region",
 304430,"KZ-KAR","KAR","Karaganda Region","AS","KZ","https://en.wikipedia.org/wiki/Karaganda_Region","Қарағанды облысы"
 304431,"KZ-KUS","KUS","Kostanay Region","AS","KZ","https://en.wikipedia.org/wiki/Kostanay_Region","Қостанай облысы"
 304432,"KZ-KZY","KZY","Kyzylorda Region","AS","KZ","https://en.wikipedia.org/wiki/Kyzylorda_Region","Қызылорда облысы"
@@ -1689,6 +1701,7 @@
 304434,"KZ-PAV","PAV","Pavlodar Region","AS","KZ","https://en.wikipedia.org/wiki/Pavlodar_Region","Павлодар облысы"
 304435,"KZ-SEV","SEV","North Kazakhstan Region","AS","KZ","https://en.wikipedia.org/wiki/North_Kazakhstan_Region","Солтүстік Қазақстан облысы"
 304436,"KZ-U-A","U-A","(unassigned)","AS","KZ",,"Airports in (unassigned)"
+430281,"KZ-ULY","ULY","Ulytau","AS","KZ","https://en.wikipedia.org/wiki/Ulytau_Region",
 304437,"KZ-VOS","VOS","East Kazakhstan Region","AS","KZ","https://en.wikipedia.org/wiki/East_Kazakhstan_Region","Шығыс Қазақстан облысы"
 304438,"KZ-YUZ","YUZ","South Kazakhstan Region","AS","KZ","https://en.wikipedia.org/wiki/South_Kazakhstan_Region","Оңтүстік Қазақстан облысы"
 304439,"KZ-ZAP","ZAP","West Kazakhstan Region","AS","KZ","https://en.wikipedia.org/wiki/West_Kazakhstan_Region","Батыс Қазақстан облысы"
@@ -2565,7 +2578,9 @@
 305098,"PH-MAG","MAG","Maguindanao Province","AS","PH","https://en.wikipedia.org/wiki/Maguindanao_Province","Airports in Maguindanao Province"
 305099,"PH-MAS","MAS","Masbate Province","AS","PH","https://en.wikipedia.org/wiki/Masbate_Province","Airports in Masbate Province"
 305100,"PH-MDC","MDC","Occidental Mindoro Province","AS","PH","https://en.wikipedia.org/wiki/Occidental_Mindoro","Airports in Occidental Mindoro Province"
+430279,"PH-MDN","MDN","Magundanao del Norte Province","AS","PH","https://en.wikipedia.org/wiki/Maguindanao_del_Norte",
 305101,"PH-MDR","MDR","Oriental Mindoro Province","AS","PH","https://en.wikipedia.org/wiki/Oriental_Mindoro","Airports in Oriental Mindoro Province"
+430280,"PH-MDS","MDS","Magundanao del Sur Province","AS","PH","https://en.wikipedia.org/wiki/Maguindanao_del_Sur",
 305102,"PH-MOU","MOU","Mountain Province","AS","PH","https://en.wikipedia.org/wiki/Mountain_Province","Airports in Mountain Province"
 305103,"PH-MSC","MSC","Misamis Occidental Province","AS","PH","https://en.wikipedia.org/wiki/Misamis_Occidental_Province","Airports in Misamis Occidental Province"
 305104,"PH-MSR","MSR","Misamis Oriental Province","AS","PH","https://en.wikipedia.org/wiki/Misamis_Oriental_Province","Airports in Misamis Oriental Province"
@@ -3412,6 +3427,7 @@
 305789,"TK-U-A","U-A","(unassigned)","OC","TK",,"Airports in (unassigned)"
 305790,"TL-AL","AL","Aileu","AS","TL","https://en.wikipedia.org/wiki/Aileu","Airports in Aileu"
 305791,"TL-AN","AN","Ainaro","AS","TL","https://en.wikipedia.org/wiki/Ainaro","Airports in Ainaro"
+430274,"TL-AT","AT","Atauro","AS","TL","https://en.wikipedia.org/wiki/Atauro",
 305792,"TL-BA","BA","Baucau","AS","TL","https://en.wikipedia.org/wiki/Baucau","Airports in Baucau"
 305793,"TL-BO","BO","Bobonaro","AS","TL","https://en.wikipedia.org/wiki/Bobonaro","Airports in Bobonaro"
 305794,"TL-CO","CO","Cova Lima","AS","TL","https://en.wikipedia.org/wiki/Cova_Lima","Airports in Cova Lima"
