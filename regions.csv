@@ -1332,34 +1332,34 @@
 304101,"ID-BT","BT","Banten","AS","ID","https://en.wikipedia.org/wiki/Banten","Airports in Banten"
 304102,"ID-GO","GO","Gorontalo","AS","ID","https://en.wikipedia.org/wiki/Gorontalo","Airports in Gorontalo"
 304104,"ID-JA","JA","Jambi","AS","ID","https://en.wikipedia.org/wiki/Jambi","Airports in Jambi"
-304105,"ID-JB","JB","Jawa Barat","AS","ID","https://en.wikipedia.org/wiki/Jawa_Barat","Airports in Jawa Barat"
-304106,"ID-JI","JI","Jawa Timur","AS","ID","https://en.wikipedia.org/wiki/Jawa_Timur","Airports in Jawa Timur"
+304105,"ID-JB","JB","Jawa Barat (West Java)","AS","ID","https://en.wikipedia.org/wiki/West_Java","Airports in Jawa Barat"
+304106,"ID-JI","JI","Jawa Timur (East Java)","AS","ID","https://en.wikipedia.org/wiki/Jawa_Timur","Airports in Jawa Timur"
 304107,"ID-JK","JK","Jakarta Raya","AS","ID","https://en.wikipedia.org/wiki/Jakarta_Raya","Airports in Jakarta Raya"
-304108,"ID-JT","JT","Jawa Tengah","AS","ID","https://en.wikipedia.org/wiki/Jawa_Tengah","Airports in Jawa Tengah"
-304109,"ID-KB","KB","Kalimantan Barat","AS","ID","https://en.wikipedia.org/wiki/Kalimantan_Barat","Airports in Kalimantan Barat"
-306379,"ID-KI","KI","East Kalimantan","AS","ID","https://en.wikipedia.org/wiki/East_Kalimantan","Airports in East Kalimantan"
+304108,"ID-JT","JT","Jawa Tengah (Central Java)","AS","ID","https://en.wikipedia.org/wiki/Jawa_Tengah","Airports in Jawa Tengah"
+304109,"ID-KB","KB","Kalimantan Barat (West Kalimantan)","AS","ID","https://en.wikipedia.org/wiki/Kalimantan_Barat","Airports in Kalimantan Barat"
+306379,"ID-KI","KI","Kalimantan Timur (East Kalimantan)","AS","ID","https://en.wikipedia.org/wiki/East_Kalimantan","Airports in East Kalimantan"
 304110,"ID-KR","KR","Kepulauan Riau","AS","ID","https://en.wikipedia.org/wiki/Kepulauan_Riau","Airports in Kepulauan Riau"
-304111,"ID-KS","KS","Kalimantan Selatan","AS","ID","https://en.wikipedia.org/wiki/Kalimantan_Selatan","Airports in Kalimantan Selatan"
-304112,"ID-KT","KT","Central Kalimantan","AS","ID","https://en.wikipedia.org/wiki/Central_Kalimantan","Kalimantan Tengah"
-316679,"ID-KU","KU","North Kalimantan","AS","ID","https://en.wikipedia.org/wiki/North_Kalimantan","Kalimantan Utara"
+304111,"ID-KS","KS","Kalimantan Selatan (South Kalimantan)","AS","ID","https://en.wikipedia.org/wiki/Kalimantan_Selatan","Airports in Kalimantan Selatan"
+304112,"ID-KT","KT","Kalimantan Tengah (Central Kalimantan)","AS","ID","https://en.wikipedia.org/wiki/Central_Kalimantan","Kalimantan Tengah"
+316679,"ID-KU","KU","Kalimantan Utara (North Kalimantan)","AS","ID","https://en.wikipedia.org/wiki/North_Kalimantan","Kalimantan Utara"
 304113,"ID-LA","LA","Lampung","AS","ID","https://en.wikipedia.org/wiki/Lampung","Airports in Lampung"
 304114,"ID-MA","MA","Maluku","AS","ID","https://en.wikipedia.org/wiki/Maluku","Airports in Maluku"
-304115,"ID-MU","MU","Maluku Utara","AS","ID","https://en.wikipedia.org/wiki/Maluku_Utara","Airports in Maluku Utara"
-304116,"ID-NB","NB","Nusa Tenggara Barat","AS","ID","https://en.wikipedia.org/wiki/Nusa_Tenggara_Barat","Airports in Nusa Tenggara Barat"
-304117,"ID-NT","NT","Nusa Tenggara Timur","AS","ID","https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur","Airports in Nusa Tenggara Timur"
+304115,"ID-MU","MU","Maluku Utara (North Maluku)","AS","ID","https://en.wikipedia.org/wiki/Maluku_Utara","Airports in Maluku Utara"
+304116,"ID-NB","NB","Nusa Tenggara Barat (West Nusa Tenggara)","AS","ID","https://en.wikipedia.org/wiki/Nusa_Tenggara_Barat","Airports in Nusa Tenggara Barat"
+304117,"ID-NT","NT","Nusa Tenggara Timur (East Nusa Tenggara)","AS","ID","https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur","Airports in Nusa Tenggara Timur"
 304118,"ID-PA","PA","Papua","AS","ID","https://en.wikipedia.org/wiki/Papua","Airports in Papua"
-304103,"ID-PB","PB","West Papua","AS","ID","https://en.wikipedia.org/wiki/West_Papua_(region)","Irian Jaya"
-430275,"ID-PP","PP","Papua Pegunungan","AS","ID","https://en.wikipedia.org/wiki/Highland_Papua",
-430277,"ID-PS","PS","Papua Selatan","AS","ID","https://en.wikipedia.org/wiki/South_Papua",
-430276,"ID-PT","PT","Papua Tengah","AS","ID","https://en.wikipedia.org/wiki/Central_Papua",
+304103,"ID-PB","PB","Papua Barat (West Papua)","AS","ID","https://en.wikipedia.org/wiki/West_Papua_(region)","Irian Jaya"
+430275,"ID-PP","PP","Papua Pegunungan (Highland Papua)","AS","ID","https://en.wikipedia.org/wiki/Highland_Papua",
+430277,"ID-PS","PS","Papua Selatan (South Papua)","AS","ID","https://en.wikipedia.org/wiki/South_Papua",
+430276,"ID-PT","PT","Papua Tengah (Central Papua)","AS","ID","https://en.wikipedia.org/wiki/Central_Papua",
 304119,"ID-RI","RI","Riau","AS","ID","https://en.wikipedia.org/wiki/Riau","Airports in Riau"
-304120,"ID-SA","SA","Sulawesi Utara","AS","ID","https://en.wikipedia.org/wiki/Sulawesi_Utara","Airports in Sulawesi Utara"
-304121,"ID-SB","SB","Sumatra Barat","AS","ID","https://en.wikipedia.org/wiki/Sumatra_Barat","Airports in Sumatra Barat"
-304122,"ID-SG","SG","Sulawesi Tenggara","AS","ID","https://en.wikipedia.org/wiki/Sulawesi_Tenggara","Airports in Sulawesi Tenggara"
-304123,"ID-SN","SN","Sulawesi Selatan","AS","ID","https://en.wikipedia.org/wiki/Sulawesi_Selatan","Airports in Sulawesi Selatan"
-304124,"ID-SS","SS","Sumatra Selatan","AS","ID","https://en.wikipedia.org/wiki/Sumatra_Selatan","Airports in Sumatra Selatan"
-304125,"ID-ST","ST","Sulawesi Tengah","AS","ID","https://en.wikipedia.org/wiki/Sulawesi_Tengah","Airports in Sulawesi Tengah"
-304126,"ID-SU","SU","Sumatera Utara","AS","ID","https://en.wikipedia.org/wiki/Sumatera_Utara","Airports in Sumatera Utara"
+304120,"ID-SA","SA","Sulawesi Utara (North Sulawesi)","AS","ID","https://en.wikipedia.org/wiki/Sulawesi_Utara","Airports in Sulawesi Utara"
+304121,"ID-SB","SB","Sumatra Barat (West Sumatra)","AS","ID","https://en.wikipedia.org/wiki/Sumatra_Barat","Airports in Sumatra Barat"
+304122,"ID-SG","SG","Sulawesi Tenggara (Southeast Sulawesi)","AS","ID","https://en.wikipedia.org/wiki/Sulawesi_Tenggara","Airports in Sulawesi Tenggara"
+304123,"ID-SN","SN","Sulawesi Selatan (South Sulawesi)","AS","ID","https://en.wikipedia.org/wiki/Sulawesi_Selatan","Airports in Sulawesi Selatan"
+304124,"ID-SS","SS","Sumatra Selatan (South Sumatra)","AS","ID","https://en.wikipedia.org/wiki/Sumatra_Selatan","Airports in Sumatra Selatan"
+304125,"ID-ST","ST","Sulawesi Tengah (Central Sulawesi)","AS","ID","https://en.wikipedia.org/wiki/Sulawesi_Tengah","Airports in Sulawesi Tengah"
+304126,"ID-SU","SU","Sumatra Utara (North Sumatra)","AS","ID","https://en.wikipedia.org/wiki/North_Sumatra","Airports in Sumatra Utara"
 304127,"ID-U-A","U-A","(unassigned)","AS","ID",,"Airports in (unassigned)"
 304128,"ID-YO","YO","Yogyakarta","AS","ID","https://en.wikipedia.org/wiki/Yogyakarta","Airports in Yogyakarta"
 304129,"IE-C","C","County Cork","EU","IE","https://en.wikipedia.org/wiki/Cork","Airports in County Cork"
@@ -1701,7 +1701,7 @@
 304434,"KZ-PAV","PAV","Pavlodar Region","AS","KZ","https://en.wikipedia.org/wiki/Pavlodar_Region","Павлодар облысы"
 304435,"KZ-SEV","SEV","North Kazakhstan Region","AS","KZ","https://en.wikipedia.org/wiki/North_Kazakhstan_Region","Солтүстік Қазақстан облысы"
 304436,"KZ-U-A","U-A","(unassigned)","AS","KZ",,"Airports in (unassigned)"
-430281,"KZ-ULY","ULY","Ulytau","AS","KZ","https://en.wikipedia.org/wiki/Ulytau_Region",
+430281,"KZ-ULY","ULY","Ulytau Region","AS","KZ","https://en.wikipedia.org/wiki/Ulytau_Region",
 304437,"KZ-VOS","VOS","East Kazakhstan Region","AS","KZ","https://en.wikipedia.org/wiki/East_Kazakhstan_Region","Шығыс Қазақстан облысы"
 304438,"KZ-YUZ","YUZ","South Kazakhstan Region","AS","KZ","https://en.wikipedia.org/wiki/South_Kazakhstan_Region","Оңтүстік Қазақстан облысы"
 304439,"KZ-ZAP","ZAP","West Kazakhstan Region","AS","KZ","https://en.wikipedia.org/wiki/West_Kazakhstan_Region","Батыс Қазақстан облысы"
@@ -2578,9 +2578,9 @@
 305098,"PH-MAG","MAG","Maguindanao Province","AS","PH","https://en.wikipedia.org/wiki/Maguindanao_Province","Airports in Maguindanao Province"
 305099,"PH-MAS","MAS","Masbate Province","AS","PH","https://en.wikipedia.org/wiki/Masbate_Province","Airports in Masbate Province"
 305100,"PH-MDC","MDC","Occidental Mindoro Province","AS","PH","https://en.wikipedia.org/wiki/Occidental_Mindoro","Airports in Occidental Mindoro Province"
-430279,"PH-MDN","MDN","Magundanao del Norte Province","AS","PH","https://en.wikipedia.org/wiki/Maguindanao_del_Norte",
+430279,"PH-MDN","MDN","Maguindanao del Norte Province","AS","PH","https://en.wikipedia.org/wiki/Maguindanao_del_Norte",
 305101,"PH-MDR","MDR","Oriental Mindoro Province","AS","PH","https://en.wikipedia.org/wiki/Oriental_Mindoro","Airports in Oriental Mindoro Province"
-430280,"PH-MDS","MDS","Magundanao del Sur Province","AS","PH","https://en.wikipedia.org/wiki/Maguindanao_del_Sur",
+430280,"PH-MDS","MDS","Maguindanao del Sur Province","AS","PH","https://en.wikipedia.org/wiki/Maguindanao_del_Sur",
 305102,"PH-MOU","MOU","Mountain Province","AS","PH","https://en.wikipedia.org/wiki/Mountain_Province","Airports in Mountain Province"
 305103,"PH-MSC","MSC","Misamis Occidental Province","AS","PH","https://en.wikipedia.org/wiki/Misamis_Occidental_Province","Airports in Misamis Occidental Province"
 305104,"PH-MSR","MSR","Misamis Oriental Province","AS","PH","https://en.wikipedia.org/wiki/Misamis_Oriental_Province","Airports in Misamis Oriental Province"
