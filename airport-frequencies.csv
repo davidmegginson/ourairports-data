@@ -3236,11 +3236,13 @@
 71936,29181,"EGSD","TWR","Gt.Yarmouth North Denes TWR",123.4
 58359,2474,"EGSF","A/G","RDO",129.725
 71987,29182,"EGSG","A/G","Stapleford A/G",122.8
-58356,2475,"EGSH","APP","APP",119.35
-58357,2475,"EGSH","ATIS","ATIS",128.625
-307883,2475,"EGSH","RDR","Director",128.325
-58358,2475,"EGSH","TWR","TWR",124.25
-71980,29183,"EGSJ","A/G","Seething A/G",122.6
+58356,2475,"EGSH","APP","Norwich Approach",119.355
+58357,2475,"EGSH","ATIS","Norwich Information",128.63
+505080,2475,"EGSH","DIR","Norwich Director",128.33
+505088,2475,"EGSH","HAN","Norwich Handling",131.855
+307883,2475,"EGSH","RDR","Norwich Radar / LARS",119.355
+58358,2475,"EGSH","TWR","Norwich Tower",124.255
+71980,29183,"EGSJ","A/G","Seething Radio",118.435
 71903,29185,"EGSL","A/G","Andrewsfield Radio",130.555
 71904,29185,"EGSL","AFIS","Andrewsfield AFIS",130.555
 71906,29186,"EGSM","A/G","Beccles A/G",120.375
@@ -3261,7 +3263,7 @@
 58390,2476,"EGSS","TWR","TWR",123.8
 71924,29192,"EGST","A/G","Elmsett A/G",130.9
 58144,2477,"EGSU","INFO","Duxford Information",122.075
-71964,29193,"EGSV","A/G","Buckenham Radio",124.4
+71964,29193,"EGSV","A/G","Buckenham Radio",124.405
 58185,2478,"EGSX","A/G","RDO",123.525
 58106,2479,"EGSY","A/G","INFO",128.525
 307870,2479,"EGSY","ATIS",,121.7
@@ -4838,6 +4840,7 @@
 314368,314367,"GB-0157","A/G","Chiltern Park Radio",134.025
 327815,315672,"GB-0177","A/G","new! 8,33 !",123.205
 315789,315788,"GB-0180","Safetycom","Strathaven Traffic",135.475
+505085,316038,"GB-0198","A/G","Priory Micro",129.825
 316102,316100,"GB-0201","Safetycom","Glenswinton Traffic",135.475
 316249,316248,"GB-0202","Safetycom",,135.475
 316271,316270,"GB-0203","Info",,129.825
@@ -4853,6 +4856,7 @@
 319945,319943,"GB-0365","SafetyCom",,135.475
 320647,320072,"GB-0368","Info","Sandy Radio",129.825
 320076,320075,"GB-0369","SafetyCom","Darley Moor Traffic",135.475
+505081,320611,"GB-0420","A/G","Tibenham Radio",129.98
 331646,320793,"GB-0440","Info","Tarn Farm Traffic",129.825
 331534,321059,"GB-0464","SafetyCom","Hunsdon Traffic",135.48
 329261,329259,"GB-0577","SafetyCom","Kirriemuir Traffic",132.475
