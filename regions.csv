@@ -1796,10 +1796,18 @@
 304502,"LT-U-A","U-A","(unassigned)","EU","LT",,"Airports in (unassigned)"
 304503,"LT-UT","UT","Utena County","EU","LT","https://en.wikipedia.org/wiki/Utena_County","Airports in Utena County"
 304504,"LT-VL","VL","Vilnius County","EU","LT","https://en.wikipedia.org/wiki/Vilnius_County","Vilniaus"
+513836,"LU-C","C","Clervaux","EU","LU","https://en.wikipedia.org/wiki/Canton_of_Clervaux",
 304505,"LU-D","D","Diekirch","EU","LU","https://en.wikipedia.org/wiki/Diekirch","Airports in Diekirch"
+513834,"LU-E","E","Esch-sur-Alzette","EU","LU","https://en.wikipedia.org/wiki/Canton_of_Esch-sur-Alzette","Esch-Uelzecht"
 304506,"LU-G","G","Grevenmacher","EU","LU","https://en.wikipedia.org/wiki/Grevenmacher","Airports in Grevenmacher"
+513835,"LU-I","I","Echternach","EU","LU","https://en.wikipedia.org/wiki/Canton_of_Echternach",
 306322,"LU-L","L","Luxembourg","EU","LU","https://en.wikipedia.org/wiki/Luxembourg","Airports in Luxembourg"
+513837,"LU-M","M","Mersch","EU","LU",,
+513838,"LU-RD","RD","Redange","EU","LU",,
+513839,"LU-RM","RM","Remich","EU","LU",,
 304507,"LU-U-A","U-A","(unassigned)","EU","LU",,"Airports in (unassigned)"
+513840,"LU-V","V","Vianden","EU","LU",,
+513841,"LU-W","W","Wiltz","EU","LU",,
 304508,"LV-002",002,"Aizkraukle Municipality","EU","LV","https://en.wikipedia.org/wiki/Aizkraukle_Municipality","Airports in Aizkraukle Municipality"
 304509,"LV-007",007,"Alūksne Municipality","EU","LV","https://en.wikipedia.org/wiki/Al%C5%ABksne_Municipality","Airports in Alūksne Municipality"
 353734,"LV-011",011,"Ādaži Municipality","EU","LV","https://en.wikipedia.org/wiki/%C4%80da%C5%BEi_Municipality","Airports in Ādaži Municipality"
