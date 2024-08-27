@@ -2424,6 +2424,9 @@
 304964,"NO-21",21,"Svalbard","EU","NO","https://en.wikipedia.org/wiki/Svalbard","Airports in Svalbard"
 304965,"NO-22",22,"Jan Mayen","EU","NO","https://en.wikipedia.org/wiki/Jan_Mayen","Airports in Jan Mayen"
 349851,"NO-30",30,"Viken","EU","NO","https://en.wikipedia.org/wiki/Viken_(county)","Airports in Viken"
+543798,"NO-31",31,"Østfold","EU","NO","https://en.wikipedia.org/wiki/%C3%98stfold",
+543799,"NO-32",32,"Akershus","EU","NO","https://en.wikipedia.org/wiki/Akershus",
+543800,"NO-33",33,"Buskerud","EU","NO","https://en.wikipedia.org/wiki/Buskerud",
 349852,"NO-34",34,"Innlandet","EU","NO","https://en.wikipedia.org/wiki/Innlandet","Airports in Innlandet"
 349853,"NO-38",38,"Vestfold og Telemark","EU","NO","https://en.wikipedia.org/wiki/Vestfold_og_Telemark","Airports in Vestfold og Telemark"
 525412,"NO-39",39,"Vestfold","EU","NO","https://en.wikipedia.org/wiki/Vestfold",
@@ -2432,6 +2435,8 @@
 349855,"NO-46",46,"Vestland","EU","NO","https://en.wikipedia.org/wiki/Vestland","Airports in Vestland"
 349856,"NO-50",50,"Trøndelag","EU","NO","https://en.wikipedia.org/wiki/Tr%C3%B8ndelag","Airports in Trøndelag"
 349858,"NO-54",54,"Troms og Finnmark","EU","NO","https://en.wikipedia.org/wiki/Troms_og_Finnmark","Airports in Troms og Finnmark"
+543801,"NO-55",55,"Troms","EU","NO","https://en.wikipedia.org/wiki/Troms",
+543802,"NO-56",56,"Finnmark","EU","NO","https://en.wikipedia.org/wiki/Finnmark",
 304966,"NO-U-A","U-A","(unassigned)","EU","NO",,"Airports in (unassigned)"
 349859,"NO-XX","XX","*Offshore Oil Platforms","EU","NO",,"Airports in *Offshore Oil Platforms"
 430330,"NP-P1","P1","Koshi Province","AS","NP","https://en.wikipedia.org/wiki/Koshi_Province","Province No. 1"
