@@ -2540,11 +2540,15 @@
 559778,319948,"EDHA","INFO","Ahrenlohe Radio",560
 568144,28581,"EDHB","AFIS","Langen Information",125.1
 568145,28581,"EDHB","INFO","Grube Radio",132.015
+569650,28640,"EDHC","AFIS","Langen Information",132.65
+569651,28640,"EDHC","INFO","Luechow Radio",125.365
 566795,308604,"EDHD","AFIS","Langen Information",119.825
 566796,308604,"EDHD","INFO","Eichsfeld Radio",124.03
 312696,28742,"EDHE","TWR","Uetersen Info",122.7
 568211,29073,"EDHF","AFIS","Langen Information",125.1
 568212,29073,"EDHF","INFO","Itzehoe Radio",127.11
+569653,29074,"EDHG","AFIS","Lueneburg Radio",122.18
+569652,29074,"EDHG","AFIS","Langen Information",125.1
 53067,2234,"EDHI","A/D","BREMEN RADAR",124.225
 53068,2234,"EDHI","AFIS","Langen Information",125.1
 53069,2234,"EDHI","ATIS","Finkenwerder ATIS",135.965
@@ -2742,6 +2746,8 @@
 568760,29080,"EDOH","AFIS","Langen Information",125.8
 563954,28525,"EDOI","ATIS","Langen Information",132.65
 324813,28525,"EDOI","INFO","Bienenfarm Radio",134.99
+569654,28641,"EDOJ","AFIS","Langen Information",125.8
+569655,28641,"EDOJ","INFO","Luesse Radio",128.755
 511830,28710,"EDOK","A/G",,118.33
 568383,29081,"EDOM","AFIS","Langen Information",119.825
 568384,29081,"EDOM","INFO","Muehlingen Radio",136.41
