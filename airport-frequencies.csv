@@ -2239,6 +2239,8 @@
 52804,2187,"EDAH","AFIS","Langen Information",132.65
 52805,2187,"EDAH","INFO","Heringsdorf Radio",132.83
 52806,2187,"EDAH","TWR","Heringsdorf Tower / Turm",132.83
+574862,28728,"EDAI","AFIS","Langen Information",132.65
+574863,28728,"EDAI","INFO","Segeletz Radio",126.01
 567044,28569,"EDAJ","AFIS","Langen Information",125.8
 75262,28569,"EDAJ","INFO","Gera Radio",118.08
 52999,2188,"EDAK","AFIS","Langen Information",125.8
@@ -2271,6 +2273,7 @@
 52812,2194,"EDAY","AFIS","BERLIN INFO",132.65
 350198,2194,"EDAY","INFO","Strausberg Information",118.735
 53251,2195,"EDAZ","AFIS","SCHÖNHAGEN INFO",131.155
+574839,2195,"EDAZ","ATIS","Schoenhagen ATIS",119.49
 53250,2195,"EDAZ","FIS","LANGEN INFORMATION",132.65
 511823,28495,"EDBA","AFIS","Langen Information",119.825
 559949,28495,"EDBA","INFO","Arnstadt Radio",131.26
@@ -2317,6 +2320,10 @@
 53082,2202,"EDBW","INFO","INFO",122.6
 567243,28574,"EDBX","AFIS","Langen Information",125.8
 567244,28574,"EDBX","AFIS","Goerlitz Radio",133.585
+574833,29064,"EDBY","AFIS","Langen Information",132.65
+574834,29064,"EDBY","INFO","Scholdow Radio",136.015
+574849,29065,"EDBZ","AFIS","Langen Information",125.8
+574850,29065,"EDBZ","INFO","Schwarzheide Radio",132.81
 53249,2203,"EDCA","AFIS","Langen Information",132.65
 53248,2203,"EDCA","INFO","Anklam Radio",122.655
 310110,28519,"EDCB","AFIS","Langen Information",119.825
@@ -2347,6 +2354,8 @@
 562243,28503,"EDCQ","Info","Aschersleben Radio",127.56
 573293,28703,"EDCR","AFIS","Langen Information",132.65
 573294,28703,"EDCR","INFO","Rerik Radio",126.505
+574816,28712,"EDCS","AFIS","Langen Information",132.65
+574817,28712,"EDCS","INFO","Saarmund Radio",123.655
 75269,29069,"EDCT","Info","Taucha INFO",122.4
 573188,28687,"EDCV","AFIS","Langen Information",132.65
 573189,28687,"EDCV","INFO","Pasewalk Radio",125.86
@@ -2453,10 +2462,11 @@
 52816,2220,"EDDP","GND","GND",121.8
 52817,2220,"EDDP","INFO","MUNCHEN INFO",125.8
 52818,2220,"EDDP","TWR","TWR",121.1
-52976,2221,"EDDR","AFIS","LANGEN INFO",123.525
-52977,2221,"EDDR","ATIS","ATIS",125.3
+52976,2221,"EDDR","AFIS","Langen Information",123.525
+52977,2221,"EDDR","ATIS","Saarbruekcen ATIS",125.48
+574813,2221,"EDDR","GND","Saarbruekcen Ground / Rollkontrolle",118.555
 52978,2221,"EDDR","RDR","LANGEN RADAR",129.675
-52979,2221,"EDDR","TWR","TWR",118.35
+52979,2221,"EDDR","TWR","Saarbruekcen Tower / Turm",118.355
 352837,2222,"EDDS","APP","Langen Radar Approach",119.2
 53025,2222,"EDDS","ATIS","ATIS",126.13
 53026,2222,"EDDS","CLD","CLNC DEL",121.915
@@ -2550,6 +2560,8 @@
 52749,2229,"EDFQ","INFO","Allendorf Information",135.165
 302414,28708,"EDFR","AFIS","Langen Information",119.15
 302415,28708,"EDFR","INFO","Rothenburg Radio",128.36
+574854,28724,"EDFS","AFIS","Langen Information",119.15
+574855,28724,"EDFS","INFO","Schweinfurt Radio",119.98
 569361,28635,"EDFT","AFIS","Langen Information",119.15
 328901,28635,"EDFT","INFO","Lauterbach Radio",122.18
 570833,28642,"EDFU","AFIS","Langen Information",119.15
@@ -2582,6 +2594,8 @@
 570856,28649,"EDGM","INFO","Mosbach Radio",128.34
 572241,28681,"EDGP","AFIS","Langen Information",123.525
 572243,28681,"EDGP","INFO","Oppenheim Radio",130.64
+574825,28715,"EDGQ","AFIS","Langen Information",129.875
+574827,28715,"EDGQ","INFO","Schameder Radio",133.585
 567054,28573,"EDGR","AFIS","Langen Information",119.15
 567055,28573,"EDGR","INFO","Reiskirchen Radio",127.86
 53055,2233,"EDGS","AFIS","INFO",120.375
@@ -2660,7 +2674,8 @@
 564196,28540,"EDKO","Info","Brilon Radio",129.38
 573212,28696,"EDKP","AFIS","Langen Information",129.875
 573213,28696,"EDKP","INFO","Plettenberg Radio",127.11
-354097,28717,"EDKR","INFO","Schmallenberg Info",127.09
+574830,28717,"EDKR","AFIS","Langen Information",129.875
+354097,28717,"EDKR","INFO","Schmallenberg Radio",127.09
 562244,28504,"EDKU","AFIS","Langen Information",129.875
 299162,28504,"EDKU","INFO","ATTENDORN RADIO",121.405
 53002,2238,"EDKV","AFIS","Langen Information",123.525
@@ -2807,6 +2822,8 @@
 563972,28533,"EDNQ","Info","Bopfingen Radio",123.19
 573284,28699,"EDNR","AFIS","Langen Information",120.65
 573285,28699,"EDNR","INFO","Regensburg Radio",120.43
+574842,28721,"EDNS","AFIS","Langen Information",126.95
+574843,28721,"EDNS","INFO","Schwabmuenden Radio",124.515
 349406,28738,"EDNU","Thannhausen Info",,118.18
 298334,29078,"EDNX","AFIS","Langen Information",126.95
 572230,29078,"EDNX","ATIS","Muenchen ATIS",123.13
@@ -2857,6 +2874,8 @@
 52989,2259,"EDOV","INFO","INFO",122.4
 573290,28702,"EDOX","AFIS","Langen Information",125.8
 573291,28702,"EDOX","INFO","Renneritz Radio",128.86
+574837,28719,"EDOZ","AFIS","Langen Information",119.825
+574838,28719,"EDOZ","INFO","Schoenebeck Radio",125.85
 52993,2260,"EDPA","AFIS","LANGEN INFO",128.95
 52994,2260,"EDPA","INFO","Aalen Radio",122.405
 562251,28508,"EDPB","AFIS","Langen Information",128.95
@@ -2867,17 +2886,25 @@
 566731,28551,"EDPD","INFO","Dingolfing Radio",125.615
 566798,28558,"EDPE","AFIS","Langen Information",120.65
 566799,28558,"EDPE","INFO","Eichstaett Radio",123.005
+574847,28543,"EDPF","AFIS","Langen Information",120.65
+574848,28543,"EDPF","INFO","Schwandorf Radio",121.205
 568139,28579,"EDPG","AFIS","Langen Information",120.65
 568140,28579,"EDPG","FIS","Straubing Info",127.155
 568141,28579,"EDPG","INFO","Griesau Radio",125.74
+574840,28720,"EDPH","AFIS","Langen Information",120.65
+574841,28720,"EDPH","INFO","Schwabach Radio",135.43
 570851,314005,"EDPI","AFIS","Langen Information",120.65
 570852,314005,"EDPI","INFO","Moosburg Radio",125.815
 568752,28629,"EDPJ","AFIS","Langen Information",128.95
 527292,28629,"EDPJ","INFO","Laichingen Radio",127.705
+574835,29084,"EDPK","AFIS","Langen Information",126.95
+574836,29084,"EDPK","INFO","Schoenebrg Radio",132.99
 566743,28555,"EDPM","AFIS","Langen Information",128.95
 508543,28555,"EDPM","INFO","Donzdorf Radio",118.205
 571830,28661,"EDPO","AFIS","Langen Information",120.65
 571831,28661,"EDPO","INFO","Neumarkt Radio",122.33
+574831,28718,"EDPQ","AFIS","Langen Information",120.65
+574832,28718,"EDPQ","INFO","Schidgaden Radio",134.54
 567046,28570,"EDPT","AFIS","Langen Information",128.95
 567047,28570,"EDPT","INFO","Gerstetten Radio",120.815
 562282,29085,"EDPU","AFIS","Langen Information",128.95
@@ -2950,6 +2977,8 @@
 568190,28605,"EDRH","INFO","Hoppstaedten Radio",130.655
 569372,28639,"EDRI","AFIS","Langen Information",128.95
 316336,28639,"EDRI","Radio","Linkenheim Radio",124.01
+574814,28711,"EDRJ","AFIS","Langen Information",123.525
+574815,28711,"EDRJ","INFO","Saarlouis Radio",121.21
 52759,2266,"EDRK","AFIS","LANGEN INFORMATION",123.525
 52760,2266,"EDRK","Radio","KOBLENZ Radio",122.655
 568750,28628,"EDRL","AFIS","Langen Information",123.525
@@ -2957,6 +2986,8 @@
 299623,28739,"EDRM","Info",,123
 571817,28654,"EDRN","AFIS","Langen Information",123.525
 571819,28654,"EDRN","INFO","Nannhausen Radio",131.285
+574851,28723,"EDRO","AFIS","Langen Information",123.525
+574853,28723,"EDRO","INFO","Schweighofen Radio",123.005
 573207,28694,"EDRP","AFIS","Langen Information",123.525
 573208,28694,"EDRP","FIS","Zweibruekcen Information",123.83
 573209,28694,"EDRP","INFO","Pirmasens Radio",122.355
@@ -3031,8 +3062,15 @@
 573191,29090,"EDTQ","INFO","Pattonville Radio",124.61
 568171,28593,"EDTR","AFIS","Zürich Information",124.7
 568172,28593,"EDTR","INFO","Rheinfelden Radio",134.535
-53271,2278,"EDTY","AFIS","INFO",129.225
-53272,2278,"EDTY","INFO","LANGEN INFO",128.95
+574856,28725,"EDTS","AFIS","Zürich Information",124.7
+574857,28725,"EDTS","FIS","Donaueschingen Information",126.69
+574858,28725,"EDTS","INFO","Schwenningen Radio",127.535
+574822,28714,"EDTU","AFIS","Zürich Information",124.7
+574823,28714,"EDTU","FIS","Mengen Information",135.18
+574824,28714,"EDTU","INFO","Saulgau Radio",123.605
+53271,2278,"EDTY","AFIS","Schwaebisch Hall Information",129.23
+574846,2278,"EDTY","ATIS","Schwaebisch Hall ATIS",133.88
+53272,2278,"EDTY","INFO","Langen Information",128.95
 53273,2278,"EDTY","RDR","LANGEN RADAR",125.05
 568392,28623,"EDTZ","AFIS","Zürich Information",124.7
 568393,28623,"EDTZ","INFO","Konstanz Radio",123.355
@@ -3049,6 +3087,8 @@
 52803,2282,"EDUT","INFO","INFO",123.475
 53003,2283,"EDUW","AFIS","BERLIN INFO",132.65
 53004,2283,"EDUW","INFO","INFO",130.125
+574859,29093,"EDUY","AFIS","Langen Information",125.8
+574860,29093,"EDUY","INFO","Sedlitz Radio",122.33
 562257,28511,"EDVA","AFIS","Langen Information",119.825
 562258,28511,"EDVA","Info","Gandersheim Radio",123.005
 326505,28542,"EDVC","AFIS","Langen Information",119.825
@@ -3065,6 +3105,8 @@
 568184,28600,"EDVH","INFO","Hodenhagen Radio",119.005
 568187,28602,"EDVI","AFIS","Langen Information",119.825
 314923,28602,"EDVI","INFO","Hoexter Radio",130.28
+574820,29095,"EDVJ","AFIS","Langen Information",119.825
+574821,29095,"EDVJ","INFO","Schaeferstuhl Radio",132.99
 52990,2285,"EDVK","AFIS","LANGEN INFORMATION",119.825
 331397,2285,"EDVK","ATIS","KASSEL ATIS",129.205
 331398,2285,"EDVK","GND","KASSEL GROUND",121.905
@@ -3078,6 +3120,8 @@
 571865,28674,"EDVN","INFO","Northeim Radio",118.705
 573296,28705,"EDVR","AFIS","Langen Information",119.825
 573297,28705,"EDVR","INFO","Rinteln Radio",129.425
+574818,28713,"EDVS","AFIS","Langen Information",119.825
+574819,28713,"EDVS","INFO","Salzgitter Radio",122.855
 568209,311065,"EDVT","AFIS","Langen Information",119.825
 568210,311065,"EDVT","INFO","Ithwiesen Radio",130.655
 314142,28741,"EDVU","TWR","Uelzen INFO",130.9
@@ -3127,6 +3171,8 @@
 559776,28491,"EDXA","INFO","Achmer Radio",123.055
 568167,28590,"EDXB","AFIS","Langen Information",125.1
 75436,28590,"EDXB","INFO","Buesum Radio",125.86
+574828,28716,"EDXC","AFIS","Langen Information",125.1
+574829,28716,"EDXC","TWR","Schleswig Tower / Turm",122.1
 563967,28531,"EDXD","AFIS","Langen Information",129.875
 563968,28531,"EDXD","Info","Boehmte Radio",118.985
 573295,28704,"EDXE","AFIS","Langen Information",129.875
@@ -3158,7 +3204,8 @@
 574309,29097,"EDXQ","INFO","Wuemme Radio",136.015
 53085,2295,"EDXR","AFIS","Langen Information",125.1
 53086,2295,"EDXR","INFO","Rendsburg Radio",123.655
-316324,28727,"EDXS","Info","Seedorf Info",119.65
+574861,28727,"EDXS","AFIS","Langen Information",125.1
+316324,28727,"EDXS","Info","Seedorf Radio",119.665
 568195,28607,"EDXU","AFIS","Langen Information",125.1
 568196,28607,"EDXU","INFO","Huettenbusch Radio",120.85
 52756,2296,"EDXW","INFO","BREMEN INFO",125.1
