@@ -2295,10 +2295,9 @@
 304862,"NA-OT","OT","Oshikoto Region","AF","NA","https://en.wikipedia.org/wiki/Oshikoto_Region","Airports in Oshikoto Region"
 304863,"NA-OW","OW","Ohangwena Region","AF","NA","https://en.wikipedia.org/wiki/Ohangwena_Region","Airports in Ohangwena Region"
 304864,"NA-U-A","U-A","(unassigned)","AF","NA",,"Airports in (unassigned)"
-509499,"NC-01",1,"Province des îles Loyauté","OC","NC","https://en.wikipedia.org/wiki/Loyalty_Islands_Province",
-509497,"NC-02",2,"Province Nord","OC","NC","https://en.wikipedia.org/wiki/North_Province,_New_Caledonia",
+509499,"NC-01",01,"Province des îles Loyauté","OC","NC","https://en.wikipedia.org/wiki/Loyalty_Islands_Province",
+509497,"NC-02",02,"Province Nord","OC","NC","https://en.wikipedia.org/wiki/North_Province,_New_Caledonia",
 509498,"NC-03",3,"Province Sud","OC","NC","https://en.wikipedia.org/wiki/North_Province,_New_Caledonia",
-304865,"NC-U-A","U-A","(unassigned)","OC","NC",,"Airports in (unassigned)"
 304866,"NE-1",1,"Agadez Region","AF","NE","https://en.wikipedia.org/wiki/Agadez_Region","Airports in Agadez Region"
 304867,"NE-2",2,"Diffa Region","AF","NE","https://en.wikipedia.org/wiki/Diffa_Region","Airports in Diffa Region"
 304868,"NE-3",3,"Dosso Region","AF","NE","https://en.wikipedia.org/wiki/Dosso_Region","Airports in Dosso Region"
