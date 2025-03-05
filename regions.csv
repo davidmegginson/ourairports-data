@@ -2531,6 +2531,7 @@
 305060,"PH-ANT","ANT","Antique Province","AS","PH","https://en.wikipedia.org/wiki/Antique_Province","Airports in Antique Province"
 305061,"PH-APA","APA","Apayao Province","AS","PH","https://en.wikipedia.org/wiki/Apayao_Province","Airports in Apayao Province"
 305062,"PH-AUR","AUR","Aurora Province","AS","PH","https://en.wikipedia.org/wiki/Aurora_Province","Airports in Aurora Province"
+594123,"PH-BAG","BAG","Baguio City","AS","PH","https://en.wikipedia.org/wiki/Baguio",
 305063,"PH-BAN","BAN","Bataan Province","AS","PH","https://en.wikipedia.org/wiki/Bataan_Province","Airports in Bataan Province"
 305064,"PH-BAS","BAS","Basilan Province","AS","PH","https://en.wikipedia.org/wiki/Basilan_Province","Airports in Basilan Province"
 305065,"PH-BEN","BEN","Benguet Province","AS","PH","https://en.wikipedia.org/wiki/Benguet_Province","Airports in Benguet Province"
@@ -2555,7 +2556,8 @@
 305082,"PH-DAS","DAS","Davao del Sur Province","AS","PH","https://en.wikipedia.org/wiki/Davao_del_Sur_Province","Airports in Davao del Sur Province"
 305083,"PH-DAV","DAV","Davao del Norte Province","AS","PH","https://en.wikipedia.org/wiki/Davao_del_Norte","Airports in Davao del Norte Province"
 336923,"PH-DIN","DIN","Dinagat Islands Province","AS","PH","https://en.wikipedia.org/wiki/Dinagat_Islands","Airports in Dinagat Islands Province"
-336922,"PH-DVO","DVO","Davao Occidental Province","AS","PH","https://en.wikipedia.org/wiki/Davao_Occidental","Airports in Davao Occidental Province"
+336922,"PH-DOC","DOC","Davao Occidental Province","AS","PH","https://en.wikipedia.org/wiki/Davao_Occidental","Airports in Davao Occidental Province"
+594125,"PH-DVO","DVO","Davao City","AS","PH","https://en.wikipedia.org/wiki/Davao_City",
 305084,"PH-EAS","EAS","Eastern Samar Province","AS","PH","https://en.wikipedia.org/wiki/Eastern_Samar_Province","Airports in Eastern Samar Province"
 305085,"PH-GUI","GUI","Guimaras Province","AS","PH","https://en.wikipedia.org/wiki/Guimaras_Province","Airports in Guimaras Province"
 305086,"PH-IFU","IFU","Ifugao Province","AS","PH","https://en.wikipedia.org/wiki/Ifugao_Province","Airports in Ifugao Province"
@@ -2608,7 +2610,8 @@
 305131,"PH-ZAN","ZAN","Zamboanga del Norte Province","AS","PH","https://en.wikipedia.org/wiki/Zamboanga_del_Norte_Province","Airports in Zamboanga del Norte Province"
 305132,"PH-ZAS","ZAS","Zamboanga del Sur Province","AS","PH","https://en.wikipedia.org/wiki/Zamboanga_del_Sur_Province","Airports in Zamboanga del Sur Province"
 305133,"PH-ZMB","ZMB","Zambales Province","AS","PH","https://en.wikipedia.org/wiki/Zambales_Province","Airports in Zambales Province"
-305134,"PH-ZSI","ZSI","Zamboanga Sibiguey Province","AS","PH","https://en.wikipedia.org/wiki/Zamboanga_Sibiguey_Province","Airports in Zamboanga Sibiguey Province"
+594263,"PH-ZMC","ZMC","Zamboanga City","AS","PH","https://en.wikipedia.org/wiki/Zamboanga_City",
+305134,"PH-ZSI","ZSI","Zamboanga Sibugay Province","AS","PH","https://en.wikipedia.org/wiki/Zamboanga_Sibugay","Airports in Zamboanga Sibugay Province"
 305135,"PK-BA","BA","Balochistan","AS","PK","https://en.wikipedia.org/wiki/Balochistan","Baluchistan"
 305138,"PK-GB","GB","Gilgit-Baltistan","AS","PK","https://en.wikipedia.org/wiki/Gilgit-Baltistan","Airports in Gilgit-Baltistan"
 305136,"PK-IS","IS","Islamabad Capital Territory","AS","PK","https://en.wikipedia.org/wiki/Islamabad_Capital_Territory","Airports in Islamabad Capital Territory"
