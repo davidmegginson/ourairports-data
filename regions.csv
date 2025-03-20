@@ -397,6 +397,9 @@
 303196,"BO-S","S","Santa Cruz Department","SA","BO","https://en.wikipedia.org/wiki/Santa_Cruz_Department","Airports in Santa Cruz Department"
 303197,"BO-T","T","Tarija Department","SA","BO","https://en.wikipedia.org/wiki/Tarija_Department","Airports in Tarija Department"
 303198,"BO-U-A","U-A","(unassigned)","SA","BO",,"Airports in (unassigned)"
+595437,"BQ-BO","BO","Bonaire","NA","BQ","https://en.wikipedia.org/wiki/Bonaire","Airports in Bonaire"
+595439,"BQ-SA","SA","Saba","NA","BQ","https://en.wikipedia.org/wiki/Saba_(island)","Airports in Saba"
+595438,"BQ-SE","SE","Sint Eustatius","NA","BQ","https://en.wikipedia.org/wiki/Sint_Eustatius","Airports in Sint Eustatius"
 302911,"BQ-U-A","U-A","(unassigned)","NA","BQ",,"Airports in (unassigned)"
 303199,"BR-AC","AC","Acre","SA","BR","https://en.wikipedia.org/wiki/Acre_(state)","Airports in Acre"
 303200,"BR-AL","AL","Alagoas","SA","BR","https://en.wikipedia.org/wiki/Alagoas","Airports in Alagoas"
@@ -3338,8 +3341,8 @@
 430625,"TD-HL","HL","Hadjer-Lamis","AF","TD","https://en.wikipedia.org/wiki/Hadjer-Lamis_(region)",
 305692,"TD-KA","KA","Kanem","AF","TD","https://en.wikipedia.org/wiki/Kanem_(region)","Airports in Kanem"
 305693,"TD-LC","LC","Lac","AF","TD","https://en.wikipedia.org/wiki/Lac_(region)","Airports in Lac"
-305694,"TD-LO","LO","Logone-Occidental","AF","TD","https://en.wikipedia.org/wiki/Logone_Occidental_(region)","Airports in Logone-Occidental"
-305695,"TD-LR","LR","Logone-Oriental","AF","TD","https://en.wikipedia.org/wiki/Logone_Oriental_(region)","Airports in Logone-Oriental"
+305694,"TD-LO","LO","Logone Occidental","AF","TD","https://en.wikipedia.org/wiki/Logone_Occidental_(region)","Airports in Logone Occidental"
+305695,"TD-LR","LR","Logone Oriental","AF","TD","https://en.wikipedia.org/wiki/Logone_Oriental_(region)","Airports in Logone Oriental"
 430626,"TD-MA","MA","Mandoul","AF","TD","https://en.wikipedia.org/wiki/Mandoul_Region",
 430627,"TD-MC","MC","Moyen-Chari","AF","TD","https://en.wikipedia.org/wiki/Moyen-Chari_(region)",
 430628,"TD-ME","ME","Mayo-Kebbi Est","AF","TD","https://en.wikipedia.org/wiki/Mayo-Kebbi_Est",
