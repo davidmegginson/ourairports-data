@@ -5018,6 +5018,7 @@
 57099,2775,"FACT","APP","Director",124.5
 57100,2775,"FACT","ATIS","ATIS",127
 317848,2775,"FACT","ATIS","Long Range ATIS",127.6
+599601,2775,"FACT","DEL","Delivery",122.1
 57101,2775,"FACT","GND","Ground",121.9
 57103,2775,"FACT","TWR","Tower",118.1
 299618,299617,"FADU","CTAF","Walkersons Traffic",124.8
@@ -29924,7 +29925,7 @@
 310583,310582,"ZA-0113","TIBA","Vaal Traffic",124.8
 310586,310585,"ZA-0114","TIBA","Zebula Traffic",124.8
 312262,312261,"ZA-0115","GF","High Way Traffic or Reenendal Airfield",124.8
-312692,312691,"ZA-0120","CTAF",,124.8
+312692,312691,"ZA-0120","CTAF",,126.8
 330316,330312,"ZA-0161","Hand Held","Klipriver traffic",126.5
 330575,330555,"ZA-0162","CTAF","Bingelela Traffic",124.8
 542471,345900,"ZA-0231","SRA","Port Elizabeth Special Rules Area",130.35
