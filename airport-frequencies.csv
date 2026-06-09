@@ -2853,8 +2853,9 @@
 570839,28644,"EDLM","AFIS","Langen Information",129.875
 570840,28644,"EDLM","INFO","Marl Radio",134.61
 52852,2243,"EDLN","AFIS","Langen Information",129.875
-52853,2243,"EDLN","ATIS","Moenchengladbach ATIS",109.8
+52853,2243,"EDLN","ATIS","Moenchengladbach ATIS (MHV)",109.8
 52851,2243,"EDLN","GND","Moenchengladbach Ground / Rollkontrolle",121.93
+609157,2243,"EDLN","Radar","Langen Radar",128.555
 52854,2243,"EDLN","TWR","Moenchengladbach Tower / Turm",120.455
 572234,28678,"EDLO","AFIS","Langen Information",129.875
 527309,28678,"EDLO","CTAF","Oerlinghausen Segelflug",128.36
