@@ -16297,7 +16297,7 @@
 44729,"BR-3189","small_airport","Fazenda Galiléia Airport",-9.104538,-45.416674,1932,"SA","BR","BR-PI","Baixa Grande do Ribeiro","no",,,"SSWG","PI0040",,,"SSDN"
 44731,"BR-3190","small_airport","Fazenda Bandeirantes Airport",-13.706015,-50.649874,935,"SA","BR","BR-GO","Nova Crixás","no",,,,,,,"SSDS"
 45570,"BR-3191","small_airport","Fazenda Santa Izabel Airport",-14.265278,-47.0275,1434,"SA","BR","BR-GO","Flores de Goiás","no",,,,,,,"SSLJ"
-45576,"BR-3192","small_airport","Fazenda Pirapitinga Airport",-18.777439,-49.229372,2172,"SA","BR","BR-MG","Canápolis","no",,,,,,,"SDRW"
+45576,"BR-3192","small_airport","Canápolis Açúcar & Etanol S.A. Airport",-18.777439,-49.229372,2110,"SA","BR","BR-MG","Canápolis","no",,,"SI55","MG0676",,,"SDRW, Fazenda Pirapitinga"
 45584,"BR-3193","small_airport","Fazenda Mata Assombrada Airport",-21.727222,-56.509167,912,"SA","BR","BR-MS","Bela Vista","no",,,,,,,"SILW"
 45586,"BR-3194","small_airport","Fazenda Santíssima Trindade Airport",-23.286944,-54.841111,1299,"SA","BR","BR-MS","Amambaí","no",,,,,,,"SDVN"
 45588,"BR-3195","small_airport","Aldeia Piaracu Airport",-10.780518,-53.07022,1148,"SA","BR","BR-MT","São José Do Xingu","no",,,,,,,"SDNW"
@@ -19797,7 +19797,7 @@
 355952,"CN-0359","small_airport","Zhaosu Tianma Airport",43.088477,81.223013,,"AS","CN","CN-65","Zhaosu","yes","ZWZS","ZFL","ZWZS",,,"https://en.wikipedia.org/wiki/Zhaosu_Tianma_Airport",
 355960,"CN-0360","small_airport","Urad Front Banner Gongmiaozi Airport",40.614366,108.998835,3369,"AS","CN","CN-15","Urad Front Banner","no",,,,,,,"Ulashan, ZULL"
 355962,"CN-0361","small_airport","Dengkou General Aviation Airport",40.302832,107.010698,3458,"AS","CN","CN-15","Bayannur","no","ZBMV",,"ZBMV",,,,
-355963,"CN-0362","small_airport","Yinchuan Yueyahu Airport",38.588095,106.539788,3727,"AS","CN","CN-64","Yinchuan","no",,"YEH",,,,,
+355963,"CN-0362","small_airport","Yinchuan Yueyahu Airport",38.588095,106.539788,3727,"AS","CN","CN-64","Yinchuan","no",,"YEH",,,,,"Yinchuan Crescent Lake"
 355969,"CN-0363","small_airport","Shuangchengzi North Airfield",40.5392,100.0185,3701,"AS","CN","CN-62","Jiuquan (Jinta)","no",,,,,,,
 355970,"CN-0364","small_airport","Gaotai Airport",39.41188,99.77868,4403,"AS","CN","CN-62","Zhangye (Gaotai)","no",,,,,,,
 356013,"CN-0365","heliport","Taida International Cardiovascular Hospital Heliport",39.028975,117.708765,7,"AS","CN","CN-12","Tianjin","no",,,,,,,
@@ -19936,6 +19936,7 @@
 607048,"CN-0502","heliport","Dulata Border Heliport",43.67436,80.6277,2507,"AS","CN","CN-65","Ili (Qapqal)","no",,,,,,,
 607615,"CN-0503","closed","Foshan Gaoming International Airport (Under construction)",22.882068,112.574149,,"AS","CN","CN-44","Foshan","no",,,,,,"https://en.wikipedia.org/wiki/Foshan_Gaoming_International_Airport","Pearl River Delta Airport, Foshan, Guangzhou New Airport"
 609056,"CN-0504","small_airport","Arun Banner Airport",48.352649,123.289846,873,"AS","CN","CN-15","Hulunbuir","no",,,,,,,"Arong"
+610002,"CN-0505","closed","Yinchuan Xihuayuan Airport",38.501964,106.144544,3647,"AS","CN","CN-64","Yinchuan","no",,,,,,"https://en.wikipedia.org/wiki/Yinchuan_Xihuayuan_Airport",
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -59632,6 +59633,8 @@
 515908,"SI4X","small_airport","Fazenda Calções Airstrip",-15.457928,-41.59385,2779,"SA","BR","BR-MG","inheira","no",,,"SI4X","MG0600",,,
 515913,"SI4Y","small_airport","Fazenda Laudejá Airport",-21.15087,-56.795467,1890,"SA","BR","BR-MS","Bonito","no",,,"SI4Y","MS0717",,,
 515915,"SI4Z","small_airport","Toledo Aviação Airport",-24.638918,-53.6549,1858,"SA","BR","BR-PR","Toledo","no",,,"SI4Z","PR0213",,,
+610004,"SI51","heliport","Colina 29 Helipad",-21.22481,-47.792825,2110,"SA","BR","BR-SP","Ribeirão Preto","no",,,"SI51","SP1513",,,
+610005,"SI53","heliport","BPX 2 Heliport",-7.202061,-35.875175,1814,"SA","BR","BR-PE","Campina Grande","no",,,"SI53","PB0045",,,
 600505,"SI5A","small_airport","Fazenda Isa - Agropecuária WVS Airport",-6.659883,-56.196381,886,"SA","BR","BR-PA","Itaituba","no",,,"SI5A","PA0434",,,
 606520,"SI5R","small_airport","Fazenda Recanto Airstrip",-9.098301,-49.668026,651,"SA","BR","BR-TO","Araguacema","no",,,"SI5R","TO0167",,,
 353896,"SI62","small_airport","Fazenda Monte Líbano Airport",-14.865671,-53.881941,2274,"SA","BR","BR-MT","Santo Antônio do Leste","no",,,"SI62","MT0809",,,
