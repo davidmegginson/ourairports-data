@@ -31993,6 +31993,7 @@
 603230,"IE-0087","closed","Oranmore Aerodrome",53.283056,-8.918889,43,"EU","IE","IE-G","Galway","no",,,,,,,"RAF Oranmore"
 604120,"IE-0088","heliport","Executive Helicopters Ireland Helipad",53.12475,-8.47096,,"EU","IE","IE-G","Barratoor","no",,,,,,,
 609498,"IE-0089","small_airport","Coill an tSíáin Airstrip",53.60779,-9.45045,,"EU","IE","IE-MO","Killateeaun","no",,,,,,,
+610026,"IE-0090","small_airport","Cooley",53.98797,-6.221581,,"EU","IE","IE-LH",,"no",,,,,,,
 17877,"IG00","heliport","Cameron Hospital Heliport",41.6338996887207,-84.99469757080078,1073,"NA","US","US-IN","Angola","no",,,"IG00","IG00",,,
 17878,"IG01","heliport","Iwc Heliport",39.78369903564453,-87.18360137939453,700,"NA","US","US-IN","Indianapolis","no",,,"IG01","IG01",,,
 17880,"IG03","small_airport","Bluebird Airport",39.391348,-86.597103,580,"NA","US","US-IN","Paragon","no",,,"IG03","IG03",,,
@@ -34041,10 +34042,14 @@
 609849,"IT-0986","heliport","Elisuperficie di Recetto",45.461613,8.439828,,"EU","IT","IT-21","Comune di Recetto","no",,,,,,,
 609851,"IT-0987","heliport","Elisuperficie di Formigliana",45.430338,8.287312,,"EU","IT","IT-21","Comune di formigliana","no",,,,,,,
 609983,"IT-0988","heliport","ELI VAL MAIRA",44.472296,7.394637,1955,"EU","IT","IT-21","Villar San Costanzo","no",,,,,,,
-609984,"IT-0989","heliport","LU TAZ",44.213035,7.568266,3598,"EU","IT","IT-21","Limone Piemonte","no",,,,,,,
+609984,"IT-0989","heliport","Lu Taz Heliport",44.213035,7.568266,3598,"EU","IT","IT-21","Limone Piemonte (CN)","no",,,,,,,
 609985,"IT-0990","heliport","Santa Croce & Carle Hospital Heliport",44.388641,7.522471,1814,"EU","IT","IT-21","Cuneo (CN)","no",,,,,,,
 609986,"IT-0991","heliport","Ospedale di Mondovì",44.391363,7.803803,,"EU","IT","IT-21","Mondovì","no",,,,,,,
 609987,"IT-0992","heliport","Pietro & Michele Ferrero Hospital Heliport",44.675018,7.931635,917,"EU","IT","IT-21","Verduno (CN)","no",,,,,,,
+610020,"IT-0993","heliport","Casteldelfino Heliport",44.586098,7.077385,,"EU","IT","IT-21","Casteldelfino","no",,,,,,,
+610021,"IT-0994","heliport","Cortemilia Heliport",44.594955,8.194797,,"EU","IT","IT-21","Cortemilia","no",,,,,,,
+610022,"IT-0995","heliport","Monforte d'Alba Heliport",44.591265,7.974085,,"EU","IT","IT-21","Monforte d'Alba","no",,,,,,,
+610023,"IT-0996","heliport","Millesimo Heliport",44.3758,8.198716,1392,"EU","IT","IT-42","Millesimo (SV)","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -45070,14 +45075,14 @@
 4509,"LTAC","large_airport","Esenboğa International Airport",40.128101,32.995098,3125,"AS","TR","TR-06","Ankara","yes","LTAC","ESB","LTAC",,"https://esenbogaairport.com/","https://en.wikipedia.org/wiki/Esenbo%C4%9Fa_International_Airport",
 4510,"LTAD","medium_airport","Etimesgut Air Base",39.949798584,32.6885986328,2653,"AS","TR","TR-06","Ankara","no","LTAD","ANK","LTAD",,,"https://en.wikipedia.org/wiki/Etimesgut_Air_Base",
 4511,"LTAE","medium_airport","Akıncı Air Base",40.078899,32.565601,2767,"AS","TR","TR-06","Ankara","no","LTAE",,"LTAE",,,"https://en.wikipedia.org/wiki/Ak%C4%B1nc%C4%B1_Air_Base","Akinci, Mürted, Murted"
-4512,"LTAF","large_airport","Adana Şakirpaşa Airport",36.982201,35.280399,65,"AS","TR","TR-01","Seyhan","yes","LTAF","ADA","LTAF",,"https://dhmi.gov.tr/sayfalar/havalimani/adana/anasayfa.aspx","https://en.wikipedia.org/wiki/Adana_%C5%9Eakirpa%C5%9Fa_Airport","Şakirpaşa, Sakirpasa"
+4512,"LTAF","small_airport","Adana Şakirpaşa Airport",36.982201,35.280399,65,"AS","TR","TR-01","Seyhan","no","LTAF","ADA","LTAF",,"https://dhmi.gov.tr/sayfalar/havalimani/adana/anasayfa.aspx","https://en.wikipedia.org/wiki/Adana_%C5%9Eakirpa%C5%9Fa_Airport","Şakirpaşa, Sakirpasa"
 4513,"LTAG","medium_airport","İncirlik Air Base",37.002102,35.4259,238,"AS","TR","TR-01","Sarıçam","no","LTAG","UAB","LTAG",,,"https://en.wikipedia.org/wiki/Incirlik_Air_Base","ADA"
 4514,"LTAH","medium_airport","Afyon Air Base",38.726398,30.601101,3310,"AS","TR","TR-03","Afyonkarahisar","no","LTAH","AFY","LTAH",,,"https://en.wikipedia.org/wiki/Afyon_Airport","Afyonkarahisar"
 4515,"LTAI","large_airport","Antalya International Airport",36.898701,30.800501,177,"AS","TR","TR-07","Antalya","yes","LTAI","AYT","LTAI",,"http://www.antalya.dhmi.gov.tr/havaalanlari/default.aspx?hv=4","https://en.wikipedia.org/wiki/Antalya_Airport",
 4516,"LTAJ","large_airport","Gaziantep Oğuzeli International Airport",36.947201,37.478699,2315,"AS","TR","TR-27","Gaziantep","yes","LTAJ","GZT","LTAJ",,,"https://en.wikipedia.org/wiki/O%C4%9Fuzeli_Airport",
 30013,"LTAL","medium_airport","Kastamonu Airport",41.314201,33.795799,3520,"AS","TR","TR-37","Kastamonu","no","LTAL","KFS","LTAL",,"https://www.dhmi.gov.tr/Sayfalar/Havalimani/Kastamonu/AnaSayfa.aspx","https://en.wikipedia.org/wiki/Kastamonu_Airport",
 4518,"LTAN","large_airport","Konya Airport",37.979,32.561901,3392,"AS","TR","TR-42","Konya","yes","LTAN","KYA","LTAN",,"http://www.konya.dhmi.gov.tr/havaalanlari/default.aspx?hv=28","https://en.wikipedia.org/wiki/Konya_Airport",
-4519,"LTAO","small_airport","Malatya Tulga Airport",38.353699,38.253899,3016,"AS","TR","TR-44","Malatya","yes","LTAO",,"LTAO",,,"https://tr.wikipedia.org/wiki/Malatya_Tulga_Havaliman%C4%B1",
+4519,"LTAO","small_airport","Malatya Tulga Airport",38.353699,38.253899,3016,"AS","TR","TR-44","Malatya","no","LTAO",,"LTAO",,,"https://tr.wikipedia.org/wiki/Malatya_Tulga_Havaliman%C4%B1",
 4520,"LTAP","small_airport","Amasya Merzifon Airport",40.829399,35.521999,1758,"AS","TR","TR-05","Amasya","yes","LTAP","MZH","LTAP",,"http://www.merzifon.dhmi.gov.tr/havaalanlari/default.aspx?hv=15","https://en.wikipedia.org/wiki/Merzifon_Airport",
 4521,"LTAR","small_airport","Sivas Nuri Demirağ Airport",39.813801,36.9035,5239,"AS","TR","TR-58","Sivas","yes","LTAR","VAS","LTAR",,"http://www.sivas.dhmi.gov.tr/havaalanlari/default.aspx?hv=35","https://en.wikipedia.org/wiki/Sivas_Airport",
 30585,"LTAS","medium_airport","Zonguldak Çaycuma Airport",41.506401,32.0886,44,"AS","TR","TR-67","Zonguldak","yes","LTAS","ONQ","LTAS",,,"https://en.wikipedia.org/wiki/Zonguldak_Airport",
@@ -51558,7 +51563,7 @@
 5073,"OAKN","large_airport","Ahmad Shah Baba International Airport",31.505769,65.847963,3337,"AS","AF","AF-KAN","Kandahar","yes","OAKN","KDH","OAKN",,,"https://en.wikipedia.org/wiki/Kandahar_International_Airport","Kandahar International Airport, Kandahar Airfield"
 332240,"OAKS","medium_airport","Khost International Airport",33.284605,69.80734,4204,"AS","AF","AF-KHO","Khost","yes","OAKS","KHT","OAKS",,,"https://en.wikipedia.org/wiki/Khost_International_Airport","FOB Chapman"
 353642,"OALP","small_airport","Little Pamir Airport",37.244444,74.251944,13340,"AS","AF","AF-BDS","Erghail","no",,,"OALP",,,,
-5074,"OAMN","medium_airport","Maymana Zahiraddin Faryabi Airport",35.930801,64.760902,2743,"AS","AF","AF-FYB","Maymana","yes","OAMN","MMZ","OAMN",,,"https://en.wikipedia.org/wiki/Maymana_Airport","Maimana"
+5074,"OAMN","medium_airport","Maymana Zahiraddin Faryabi Airport",35.930801,64.760902,2743,"AS","AF","AF-FYB","Maymana","no","OAMN","MMZ","OAMN",,,"https://en.wikipedia.org/wiki/Maymana_Airport","Maimana"
 5075,"OAMS","large_airport","Mazar-i-Sharif International Airport",36.70412,67.210459,1284,"AS","AF","AF-BAL","Mazar-i-Sharif","yes","OAMS","MZR","OAMS",,,"https://en.wikipedia.org/wiki/Mazar-i-Sharif_International_Airport","Mazari Sharif"
 35378,"OANL","small_airport","Nili Airport",33.739456,66.157408,,"AS","AF","AF-DAY","Nili","no","OANL",,"OANL",,,"https://en.wikipedia.org/wiki/Nili_Airport","Nillli"
 525033,"OANZ","small_airport","Nimroz Airport",30.963333,62.060833,1581,"AS","AF","AF-NIM","Ziarat-e Amiran Saseb","no","OANZ","IMZ","OANZ",,,,
@@ -57829,7 +57834,7 @@
 39268,"SCRH","small_airport","Reñihúe Airport",-42.585556,-72.494446,16,"SA","CL","CL-LL","Reñihue","no",,,"SCRH",,,"https://en.wikipedia.org/wiki/Re%C3%B1ih%C3%BAe_Airport",
 39269,"SCRI","small_airport","Río Frío Airport",-41.742523,-71.909854,1000,"SA","CL","CL-LL","Cochamó","no",,,"SCRI",,,"https://en.wikipedia.org/wiki/R%C3%ADo_Fr%C3%ADo_Airport","El Manso"
 39270,"SCRL","small_airport","La Estrella Airport",-34.201111,-71.481667,397,"SA","CL","CL-LI","Rapel","no",,,"SCRL",,,"https://en.wikipedia.org/wiki/Rapel_La_Estrella_Airport",
-6039,"SCRM","small_airport","Teniente Rodolfo Marsh Martin Airport",-62.191026,-58.98669,147,"AN","AQ","AQ-U-A","Villa Las Estrellas","yes","SCRM","TNM","SCRM",,,"https://en.wikipedia.org/wiki/Teniente_R._Marsh_Airport",
+6039,"SCRM","small_airport","Teniente Rodolfo Marsh Martin Airport",-62.191026,-58.98669,147,"AN","AQ","AQ-U-A","Villa Las Estrellas","no","SCRM","TNM","SCRM",,,"https://en.wikipedia.org/wiki/Teniente_R._Marsh_Airport",
 39271,"SCRN","small_airport","Río Negro Airport",-41.962223,-72.453888,10,"SA","CL","CL-LL","Río Negro","no",,,"SCRN",,,"https://en.wikipedia.org/wiki/R%C3%ADo_Negro_Airport",
 39272,"SCRO","small_airport","Santa Bárbara Airport",-34.958889,-71.182777,1420,"SA","CL","CL-ML","Romeral","no",,,"SCRO",,,"https://en.wikipedia.org/wiki/Santa_B%C3%A1rbara_Airport_(Chile)",
 30322,"SCRP","small_airport","Rapelhuapi Airport",-34.105801,-71.512802,568,"SA","CL","CL-LI","Rapel","no",,,"SCRP",,,"https://en.wikipedia.org/wiki/Rapelhuapi_Airport",
@@ -59887,6 +59892,7 @@
 520603,"SIG2","small_airport","Pandorga Airport",-23.013259,-45.679296,1804,"SA","BR","BR-SP","Taubaté","no",,,"SIG2","SP1463",,,
 523955,"SIG3","small_airport","Rancho Veneza Airport",-14.8357,-40.7611,3002,"SA","BR","BR-BA","Vitória da Conquista","no",,,"SIG3","BA0455",,,
 530814,"SIG4","small_airport","Fazenda Rainha do Curuá Airport",-6.487057,-54.897358,764,"SA","BR","BR-PA","Altamira","no",,,"SIG4","PA0372",,,
+610014,"SIG5","small_airport","Boi na Grota Airport",-4.263992,-49.943194,531,"SA","BR","BR-PA","Novo Repartimento","no",,,"SIG5","PA0449",,,
 557767,"SIG6","small_airport","Fazenda Vale da Serra Airport",2.593325,-61.441247,385,"SA","BR","BR-RR","Mucajaí","no",,,"SIG6","RR0118",,,
 547653,"SIG7","small_airport","Fazenda Alvorada Airport",-8.564425,-49.108272,755,"SA","BR","BR-TO","Couto Magalhães","no",,,"SIG7","TO0136",,,
 518733,"SIG8","small_airport","Fazenda Portugal Airport",-8.304505,-45.556082,1684,"SA","BR","BR-PI","Ribeiro Gonçalves","no",,,"SIG8","PI0104",,,
