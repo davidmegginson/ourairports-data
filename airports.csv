@@ -66505,6 +66505,7 @@
 602705,"UA-9888","closed","VPP ""Grishino"" Airfield",48.302987,37.097583,610,"EU","UA","UA-14","Pokrovsk","no",,,,,,,"ZBU2, ЗБУ2, Покровськ, Гришине, Krasnoarmeysk, Hryshyne, Krasnoarmiisk"
 602726,"UA-9889","heliport","Volnovakha Forest Park Heliport",47.664945,37.435319,745,"EU","UA","UA-14","Volnovakha","no",,,,,,,"HE4S, ХЕ4С, Волноваха, Hrafske, Графське"
 604035,"UA-9890","closed","Rovenky Airfield",48.084484,39.44265,1022,"EU","UA","UA-09","Rovenky","no",,,,,,,"ZBY3, ЗБЫ3, Ровеньки, Rovenki, Roven'ki"
+610038,"UA-9891","closed","Krasnopolka Airfield",48.820271,29.771836,794,"EU","UA","UA-71","Krasnopolka","no",,,,,,,"ZCN5, ЗЦН5, Краснополка, Івангрод"
 3549,"UA30","medium_airport","Batken Airport",40.042899,70.83784,3602,"AS","KG","KG-B","Batken","yes","UCFB",,"UCFB",,"http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6","https://en.wikipedia.org/wiki/Batken_Airport","UAFB, Баткен"
 3964,"UA34","small_airport","Chardara Airport",41.2765007019043,67.97100067138672,709,"AS","KZ","KZ-YUZ","Shardara","no",,,"UA34","UA34",,,
 3966,"UA36","small_airport","Lugovoy Airport",42.972565,72.728051,2130,"AS","KZ","KZ-ZHA","Lugovoy","no",,,"UA36","XAAL",,,
@@ -81467,6 +81468,7 @@
 605573,"VN-0082","heliport","People's Hospital No. 115 Heliport",10.775372,106.668101,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
 605574,"VN-0083","heliport","Saigon Times Square Heliport",10.773857,106.704695,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
 605575,"VN-0084","heliport","Police Heliport",10.7584,106.686185,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
+610039,"VN-0085","medium_airport","Nuôi Chồn Hương",10,100,,"AS","VN","VN-CH",,"no",,,,,"https://nuoichonhuong.com",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
