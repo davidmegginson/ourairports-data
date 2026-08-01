@@ -11186,7 +11186,6 @@
 341265,"AT13","small_airport","Zucchelli Ice Runway",-74.68109,164.12756,,"AN","AQ","AQ-U-A","Zucchelli Station","no",,,"AT13",,,,
 330063,"AT25","small_airport","Showa Station Skiway",-69.006167,39.59,95,"AN","AQ","AQ-U-A","Showa Station","no",,,"AT25",,,"https://en.wikipedia.org/wiki/Showa_Station_(Antarctica)","Syowa Station"
 336959,"AT28","medium_airport","Vostok Skiway",-78.466139,106.84825,11447,"AN","AQ","AQ-U-A","Vostok Station","no",,,"AT28",,,"https://en.wikipedia.org/wiki/Vostok_Station",
-601314,"AT98","medium_airport","[Duplicate] Wolf's Fang Runway",-71.5264,8.799459,3707,"AN","AQ","AQ-U-A","Queen Maud Island","no",,"WFR","AT98",,"https://white-desert.com/about-us/wolfsfang-runway-logistics","https://en.wikipedia.org/wiki/Wolf%27s_Fang_Runway","AT98, Wolf's Fang Runway"
 312384,"ATUA","small_airport","(Duplicate) Utai Airstrip",-3.386,141.5868,707,"OC","PG","PG-SAN","Utai","no",,,"ATUA","UTAI",,,
 28102,"AU-0001","closed","Hopetoun Airfield",-33.90850067138672,120.14700317382812,,"OC","AU","AU-WA","Hopetoun","no",,,,,,,
 38201,"AU-0002","small_airport","Dwellingup Airstrip",-32.6926994324,116.074996948,,"OC","AU","AU-WA","Dwellingup","no",,,,"A01",,,"http://sabc.org.au/knav/airport/A01.html"
@@ -11211,7 +11210,7 @@
 42497,"AU-0021","small_airport","Karijini National Park",-22.487101,118.468002,2325,"OC","AU","AU-WA",,"no",,,,,"http://www.tompricewa.com.au/karijini.asp",,
 42507,"AU-0022","small_airport","Cardabia Homestead Airstrip",-23.106024,113.805229,5,"OC","AU","AU-WA","Lyndon","no",,,,,,,
 42750,"AU-0023","small_airport","Woodbury Airfield",-42.162421,147.45011,713,"OC","AU","AU-TAS","Woodbury","no",,,"YWOD",,,,
-42752,"AU-0024","small_airport","Port Fairy",-38.36196517944336,142.26422119140625,10,"OC","AU","AU-VIC",,"no",,,,,,,
+42752,"AU-0024","closed","Port Fairy",-38.360626,142.267893,10,"OC","AU","AU-VIC",,"no",,,,,"https://www.moyne.vic.gov.au/Our-services/Councils-assets/Port-Fairy-airstrip",,
 42754,"AU-0025","small_airport","Northcliffe Airstrip",-34.660026,116.140803,,"OC","AU","AU-WA","Boorara Brook","no",,,,,,,
 42776,"AU-0026","small_airport","Yuin Station",-27.983333587646484,116.03333282470703,970,"OC","AU","AU-WA",,"no",,,,,"http://www.agfg.com.au/guide/wa/mid-west-wa/mid-west-wa/yalgoo/accommodation/yuin-station",,
 42790,"AU-0027","small_airport","Boobyalla Airfield",-40.89821,147.86132,50,"OC","AU","AU-TAS","Dorset","no",,,,,,,
@@ -11303,7 +11302,6 @@
 322021,"AU-0113","small_airport","Overlander Airport",-26.407707,114.45385,,"OC","AU","AU-WA","Hamelin Pool","no",,,,,,,
 322022,"AU-0114","small_airport","Denman Farm Strip",-32.379816,150.695005,,"OC","AU","AU-NSW","Denman","no",,,,,,,
 322023,"AU-0115","small_airport","Swan Reach Airport",-34.556053,139.592156,36,"OC","AU","AU-SA","Swan Reach","no",,,"YSWR",,,,
-333857,"AU-0116","small_airport","[Duplicate] Alcoota Station Airport",-22.801963,134.4036,1994,"OC","AU","AU-NT","Anmatjere","no",,,,,,,
 333860,"AU-0117","small_airport","Balma Airfield",-13.247423,135.848699,37,"OC","AU","AU-NT",,"no",,,,,,,
 333861,"AU-0118","small_airport","Ban Ban Airfield",-13.376886,131.495318,394,"OC","AU","AU-NT","Ban Ban Springs","no",,,,,,,
 333862,"AU-0119","small_airport","Banka Banka Airstrip",-18.79853,134.039619,969,"OC","AU","AU-NT","Tablelands","no",,,,,,,
@@ -56693,7 +56691,7 @@
 526854,"RU-1013","heliport","KS-9 Maloperanskaya",64.258736,54.893339,,"EU","RU","RU-KO",,"no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 601235,"RU-10130","small_airport","Koslan Airport",63.474207,48.845987,,"EU","RU","RU-KO","Koslan","no",,,,,,,
 601236,"RU-10131","small_airport","Troitsko-Pechorsk Airport",62.7319,56.19629,,"EU","RU","RU-KO","Troitsko-Pechorsk","no",,,,,,,
-601237,"RU-10132","small_airport","Yagodnoye",62.54574,149.52257,1646,"AS","RU","RU-MAG","Yagodnoye","no",,,,,,,
+601237,"RU-10132","small_airport","Yagodnoye Airfield",62.54574,149.52257,1646,"AS","RU","RU-MAG","Yagodnoye","no",,,"UHGE",,,,"УХГЕ, Ягодное,"
 601709,"RU-10133","small_airport","Batushkovo Airfield",56.234781,37.555211,100,"EU","RU","RU-MOS","Batushkovo town","no",,,,,"https://paralet.ru/",,"Batushkovo Airfield, Аэродром Батюшково"
 602171,"RU-10134","small_airport","Valunistoe (airport)",66.421687,177.582464,,"AS","RU","RU-CHU","Rudnik Valunisty","no",,,,,,,
 602186,"RU-10135","small_airport","Valunistoe Mining Complex Airport",66.766633,164.319284,999,"AS","RU","RU-CHU","Vesenny","no",,,,,,,
@@ -56741,6 +56739,7 @@
 609963,"RU-10173","small_airport","Stadukhino Airfield",66.965897,166.82135,1905,"AS","RU","RU-CHU","Stadukhino","no",,,,"ZC8P",,,"ЗЦ8П, Стадукхино"
 609965,"RU-10174","closed","Keptin HLS",62.346352,124.442352,879,"AS","RU","RU-SA","Keptin","no",,,,,,,"HAD2, ХАД2, Кептин"
 609966,"RU-10175","small_airport","Siktyakh HLS",69.912345,125.108014,74,"AS","RU","RU-SA","Siktyakh","no",,,,"HBY5",,,"ХБЫ5, Сиктях"
+610072,"RU-10176","closed","Teryut Airfield",64.245684,142.052253,1823,"AS","RU","RU-SA","Teryut","no",,,,,,,"ZF8R, ЗФ8Р, Терют"
 526968,"RU-1018","heliport","Chaika Coal Terminal Helipad",73.379354,80.59003,71,"AS","RU","RU-KYA","Dikson","no",,,,,,,"HELIOPS, Mining, Coal, Vostokugol-Dikson"
 527128,"RU-1019","heliport","Khralov junction Helipad",68.486875,69.521978,,"AS","RU","RU-YAN","Lidino","no",,,,,,,"HELIOPS, OIL & GAS, Gazprom, Obskaya–Bovanenkovo Railroad"
 528461,"RU-1020","heliport","Roman Trebs field",68.624032,57.891887,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
@@ -66718,6 +66717,7 @@
 525055,"UHEK","small_airport","Kupol Airport",66.901667,169.56,1745,"AS","RU","RU-CHU",,"no",,,"UHEK",,,"https://en.wikipedia.org/wiki/Kupol_Airport",
 597124,"UHGB","small_airport","Yamsk Airfield",59.581555,154.15393,10,"AS","RU","RU-MAG","Yamsk","no",,,"UHGB",,,,"УХГБ. Ямск"
 596406,"UHGL","small_airport","Glukharinoye Airfield",64.999872,153.096328,977,"AS","RU","RU-MAG","Glukharinoye","no",,,"UHGL",,,,"УХГЛ, Глухариное, Глухариный"
+610074,"UHGQ","heliport","Pionernaya Heliport",59.60107,150.76815,670,"EU","RU","RU-MAG","Pionernaya","no",,,"UHGQ",,,,"УХГЯ, Пионерный"
 321902,"UHHG","small_airport","Bomnak Airfield",54.71275,128.8577,1199,"AS","RU","RU-AMU","Bomnak","no",,,"UHHG","UHHG",,,"УХХГ, Бомнак"
 6455,"UHHH","medium_airport","Khabarovsk Novy Airport",48.528338,135.188588,244,"AS","RU","RU-KHA","Khabarovsk","yes","UHHH","KHV","UHHH",,"http://airkhv.ru/","https://en.wikipedia.org/wiki/Khabarovsk_Novy_Airport","Аэропорт Хабаровск-Новый"
 324923,"UHHO","small_airport","Troitskoye Airport",49.444833,136.571033,93,"AS","RU","RU-KHA","Troitskoye","no","UHHO",,"UHHO",,,,"УХХО, Троицкое"
@@ -83139,7 +83139,7 @@
 27368,"YBEL","small_airport","Bothwell Airport",-42.369482,147.029538,1194,"OC","AU","AU-TAS","Bothwell","no",,,"YBEL",,,,
 27369,"YBEO","small_airport","Betoota Airport",-25.694791,140.738339,91,"OC","AU","AU-QLD",,"no","YBEO","BTX","YBEO",,,,
 27371,"YBEU","small_airport","Beulah 1 Airport",-35.95000076293945,142.41700744628906,,"OC","AU","AU-VIC",,"no",,,"YBEU",,,,
-27372,"YBEV","small_airport","Beverley Airport",-32.13330078125,116.94999694824219,,"OC","AU","AU-WA",,"no",,,"YBEV",,,,
+27372,"YBEV","small_airport","Beverley Airport",-32.125341,116.949625,667,"OC","AU","AU-WA",,"no",,,"YBEV",,,,
 38247,"YBEW","small_airport","Beechworth Airstrip",-31.916678,144.645553,,"OC","AU","AU-NSW",,"no",,,"YBEW",,,,
 27373,"YBFR","small_airport","Balfour Airport",-41.259033262799996,144.886064529,,"OC","AU","AU-TAS",,"no",,,"YBFR",,,,
 298810,"YBFT","small_airport","Beaufort",-37.495,143.43,1300,"OC","AU","AU-VIC",,"no",,,"YBFT",,,,
@@ -83182,7 +83182,7 @@
 27391,"YBLL","small_airport","Bollon Airport",-28.051247,147.481799,182,"OC","AU","AU-QLD",,"no","YBLL","BLS","YBLL",,,,
 29711,"YBLM","small_airport","Blinman Airport",-31.118600845336914,138.7259979248047,1991,"OC","AU","AU-SA",,"no",,,"YBLM",,,,
 26915,"YBLN","small_airport","Busselton Margaret River Regional Airport",-33.687222,115.400278,55,"OC","AU","AU-WA","Busselton","yes","YBLN","BQB","YBLN",,"https://www.busseltonmargaretriverairport.com.au/","https://en.wikipedia.org/wiki/Busselton_Regional_Airport",
-594733,"YBLO","small_airport","Bullio Airport",-34.357532,150.16644,2133,"OC","AU","AU-NSW","Bullio","no",,,"YBLO",,,,"YBLO"
+594733,"YBLO","closed","Bullio Airport",-34.357532,150.16644,2133,"OC","AU","AU-NSW","Bullio","no",,,,,,,"YBLO"
 26916,"YBLT","small_airport","Ballarat Airport",-37.5117,143.791,1433,"OC","AU","AU-VIC",,"no","YBLT",,"YBLT",,,"https://en.wikipedia.org/wiki/Ballarat_Airport",
 27392,"YBLU","small_airport","Bellevue Airport",-27.612778,120.593889,1555,"OC","AU","AU-WA",,"no",,,"YBLU",,,"https://en.wikipedia.org/wiki/Bellevue_Airport",
 26917,"YBMA","medium_airport","Mount Isa Airport",-20.66638,139.488468,1121,"OC","AU","AU-QLD","Mount Isa","yes","YBMA","ISA","YBMA",,,"https://en.wikipedia.org/wiki/Mount_Isa_Airport",
@@ -83317,7 +83317,7 @@
 38280,"YCDV","small_airport","Caldervale Station Airport",-25.108299255371094,146.83299255371094,,"OC","AU","AU-QLD",,"no",,,"YCDV",,,,
 26951,"YCEE","medium_airport","Cleve Airport",-33.709702,136.505005,589,"OC","AU","AU-SA",,"no","YCEE","CVC","YCEE",,,"https://en.wikipedia.org/wiki/Cleve_Airport",
 32721,"YCEL","small_airport","Capella Airport",-23.095104,148.006241,826,"OC","AU","AU-QLD","Capella","no",,,"YCEL",,,,
-27451,"YCEM","small_airport","Coldstream Airport",-37.727669,145.408371,76,"OC","AU","AU-VIC","Coldstream","no",,,"YCEM",,,"https://en.wikipedia.org/wiki/Coldstream_Airport",
+27451,"YCEM","small_airport","Coldstream Airport",-37.727669,145.408371,280,"OC","AU","AU-VIC","Coldstream","no",,,"YCEM",,,"https://en.wikipedia.org/wiki/Coldstream_Airport",
 38281,"YCES","small_airport","Ceres Airport",-38.14830017089844,144.25799560546875,,"OC","AU","AU-VIC",,"no",,,"YCES",,,,
 315831,"YCF","seaplane_base","Cortes Bay Water Aerodrome",50.063,-124.930002,,"NA","CA","CA-BC","Cortes Bay","no",,"YCF",,,,,"AM6"
 27452,"YCFD","small_airport","Camfield Airport",-17.021699905395508,131.32699584960938,,"OC","AU","AU-NT",,"no","YCFD","CFI","YCFD",,,,
