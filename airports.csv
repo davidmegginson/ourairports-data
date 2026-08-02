@@ -11210,7 +11210,7 @@
 42497,"AU-0021","small_airport","Karijini National Park",-22.487101,118.468002,2325,"OC","AU","AU-WA",,"no",,,,,"http://www.tompricewa.com.au/karijini.asp",,
 42507,"AU-0022","small_airport","Cardabia Homestead Airstrip",-23.106024,113.805229,5,"OC","AU","AU-WA","Lyndon","no",,,,,,,
 42750,"AU-0023","small_airport","Woodbury Airfield",-42.162421,147.45011,713,"OC","AU","AU-TAS","Woodbury","no",,,"YWOD",,,,
-42752,"AU-0024","closed","Port Fairy",-38.360626,142.267893,10,"OC","AU","AU-VIC",,"no",,,,,"https://www.moyne.vic.gov.au/Our-services/Councils-assets/Port-Fairy-airstrip",,
+42752,"AU-0024","closed","Port Fairy Airstrip",-38.360626,142.267893,10,"OC","AU","AU-VIC",,"no",,,,,"https://www.moyne.vic.gov.au/Our-services/Councils-assets/Port-Fairy-airstrip",,
 42754,"AU-0025","small_airport","Northcliffe Airstrip",-34.660026,116.140803,,"OC","AU","AU-WA","Boorara Brook","no",,,,,,,
 42776,"AU-0026","small_airport","Yuin Station",-27.983333587646484,116.03333282470703,970,"OC","AU","AU-WA",,"no",,,,,"http://www.agfg.com.au/guide/wa/mid-west-wa/mid-west-wa/yalgoo/accommodation/yuin-station",,
 42790,"AU-0027","small_airport","Boobyalla Airfield",-40.89821,147.86132,50,"OC","AU","AU-TAS","Dorset","no",,,,,,,
@@ -11989,6 +11989,7 @@
 608588,"AU-0805","small_airport","Buckley Road South Airstrip",-38.222243,144.10146,,"OC","AU","AU-VIC","Modewarre","no",,,,,,,
 608589,"AU-0806","small_airport","Clondrisse Airfield (private)",-38.48918,144.93305,,"OC","AU","AU-VIC","Cape Schanck","no",,,,,,,
 608590,"AU-0807","small_airport","McLeod Airstrip",-38.355822,145.445069,,"OC","AU","AU-VIC","French Island","no",,,,,,,
+610075,"AU-0808","closed","Penrith Speedway-Aerodrome",-33.748128,150.697832,,"OC","AU","AU-NSW","Penrith","no",,,,,,"https://en.wikipedia.org/wiki/Penrith_Speedway-Aerodrome",
 30622,"AU-AGW","small_airport","Agnew Airport",-12.1456,142.149369,160,"OC","AU","AU-QLD","Agnew","no",,"AGW","YAGN",,,"https://en.wikipedia.org/wiki/Agnew_Airport",
 30666,"AU-AYD","small_airport","Alroy Downs Airport",-19.2908,136.078995,711,"OC","AU","AU-NT","Alroy Downs","no",,"AYD","YALD",,,,
 30808,"AU-BYX","small_airport","Baniyala Airport",-13.1981,136.227005,20,"OC","AU","AU-NT","Baniyala","no",,"BYX","YBNI",,,,
@@ -56740,6 +56741,7 @@
 609965,"RU-10174","closed","Keptin HLS",62.346352,124.442352,879,"AS","RU","RU-SA","Keptin","no",,,,,,,"HAD2, ХАД2, Кептин"
 609966,"RU-10175","small_airport","Siktyakh HLS",69.912345,125.108014,74,"AS","RU","RU-SA","Siktyakh","no",,,,"HBY5",,,"ХБЫ5, Сиктях"
 610072,"RU-10176","closed","Teryut Airfield",64.245684,142.052253,1823,"AS","RU","RU-SA","Teryut","no",,,,,,,"ZF8R, ЗФ8Р, Терют"
+610078,"RU-10177","heliport","Nizhne-Kvakchinskoye Gas Field Helipad",54.689449,155.854202,210,"AS","RU","RU-KAM",,"no",,,,"HGU1",,,"ХГУ1, Нижне-Квакчинскоые"
 526968,"RU-1018","heliport","Chaika Coal Terminal Helipad",73.379354,80.59003,71,"AS","RU","RU-KYA","Dikson","no",,,,,,,"HELIOPS, Mining, Coal, Vostokugol-Dikson"
 527128,"RU-1019","heliport","Khralov junction Helipad",68.486875,69.521978,,"AS","RU","RU-YAN","Lidino","no",,,,,,,"HELIOPS, OIL & GAS, Gazprom, Obskaya–Bovanenkovo Railroad"
 528461,"RU-1020","heliport","Roman Trebs field",68.624032,57.891887,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
@@ -59639,7 +59641,10 @@
 515913,"SI4Y","small_airport","Fazenda Laudejá Airport",-21.15087,-56.795467,1890,"SA","BR","BR-MS","Bonito","no",,,"SI4Y","MS0717",,,
 515915,"SI4Z","small_airport","Toledo Aviação Airport",-24.638918,-53.6549,1858,"SA","BR","BR-PR","Toledo","no",,,"SI4Z","PR0213",,,
 610004,"SI51","heliport","Colina 29 Helipad",-21.22481,-47.792825,2110,"SA","BR","BR-SP","Ribeirão Preto","no",,,"SI51","SP1513",,,
+610083,"SI52","small_airport","Morro da Águia Airstrip",-26.537219,-53.004394,2428,"SA","BR","BR-SC","São Bernardino","no",,,"SI52","SC0266",,,"https://aisweb.decea.mil.br/?i=aerodromos&codigo=SI52&amdt=2002"
 610005,"SI53","heliport","BPX 2 Heliport",-7.202061,-35.875175,1814,"SA","BR","BR-PE","Campina Grande","no",,,"SI53","PB0045",,,
+610084,"SI54","small_airport","Fazenda Gabriela Airstrip",-13.938031,-51.666119,820,"SA","BR","BR-MT","Nova Nazaré","no",,,"SI54","MT1184",,,
+610087,"SI56","small_airport","Úbere Agropecuária Airport",-13.426644,-52.975636,1228,"SA","BR","BR-MT","Canarana","no",,,"SI56","MT1178",,,
 600505,"SI5A","small_airport","Fazenda Isa - Agropecuária WVS Airport",-6.659883,-56.196381,886,"SA","BR","BR-PA","Itaituba","no",,,"SI5A","PA0434",,,
 606520,"SI5R","small_airport","Fazenda Recanto Airstrip",-9.098301,-49.668026,651,"SA","BR","BR-TO","Araguacema","no",,,"SI5R","TO0167",,,
 353896,"SI62","small_airport","Fazenda Monte Líbano Airport",-14.865671,-53.881941,2274,"SA","BR","BR-MT","Santo Antônio do Leste","no",,,"SI62","MT0809",,,
@@ -66644,7 +66649,7 @@
 43667,"UESG","medium_airport","Belaya Gora Airport",68.556227,146.22784,118,"AS","RU","RU-SA","Belaya Gora","no","UESG","BGN","UESG",,,"https://en.wikipedia.org/wiki/Belaya_Gora_Airport","УЕСГ, Аэропорт Белая Гора"
 335194,"UESH","small_airport","Argakhtakh Airport",68.443333,153.362222,65,"AS","RU","RU-SA","Argakhtakh","no",,,"UESH",,,,"УЕСХ, Аргахтах"
 609944,"UESI","heliport","Nychalakh  HLS",69.933983,146.202805,79,"AS","RU","RU-SA","Nychalakh","no",,,"UESI",,,,"УЕСИ, Быягныр / Началах"
-316761,"UESK","medium_airport","Srednekolymsk Airport",67.4805,153.7364,60,"AS","RU","RU-SA","Srednekolymsk","yes","UESK","SEK","UESK",,,"https://en.wikipedia.org/wiki/Srednekolymsk_Airport","УЕСК, Среднеколымск"
+316761,"UESK","medium_airport","Srednekolymsk Airport",67.4805,153.7364,60,"AS","RU","RU-SA","Srednekolymsk","yes",,"SEK","UESK",,,"https://en.wikipedia.org/wiki/Srednekolymsk_Airport","УЕСК, Среднеколымск"
 335195,"UESL","small_airport","Sylgy-Ytar Airport",67.848145,154.838862,164,"AS","RU","RU-SA",,"no",,,"UESL",,,,"УЕСЛ, Сылгы-Ытар"
 32514,"UESO","medium_airport","Chokurdakh Airport",70.6231,147.901993,151,"AS","RU","RU-SA","Chokurdah","yes","UESO","CKH","UESO",,,"https://en.wikipedia.org/wiki/Chokurdakh_Airport","Chokurdah Airport, Cokurdah Airport, Аэропорт Чокурдах"
 609945,"UESP","heliport","Polyarnoye HLS",71.13353,149.272888,66,"AS","RU","RU-SA","Polyarnoye","no",,,"UESP",,,,"УЕСП, Полярный / Полярное"
@@ -66717,7 +66722,7 @@
 525055,"UHEK","small_airport","Kupol Airport",66.901667,169.56,1745,"AS","RU","RU-CHU",,"no",,,"UHEK",,,"https://en.wikipedia.org/wiki/Kupol_Airport",
 597124,"UHGB","small_airport","Yamsk Airfield",59.581555,154.15393,10,"AS","RU","RU-MAG","Yamsk","no",,,"UHGB",,,,"УХГБ. Ямск"
 596406,"UHGL","small_airport","Glukharinoye Airfield",64.999872,153.096328,977,"AS","RU","RU-MAG","Glukharinoye","no",,,"UHGL",,,,"УХГЛ, Глухариное, Глухариный"
-610074,"UHGQ","heliport","Pionernaya Heliport",59.60107,150.76815,670,"EU","RU","RU-MAG","Pionernaya","no",,,"UHGQ",,,,"УХГЯ, Пионерный"
+610074,"UHGQ","heliport","Pionernaya Heliport",59.60107,150.76815,670,"AS","RU","RU-MAG","Pionernaya","no",,,"UHGQ",,,,"УХГЯ, Пионерный"
 321902,"UHHG","small_airport","Bomnak Airfield",54.71275,128.8577,1199,"AS","RU","RU-AMU","Bomnak","no",,,"UHHG","UHHG",,,"УХХГ, Бомнак"
 6455,"UHHH","medium_airport","Khabarovsk Novy Airport",48.528338,135.188588,244,"AS","RU","RU-KHA","Khabarovsk","yes","UHHH","KHV","UHHH",,"http://airkhv.ru/","https://en.wikipedia.org/wiki/Khabarovsk_Novy_Airport","Аэропорт Хабаровск-Новый"
 324923,"UHHO","small_airport","Troitskoye Airport",49.444833,136.571033,93,"AS","RU","RU-KHA","Troitskoye","no","UHHO",,"UHHO",,,,"УХХО, Троицкое"
