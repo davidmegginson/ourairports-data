@@ -23877,7 +23877,6 @@
 599693,"EE-9282","small_airport","Tallinn West Aerodrome",59.335726,24.520798,,"EU","EE","EE-37","Vanamõisa","no","EETW",,"EETW",,,,
 343869,"EEAA","small_airport","Antsla Airfield",57.826111,26.4925,258,"EU","EE","EE-86","Antsla","no","EEAA",,"EEAA",,,"https://en.wikipedia.org/wiki/Antsla_Airfield",
 538408,"EEAE","small_airport","Aespa Airfield",59.204711,24.610995,196,"EU","EE","EE-37","Aespa","no",,,"EEAE",,,,
-342467,"EEB","small_airport","El Espino Airport",6.4884,-72.50388,7126,"SA","CO","CO-BOY","El Espino","no",,,,"EEB",,,"SQSY"
 43020,"EECL","heliport","Tallinn Linnahall Heliport",59.448015,24.753313,23,"EU","EE","EE-37","Tallinn","yes","EECL","CHE","EECL",,,"https://en.wikipedia.org/wiki/Tallinn_Linnahall_Heliport","Tallinn City Hall"
 2297,"EEEI","medium_airport","Ämari Air Base",59.259599,24.204799,65,"EU","EE","EE-37","Keila","no","EEEI",,"EEEI",,,"https://en.wikipedia.org/wiki/%C3%84mari_Air_Base","Suurküla, Vasalemma, Emari, Suurkyul, Shuurkyul, Shuurkul"
 308836,"EEHA","small_airport","Humala Airfield",59.3579,24.3795,88,"EU","EE","EE-37","Humala","no","EEHA",,"EEHA",,,"https://en.wikipedia.org/wiki/Humala_Airfield",
@@ -24253,7 +24252,7 @@
 2460,"EGPE","medium_airport","Inverness Airport",57.5425,-4.0475,31,"EU","GB","GB-SCT","Inverness","yes","EGPE","INV","EGPE",,"http://www.hial.co.uk/inverness-airport.html","https://en.wikipedia.org/wiki/Inverness_Airport",
 2461,"EGPF","large_airport","Glasgow Airport",55.871899,-4.43306,26,"EU","GB","GB-SCT","Glasgow","yes","EGPF","GLA","EGPF",,"http://www.glasgowairport.com/","https://en.wikipedia.org/wiki/Glasgow_International_Airport","Port-adhair Eadar-nàiseanta Ghlaschu, RAF Abbotsinch, RAF Ayr"
 29171,"EGPG","small_airport","Cumbernauld Airport",55.974701,-3.97556,350,"EU","GB","GB-SCT","Cumbernauld","no",,,"EGPG",,"https://www.cumbernauldairport.org/","https://en.wikipedia.org/wiki/Cumbernauld_Airport",
-2462,"EGPH","large_airport","Edinburgh Airport",55.950145,-3.372288,135,"EU","GB","GB-SCT","Edinburgh","yes","EGPH","EDI","EGPH",,"http://www.edinburghairport.com/","https://en.wikipedia.org/wiki/Edinburgh_Airport",
+2462,"EGPH","large_airport","Edinburgh Airport",55.950145,-3.372288,135,"EU","GB","GB-SCT","Ingliston, Edinburgh","yes","EGPH","EDI","EGPH",,"http://www.edinburghairport.com/","https://en.wikipedia.org/wiki/Edinburgh_Airport",
 2463,"EGPI","medium_airport","Islay Airport",55.682708,-6.257525,56,"EU","GB","GB-SCT","Isle of Islay, Argyll and Bute","yes","EGPI","ILY","EGPI",,,"https://en.wikipedia.org/wiki/Islay_Airport","Glenegedale, Islay, Port Ellen"
 29172,"EGPJ","small_airport","Fife Airport",56.1833,-3.22028,399,"EU","GB","GB-SCT","Glenrothes","no",,,"EGPJ",,"https://www.fifeairport.com/","https://en.wikipedia.org/wiki/Fife_Airport",
 2464,"EGPK","large_airport","Glasgow Prestwick Airport",55.501499,-4.577182,65,"EU","GB","GB-SCT","Prestwick, South Ayrshire","yes","EGPK","PIK","EGPK",,"https://www.glasgowprestwick.com/","https://en.wikipedia.org/wiki/Glasgow_Prestwick_International_Airport",
@@ -39612,7 +39611,7 @@
 19722,"KECU","small_airport","Edwards County Airport",29.9468994140625,-100.17400360107422,2372,"NA","US","US-TX","Rocksprings","no",,,"KECU","ECU",,,
 45955,"KEDC","medium_airport","Austin Executive Airport",30.398049,-97.566909,620,"NA","US","US-TX","Pflugerville","yes","KEDC",,"KEDC","EDC",,"https://en.wikipedia.org/wiki/Austin_Executive_Airport","6R4, Bird's Nest"
 19723,"KEDE","small_airport","Northeastern Regional Airport",36.027698516799994,-76.56710052490001,20,"NA","US","US-NC","Edenton","no","KEDE","EDE","KEDE","EDE",,"https://en.wikipedia.org/wiki/Northeastern_Regional_Airport","MCAS Edenton, NAAS Edenton"
-19724,"KEDG","small_airport","Weide (Aberdeen Proving Ground) Army Heliport",39.391602,-76.2911,21,"NA","US","US-MD","Gunpowder","no",,,"KEDG","EDG",,"https://en.wikipedia.org/wiki/Weide_Army_Airfield",
+19724,"KEDG","small_airport","Weide (Aberdeen Proving Ground) Army Heliport",39.391602,-76.2911,21,"NA","US","US-MD","Edgewood Arsenal","no","KEDG",,"KEDG","EDG",,"https://en.wikipedia.org/wiki/Weide_Army_Airfield","Gunpowder"
 19725,"KEDJ","small_airport","Bellefontaine Regional Airport",40.372299,-83.819,1122,"NA","US","US-OH","Bellefontaine","no",,,"KEDJ","EDJ",,"https://en.wikipedia.org/wiki/Bellefontaine_Regional_Airport",
 19726,"KEDN","small_airport","Enterprise Municipal Airport",31.29969978,-85.89990234,361,"NA","US","US-AL","Enterprise","no","KEDN","ETS","KEDN","EDN",,"https://en.wikipedia.org/wiki/Enterprise_Municipal_Airport_(Alabama)",
 17175,"KEDU","small_airport","University Airport",38.531502,-121.786489,69,"NA","US","US-CA","Davis","no",,,"KEDU","EDU",,"https://en.wikipedia.org/wiki/University_Airport","0O5"
@@ -61311,7 +61310,7 @@
 40872,"SK-036","small_airport","Monterrey Airport",9.736667,-74.829444,59,"SA","CO","CO-BOL","Zambrano","no",,,,"MBO",,,
 40927,"SK-037","small_airport","San Pablo - Incora Airport",10.047222,-75.265278,52,"SA","CO","CO-BOL","María La Baja","no",,,,"SPO",,,
 40846,"SK-038","small_airport","Santa Rosa Del Sud Airport",7.991389,-74.036111,1359,"SA","CO","CO-BOL","Santa Rosa Del Sud","no",,,,"SRD",,,
-40862,"SK-039","small_airport","El Espino Airport",6.48813,-72.504635,7123,"SA","CO","CO-BOY","El Espino","no",,,,"EEB",,,
+40862,"SK-039","small_airport","El Espino Airport",6.488353,-72.503959,7123,"NA","CO","CO-BOY","El Espino","no",,,,"EEB",,,
 40852,"SK-040","small_airport","Muzo Airport",5.547222,-74.112778,3000,"SA","CO","CO-BOY","Muzo","no",,,,"MUZ",,,
 40940,"SK-041","small_airport","La Palestina Airport",5.030278,-75.616667,5042,"SA","CO","CO-CAL","La Palestina","no",,,,"LAE",,,
 40918,"SK-042","small_airport","Pensilvania Airport",5.369722,-75.140833,7626,"SA","CO","CO-CAL","Pensilvania","no",,,,"PEN",,,
