@@ -22826,7 +22826,7 @@
 609097,"DE-0935","small_airport","Eschelbach Airfield",48.569722,11.609722,1511,"EU","DE","DE-BY","Pfaffenhofen an der Ilm","no",,,,,"https://dulv.de/fmwebphp/Flugplatz/details.php?id=795",,
 609181,"DE-0936","closed","Unknown Airport",51.5322,14.3155,276,"EU","DE","DE-BR","Terpe","no",,,,,,,
 609504,"DE-0937","small_airport","Flugplatz Hain-Sondershausen",51.43798,10.77196,,"EU","DE","DE-TH",,"no",,,,,,,
-609956,"DE-0938","small_airport","Mahlwinkel Solar Farm Airstrip",52.388304,11.826107,135,"EU","DE","DE-ST","Cobbel","yes",,,,,,,
+610112,"DE-0938","small_airport","Mahlwinkel Solar Park Airstrip",52.388306,11.825876,135,"EU","DE","DE-ST","Angern","no",,,,,,,
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -23826,8 +23826,8 @@
 28520,"EDWZ","small_airport","Baltrum Airport",53.72485,7.373257,7,"EU","DE","DE-NI","Baltrum","yes","EDWZ","BMR","EDWZ",,"https://www.baltrum-flug.de/","https://de.wikipedia.org/wiki/Flugplatz_Baltrum",
 28491,"EDXA","small_airport","Flugplatz Achmer",52.37722,7.913333,177,"EU","DE","DE-NI","Bramsche","no","EDXA",,"EDXA",,,"https://en.wikipedia.org/wiki/Achmer_Aerodrome",
 28590,"EDXB","small_airport","Heide-Büsum Airport",54.153332,8.901667,7,"EU","DE","DE-SH","Oesterdeichstrich","yes","EDXB","HEI","EDXB",,"http://www.edxb.de","https://en.wikipedia.org/wiki/Heide-Buesum_Airport",
-28716,"EDXC","small_airport","Schleswig-Kropp Airfield",54.425497,9.541883,52,"EU","DE","DE-SH","Kropp","no",,,"EDXC",,,"https://de.wikipedia.org/wiki/Flugplatz_Schleswig-Kropp","Flugplatz Schleswig-Kropp"
-28531,"EDXD","small_airport","Bohmte-Bad Essen Airfield",52.351391,8.328333,148,"EU","DE","DE-NI","Bohmte","no",,,"EDXD",,,"https://de.wikipedia.org/wiki/Flugplatz_Bohmte-Bad_Essen","Flugplatz Bohmte-Bad Essen"
+28716,"EDXC","small_airport","Schleswig-Kropp Airfield",54.425497,9.541883,52,"EU","DE","DE-SH","Kropp","no","EDXC",,"EDXC",,"https://www.aeroclubkropp.de/","https://de.wikipedia.org/wiki/Flugplatz_Schleswig-Kropp","Flugplatz Schleswig-Kropp"
+28531,"EDXD","small_airport","Bohmte-Bad Essen Airfield",52.351391,8.328333,148,"EU","DE","DE-NI","Bohmte","no","EDXD",,"EDXD",,,"https://de.wikipedia.org/wiki/Flugplatz_Bohmte-Bad_Essen","Flugplatz Bohmte-Bad Essen"
 28704,"EDXE","small_airport","Rheine-Eschendorf Airfield",52.276389,7.492778,131,"EU","DE","DE-NW","Rheine","no",,,"EDXE",,"https://edxe.de/","https://de.m.wikipedia.org/wiki/Flugplatz_Rheine-Eschendorf","Flugplatz Rheine-Eschendorf"
 2293,"EDXF","small_airport","Flensburg-Schäferhaus Airport",54.773335,9.378889,131,"EU","DE","DE-SH","Flensburg","no","EDXF","FLF","EDXF",,,"https://en.wikipedia.org/wiki/Flensburg-Sch%C3%A4ferhaus_Airport",
 28645,"EDXG","small_airport","Melle-Grönegau Airfield",52.200832,8.380556,236,"EU","DE","DE-NI","Melle","no",,,"EDXG",,,"https://de.wikipedia.org/wiki/Flugplatz_Melle-Gr%C3%B6negau",
@@ -55591,7 +55591,7 @@
 44681,"RU-0039","closed","Kachalovka Airfield",67.987,39.834999,607,"EU","RU","RU-MUR","Kachalovka","no",,,,,,,"Аэродром Качаловка, ZA44, ЗА44, Гремиха"
 42948,"RU-0040","small_airport","Syktyvkar Southwest",61.586666,50.52,489,"EU","RU","RU-KO","Syktyvkar","no",,,,,,"https://en.wikipedia.org/wiki/Syktyvkar_Southwest",
 42969,"RU-0041","closed","Taly Ruchey Air Base",66.889999,33.883301,194,"EU","RU","RU-MUR","Umba","no",,,,,,"https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D1%8B%D0%B9_%D0%A0%D1%83%D1%87%D0%B5%D0%B9_(%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%8","Umba Northwest, Umba Severozapadnaya, Аэропорт Умба Северозападная, УЛМХ, Талый Ручей, ULMH"
-35059,"RU-0042","small_airport","Istomino Airfield",56.521719,43.480724,253,"EU","RU","RU-NIZ","Balakhna","no",,,,,,"https://en.wikipedia.org/wiki/Pravdinsk_(air_base)","Аэродром Правдинск, Аэродром Истомино, XUDP, Pravdinsk"
+35059,"RU-0042","small_airport","Istomino Airfield",56.521719,43.480724,253,"EU","RU","RU-NIZ","Balakhna","no",,,,"XUDP",,"https://en.wikipedia.org/wiki/Pravdinsk_(air_base)","Аэродром Правдинск, Аэродром Истомино, ЬУДП, Pravdinsk"
 42971,"RU-0043","medium_airport","Mius Airport",54.958332,43.311668,525,"EU","RU","RU-NIZ","Sarov","no",,,,"XUDM",,"https://en.wikipedia.org/wiki/Sarovo_Airport","Sarov Airport, Аэропорт Миус, Аэропорт Саров, ЬУДМ"
 42977,"RU-0044","small_airport","Krasnovishersk Airport",60.4106330871582,57.13611602783203,551,"EU","RU","RU-PER","Krasnovishersk","no",,,,,,"https://en.wikipedia.org/wiki/Krasnovishersk_Airport",
 42982,"RU-0045","closed","Saratov South Airport",51.477802,45.942593,266,"AS","RU","RU-SAR","Saratov","no",,,,,,"https://en.wikipedia.org/wiki/Saratov_South",
@@ -55687,7 +55687,7 @@
 44406,"RU-0135","small_airport","Esso Airport",55.938121,158.710606,1564,"AS","RU","RU-KAM","Esso","no",,,"UHQS",,,,"УХЯС, Аэропорт Эссо"
 44415,"RU-0136","closed","Galyonki Air Base",44.094144,131.804885,380,"AS","RU","RU-PRI","Galyonki","no",,,,,,,"Galenki Air Base, Аэродром Галёнки, Аэродром Галенки, XHIG"
 44416,"RU-0137","small_airport","Gazimurskiy Zavod Airport",51.547001,118.370003,2020,"AS","RU","RU-ZAB","Gazimurskiy Zavod","no",,,,,,,"Gazimursky Zavod Airport, Аэропорт Газимурский Завод"
-44417,"RU-0138","closed","Girvas Air Base",62.483002,33.75,,"EU","RU","RU-KR","Girvas","no",,,,,,,"Аэродром Гирвас, XLPG"
+44417,"RU-0138","closed","Girvas Air Base",62.482543,33.74992,302,"EU","RU","RU-KR","Girvas","no",,,,,,,"Аэродром Гирвас, XLPG, ЬЛПГ"
 44418,"RU-0139","small_airport","Goryachinsk Airport",53.01499938964844,108.3270034790039,,"AS","RU","RU-BU","Goryachinsk","no",,,,,,,"Аэропорт Горячинск"
 44419,"RU-0140","small_airport","Gryazi Airfield",52.43299865722656,39.900001525878906,,"EU","RU","RU-LIP","Gryazi","no",,,,,,,"Аэродром Грязи"
 44422,"RU-0141","closed","Idrinskoye Airport",54.362999,91.987,,"AS","RU","RU-KYA","Idrinskoye","no",,,,,,,"Idrinskoe Airport, Аэропорт Идринское"
@@ -55764,8 +55764,8 @@
 44884,"RU-0213","heliport","Panki Heliport",55.668301,37.931999,,"EU","RU","RU-MOS","Lyubertsy","no",,,,"XUCL","http://www.mi-helicopter.ru/index_eng.html",,"Вертодром Панки"
 44885,"RU-0214","heliport","Ukhtomskaya Heliport",55.69729995727539,37.87900161743164,,"EU","RU","RU-MOS","Lyubertsy","no",,,,,"http://www.kamov.ru/",,"Вертодром Ухтомская"
 44886,"RU-0215","heliport","Zhulebino Heliport",55.6870002746582,37.84000015258789,,"EU","RU","RU-MOW","Moscow","no",,,,,,,"Вертодром Жулебино"
-44898,"RU-0216","small_airport","Vokhma Airport",58.91699981689453,46.72700119018555,,"EU","RU","RU-KOS","Vokhma","no",,,,,,,"Аэропорт Вохма"
-44899,"RU-0217","medium_airport","Sormovo Airfield",56.31999969482422,43.79999923706055,249,"EU","RU","RU-NIZ","Nizhniy Novgorod","no",,,,,,"https://en.wikipedia.org/wiki/Sormovo_%28airfield%29","Аэродром Сормово"
+44898,"RU-0216","small_airport","Vokhma Airport",58.917332,46.725373,506,"EU","RU","RU-KOS","Vokhma","no",,,,"ZAX8",,,"ЗАЬ8, Аэропорт Вохма"
+44899,"RU-0217","medium_airport","Sormovo Airfield",56.32,43.799999,249,"EU","RU","RU-NIZ","Nizhniy Novgorod","no",,,,"XUDS",,"https://en.wikipedia.org/wiki/Sormovo_%28airfield%29","ЬУДС, Аэродром Сормово"
 44912,"RU-0218","small_airport","Bolshoye Gryzlovo Airfield",54.785,37.645,797,"EU","RU","RU-MOS","Pushchino","no",,,"UUDG","UUDG","https://web.archive.org/web/20190919145712/http://finam.aero/ostore/aerodrom_bg.html",,"Bolshoe Gryzlovo Airfield, Pushchino Airfield, Puschino Airfield, Аэродром Большое Грызлово, Аэродром Пущино, УУДГ"
 44913,"RU-0219","small_airport","Drakino Airfield",54.873,37.267,410,"EU","RU","RU-MOS","Serpukhov","no",,,,,,,"Аэродром Дракино"
 44914,"RU-0220","small_airport","Volosovo Airfield",55.068,37.454,,"EU","RU","RU-MOS","Volosovo","no",,,,,"http://www.volosovo.ru/",,"Аэродром Волосово"
@@ -55832,7 +55832,7 @@
 45173,"RU-0281","small_airport","Bely Klyuch Airfield",54.1965,48.321,526,"EU","RU","RU-ULY","Ulyanovsk","no",,,,"XWWN",,,"ЬВВН, Beliy Klyuch Airfield, Аэродром Белый Ключ, Ульянаўск"
 45175,"RU-0282","medium_airport","Millerovo Air Base",48.955177,40.296356,499,"EU","RU","RU-ROS","Millerovo","no",,,,"XRRI",,,"Аэродром Миллерово, ЬРРИ"
 45176,"RU-0283","closed","Millerovo Airport",48.937,40.417,492,"EU","RU","RU-ROS","Millerovo","no",,,,,,,"Аэропорт Миллерово, УРРИ, URRI"
-45188,"RU-0284","small_airport","Bogorodsk Airfield",56.121,43.545,,"EU","RU","RU-NIZ","Bogorodsk","no",,,,,,,"Аэродром Богородск"
+45188,"RU-0284","small_airport","Bogorodsk Airfield",56.122186,43.545365,413,"EU","RU","RU-NIZ","Bogorodsk","no",,,,"XUDK",,,"ЬУДК, Аэродром Богородск"
 45190,"RU-0285","small_airport","Primorsko-Akhtarsk Air Base",46.059,38.24,16,"EU","RU","RU-KDA","Primorsko-Akhtarsk","no",,,,"XRKP",,,"Аэродром Приморско-Ахтарск, ЬРКП"
 45192,"RU-0286","heliport","Temryuk Heliport",45.302121,37.321115,,"EU","RU","RU-KDA","Temryuk","no",,,,"ZAQ8",,,"Вертодром Темрюк"
 45193,"RU-0287","small_airport","Korenovsk Air Base",45.447,39.424,172,"EU","RU","RU-KDA","Korenovsk","no",,,,,,,"Аэродром Кореновск, ЬРКО"
@@ -55979,7 +55979,7 @@
 46465,"RU-0428","heliport","Osinovaya Roshcha Helipad",60.1020986078,30.2621734142,,"EU","RU","RU-SPE","Saint Petersburg","no",,,,,,,"Вертолётная площадка Осиновая Роща"
 46479,"RU-0429","small_airport","Morozovo Airstrip",55.3806464897,38.371596336399996,,"EU","RU","RU-MOS","Morozovo","no",,,,,,,"ВПП Морозово"
 46488,"RU-0430","small_airport","Kamyshin Airport",50.0532536947,45.3695440292,,"EU","RU","RU-VGG","Kamyshin","no",,,,,,,"Аэропорт Камышин"
-46649,"RU-0431","heliport","Opalikha Traffic Safety Helipad",56.195311,44.120718,,"EU","RU","RU-NIZ","Opalikha","no",,,,,,,
+46649,"RU-0431","heliport","Opalikha Traffic Safety Helipad",56.195249,44.120552,280,"EU","RU","RU-NIZ","Opalikha","no",,,,"H208",,,"Х208, Опаликха"
 299693,"RU-0432","closed","Karachayevsk Airfield",43.789001,41.911499,2816,"EU","RU","RU-KC","Karachayevsk","no",,,,,,,
 504970,"RU-0433","heliport","Krasnyi Baltiets Heliport",55.486753,35.989126,686,"EU","RU","RU-MOS","Krasnyi Baltiets","no",,,,"HG5J",,,
 315323,"RU-0434","closed","Salmiyarvi Airport",69.3296,29.9858,325,"EU","RU","RU-MUR","Nikel","no",,,,,,,"ЗЦ3Г, Сальмиярви, ZC3G"
@@ -56701,7 +56701,7 @@
 604385,"RU-10139","small_airport","Preobrazhenka Airfield",53.296747,50.723555,134,"AS","RU","RU-SAM","Preobrazhenka","no",,,,"ZF7T",,,"ЗФ7Т, Преображенка"
 526855,"RU-1014","heliport","KS-8 Chikshynskaya",64.906503,56.412424,,"EU","RU","RU-KO","Chikshino","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 604386,"RU-10140","small_airport","Krasnoarmeyskaya Airfield",45.36807,38.27963,,"EU","RU","RU-KDA",,"no",,,,"ZA65",,,
-604387,"RU-10141","small_airport","Okhlopkovo Airfield",56.190798,43.082682,,"EU","RU","RU-NIZ",,"no",,,,"ZBH9",,,
+604387,"RU-10141","small_airport","Okhlopkovo Airfield",56.190798,43.082682,,"AS","RU","RU-NIZ",,"no",,,,"UWGO",,,
 604388,"RU-10142","small_airport","Morozkino Airfield",54.122503,61.685645,702,"EU","RU","RU-CHE","Troitsk","no",,,,"H270",,,"Х270, Морозкино"
 604487,"RU-10143","small_airport","Mostovoy Airfield",56.1041,101.43773,1452,"AS","RU","RU-IRK",,"no",,,"UIBM","XIBM","https://vk.com/air_mostovoy",,"УИБМ, ЬИБМ, Мостовой, Bratsk, Братск"
 605767,"RU-10144","heliport","Ostrovnaya Bay Heliport",42.9697,131.8677,3,"AS","RU","RU-PRI","Russkiy","no",,,,,,,"U05JD"
@@ -56857,7 +56857,7 @@
 35103,"RU-6560","medium_airport","Ulan-Ude East Airport",51.849998,107.737999,1670,"AS","RU","RU-BU","Ulan Ude","no",,,"XIUW",,,"https://en.wikipedia.org/wiki/Ulan-Ude_Vostochny_Airport","Ulan-Ude Vostochny Airport, Аэропорт Улан-Удэ Восточный"
 35036,"RU-6687","medium_airport","Michurinsk Air Base",52.917455,40.365826,538,"EU","RU","RU-TAM","Michurinsk","no",,,,"XUWM",,"https://en.wikipedia.org/wiki/Michurinsk_(air_base)","ЬУВМ, Мичуринск, Michurinsk Northwest, Kozlov"
 34992,"RU-6699","closed","Idritsa Air Base",56.34830093383789,28.893299102783203,443,"EU","RU","RU-PSK","Idritsa","no",,,,,,"https://en.wikipedia.org/wiki/Idritsa",
-35072,"RU-6878","small_airport","Savasleyka Air Base",55.439999,42.310001,335,"EU","RU","RU-NIZ","Vykska","no",,,,"XUDE",,"https://en.wikipedia.org/wiki/Savasleyka","Savasleika, Savastleyka, Savostleyka, Murom"
+35072,"RU-6878","small_airport","Savasleyka Air Base",55.439692,42.308988,335,"EU","RU","RU-NIZ","Vykska","no",,,,"XUDE",,"https://en.wikipedia.org/wiki/Savasleyka_air_base","ЬУДЕ, Саваслейка, Savasleika, Savastleyka, Savostleyka, Murom"
 35043,"RU-6960","closed","Nivenskoye Air Base",54.562333,20.603224,66,"EU","RU","RU-KGD","Kaliningrad","no",,,,,,"https://en.wikipedia.org/wiki/Nivenskoye","XMWN, ЬМВН, Нивенское"
 35032,"RU-7218","small_airport","Matrosovo Air Base",49.401699,142.882996,335,"AS","RU","RU-SAK","Leonidovo","no",,,,"XHST",,"https://en.wikipedia.org/wiki/Matrosovo","ЬХСТ. Матросово"
 35007,"RU-7444","small_airport","Koshka Yavr Air Base",69.251701,31.196698,495,"EU","RU","RU-MUR","Zapolyarnyj","no",,,,"XLMY",,"https://en.wikipedia.org/wiki/Koshka_Yavr",
@@ -61648,7 +61648,7 @@
 40890,"SK-397","small_airport","San Pedro Airport",9.34,-74.9575,311,"SA","CO","CO-SUC","Buenavista","no",,,,"BVS",,,
 40874,"SK-398","small_airport","Aerosport Airport",4.183889,-74.834722,958,"SA","CO","CO-TOL","Flandes","no",,,,"FLD",,,
 40896,"SK-399","small_airport","Agua Blanca Airport",4.467222,-74.993333,1920,"SA","CO","CO-TOL","Piedras","no",,,,"ABT",,,
-40880,"SK-400","small_airport","Agua Blanca Airport",4.185556,-74.895833,1068,"SA","CO","CO-TOL","Espinal","no",,,,"AGB",,,
+40880,"SK-400","small_airport","Agua Blanca Airport",4.183866,-74.892943,1068,"NA","CO","CO-TOL","Espinal","no",,,"SQGC","AGB",,,"Force Oeste"
 40885,"SK-401","small_airport","Aniversario Estra Airport",4.123056,-74.910833,1058,"SA","CO","CO-TOL","El Espinal","no",,,,"ESS",,,
 40934,"SK-402","small_airport","Ataco Airport",3.570833,-75.411111,1506,"SA","CO","CO-TOL","Ataco","no",,,,"ATC",,,
 40878,"SK-403","small_airport","Boluca Airport",4.693611,-74.891944,988,"SA","CO","CO-TOL","Venadillo","no",,,,"BNI",,,
@@ -63208,9 +63208,11 @@
 39661,"SPZH","small_airport","Pachiza Airport",-7.299280166625977,-76.77459716796875,1102,"SA","PE","PE-SAM","Pachiza","no",,,"SPZH",,,,
 6243,"SPZO","large_airport","Alejandro Velasco Astete International Airport",-13.535699844400002,-71.9387969971,10860,"SA","PE","PE-CUS","Cusco","yes","SPZO","CUZ","SPZO",,"http://www.corpac.gob.pe/","https://en.wikipedia.org/wiki/Alejandro_Velasco_Astete_International_Airport",
 39662,"SPZT","small_airport","Chazuta Airport",-6.574166774749756,-76.13666534423828,757,"SA","PE","PE-SAM","Chazuta","no",,,"SPZT",,,,
+610095,"SQAB","small_airport","White Waters Ag Airport",7.820628,-73.572162,180,"SA","CO","CO-CES","Irbo","no",,,"SQAB",,,,"Irbo Southwest"
 519297,"SQED","small_airport","El Delirio Airport",6.982348,-70.880857,427,"SA","CO","CO-ARA","El Delirio","no",,,"SQED",,,,
 519298,"SQIR","small_airport","El Cairano Airport",10.712573,-75.264825,10,"SA","CO","CO-ATL","El Cairano","no",,,"SQIR",,,,
 507944,"SQKS","small_airport","Aerodromo Los Campanos",10.883168,-75.032145,92,"SA","CO","CO-ATL","Tubará","no",,,"SQKS",,"https://aeroclubloscampanos.com.co",,
+610096,"SQPU","small_airport","Acapulco Ag Airport",5.408643,-71.869559,581,"SA","CO","CO-CAS","Nunchía","no",,,"SQPU",,,,"La Bodega"
 323752,"SR-0001","small_airport","Amatopo Airstrip",3.547885,-57.633958,,"SA","SR","SR-SI","Amatopo","no",,,"SMAM",,,"https://en.wikipedia.org/wiki/Amatopo_Airstrip",
 323760,"SR-0002","small_airport","Nieuw Jacobkondre Airstrip",4.935714,-55.534735,82,"SA","SR","SR-SI","Nieuw Jacobkondre","no",,,"SMJK",,,"https://en.wikipedia.org/wiki/Njoeng_Jacob_Kondre_Airstrip",
 323765,"SR-0003","small_airport","Brownsweg Airstrip",5.022859,-55.165171,,"SA","SR","SR-BR","Brownsweg","no",,,,,,,
