@@ -11409,7 +11409,7 @@
 38371,"AU-0221","closed","Grovedale Airport",-38.216702,144.332993,,"OC","AU","AU-VIC",,"no",,,,,,,"YGRD"
 310100,"AU-0222","heliport","Tabulam Oval Helipad",-28.8903,152.5678,,"OC","AU","AU-NSW",,"no",,,,"YTBM",,,
 350215,"AU-0223","small_airport","Jimbour Homestead airstrip",-26.959998,151.235851,1115,"OC","AU","AU-QLD","Jimbour","no",,,,,,,
-350216,"AU-0224","small_airport","frogs hollows airfield",-36.760549,149.804163,270,"OC","AU","AU-NSW","Tathra","no",,,,,,,
+350216,"AU-0224","small_airport","Frogs Hollow Airfield",-36.760549,149.804163,282,"OC","AU","AU-NSW","Tathra","no","YFGS",,"YFGS",,,,
 504997,"AU-0225","small_airport","WILMINGTON RESIDENTIAL AIRPARK",-32.635309,138.107157,1080,"OC","AU","AU-SA","Wilmington","no",,,,,"https://www.wilmington-airpark.com/",,
 350243,"AU-0226","small_airport","Marulan (Tangryang) Airstrip",-34.734273,149.958315,2300,"OC","AU","AU-NSW","Marulan","no",,,,,,,
 350492,"AU-0227","small_airport","Pipers Airfield",-33.377547,149.519634,,"OC","AU","AU-NSW",,"no",,,,,,,
@@ -11990,6 +11990,9 @@
 608589,"AU-0806","small_airport","Clondrisse Airfield (private)",-38.48918,144.93305,,"OC","AU","AU-VIC","Cape Schanck","no",,,,,,,
 608590,"AU-0807","small_airport","McLeod Airstrip",-38.355822,145.445069,,"OC","AU","AU-VIC","French Island","no",,,,,,,
 610075,"AU-0808","closed","Penrith Speedway-Aerodrome",-33.748128,150.697832,,"OC","AU","AU-NSW","Penrith","no",,,,,,"https://en.wikipedia.org/wiki/Penrith_Speedway-Aerodrome",
+610118,"AU-0809","small_airport","Fairey Bower Airfield",-30.883277,148.246318,545,"OC","AU","AU-NSW","Coonamble","no","YFBR",,,,,,
+610125,"AU-0810","small_airport","Tooloora Farm Airstrip",-30.240334,148.090679,436,"OC","AU","AU-NSW","Walgett Shire","no",,,,,,,
+610127,"AU-0811","small_airport","Rose Hill Airstrip",-30.182502,148.243328,438,"OC","AU","AU-NSW","Walgett Shire","no",,,,,,,
 30622,"AU-AGW","small_airport","Agnew Airport",-12.1456,142.149369,160,"OC","AU","AU-QLD","Agnew","no",,"AGW","YAGN",,,"https://en.wikipedia.org/wiki/Agnew_Airport",
 30666,"AU-AYD","small_airport","Alroy Downs Airport",-19.2908,136.078995,711,"OC","AU","AU-NT","Alroy Downs","no",,"AYD","YALD",,,,
 30808,"AU-BYX","small_airport","Baniyala Airport",-13.1981,136.227005,20,"OC","AU","AU-NT","Baniyala","no",,"BYX","YBNI",,,,
@@ -22826,7 +22829,7 @@
 609097,"DE-0935","small_airport","Eschelbach Airfield",48.569722,11.609722,1511,"EU","DE","DE-BY","Pfaffenhofen an der Ilm","no",,,,,"https://dulv.de/fmwebphp/Flugplatz/details.php?id=795",,
 609181,"DE-0936","closed","Unknown Airport",51.5322,14.3155,276,"EU","DE","DE-BR","Terpe","no",,,,,,,
 609504,"DE-0937","small_airport","Flugplatz Hain-Sondershausen",51.43798,10.77196,,"EU","DE","DE-TH",,"no",,,,,,,
-610112,"DE-0938","small_airport","Mahlwinkel Solar Park Airstrip",52.388306,11.825876,135,"EU","DE","DE-ST","Angern","no",,,,,,,
+610123,"DE-0938","closed","Mahlwinkel Solar Park Airstrip.",52.388306,11.825876,135,"EU","DE","DE-ST","Angern","no",,,,,,,
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -23434,7 +23437,7 @@
 29060,"EDBE","small_airport","Brandenburg-Mühlenfeld Airfield",52.4375,12.59,100,"EU","DE","DE-BR","Brandenburg an der Havel","no","EDBE",,"EDBE",,"https://www.fliegerklub-brandenburg.de/","https://de.wikipedia.org/wiki/Flugplatz_Brandenburg/M%C3%BChlenfeld",
 28561,"EDBF","small_airport","Fehrbellin Airfield",52.793493,12.760324,135,"EU","DE","DE-BR","Fehrbellin","no","EDBF",,"EDBF",,"https://flugplatzfehrbellin.de/","https://de.wikipedia.org/wiki/Flugplatz_Fehrbellin","Ruppiner Land"
 43121,"EDBG","small_airport","Burg Airfield",52.241772,11.85619,173,"EU","DE","DE-ST","Burg bei Magdeburg","no","EDBG",,"EDBG",,,"https://de.wikipedia.org/wiki/Flugplatz_Burg",
-2196,"EDBH","small_airport","Stralsund-Barth Airport",54.338253,12.710515,23,"EU","DE","DE-MV","Barth","no","EDBH","BBH","EDBH",,"https://www.edbh.de/","https://en.wikipedia.org/wiki/Stralsund%E2%80%93Barth_Airport","Osteseeflughafen Stralsund-Barth"
+2196,"EDBH","small_airport","Stralsund-Barth Airport",54.338253,12.710515,23,"EU","DE","DE-MV","Barth","no","EDBH","BBH","EDBH",,"https://www.edbh.de/","https://en.wikipedia.org/wiki/Stralsund%E2%80%93Barth_Airport","ETBH, Osteseeflughafen Stralsund-Barth"
 28766,"EDBI","small_airport","Zwickau Airfield",50.701668,12.453889,1050,"EU","DE","DE-SN","Zwickau","no","EDBI",,"EDBI",,"http://www.acz.de/","http://de.wikipedia.org/wiki/Flugplatz_Zwickau","Flugplatz Zwickau"
 2197,"EDBJ","small_airport","Jena-Schöngleina Airfield",50.915345,11.714201,1228,"EU","DE","DE-TH","Schöngleina","no","EDBJ",,"EDBJ",,"https://www.edbj.de/","http://de.wikipedia.org/wiki/Flugplatz_Jena-Sch%C3%B6ngleina","Flugplatz Jena-Schöngleina"
 2198,"EDBK","small_airport","Kyritz Airfield",52.918888,12.425278,130,"EU","DE","DE-BR","Kyritz","no","EDBK",,"EDBK",,"https://www.edbk.de/","https://de.wikipedia.org/wiki/Flugplatz_Kyritz","Flugplatz Kyritz"
@@ -23450,10 +23453,10 @@
 29062,"EDBU","small_airport","Pritzwalk-Sommersberg Airfield",53.180019,12.184553,289,"EU","DE","DE-BR","Pritzwalk","no","EDBU",,"EDBU",,"https://www.segelflugzentrum-am-sommersberg.com/","https://de.wikipedia.org/wiki/Flugplatz_Pritzwalk-Sommersberg","Flugplatz Pritzwalk-Sommersberg"
 29063,"EDBV","small_airport","Stralsund Airfield",54.335835,13.043333,49,"EU","DE","DE-MV","Stralsund","no","EDBV",,"EDBV",,"http://www.flugplatz-stralsund.de/","https://de.wikipedia.org/wiki/Flugplatz_Stralsund","""Flugplatz Stralsund"""
 2202,"EDBW","small_airport","Werneuchen Airfield",52.631668,13.766944,262,"EU","DE","DE-BR","Werneuchen","no","EDBW",,"EDBW",,"https://www.flugplatz-werneuchen.de/","https://de.wikipedia.org/wiki/Flugplatz_Werneuchen",
-28574,"EDBX","small_airport","Görlitz Airfield",51.15889,14.950278,778,"EU","DE","DE-SN","Görlitz","no",,,"EDBX",,,"http://de.wikipedia.org/wiki/Flugplatz_G%C3%B6rlitz","Goerlitz"
+28574,"EDBX","small_airport","Görlitz Airfield",51.15889,14.950278,778,"EU","DE","DE-SN","Görlitz","no","EDBX",,"EDBX",,,"http://de.wikipedia.org/wiki/Flugplatz_G%C3%B6rlitz","Goerlitz"
 29064,"EDBY","small_airport","Schmoldow Airfield",53.972761,13.343377,105,"EU","DE","DE-MV","Bandelin","no","EDBY",,"EDBY",,,"https://de.wikipedia.org/wiki/Flugplatz_Schmoldow","Flugplatz Schmoldow"
 29065,"EDBZ","small_airport","Schwarzheide/Schipkau Airfield",51.491929,13.879366,331,"EU","DE","DE-BR","Schwarzheide","no","EDBZ",,"EDBZ",,,"https://de.wikipedia.org/wiki/Flugplatz_Schwarzheide-Schipkau",
-2203,"EDCA","small_airport","Anklam Otto Lilienthal Airfield",53.832801,13.668607,16,"EU","DE","DE-MV","Anklam","no","EDCA",,"EDCA",,"https://www.flugplatz-anklam.de","https://de.wikipedia.org/wiki/Flugplatz_Anklam","QKQ, Anklamer Flugplatz Otto Lilienthal"
+2203,"EDCA","small_airport","Anklam Otto Lilienthal Airfield",53.832801,13.668607,16,"EU","DE","DE-MV","Anklam","no","EDCA",,"EDCA",,"https://www.flugplatz-anklam.de","https://de.wikipedia.org/wiki/Flugplatz_Anklam","ETAM, QKQ, Anklamer Flugplatz Otto Lilienthal"
 28519,"EDCB","small_airport","Ballenstedt Airfield",51.745834,11.229722,535,"EU","DE","DE-ST","Ballenstedt","no",,,"EDCB",,"http://www.flugplatz-ballenstedt.de","https://de.wikipedia.org/wiki/Flugplatz_Ballenstedt","Flugplatz Ballenstedt, Verkehrslandeplatz Ballenstedt/Quedlinburg"
 28557,"EDCE","small_airport","Müncheberg-Eggersdorf Airfield",52.482791,14.090738,223,"EU","DE","DE-BR","Müncheberg","no","EDCE",,"EDCE",,"http://www.flugplatz-eggersdorf.de/","https://de.wikipedia.org/wiki/Flugplatz_Eggersdorf","Sonderlandeplatz Eggersdorf"
 28562,"EDCF","closed","Friedersdorf Glider Field",52.283298,13.8069,115,"EU","DE","DE-BR",,"no",,,,,,"https://de.wikipedia.org/wiki/Flugplatz_Friedersdorf","EDCF"
@@ -23476,7 +23479,7 @@
 28698,"EDCX","small_airport","Purkshof Airfield",54.161667,12.248611,66,"EU","DE","DE-MV","Klein Kussewitz","no",,,"EDCX",,,"https://de.wikipedia.org/wiki/Flugplatz_Purkshof","Flugplatz Purkshof, Rostock"
 2208,"EDCY","small_airport","Spremberg-Welzow Airfield",51.575558,14.136944,375,"EU","DE","DE-BR","Welzow","no",,,"EDCY",,"http://www.flugplatz-welzow.de","https://de.wikipedia.org/wiki/Flugplatz_Welzow","Welzow, Cottbus, Senftenberg, Beton"
 301881,"EDDB","large_airport","Berlin Brandenburg Airport",52.361738,13.502341,157,"EU","DE","DE-BR","Berlin","yes","EDDB","BER","EDDB",,"https://ber.berlin-airport.de/","https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport","Willy Brandt"
-2210,"EDDC","large_airport","Dresden Airport",51.134123,13.767831,755,"EU","DE","DE-SN","Dresden","yes","EDDC","DRS","EDDC",,"http://www.dresden-airport.de/en/index.html","https://en.wikipedia.org/wiki/Dresden_Airport",
+2210,"EDDC","large_airport","Dresden Airport",51.134123,13.767831,755,"EU","DE","DE-SN","Dresden","yes","EDDC","DRS","EDDC",,"http://www.dresden-airport.de/en/index.html","https://en.wikipedia.org/wiki/Dresden_Airport","ETDN"
 2211,"EDDE","large_airport","Erfurt-Weimar Airport",50.978281,10.960713,1036,"EU","DE","DE-TH","Erfurt","yes","EDDE","ERF","EDDE",,"http://www.airport-erfurt.de/","https://en.wikipedia.org/wiki/Erfurt_Airport","Flughafen Erfurt-Weimar"
 2212,"EDDF","large_airport","Frankfurt Main Airport",50.026706,8.55835,364,"EU","DE","DE-HE","Frankfurt am Main","yes","EDDF","FRA","EDDF",,"https://www.frankfurt-airport.de/","https://en.wikipedia.org/wiki/Frankfurt_Airport","EDAF, Frankfurt am Main, Frankfurt Main, Rhein-Main Air Base, Zeppelinheim"
 2213,"EDDG","large_airport","Münster Osnabrück Airport",52.133816,7.688482,160,"EU","DE","DE-NW","Greven","yes","EDDG","FMO","EDDG",,"https://www.fmo.de/","https://en.wikipedia.org/wiki/M%C3%BCnster_Osnabr%C3%BCck_International_Airport",
@@ -23561,7 +23564,7 @@
 28633,"EDHU","small_airport","Lauenbrück Airfield",53.2075,9.573333,98,"EU","DE","DE-NI","Lauenbrück","no",,,"EDHU",,"https://www.edhu.de","https://de.wikipedia.org/wiki/Flugplatz_Lauenbr%C3%BCck","Sonderlandeplatz"
 28748,"EDHW","small_airport","Wahlstedt Airfield",53.969444,10.221667,128,"EU","DE","DE-SH","Wahlstedt","no",,,"EDHW",,"http://www.edhw.de/","https://de.wikipedia.org/wiki/Flugplatz_Wahlstedt","Flugplatz Wahlstedt"
 308606,"EDHX","heliport","Bad Bramstedt Heliport",53.9428,9.9055,118,"EU","DE","DE-SH","Bad Bramstedt","no",,,"EDHX",,,,
-2237,"EDJA","large_airport","Memmingen Allgau Airport",47.988092,10.238248,2077,"EU","DE","DE-BY","Memmingen","yes","EDJA","FMM","EDJA",,,"https://en.wikipedia.org/wiki/Memmingen_Airport",
+2237,"EDJA","large_airport","Memmingen Allgau Airport",47.988092,10.238248,2077,"EU","DE","DE-BY","Memmingen","yes","EDJA","FMM","EDJA",,,"https://en.wikipedia.org/wiki/Memmingen_Airport","ETSM"
 308861,"EDJG","small_airport","Grabenstätt Airfield",47.852757,12.55037,1765,"EU","DE","DE-BY","Grabenstätt","no",,,"EDJG",,,"https://de.wikipedia.org/wiki/Flugplatz_Grabenst%C3%A4tt",
 28490,"EDKA","small_airport","Aachen-Merzbrück Airport",50.823055,6.186389,623,"EU","DE","DE-NW","Aachen","no","EDKA","AAH","EDKA",,"https://www.flugplatz-aachen.de","https://en.wikipedia.org/wiki/Aachen_Merzbr%C3%BCck_Airfield","EDCM, ETBA, Flugplatz Aachen Merzbrück, Segelflug Aachen, Motorflug Aachen"
 28532,"EDKB","small_airport","Bonn-Hangelar Airfield",50.76889,7.163333,197,"EU","DE","DE-NW","Bonn","no",,,"EDKB",,,"http://de.wikipedia.org/wiki/Flugplatz_Bonn/Hangelar",
@@ -23828,7 +23831,7 @@
 28590,"EDXB","small_airport","Heide-Büsum Airport",54.153332,8.901667,7,"EU","DE","DE-SH","Oesterdeichstrich","yes","EDXB","HEI","EDXB",,"http://www.edxb.de","https://en.wikipedia.org/wiki/Heide-Buesum_Airport",
 28716,"EDXC","small_airport","Schleswig-Kropp Airfield",54.425497,9.541883,52,"EU","DE","DE-SH","Kropp","no","EDXC",,"EDXC",,"https://www.aeroclubkropp.de/","https://de.wikipedia.org/wiki/Flugplatz_Schleswig-Kropp","Flugplatz Schleswig-Kropp"
 28531,"EDXD","small_airport","Bohmte-Bad Essen Airfield",52.351391,8.328333,148,"EU","DE","DE-NI","Bohmte","no","EDXD",,"EDXD",,,"https://de.wikipedia.org/wiki/Flugplatz_Bohmte-Bad_Essen","Flugplatz Bohmte-Bad Essen"
-28704,"EDXE","small_airport","Rheine-Eschendorf Airfield",52.276389,7.492778,131,"EU","DE","DE-NW","Rheine","no",,,"EDXE",,"https://edxe.de/","https://de.m.wikipedia.org/wiki/Flugplatz_Rheine-Eschendorf","Flugplatz Rheine-Eschendorf"
+28704,"EDXE","small_airport","Rheine-Eschendorf Airfield",52.276389,7.492778,131,"EU","DE","DE-NW","Rheine","no","EDXE",,"EDXE",,"https://edxe.de/","https://de.m.wikipedia.org/wiki/Flugplatz_Rheine-Eschendorf","ZPQ, Flugplatz Rheine-Eschendorf"
 2293,"EDXF","small_airport","Flensburg-Schäferhaus Airport",54.773335,9.378889,131,"EU","DE","DE-SH","Flensburg","no","EDXF","FLF","EDXF",,,"https://en.wikipedia.org/wiki/Flensburg-Sch%C3%A4ferhaus_Airport",
 28645,"EDXG","small_airport","Melle-Grönegau Airfield",52.200832,8.380556,236,"EU","DE","DE-NI","Melle","no",,,"EDXG",,,"https://de.wikipedia.org/wiki/Flugplatz_Melle-Gr%C3%B6negau",
 28591,"EDXH","small_airport","Helgoland-Düne Airport",54.18528,7.915833,8,"EU","DE","DE-SH","Helgoland","yes","EDXH","HGL","EDXH",,"https://www.flugplatz-helgoland.de/","https://en.wikipedia.org/wiki/Heligoland_Airport",
@@ -25489,7 +25492,7 @@
 29395,"ETHA","small_airport","Altenstadt Army Airfield",47.835499,10.8712,2425,"EU","DE","DE-BY","Altenstadt","no","ETHA",,"ETHA",,,"http://de.wikipedia.org/wiki/Heeresflugplatz_Altenstadt","Heeresflugplatz Altenstadt"
 2721,"ETHB","medium_airport","Bückeburg Air Base",52.2785,9.08217,230,"EU","DE","DE-NI","Bückeburg","no","ETHB",,"ETHB",,,"https://en.wikipedia.org/wiki/B%C3%BCckeburg_Air_Base",
 2722,"ETHC","medium_airport","Celle Army Airfield",52.591202,10.0221,129,"EU","DE","DE-NI","Celle","no","ETHC",,"ETHC",,,"https://en.wikipedia.org/wiki/Celle_Air_Base","ZCN"
-2723,"ETHE","small_airport","Rheine-Bentlage Airfield",52.291199,7.387,129,"EU","DE","DE-NW",,"no",,,"ETHE",,,"https://en.wikipedia.org/wiki/Rheine-Bentlage_Air_Base",
+2723,"ETHE","small_airport","Rheine-Bentlage Airfield",52.291199,7.387,129,"EU","DE","DE-NW",,"no","ETHE",,"ETHE",,,"https://en.wikipedia.org/wiki/Rheine-Bentlage_Air_Base","ZPQ"
 2724,"ETHF","medium_airport","Fritzlar Army Airfield",51.1146,9.286,565,"EU","DE","DE-HE","Fritzlar","no","ETHF","FRZ","ETHF",,,"https://en.wikipedia.org/wiki/Fritzlar_Air_Base","Heeresflugplatz Fritzlar"
 29396,"ETHH","heliport","Bonn-Hardthöhe Air Base",50.696503,7.045111,522,"EU","DE","DE-NW","Bonn","no",,,"ETHH",,,,
 2725,"ETHL","medium_airport","Laupheim Air Base",48.220299,9.91002,1766,"EU","DE","DE-BW","Laupheim","no","ETHL",,"ETHL",,,"https://en.wikipedia.org/wiki/Laupheim_Air_Base","Militärflugplatz Laupheim"
@@ -45079,7 +45082,7 @@
 4514,"LTAH","medium_airport","Afyon Air Base",38.726398,30.601101,3310,"AS","TR","TR-03","Afyonkarahisar","no","LTAH","AFY","LTAH",,,"https://en.wikipedia.org/wiki/Afyon_Airport","Afyonkarahisar"
 4515,"LTAI","large_airport","Antalya International Airport",36.898701,30.800501,177,"AS","TR","TR-07","Antalya","yes","LTAI","AYT","LTAI",,"http://www.antalya.dhmi.gov.tr/havaalanlari/default.aspx?hv=4","https://en.wikipedia.org/wiki/Antalya_Airport",
 4516,"LTAJ","large_airport","Gaziantep Oğuzeli International Airport",36.947201,37.478699,2315,"AS","TR","TR-27","Gaziantep","yes","LTAJ","GZT","LTAJ",,,"https://en.wikipedia.org/wiki/O%C4%9Fuzeli_Airport",
-30013,"LTAL","medium_airport","Kastamonu Airport",41.314201,33.795799,3520,"AS","TR","TR-37","Kastamonu","no","LTAL","KFS","LTAL",,"https://www.dhmi.gov.tr/Sayfalar/Havalimani/Kastamonu/AnaSayfa.aspx","https://en.wikipedia.org/wiki/Kastamonu_Airport",
+30013,"LTAL","medium_airport","Kastamonu Airport",41.314201,33.795799,3520,"AS","TR","TR-37","Kastamonu","yes","LTAL","KFS","LTAL",,"https://www.dhmi.gov.tr/Sayfalar/Havalimani/Kastamonu/AnaSayfa.aspx","https://en.wikipedia.org/wiki/Kastamonu_Airport",
 4518,"LTAN","large_airport","Konya Airport",37.979,32.561901,3392,"AS","TR","TR-42","Konya","yes","LTAN","KYA","LTAN",,"http://www.konya.dhmi.gov.tr/havaalanlari/default.aspx?hv=28","https://en.wikipedia.org/wiki/Konya_Airport",
 4519,"LTAO","small_airport","Malatya Tulga Airport",38.353699,38.253899,3016,"AS","TR","TR-44","Malatya","no","LTAO",,"LTAO",,,"https://tr.wikipedia.org/wiki/Malatya_Tulga_Havaliman%C4%B1",
 4520,"LTAP","small_airport","Amasya Merzifon Airport",40.829399,35.521999,1758,"AS","TR","TR-05","Amasya","yes","LTAP","MZH","LTAP",,"http://www.merzifon.dhmi.gov.tr/havaalanlari/default.aspx?hv=15","https://en.wikipedia.org/wiki/Merzifon_Airport",
@@ -55574,7 +55577,7 @@
 34962,"RU-0020","closed","Chekurovka Air Base",71.06500244140625,127.33799743652344,814,"AS","RU","RU-SA","Tiksi","no",,,,,,"https://en.wikipedia.org/wiki/Chekurovka",
 41836,"RU-0021","small_airport","Korsakov Pushistyy Aerodrome",46.618315,142.812759,210,"AS","RU","RU-SAK","Korsakov","no",,,"UHSJ",,,,"УХСЙ, Пушистый"
 34965,"RU-0022","small_airport","Chornoye Air Base",55.75,38.06669998168945,449,"EU","RU","RU-MOS","Moscow","no",,,,,"http://www.marzrosto.ru/","https://en.wikipedia.org/wiki/Chernoi","Chyornoye Air Base, Chyornoe Air Base, Chornoe Air Base, Аэродром Чёрное, Аэродром Черное"
-34967,"RU-0023","medium_airport","Chindant Air Base",50.396702,116.347,2201,"AS","RU","RU-ZAB","Borzya","no",,,"UIAG",,,"https://en.wikipedia.org/wiki/Chindant","Borzya, Borzia, Borzyu, Borzya Northwest, XIAG"
+34967,"RU-0023","medium_airport","Chindant Air Base",50.396823,116.346114,2201,"AS","RU","RU-ZAB","Borzya","no",,,,"XIAG",,"https://en.wikipedia.org/wiki/Chindant","Borzya, Borzia, Borzyu, Borzya Northwest, ЬИАГ, Чиндант"
 44674,"RU-0024","heliport","Krasnaya Polyana Heliport",43.6765319836,40.206634998300004,,"EU","RU","RU-KDA","Krasnaya Polyana","no",,,,,,,"Вертодром Красная Поляна"
 41839,"RU-0026","closed","Korsakov (Novaya) Air Base",46.709801,142.869995,347,"AS","RU","RU-SAK","Novaya","no",,,,,,,"Otomari Airfield"
 41840,"RU-0027","small_airport","Rybnovsk Airport",53.246007,141.806327,10,"AS","RU","RU-SAK","Rybnovsk","no",,,,"ZB37",,,
@@ -55675,7 +55678,7 @@
 44364,"RU-0123","small_airport","Birobidzhan Yuzhniy Airfield",48.583557,133.048811,217,"AS","RU","RU-YEV","Birobidzhan","no",,,"UHHB",,,"https://en.wikipedia.org/wiki/Birobidzhan_Yuzhniy_Airfield","УХХБ, Birobidzhan Yuzhny Airfield, Birobidzhan South Airfield, Zholty Yar Airfield, Zhelty Yar Airfield, Аэропорт Биробиджан Южный, Аэропорт Жёлтый Яр, Аэропорт Желтый Яр"
 44366,"RU-0124","closed","Birofeld Airfield",48.400002,132.783005,253,"AS","RU","RU-YEV","Birofeld","no",,,,,,,"ЗЦ2В, Аэродром Бирофельд, ZC2W"
 44370,"RU-0125","medium_airport","Bobrovka Air Base",53.145,50.709999,140,"AS","RU","RU-SAM","Kinel","no",,,"XWWO",,,,"Аэродром Бобровка"
-44378,"RU-0126","small_airport","Borzya Zapadnaya Airfield",50.354,116.260002,,"EU","RU","RU-ZAB","Borzya","no",,,,,,,"Borzya West Airfield, Аэродром Борзя Западная"
+44378,"RU-0126","small_airport","Borzya Zapadnaya Airfield",50.354,116.260002,,"AS","RU","RU-ZAB","Borzya","no",,,,,,,"Borzya West Airfield, Аэродром Борзя Западная"
 44379,"RU-0127","closed","Bryansk Airport",53.269328,34.336638,702,"EU","RU","RU-BRY","Bryansk","no",,,,,,,"ZA20, ЗА20, Аэропорт Брянск"
 44380,"RU-0128","medium_airport","Budyonnovsk Air Base",44.830002,44.013,,"EU","RU","RU-STA","Budyonnovsk","no",,,"URMB",,,,"Budennovsk Air Base, Аэродром Будённовск, Аэродром Буденновск"
 44381,"RU-0129","small_airport","Buzuluk Airport",52.8129997253418,52.22200012207031,,"EU","RU","RU-ORE","Buzuluk","no",,,"UWOX",,,,"Аэропорт Бузулук"
@@ -56701,7 +56704,7 @@
 604385,"RU-10139","small_airport","Preobrazhenka Airfield",53.296747,50.723555,134,"AS","RU","RU-SAM","Preobrazhenka","no",,,,"ZF7T",,,"ЗФ7Т, Преображенка"
 526855,"RU-1014","heliport","KS-8 Chikshynskaya",64.906503,56.412424,,"EU","RU","RU-KO","Chikshino","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 604386,"RU-10140","small_airport","Krasnoarmeyskaya Airfield",45.36807,38.27963,,"EU","RU","RU-KDA",,"no",,,,"ZA65",,,
-604387,"RU-10141","small_airport","Okhlopkovo Airfield",56.190798,43.082682,,"AS","RU","RU-NIZ",,"no",,,,"UWGO",,,
+604387,"RU-10141","small_airport","Okhlopkovo Airfield",56.190798,43.082682,,"EU","RU","RU-NIZ",,"no",,,,"UWGO",,,
 604388,"RU-10142","small_airport","Morozkino Airfield",54.122503,61.685645,702,"EU","RU","RU-CHE","Troitsk","no",,,,"H270",,,"Х270, Морозкино"
 604487,"RU-10143","small_airport","Mostovoy Airfield",56.1041,101.43773,1452,"AS","RU","RU-IRK",,"no",,,"UIBM","XIBM","https://vk.com/air_mostovoy",,"УИБМ, ЬИБМ, Мостовой, Bratsk, Братск"
 605767,"RU-10144","heliport","Ostrovnaya Bay Heliport",42.9697,131.8677,3,"AS","RU","RU-PRI","Russkiy","no",,,,,,,"U05JD"
@@ -66797,7 +66800,7 @@
 331737,"UHWT","small_airport","Terney Airport",45.0825,136.5912,33,"EU","RU","RU-PRI","Terney","no",,"NEI","UHWT",,,,
 6462,"UHWW","large_airport","Vladivostok International Airport",43.396256,132.148155,59,"AS","RU","RU-PRI","Artyom","yes","UHWW","VVO","UHWW",,"http://www.vladivostokavia.ru/en/airport/","https://en.wikipedia.org/wiki/Vladivostok_International_Airport","Vladivostok-Knevichi Airport"
 6463,"UIAA","large_airport","Chita-Kadala International Airport",52.024841,113.305839,2272,"AS","RU","RU-ZAB","Chita","yes","UIAA","HTA","UIAA",,"http://aerochita.ru/","https://en.wikipedia.org/wiki/Kadala_Airport",
-325080,"UIAB","heliport","Barnaul Heliport",50.3613832,116.4814,2224,"EU","RU","RU-ZAB","Borzya","no",,,"UIAB",,,,"УИАБ, Барнаул,  Борзя"
+325080,"UIAB","heliport","Barnaul Heliport",50.361383,116.4814,2224,"AS","RU","RU-ZAB","Borzya","no",,,"UIAB",,,,"УИАБ, Барнаул, Борзя"
 335246,"UIAC","small_airport","Tungukochen Airport",53.538317,115.615139,,"EU","RU","RU-ZAB",,"no",,,"UIAC",,,,
 546421,"UIAD","small_airport","Krasniy Chikoy Airfield",50.372068,108.76771,2529,"EU","RU","RU-ZAB","Krasniy Chikoy","no",,,"UIAD",,,,"УИАД, Красный Чикой"
 42997,"UIAE","medium_airport","Krasnokamensk Airport",50.033108,118.061142,2139,"AS","RU","RU-ZAB","Krasnokamensk","no",,,"UIAE",,,"https://en.wikipedia.org/wiki/Krasnokamensk_Airport","Аэропорт Краснокаменск"
@@ -83598,10 +83601,12 @@
 38350,"YEYD","small_airport","Evelyn Downs Airport",-28.204700469970703,134.48800659179688,,"OC","AU","AU-SA",,"no",,,"YEYD",,,,
 26984,"YFBS","medium_airport","Forbes Airport",-33.363602,147.934998,760,"OC","AU","AU-NSW","Forbes","no","YFBS","FRB","YFBS",,,"https://en.wikipedia.org/wiki/Forbes_Airport",
 38351,"YFCK","small_airport","Fish Creek Airport",-38.708603,146.054399,217,"OC","AU","AU-VIC","Fish Creek","no",,,"YFCK",,,,
+610129,"YFCN","small_airport","Fort Constantine Airport",-20.482035,140.579354,532,"OC","AU","AU-QLD","Cloncurry","no","YFCN",,"YFCN",,,,
 38352,"YFCU","small_airport","Fortescue River Airport",-21.299999237060547,116.13300323486328,,"OC","AU","AU-WA",,"no",,,"YFCU",,,,
 301103,"YFDF","small_airport","Fortescue - Dave Forrest Aerodrome",-22.290754,119.437143,1555,"OC","AU","AU-WA","Cloudbreak Village","no","YFDF","KFE","YFDF",,,"https://en.wikipedia.org/wiki/Fortescue_Dave_Forrest_Airport",
 29866,"YFDN","small_airport","Federation Hsd Airport",-35.01169967651367,147.37399291992188,709,"OC","AU","AU-NSW",,"no",,,"YFDN",,,,
 27561,"YFFT","small_airport","Farrell Flat Airport",-33.846753,138.777419,,"OC","AU","AU-SA",,"no",,,"YFFT",,,,
+610130,"YFHA","small_airport","Finch Hatton Airfield",-21.140833,148.648611,354,"OC","AU","AU-QLD","Finch Hatton","no","YFHA",,"YFHA",,,,
 309693,"YFHO","heliport","Fairfield Hospital Helipad",-33.859012,150.905447,154,"OC","AU","AU-NSW","Fairfield","no",,,"YFHO","YFHO",,,
 27562,"YFIL","small_airport","Finley Airport",-35.658918,145.561214,380,"OC","AU","AU-NSW",,"no","YFIL","FLY","YFIL",,,"https://en.wikipedia.org/wiki/Finley_Airport",
 27563,"YFLI","small_airport","Flinders Island Airport",-40.091702,147.992996,10,"OC","AU","AU-TAS","Whitemark","yes","YFLI","FLS","YFLI",,"http://www.flinders.tas.gov.au/flinders-island-airport","https://en.wikipedia.org/wiki/Flinders_Island_Airport",
