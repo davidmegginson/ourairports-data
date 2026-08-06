@@ -11398,7 +11398,7 @@
 349480,"AU-0210","small_airport","KESWICK ISLAND AIRSTRIP",-20.920538,149.422839,10,"OC","AU","AU-QLD","KESWICK ISLAND","no",,,,,,,
 349481,"AU-0211","small_airport","Lundavra Private Airstrip",-28.026001,150.026486,100,"OC","AU","AU-QLD","Lundavra","no",,,,,,,
 349482,"AU-0212","small_airport","Mount Walker airstrip",-27.76846,152.520597,2,"OC","AU","AU-QLD","Mount Walker West QLD 4340","no",,,,,,,
-349899,"AU-0213","small_airport","mount archer",-26.973333,152.666745,50,"OC","AU","AU-QLD","mount archer","no",,,,,"http://archerfallsairfield.com.au",,
+349899,"AU-0213","small_airport","Archer Falls Airfield",-26.974977,152.666767,50,"OC","AU","AU-QLD","Mount Archer","no",,,,,"http://archerfallsairfield.com.au",,
 350200,"AU-0214","small_airport","george lees airfield",-27.049228,151.274228,100,"OC","AU","AU-QLD","Pirrinuan, QLD 4405","no",,,,,,,
 350240,"AU-0215","small_airport","Hall Airport",-35.144284,149.042952,,"OC","AU","AU-NSW","Wallaroo","no",,,"YHAL",,,,
 350203,"AU-0216","small_airport","FORESTVALE AIRSTRIP",-25.805775,147.953224,,"OC","AU","AU-QLD","FORESTVALE","no",,,,,,,
@@ -17928,6 +17928,7 @@
 609937,"CA-1287","closed","Beaver Valley Soaring Field",44.589428,-80.537167,,"NA","CA","CA-ON","Meaford","no",,,,,,,
 609939,"CA-1288","closed","St-Eugene Airport",45.790509,-72.66425,,"NA","CA","CA-QC","Saint-Eugène-de-Grantham","no",,,,,,,
 609954,"CA-1289","small_airport","Guelph Private Field",43.5851,-80.330594,,"NA","CA","CA-ON","Guelph","no",,,,,,,
+610131,"CA-1290","small_airport","Lloyd Lake",57.341878,-109.02669,1000,"NA","CA","CA-SK",,"no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -24146,7 +24147,7 @@
 29125,"EGDP","heliport","RNAS Portland Heliport",50.5681,-2.44972,,"EU","GB","GB-ENG","Portland","no",,,"EGDP",,,"https://en.wikipedia.org/wiki/RNAS_Portland_(HMS_Osprey)",
 2408,"EGDR","medium_airport","RNAS Culdrose",50.08610153198242,-5.255710124969482,267,"EU","GB","GB-ENG","Helston","no",,,"EGDR",,,"https://en.wikipedia.org/wiki/RNAS_Culdrose_(HMS_Seahawk)",
 30133,"EGDW","small_airport","RNAS Merryfield",50.964283,-2.938443,151,"EU","GB","GB-ENG","Ilminster, Somerset","no",,,"EGDI",,,"https://en.wikipedia.org/wiki/RNAS_Merryfield","RAF Merryfield, RAF Isle Abbots, HMS Heron, EGDW"
-2409,"EGDX","medium_airport","MOD St Athan",51.405229,-3.433254,163,"EU","GB","GB-WLS","St Athan, Vale of Glamorgan","no",,,"EGSY",,,"https://en.wikipedia.org/wiki/MOD_St_Athan","RAF St Athan, St Athan Air Base, Saint Athan, Sain Tathan"
+2409,"EGDX","medium_airport","MOD St Athan",51.405229,-3.433254,163,"EU","GB","GB-WLS","St Athan, Vale of Glamorgan","no","EGSY",,"EGSY",,,"https://en.wikipedia.org/wiki/MOD_St_Athan","RAF St Athan, St Athan Air Base, Saint Athan, Sain Tathan"
 2410,"EGDY","medium_airport","RNAS Yeovilton",51.009399,-2.63882,75,"EU","GB","GB-ENG","Yeovil, Somerset","no","EGDY","YEO","EGDY",,,"https://en.wikipedia.org/wiki/RNAS_Yeovilton_(HMS_Heron)",
 44410,"EGEA","heliport","Culter Heliport",57.1198600605,-2.32116490602,300,"EU","GB","GB-SCT",,"no",,,"EGEA",,"http://www.hjshelicopters.co.uk/Culter%20Helipad.html",,
 2411,"EGEC","medium_airport","Campbeltown Airport",55.437199,-5.68639,42,"EU","GB","GB-SCT","Campbeltown","yes","EGEC","CAL","EGEC",,"http://www.hial.co.uk/campbeltown-airport.html","https://en.wikipedia.org/wiki/Campbeltown_Airport","Kintyre, RAF Machrihanish, Kinlochkilkerran"
@@ -31805,6 +31806,7 @@
 607494,"ID-0407","small_airport","Kapiraya Airstrip",-4.411759,135.998729,161,"AS","ID","ID-PT",,"no",,,,,,,
 607495,"ID-0408","small_airport","Kilmit Airstrip",-4.309575,138.122154,3291,"AS","ID","ID-PP","Kilmit","no",,,,,,,
 609605,"ID-0409","small_airport","(Duplicate)Ranai Airport",3.908714,108.387897,,"AS","ID","ID-U-A","Ranai-Natuna Besar Island","no",,,,,,,
+610141,"ID-0410","small_airport","Byan Airport",0.55083,116.10083,,"AS","ID","ID-KI","Umaq Dian, Tabang, Kabupaten Kutai Kartanegara, Kalimantan Timur","no","WAGU",,,,,"https://hubud.kemenhub.go.id/bandara/1034",
 41361,"ID-AAS","small_airport","Apalapsili Airport",-3.882495,139.310932,3100,"AS","ID","ID-PP","Apalapsili","no",,"AAS","WAVR","APA",,"https://en.wikipedia.org/wiki/Apalapsili_Airport",
 41362,"ID-AGD","small_airport","Anggi Airport",-1.3858,133.8737,6644,"AS","ID","ID-PB","Anggi-Papua Island","no",,"AGD","WAUA",,,"https://en.wikipedia.org/wiki/Anggi_Airport","WASG"
 43978,"ID-AHI","small_airport","Mina Wanam Airport",-7.540726,139.110916,22,"AS","ID","ID-PS","Wanam","no",,,,,,,"WT82"
@@ -31996,6 +31998,8 @@
 604120,"IE-0088","heliport","Executive Helicopters Ireland Helipad",53.12475,-8.47096,,"EU","IE","IE-G","Barratoor","no",,,,,,,
 609498,"IE-0089","small_airport","Coill an tSíáin Airstrip",53.60779,-9.45045,,"EU","IE","IE-MO","Killateeaun","no",,,,,,,
 610026,"IE-0090","small_airport","Cooley",53.98797,-6.221581,,"EU","IE","IE-LH",,"no",,,,,,,
+610135,"IE-0091","small_airport","Curragh Camp Racecourse Airfield",53.165,-6.843333,344,"EU","IE","IE-KE",,"no",,,,,"https://www.curragh.ie/",,
+610136,"IE-0092","closed","Culmullen Airfield",53.479444,-6.605278,390,"EU","IE","IE-MH","Curraghtown","no",,,,,,,
 17877,"IG00","heliport","Cameron Hospital Heliport",41.6338996887207,-84.99469757080078,1073,"NA","US","US-IN","Angola","no",,,"IG00","IG00",,,
 17878,"IG01","heliport","Iwc Heliport",39.78369903564453,-87.18360137939453,700,"NA","US","US-IN","Indianapolis","no",,,"IG01","IG01",,,
 17880,"IG03","small_airport","Bluebird Airport",39.391348,-86.597103,580,"NA","US","US-IN","Paragon","no",,,"IG03","IG03",,,
@@ -34046,7 +34050,7 @@
 609983,"IT-0988","heliport","ELI VAL MAIRA",44.472296,7.394637,1955,"EU","IT","IT-21","Villar San Costanzo","no",,,,,,,
 609984,"IT-0989","heliport","Lu Taz Heliport",44.213035,7.568266,3598,"EU","IT","IT-21","Limone Piemonte (CN)","no",,,,,,,
 609985,"IT-0990","heliport","Santa Croce & Carle Hospital Heliport",44.388641,7.522471,1814,"EU","IT","IT-21","Cuneo (CN)","no",,,,,,,
-609986,"IT-0991","heliport","Ospedale di Mondovì",44.391363,7.803803,,"EU","IT","IT-21","Mondovì","no",,,,,,,
+609986,"IT-0991","heliport","Regina Montis Regalis Hospital Heliport",44.391363,7.803803,1474,"EU","IT","IT-21","Mondovì (CN)","no",,,,,"https://xorigroup.com/en/projects/regina-montis-regalis-hospital/",,
 609987,"IT-0992","heliport","Pietro & Michele Ferrero Hospital Heliport",44.675018,7.931635,917,"EU","IT","IT-21","Verduno (CN)","no",,,,,,,
 610020,"IT-0993","heliport","Casteldelfino Heliport",44.586098,7.077385,,"EU","IT","IT-21","Casteldelfino","no",,,,,,,
 610021,"IT-0994","heliport","Cortemilia Heliport",44.594955,8.194797,,"EU","IT","IT-21","Cortemilia","no",,,,,,,
@@ -37882,7 +37886,7 @@
 18440,"K19M","small_airport","C. A. Moore Airport",33.1255,-90.025597,340,"NA","US","US-MS","Lexington","no",,,"K19M","19M",,"https://en.wikipedia.org/wiki/C._A._Moore_Airport",
 18441,"K19N","small_airport","Pine Valley Airport",39.7784,-74.9478,149,"NA","US","US-NJ","Berlin","no",,,"K19N","19N",,"https://en.wikipedia.org/wiki/Camden_County_Airport","Camden County"
 18442,"K19S","small_airport","Sublette Municipal Airport",37.497018,-100.834343,2908,"NA","US","US-KS","Sublette","no",,,,"19S",,"https://en.wikipedia.org/wiki/Sublette_Municipal_Airport","65K, Sublette Flying Club"
-18443,"K1A0","small_airport","Dallas Bay Sky Park Airport",35.18797,-85.176755,690,"NA","US","US-TN","Hixson","no",,,"1AA0","1AA0",,"https://en.wikipedia.org/wiki/Dallas_Bay_Skypark","1A0"
+18443,"K1A0","closed","Dallas Bay Sky Park Airport",35.18797,-85.176755,690,"NA","US","US-TN","Hixson","no",,,,,,"https://en.wikipedia.org/wiki/Dallas_Bay_Skypark","1A0, 1AA0"
 18444,"K1A3","small_airport","Martin Campbell Field",35.016201,-84.346298,1790,"NA","US","US-TN","Copperhill","no",,,"K1A3","1A3",,"https://en.wikipedia.org/wiki/Martin_Campbell_Field",
 18445,"K1A4","small_airport","Logan Field",31.103788,-86.06248,200,"NA","US","US-AL","Samson","no",,,"K1A4","1A4",,"https://en.wikipedia.org/wiki/Logan_Field_(Alabama)",
 18446,"K1A5","small_airport","Macon County Airport",35.222599029541016,-83.41899871826172,2020,"NA","US","US-NC","Franklin","no",,,"K1A5","1A5",,"https://en.wikipedia.org/wiki/Macon_County_Airport",
@@ -83152,6 +83156,7 @@
 38247,"YBEW","small_airport","Beechworth Airstrip",-31.916678,144.645553,,"OC","AU","AU-NSW",,"no",,,"YBEW",,,,
 27373,"YBFR","small_airport","Balfour Airport",-41.259033262799996,144.886064529,,"OC","AU","AU-TAS",,"no",,,"YBFR",,,,
 298810,"YBFT","small_airport","Beaufort",-37.495,143.43,1300,"OC","AU","AU-VIC",,"no",,,"YBFT",,,,
+610132,"YBFW","small_airport","Beefwood HLS",-23.311725,148.485371,855,"OC","AU","AU-QLD",,"no","YBFW",,"YBFW",,,,
 38248,"YBGB","small_airport","Beagle Bay Airport",-17.0165,122.6464,124,"OC","AU","AU-WA","Dampier Peninsula","no",,"BEE","YBGB",,,,
 298811,"YBGD","small_airport","Boolgeeda",-22.541111,117.269444,1871,"OC","AU","AU-WA",,"no","YBGD","OCM","YBGD",,,"https://en.wikipedia.org/wiki/Boolgeeda_Airport",
 27374,"YBGI","small_airport","Balgair Airport",-31.066699981689453,125.66699981689453,,"OC","AU","AU-WA",,"no",,,"YBGI",,,,
