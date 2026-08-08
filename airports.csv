@@ -57838,7 +57838,7 @@
 39265,"SCRC","small_airport","Villa Tapera Airport",-44.626389,-71.638885,1640,"SA","CL","CL-AI","Rio Cisnes","no",,,"SCRC",,,"https://en.wikipedia.org/wiki/Villa_Tapera_Airport",
 32565,"SCRD","small_airport","Rodelillo Airport",-33.0681,-71.557503,1100,"SA","CL","CL-VS","Viña Del Mar","no","SCRD","VAP","SCRD",,,"https://en.wikipedia.org/wiki/Rodelillo_Airfield",
 39266,"SCRE","small_airport","Estancia Río Cisnes Airport",-44.5,-71.321663,2150,"SA","CL","CL-AI","Rio Cisnes","no",,,"SCRE",,,"https://en.wikipedia.org/wiki/Estancia_R%C3%ADo_Cisnes_Airport",
-39267,"SCRF","small_airport","Laguna San Rafael Airport",-46.638889,-73.849998,20,"SA","CL","CL-AI","Laguna San Rafael","no",,,"SCRF",,,"https://en.wikipedia.org/wiki/Laguna_San_Raphael_Airport",
+39267,"SCRF","small_airport","Laguna San Rafael Airport",-46.639509,-73.861689,20,"SA","CL","CL-AI","Laguna San Rafael","no",,,"SCRF",,,"https://en.wikipedia.org/wiki/Laguna_San_Raphael_Airport",
 6038,"SCRG","medium_airport","La Independencia Airport",-34.173698,-70.775703,1610,"SA","CL","CL-LI","Rancagua","no","SCRG",,"SCRG",,"https://aipchile.dgac.gob.cl/aerodromo/show?designador=SCRG","https://en.wikipedia.org/wiki/Rancagua_de_la_Independencia_Airport","QRC"
 39268,"SCRH","small_airport","Reñihúe Airport",-42.585556,-72.494446,16,"SA","CL","CL-LL","Reñihue","no",,,"SCRH",,,"https://en.wikipedia.org/wiki/Re%C3%B1ih%C3%BAe_Airport",
 39269,"SCRI","small_airport","Río Frío Airport",-41.742523,-71.909854,1000,"SA","CL","CL-LL","Cochamó","no",,,"SCRI",,,"https://en.wikipedia.org/wiki/R%C3%ADo_Fr%C3%ADo_Airport","El Manso"
@@ -61514,7 +61514,7 @@
 40700,"SK-248","small_airport","Cerrejón Central Airport",11.038056,-72.695,395,"SA","CO","CO-LAG","Barrancas","no",,,,"BCA",,,
 40711,"SK-249","small_airport","Cotoprix Airport",11.223611,-72.836111,192,"SA","CO","CO-LAG","Riohacha","no",,,,"CTP",,,
 40686,"SK-250","small_airport","Manaure Airport",11.783333,-72.416667,13,"SA","CO","CO-LAG","Manaure","no",,,,"MAG",,,
-40620,"SK-252","small_airport","Puerto Estrella Airport",12.35,-71.3,10,"SA","CO","CO-LAG","Uribia","no",,,,"URA",,,
+40620,"SK-252","small_airport","Puerto Estrella Airport",12.34431,-71.304555,10,"NA","CO","CO-LAG","Uribia","no",,,,"URA",,,
 40720,"SK-253","small_airport","San Juan Del César Airport",10.744444,-72.994444,663,"SA","CO","CO-LAG","San Juan Del César","no",,,,"DJV",,,
 40723,"SK-254","small_airport","Villanueva Airport",10.583333,-73.016667,667,"SA","CO","CO-LAG","Villanueva","no",,,,"VLL",,,
 40848,"SK-255","small_airport","Algarrobo Airport",10.235833,-74.053611,379,"SA","CO","CO-MAG","Fundación","no",,,,"FUN",,,
@@ -64308,7 +64308,7 @@
 40241,"SVOW","small_airport","Coco de Mono Airport",7.199999809265137,-68.51667022705078,380,"SA","VE","VE-C",,"no",,,"SVOW",,,,
 40242,"SVOZ","small_airport","San Pablo Paeño Airport",7.783332824707031,-68.5,209,"SA","VE","VE-C",,"no",,,"SVOZ",,,,
 6309,"SVPA","medium_airport","Cacique Aramare Airport",5.61999,-67.606102,245,"SA","VE","VE-Z","Puerto Ayacucho","no","SVPA","PYH","SVPA",,,"https://en.wikipedia.org/wiki/Cacique_Aramare_Airport","Casique Aramare Airport"
-26482,"SVPB","small_airport","Punta Brava Airport",10.783900260925293,-68.34369659423828,19,"SA","VE","VE-I",,"no",,,"SVPB",,,,
+26482,"SVPB","closed","Punta Brava Airport",10.7839,-68.343697,19,"NA","VE","VE-I",,"no",,,,,,,"SVPB"
 6310,"SVPC","medium_airport","General Bartolome Salom International Airport",10.4805,-68.072998,32,"SA","VE","VE-G","Puerto Cabello","no","SVPC","PBL","SVPC",,,"https://en.wikipedia.org/wiki/General_Bartolom%C3%A9_Salom_Airport",
 40244,"SVPD","small_airport","Hato La Ponderosa Airport",7.099999904632568,-67.9000015258789,257,"SA","VE","VE-C",,"no",,,"SVPD",,,,
 6311,"SVPE","small_airport","Pedernales Airport",9.978672,-62.231318,25,"SA","VE","VE-Y","Capure","no","SVPE","PDZ","SVPE",,,"https://en.wikipedia.org/wiki/Pedernales_Airport",
@@ -64963,7 +64963,7 @@
 32416,"SYKK","small_airport","Kurukabaru Airport",4.715324,-59.91045,3199,"SA","GY","GY-PT","Kurukabaru","no","SYKK",,"SYKK",,,"https://en.wikipedia.org/wiki/Kurukabaru_Airport","Kurukubaru"
 31717,"SYKM","small_airport","Kamarang Airport",5.86534,-60.614201,1601,"SA","GY","GY-CU","Kamarang","no","SYKM","KAR","SYKM",,,"https://en.wikipedia.org/wiki/Kamarang_Airport",
 525287,"SYKN","small_airport","Kaikan Airport",6.173673,-61.145637,801,"SA","GY","GY-PM",,"no",,,"SYKN",,,,
-31772,"SYKR","small_airport","Karanambo Airport",3.752572,-59.30902,300,"SA","GY","GY-UT","Karanambo","no","SYKR","KRM","SYKR",,,"https://en.wikipedia.org/wiki/Karanambo_Airport",
+31772,"SYKR","small_airport","Karanambo Airport",3.769883,-59.344409,300,"SA","GY","GY-UT","Karanambo","no","SYKR","KRM","SYKR",,,"https://en.wikipedia.org/wiki/Karanambo_Airport",
 41514,"SYKS","small_airport","Karasabai Airport",4.03005,-59.54749,731,"SA","GY","GY-UT","Karasabai","no","SYKS","KRG","SYKS",,,"https://en.wikipedia.org/wiki/Karasabai_Airport",
 31782,"SYKT","small_airport","Kato Airport",4.64916,-59.832199,2299,"SA","GY","GY-PT","Kato","no","SYKT","KTO","SYKT",,,"https://en.wikipedia.org/wiki/Kato_Airport",
 41515,"SYKW","small_airport","Kwakwani Airport",5.259252,-58.065176,147,"SA","GY","GY-UD","Kwakwani","no","SYKW",,"SYKW",,,,
@@ -80080,15 +80080,15 @@
 42976,"USPT","small_airport","Berezniki Airport",59.579548,56.857681,207,"AS","RU","RU-PER","Solikamsk","no",,,"USPT",,,"https://en.wikipedia.org/wiki/Berezniki_Airport","Аэропорт Березники"
 315317,"USRA","small_airport","Ay-Pim Airport",62.265,71.191,258,"EU","RU","RU-KHM","Ay-Pim","no",,,"USRA","USRA",,,"УСРА, Ай-Пим Аэродромы"
 26376,"USRK","medium_airport","Kogalym International Airport",62.190399169921875,74.53379821777344,220,"AS","RU","RU-KHM","Kogalym","yes","USRK","KGP","USRK",,,"https://en.wikipedia.org/wiki/Kogalym_International_Airport",
-42943,"USRN","medium_airport","Nefteyugansk Airport",61.108299,72.650002,115,"AS","RU","RU-KHM","Nefteyugansk","yes","USRN","NFG","USRN",,"http://www.nuatc.ru/","https://en.wikipedia.org/wiki/Nefteyugansk_Airport","Аэропорт Нефтеюганск"
+42943,"USRN","medium_airport","Nefteyugansk Airport",61.108299,72.650002,115,"AS","RU","RU-KHM","Nefteyugansk","no",,"NFG","USRN",,,"https://en.wikipedia.org/wiki/Nefteyugansk_Airport","УСРН, Аэропорт Нефтеюганск"
 35176,"USRO","medium_airport","Noyabrsk Airport",63.18330001831055,75.2699966430664,446,"AS","RU","RU-YAN","Noyabrsk","yes","USRO","NOJ","USRO",,,"https://en.wikipedia.org/wiki/Noyabrsk_Airport",
 26377,"USRR","large_airport","Surgut International Airport",61.340501,73.405782,200,"AS","RU","RU-KHM","Surgut","yes","USRR","SGC","USRR",,,"https://en.wikipedia.org/wiki/Surgut_Airport",
-42985,"USSK","medium_airport","Uktus Airport",56.701698,60.790001,643,"AS","RU","RU-SVE","Yekaterinburg","no",,,"USSK",,"http://uktus.uralfirm.ru/","https://en.wikipedia.org/wiki/Uktus_Airport","Аэропорт Уктус"
+42985,"USSK","medium_airport","Uktus Airport",56.701698,60.790001,643,"EU","RU","RU-SVE","Yekaterinburg","no",,,"USSK","XSSK","https://web.archive.org/web/20090714140627/http://uktus.uralfirm.ru/","https://en.wikipedia.org/wiki/Uktus_Airport","УССК, ЬССК, Аэропорт Уктус, Екатеринбург / Арамиль"
 315324,"USSQ","small_airport","Alapayevsk Airfield",57.868108,61.748304,420,"EU","RU","RU-SVE","Alapayevsk","no",,,"USSQ","USSQ",,,"УССЯ, Алапаевск, Alapaevsk"
 26378,"USSS","large_airport","Koltsovo Airport",56.743099212646,60.802700042725,764,"AS","RU","RU-SVE","Yekaterinburg","yes","USSS","SVX","USSS",,"http://www.koltsovo.ru/en/","https://en.wikipedia.org/wiki/Koltsovo_Airport",
 342469,"USTJ","medium_airport","Tobolsk Remezov Airport",58.059712,68.347997,167,"AS","RU","RU-TYU","Tobolsk","yes","USTJ","RMZ","USTJ",,"https://rmz.aero/","https://en.wikipedia.org/wiki/Tobolsk_Remezov_Airport","Tobolsk New, Ремезов, УСТЙ"
 42992,"USTL","small_airport","Plekhanovo Airport",57.144691,65.469718,308,"EU","RU","RU-TYU","Tyumen","no",,,"USTL",,,"https://en.wikipedia.org/wiki/Plekhanovo_Airport","УСТЛ, Тюмень, Плеха́нова"
-32471,"USTO","small_airport","Tobolsk Airport",58.135799,68.231903,167,"AS","RU","RU-TYU","Tobolsk","no","USTO","TOX","USTO",,,"https://ro.wikipedia.org/wiki/Aeroportul_Tobolsk","УСТО, Тобольск"
+32471,"USTO","small_airport","Tobolsk Airport",58.135799,68.231903,167,"AS","RU","RU-TYU","Tobolsk","no",,"TOX","USTO",,,"https://ro.wikipedia.org/wiki/Aeroportul_Tobolsk","УСТО, Тобольск"
 26379,"USTR","large_airport","Roshchino International Airport",57.178984,65.327696,378,"AS","RU","RU-TYU","Tyumen","yes","USTR","TJM","USTR",,,"https://en.wikipedia.org/wiki/Roschino_International_Airport","УСТР, Тюмень, Рощино, D. I. Mendeleev, Д. И. Менделеева"
 31773,"USUU","medium_airport","Kurgan Airport",55.4753,65.415604,240,"AS","RU","RU-KGN","Kurgan","yes","USUU","KRO","USUU",,,"https://en.wikipedia.org/wiki/Kurgan_Airport",
 25243,"UT00","small_airport","Swains Creek Airport",37.472198486328125,-112.62200164794922,7780,"NA","US","US-UT","Alton","no",,,"UT00","UT00",,,
@@ -80214,7 +80214,7 @@
 31761,"UUBA","medium_airport","Kostroma Sokerkino Airport",57.796902,41.019402,446,"EU","RU","RU-KOS","Kostroma","yes","UUBA","KMW","UUBA",,"http://www.kmtn.ru/~koao/","https://en.wikipedia.org/wiki/Kostroma_Airport","Аэропорт Кострома Сокеркино"
 42934,"UUBC","medium_airport","Grabtsevo Airport",54.5499992371,36.3666687012,656,"EU","RU","RU-KLU","Kaluga","no","UUBC","KLF","UUBC",,,"https://en.wikipedia.org/wiki/Grabtsevo_Airport","Аэропорт Грабцево"
 31690,"UUBI","medium_airport","Ivanovo South Airport",56.93939971923828,40.940799713134766,410,"EU","RU","RU-IVA","Ivanovo","yes","UUBI","IWA","UUBI",,,"https://en.wikipedia.org/wiki/Ivanovo_Yuzhny_Airport","Ivanovo Yuzhniy Airport, Ivanovo Yuzhny Airport, Аэропорт Иваново Южный"
-32241,"UUBK","medium_airport","Staroselye Airport",58.104198,38.929401,423,"EU","RU","RU-YAR","Rybinsk","no",,"RYB","UUBK","XUBK",,"https://en.wikipedia.org/wiki/Staroselye_Airport","Аэропорт Староселье, ЬУБК, УУБК, Рыбинск"
+32241,"UUBK","medium_airport","Staroselye Airport",58.104198,38.929401,423,"EU","RU","RU-YAR","Rybinsk","no",,"RYB","XUBK","UUBK",,"https://en.wikipedia.org/wiki/Staroselye_Airport","Аэропорт Староселье, ЬУБК, УУБК, Рыбинск"
 44648,"UUBN","small_airport","Zmeyevo Airfield",56.914691,35.935672,472,"EU","RU","RU-TVE","Tver","no",,,"UUBN",,,"https://ru.wikipedia.org/wiki/%D0%97%D0%BC%D0%B5%D1%91%D0%B2%D0%BE_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)","Zmeevo Airport, Zmeyovo Airport, Аэропорт Змеево, Аэропорт Змеёво"
 26393,"UUBP","medium_airport","Bryansk International Airport",53.214403,34.175965,663,"EU","RU","RU-BRY","Bryansk","yes","UUBP","BZK","UUBP",,"https://bzk.aero/","https://en.wikipedia.org/wiki/Bryansk_International_Airport","Аэропорт Брянск, УУБП"
 335153,"UUBQ","small_airport","Sharya Airport",58.39282,45.554381,120,"AS","RU","RU-KOS","Sharya","no","UUBQ",,"UUBQ","UUBQ",,,"УУБЯ, Шарья, Sharia"
