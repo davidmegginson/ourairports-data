@@ -661,6 +661,7 @@
 345994,"0FA3","heliport","Brighton Helipad",27.075744,-81.071125,24,"NA","US","US-FL","Brighton","no",,,"60FA","60FA",,,"0FA3"
 320961,"0FA5","seaplane_base","Briley Farm Seaplane Base",28.5727778,-81.6286111,66,"NA","US","US-FL","Oakland","no",,,"0FA5","0FA5",,,
 347505,"0FA6","heliport","Immokalee Helipad",26.39841,-81.414667,72,"NA","US","US-FL","Immokalee","no",,,"0FA6","0FA6",,,
+610210,"0FA7","heliport","Alan B. Miller Medical Center Heliport",26.877364,-80.12355,13,"NA","US","US-FL","Palm Beach","no",,,"0FA7","0FA7",,,
 7162,"0FD0","small_airport","The 2A Ranch Airport",29.26757,-81.223331,40,"NA","US","US-FL","Ormond Beach","no",,,"0FD0","0FD0",,,"Big 'G' Airport"
 7163,"0FD1","heliport","Panhandle Helicopter LLC Heliport",30.213844,-85.871916,20,"NA","US","US-FL","Panama City Beach","no",,,"0FD1","0FD1",,,
 7164,"0FD2","heliport","Dolphin Stadium Heliport",25.960055,-80.240248,8,"NA","US","US-FL","Miami","no",,,"0FD2","0FD2",,,
@@ -3814,7 +3815,7 @@
 10409,"3CA6","heliport","Trizec 5670 Wilshire LLC Heliport",34.061962,-118.352146,559,"NA","US","US-CA","Los Angeles","no",,,"3CA6","3CA6",,,"JH Snyder Co III Heliport"
 10410,"3CA7","small_airport","Metz Airport",36.32830047607422,-121.18699645996094,240,"NA","US","US-CA","Greenfield","no",,,"3CA7","3CA7",,,
 10411,"3CA8","heliport","Holy Cross Medical Center Heliport",34.280109,-118.461186,1031,"NA","US","US-CA","Mission Hills","no",,,"3CA8","3CA8",,,
-10412,"3CA9","small_airport","Clark Ranch Airport",36.36330032348633,-121.30999755859375,276,"NA","US","US-CA","Soledad","no",,,"3CA9","3CA9",,,
+10412,"3CA9","closed","Clark Ranch Airport",36.3633,-121.309998,276,"NA","US","US-CA","Soledad","no",,,,,,,"3CA9"
 10413,"3CL0","heliport","UC Davis Medical Center Tower II Heliport",38.554831,-121.455491,236,"NA","US","US-CA","Sacramento","no",,,"3CL0","3CL0",,,
 10414,"3CL1","heliport","Metropolitan Water District Heliport",34.054704,-118.23636,465,"NA","US","US-CA","Los Angeles","no",,,"3CL1","3CL1",,,
 10416,"3CL3","heliport","World Trade Center Heliport",33.777801513671875,-118.19999694824219,398,"NA","US","US-CA","Long Beach","no",,,"3CL3","3CL3",,,
@@ -12412,7 +12413,7 @@
 307291,"AYWS","small_airport","Wasu Airport",-5.96170944919,147.19822526,34,"OC","PG","PG-MPL","Wasu","no","AYWS","WSU","AYWS","WASU",,,
 307247,"AYWT","small_airport","Woitape Airport",-8.545833,147.2525,5200,"OC","PG","PG-CPM","Fatima Mission","no","AYWT","WTP","AYWT","WTP",,"https://en.wikipedia.org/wiki/Woitape_Airport",
 307290,"AYWU","small_airport","Wau Airport",-7.345556,146.718611,3600,"OC","PG","PG-MPL","Wau","no","AYWU","WUG","AYWU","WAU",,"https://en.wikipedia.org/wiki/Wau_Airport,_Papua_New_Guinea",
-313135,"AYWV","small_airport","Warasai Airstrip",-4.012,142.51,150,"OC","PG","PG-ESW","Warasai","no","AYWV",,"AYWV",,,,
+313135,"AYWV","small_airport","Warasai Airstrip",-4.008674,142.512671,150,"OC","PG","PG-ESW","Warasai","no","AYWV",,"AYWV",,,,
 535818,"AYWX","small_airport","Wario Airstrip",-4.408708,142.226985,85,"OC","PG","PG-ESW",,"no",,,"AYWX",,,,
 535816,"AYWY","small_airport","Waro Airstrip",-6.536847,143.197869,1458,"OC","PG","PG-SHM","Iorogobayu","no",,,"AYWY","WARO",,,
 556496,"AYXA","small_airport","Wiawia Airstrip",-7.163746,145.633686,2000,"OC","PG","PG-GPK","Wiawia","no",,,"AYXA","WIA",,,
@@ -17149,7 +17150,7 @@
 299439,"CA-0499","closed","Sumas Municipal Airport",49.038515,-122.130675,,"NA","CA","CA-BC","Abbotsford","no",,,,,,,
 299559,"CA-0500","heliport","D.C. Heliport",44.3582469361,-76.85742259030002,,"NA","CA","CA-ON","Camden East","no",,,,,,,
 299561,"CA-0501","closed","Don's Airstrip",43.98605261,-77.18740940090001,,"NA","CA","CA-ON","Prince Edward County","no",,,,,,,
-299562,"CA-0502","small_airport","Bonnie Brae Airfield",45.374212,-77.723115,1545,"NA","CA","CA-ON","Combermere","no",,,"CMB8","CMB8",,"https://en.wikipedia.org/wiki/Combermere/Bonnie_Brae_Airfield",
+299562,"CA-0502","closed","Bonnie Brae Airfield",45.374212,-77.723115,1545,"NA","CA","CA-ON","Combermere","no",,,,,,"https://en.wikipedia.org/wiki/Combermere/Bonnie_Brae_Airfield","CMB8"
 299651,"CA-0503","small_airport","Linden Airport",51.594322,-113.480229,2930,"NA","CA","CA-AB","Linden","no",,,,,,,
 299911,"CA-0504","small_airport","Mary River Aerodrome",71.324167,-79.356944,584,"NA","CA","CA-NU","Mary River","no",,"YMV",,"CMR2",,"https://en.wikipedia.org/wiki/Mary_River_Aerodrome",
 300233,"CA-0505","seaplane_base","Rivière Temiscamie Floatbase",51.008489,-72.989837,,"NA","CA","CA-QC","Jamésie","no",,,"CSV7","CSV7",,"https://en.wikipedia.org/wiki/Rivi%C3%A8re_T%C3%A9miscamie_Water_Aerodrome","SV7, Lac Albanel"
@@ -17313,7 +17314,6 @@
 320779,"CA-0663","closed","Riviere-St-Maurice-Aviation-Mauricie-Seaplane-Base",46.654,-72.704,325,"NA","CA","CA-QC","Grand-Mére","no",,,,,,"https://en.wikipedia.org/wiki/Rivi%C3%A8re_Saint-Maurice_(Aviation_Maurice)_Water_Aerodrome","CMA3, CMA3"
 320799,"CA-0664","closed","Heli-Delta Helipad",49.1739,-122.951,40,"NA","CA","CA-BC","Vancouver","no",,,,,,,"BB3, CBB3, Pepsi bottling plant"
 320863,"CA-0665","closed","Coutts Airport",49.09,-111.865,3290,"NA","CA","CA-AB","Coutts","no",,,,,,,"FJ2, FJ2"
-350794,"CA-0666","heliport","[Duplicate] Ottawa / Questral Helicopters Heliport",45.29917,-75.5,280,"NA","CA","CA-ON","Ottawa","no",,,,"CQH2","https://www.questralhelicopters.com/","https://en.wikipedia.org/wiki/List_of_airports_in_the_Ottawa_area",
 320883,"CA-0667","closed","Pincher Creek/Cooks Aerodrome",49.5163,-113.937,3725,"NA","CA","CA-AB","Pincher Creek","no",,,,,,,
 320884,"CA-0668","closed","Wrentham",49.502,-112.108001,3105,"NA","CA","CA-AB","Wrentham","no",,,,,,,
 320885,"CA-0669","closed","Purple Springs Airport",49.6877,-111.875202,2870,"NA","CA","CA-AB","Purple Springs","no",,,,,,,"FD6, FD6"
@@ -19862,7 +19862,7 @@
 525766,"CN-0418","medium_airport","Hohhot Shengle International Airport (under construction)",40.480965,111.575174,,"AS","CN","CN-15","Hohhot","no",,,,,,"https://en.wikipedia.org/wiki/Hohhot_Shengle_International_Airport",
 525771,"CN-0419","small_airport","Zaozhuang Yiyun Airport (under construction)",34.9074,117.408,,"AS","CN","CN-37","Zaozhuang","no",,,,,,"https://en.wikipedia.org/wiki/Zaozhuang_Yiyun_Airport",
 525772,"CN-0420","small_airport","Honghe Mengzi Airport (under construction)",23.464782,103.347487,,"AS","CN","CN-53","Mengzi","no",,,,,,"https://en.wikipedia.org/wiki/Honghe_Mengzi_Airport",
-525773,"CN-0421","medium_airport","Zhaotong Zhaoyang Airport （Not fully opened)",27.205843,103.691511,,"AS","CN","CN-53","Zhaotong","no","ZPZT","ZAT",,,,"https://en.wikipedia.org/wiki/Zhaotong_Zhaoyang_Airport",
+525773,"CN-0421","medium_airport","Zhaotong Zhaoyang Airport",27.205843,103.691511,,"AS","CN","CN-53","Zhaotong","yes","ZPZT","ZAT",,,,"https://wikipedia.org/wiki/Zhaotong_Zhaoyang_Airport",
 525774,"CN-0422","small_airport","Lishui Airport",28.3727,119.839,,"AS","CN","CN-33","Lishui (Liandu)","no","ZSLI","LIJ","ZSLI",,,"https://en.wikipedia.org/wiki/Lishui_Airport","ZSLR"
 525775,"CN-0423","small_airport","Nanchang Yaohu Airport",28.700972,116.107694,,"AS","CN","CN-36","Nanchang","no",,"YHJ","ZSYH",,,"https://en.wikipedia.org/wiki/Nanchang_Yaohu_Airport",
 536722,"CN-0424","closed","Yulin Xisha Airport",38.271062,109.730779,3525,"AS","CN","CN-14","Yulin","no",,,,,,"https://en.wikipedia.org/wiki/Yulin_Xisha_Airport","UYN, ZLYL"
@@ -21252,7 +21252,7 @@
 1834,"CYOD","medium_airport","CFB Cold Lake",54.404998779296875,-110.27899932861328,1775,"NA","CA","CA-AB","Cold Lake","no","CYOD","YOD","CYOD",,,"https://en.wikipedia.org/wiki/CFB_Cold_Lake",
 1835,"CYOH","small_airport","Oxford House Airport",54.9333,-95.2789,663,"NA","CA","CA-MB","Oxford House","yes","CYOH","YOH","CYOH",,,"https://en.wikipedia.org/wiki/Oxford_House_Airport",
 1836,"CYOJ","medium_airport","High Level Airport",58.62139892578125,-117.16500091552734,1110,"NA","CA","CA-AB","High Level","yes","CYOJ","YOJ","CYOJ",,,"https://en.wikipedia.org/wiki/High_Level_Airport",
-1837,"CYOO","medium_airport","Oshawa Executive Airport",43.922798,-78.894997,460,"NA","CA","CA-ON","Oshawa","no","CYOO","YOO","CYOO","CYOO","http://www.oshawa-airport.com/","https://en.wikipedia.org/wiki/Oshawa_Airport",
+1837,"CYOO","medium_airport","Oshawa Executive Airport",43.922798,-78.894997,460,"NA","CA","CA-ON","Oshawa","no","CYOO","YOO","CYOO","CYOO","https://www.oshawa.ca/business-development/oshawa-executive-airport/","https://en.wikipedia.org/wiki/Oshawa_Airport",
 1838,"CYOP","medium_airport","Rainbow Lake Airport",58.491402,-119.407997,1759,"NA","CA","CA-AB","Rainbow Lake","no","CYOP","YOP","CYOP",,,"https://en.wikipedia.org/wiki/Rainbow_Lake_Airport",
 1839,"CYOS","medium_airport","Owen Sound / Billy Bishop Regional Airport",44.5903015137,-80.8375015259,1007,"NA","CA","CA-ON","Owen Sound","no","CYOS","YOS","CYOS",,,"https://en.wikipedia.org/wiki/Owen_Sound/Billy_Bishop_Regional_Airport","YOS"
 1840,"CYOW","large_airport","Ottawa Macdonald-Cartier International Airport",45.322498,-75.669197,374,"NA","CA","CA-ON","Ottawa","yes","CYOW","YOW","CYOW","YOW","https://yow.ca/","https://en.wikipedia.org/wiki/Ottawa_Macdonald%E2%80%93Cartier_International_Airport","Uplands, UUP, CUUP"
@@ -31811,7 +31811,6 @@
 607063,"ID-0406","small_airport","Teraplu Airport",-3.991445,140.445024,791,"AS","ID","ID-PP","Terablu","no",,,,,,,
 607494,"ID-0407","small_airport","Kapiraya Airstrip",-4.411759,135.998729,161,"AS","ID","ID-PT",,"no",,,,,,,
 607495,"ID-0408","small_airport","Kilmit Airstrip",-4.309575,138.122154,3291,"AS","ID","ID-PP","Kilmit","no",,,,,,,
-609605,"ID-0409","small_airport","(Duplicate)Ranai Airport",3.908714,108.387897,,"AS","ID","ID-U-A","Ranai-Natuna Besar Island","no",,,,,,,
 610141,"ID-0410","small_airport","Byan Airport",0.549769,116.101542,226,"AS","ID","ID-KI","Umaq Dian, Tabang, Kutai Kartanegara Regency","no","WAGU",,"WAGU",,,,"Bayan Group"
 610145,"ID-0411","small_airport","Pasema Airstrip",-4.376692,139.083463,4269,"AS","ID","ID-PP","Pasema, Yahukimo","no",,,,,,,
 41361,"ID-AAS","small_airport","Apalapsili Airport",-3.882495,139.310932,3100,"AS","ID","ID-PP","Apalapsili","no",,"AAS","WAVR","APA",,"https://en.wikipedia.org/wiki/Apalapsili_Airport",
@@ -32257,7 +32256,7 @@
 46625,"IN-0062","small_airport","Shirpur Airport",21.3239987933,74.9567341805,,"AS","IN","IN-MM","Shirpur","no",,,,,,,"Shirpur, Dhule"
 46628,"IN-0063","closed","Cholavaram Airstrip",13.210242,80.152345,,"AS","IN","IN-TN","Sembilivaram","no",,,,,,,
 46640,"IN-0064","small_airport","Umaria Air Field",23.5325139099,80.80821990970001,1510,"AS","IN","IN-MP","Umaria","no",,,,,,,
-299082,"IN-0065","small_airport","Amravati (Belora) Airstrip",20.814608,77.717765,1125,"AS","IN","IN-MM","Amravati","no","VAAM",,"VAAM",,,"https://en.wikipedia.org/wiki/Amravati_Airport",
+299082,"IN-0065","small_airport","Amravati  Airport",20.814608,77.717765,1125,"AS","IN","IN-MM","Amravati","yes","VAAM","AVR","VAAM",,,"https://en.wikipedia.org/wiki/Amravati_Airport",
 300448,"IN-0066","small_airport","Madhubani Airport",26.329167,86.06,,"AS","IN","IN-BR","Madhubani","no",,,,,,,
 300449,"IN-0067","small_airport","Ulao Aerodrome",25.42788,86.08819,,"AS","IN","IN-BR","Begusarai","no",,,,,,,
 299921,"IN-0068","small_airport","Birwa Airstrip",22.092639,80.595531,,"AS","IN","IN-MP","Baihar","no",,,,,,,
@@ -34065,7 +34064,7 @@
 610022,"IT-0995","heliport","Monforte d'Alba Heliport",44.591265,7.974085,,"EU","IT","IT-21","Monforte d'Alba","no",,,,,,,
 610023,"IT-0996","heliport","Millesimo Heliport",44.3758,8.198716,1392,"EU","IT","IT-42","Millesimo (SV)","no",,,,,,,
 610174,"IT-0997","small_airport","AerialBanners Airfield",40.641473,14.887715,,"EU","IT","IT-72","Pontecagnano","no",,,,,,,
-610175,"IT-0998","small_airport","CARAPIELLO",41.201073,13.916199,,"EU","IT","IT-72","Sessa Aurunca","no",,,,,,,
+610175,"IT-0998","heliport","Carapiello",41.201073,13.916199,,"EU","IT","IT-72","Sessa Aurunca (CE)","no",,,,,,,
 610178,"IT-0999","small_airport","Rancia",43.236033,13.356197,,"EU","IT","IT-57","Tolentino","no",,,,,,,
 610179,"IT-1000","heliport","Helipad Terme di Valdieri",44.205107,7.267647,,"EU","IT","IT-21","Terme di Valdieri","no",,,,,,,
 610180,"IT-1001","heliport","Helipad Diga della Piastra",44.231581,7.393357,,"EU","IT","IT-21","Entracque","no",,,,,,,
@@ -34076,7 +34075,7 @@
 610185,"IT-1006","heliport","Helipad Carrù",44.484777,7.887624,,"EU","IT","IT-21","Carrù","no",,,,,,,
 610186,"IT-1007","heliport","Helipad Rifugio Alpetto",44.658576,7.126453,,"EU","IT","IT-21",,"no",,,,,,,
 610187,"IT-1008","heliport","Helipad Rifugio Vitale Giacoletti",44.696419,7.07631,,"EU","IT","IT-21",,"no",,,,,,,
-610188,"IT-1009","small_airport","Helipad Bivacco Boerio",44.614709,6.950387,,"EU","IT","IT-21",,"no",,,,,,,
+610188,"IT-1009","heliport","Bivacco Boerio Helipad",44.614709,6.950387,10134,"EU","IT","IT-21","Belino (CN)","no",,,,,,"https://it.wikipedia.org/wiki/Bivacco_Boerio","Lago Mangioia"
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -38237,7 +38236,7 @@
 18799,"K49R","small_airport","Real County Airport",29.745500564575195,-99.76090240478516,1640,"NA","US","US-TX","Leakey","no",,,"K49R","49R",,,
 18800,"K49X","small_airport","Chemehuevi Valley Airport",34.528805,-114.431999,631,"NA","US","US-CA","Havasu Lake","no",,,"K49X","49X",,"https://en.wikipedia.org/wiki/Chemehuevi_Valley_Airport",
 18801,"K4A0","small_airport","Berry Hill Airport",33.535567,-84.179081,770,"NA","US","US-GA","Stockbridge","no",,,"7GA7","7GA7",,,"4AO"
-18802,"K4A4","small_airport","Polk County Airport- Cornelius Moore Field",34.018699646,-85.1464996338,974,"NA","US","US-GA","Cedartown","no",,,"K4A4","4A4",,,
+18802,"K4A4","small_airport","Polk County Airport- Cornelius Moore Field",34.0187,-85.1465,979,"NA","US","US-GA","Cedartown","no",,,"4A4","4A4",,,
 18803,"K4A5","small_airport","Searcy County Airport",35.896999,-92.658997,963,"NA","US","US-AR","Marshall","no",,,"K4A5","4A5",,"https://en.wikipedia.org/wiki/Searcy_County_Airport",
 18804,"K4A6","small_airport","Scottsboro Municipal Word Field",34.688702,-86.005898,650,"NA","US","US-AL","Scottsboro","no",,,"K4A6","4A6",,"https://en.wikipedia.org/wiki/Scottsboro_Municipal_Airport",
 18805,"K4A7","small_airport","Atlanta Speedway Airport",33.389876,-84.331011,882,"NA","US","US-GA","Hampton","no",,,"KHMP","HMP","http://www.co.henry.ga.us/airport/","https://en.wikipedia.org/wiki/Atlanta_Speedway_Airport","4A7, Atlanta South Regional Airport, Clayton County Airport – Tara Field, Bear Creek Airport, Henry County Airport"
@@ -44593,7 +44592,7 @@
 21602,"LL49","small_airport","Raymond Restricted Landing Area",39.062198638916016,-90.27220153808594,658,"NA","US","US-IL","Jerseyville","no",,,"LL49","LL49",,,
 21603,"LL51","small_airport","Riley's Field",41.60419845581055,-88.27369689941406,663,"NA","US","US-IL","Plainfield","no",,,"LL51","LL51",,,
 21604,"LL52","small_airport","Wilts Airport",41.16109848022461,-88.93910217285156,650,"NA","US","US-IL","Streator","no",,,"LL52","LL52",,,
-21605,"LL53","small_airport","Olson Airport",42.008617,-88.457773,955,"NA","US","US-IL","Elgin","no",,,"LL53","LL53",,,
+21605,"LL53","closed","Olson Airport",42.008617,-88.457773,955,"NA","US","US-IL","Elgin","no",,,,,,,"LL53"
 21606,"LL54","small_airport","Dunn Airport",41.719398498535156,-89.02999877929688,850,"NA","US","US-IL","Paw Paw","no",,,"LL54","LL54",,,
 21607,"LL55","small_airport","Gentry Airport",41.99089813232422,-89.55979919433594,865,"NA","US","US-IL","Polo","no",,,"LL55","LL55",,,
 3279,"LL59","small_airport","Palmahim Air Base",31.8979,34.6908,32,"AS","IL","IL-M","Palmahim","no",,,,"LL59",,"https://en.wikipedia.org/wiki/Palmachim_Airbase","Palmachim"
@@ -45274,6 +45273,7 @@
 600876,"LV-8048","closed","Gulbene Airfield",57.163525,26.77052,,"EU","LV","LV-033","Gulbene","no",,,,,,"https://en.wikipedia.org/wiki/Gulbene_Airfield",
 601019,"LV-8049","balloonport","Liepāja",56.501819,20.997697,,"EU","LV","LV-LPX","Liepāja","no",,,,,,,
 604484,"LV-8050","closed","Rujiena Airfield",57.887663,25.333786,,"EU","LV","LV-113","Rujiena","no",,,,,,"https://en.wikipedia.org/wiki/Rujiena_Airfield",
+610203,"LV-8051","small_airport","Ječi Airfield",56.265229,21.202622,,"EU","LV","LV-112","Ječi","no",,,,,,,
 4668,"LW66","small_airport","Malo Konjari Sport Airfield",41.333099,21.4491,2034,"EU","MK","MK-005","Malo Konjari","no",,,,,,,"LW66, Prilep"
 4669,"LW67","small_airport","Kumanovo Airfield",42.154242,21.699328,1217,"EU","MK","MK-007","Kumanovo","no",,,,,,,"LW67, Adzi Tepe, Kumanovo Airbase"
 4672,"LW70","small_airport","Veles Airfield",41.758796,21.842451,1112,"EU","MK","MK-001","Karatmanovo","no",,,,,,,"Titov Veles, LW70, Велес"
@@ -82010,7 +82010,7 @@
 598457,"WAEF","small_airport","Lebone Airstrip",-1.333333,121.633333,1631,"AS","ID","ID-ST","Ulubongka","no",,,"WAEF",,,,
 41445,"WAES","small_airport","Emalamo Airport",-2.100424,125.965838,11,"AS","ID","ID-MU","Sanana","no","WAES","SQN","WAES",,,"https://en.wikipedia.org/wiki/Emalamo_Airport",
 26772,"WAEW","medium_airport","Pitu Airport",2.04599,128.324997,49,"AS","ID","ID-MU","Gotalalamo-Morotai Island","no",,"OTI","WAEW",,,"https://en.wikipedia.org/wiki/Pitu_Airport",
-352892,"WAFB","medium_airport","Toraja Airport",-3.185833,119.91775,2884,"AS","ID","ID-SS","Toraja","yes","WAFB","TRT","WAFB",,,"https://en.wikipedia.org/wiki/Toraja_Airport",
+352892,"WAFB","medium_airport","Toraja Airport",-3.184359,119.919104,2884,"AS","ID","ID-SN","Toraja","yes","WAFB","TRT","WAFB",,,"https://en.wikipedia.org/wiki/Toraja_Airport",
 331735,"WAFD","small_airport","Bua - Palopo Lagaligo Airport",-3.08227,120.244823,14,"AS","ID","ID-SN","Palopo","yes","WAFD","LLO","WAFD",,,"https://en.wikipedia.org/wiki/Bua_Airport","Palopo Lagaligo"
 26769,"WAFF","medium_airport","Mutiara - SIS Al-Jufrie Airport",-0.916462,119.908647,284,"AS","ID","ID-ST","Palu","yes","WAFF","PLW","WAFF",,,"https://en.wikipedia.org/wiki/Mutiara_Airport","WAML"
 41411,"WAFJ","small_airport","Tampa Padang Airport",-2.590017,119.025051,49,"AS","ID","ID-SR","Mamuju","no","WAFJ","MJU","WAFJ",,,"https://en.wikipedia.org/wiki/Tampa_Padang_Airport","WAAJ, WAWJ"
@@ -83308,7 +83308,7 @@
 38267,"YBWT","small_airport","Bowthorn Airport",-18.08329963684082,138.27499389648438,,"OC","AU","AU-QLD",,"no",,,"YBWT",,,,
 315119,"YBWW","large_airport","Toowoomba Wellcamp Airport",-27.558332,151.793335,1509,"OC","AU","AU-QLD","Toowoomba","yes","YBWW","WTB","YBWW",,"http://www.wellcamp.com.au","https://en.wikipedia.org/wiki/Toowoomba_Wellcamp_Airport","Brisbane West Wellcamp"
 26940,"YBWX","small_airport","Barrow Island Airport",-20.864444,115.406111,26,"OC","AU","AU-WA",,"no","YBWX","BWB","YBWX",,,"https://en.wikipedia.org/wiki/Barrow_Island_Airport",
-27429,"YBXH","small_airport","Branxholme Airport",-37.8672981262207,141.70199584960938,,"OC","AU","AU-VIC",,"no",,,"YBXH",,,,
+27429,"YBXH","closed","Branxholme Airport",-37.867298,141.701996,,"OC","AU","AU-VIC",,"no",,,,,,,"YBXH"
 38268,"YBYA","small_airport","Bryah Airport",-25.533300399780273,118.73300170898438,,"OC","AU","AU-WA",,"no",,,"YBYA",,,,
 38269,"YBYD","small_airport","Bonney Downs Station Airport",-22.266700744628906,119.88300323486328,,"OC","AU","AU-WA",,"no",,,"YBYD",,,,
 27430,"YBYI","small_airport","Bruny Island Airport",-43.2342,147.380005,,"OC","AU","AU-TAS",,"no",,,"YBYI",,,"https://en.wikipedia.org/wiki/Bruny_Island_Airport",
@@ -83416,7 +83416,7 @@
 38295,"YCOG","small_airport","Coongan Airport",-20.683300018310547,119.66699981689453,,"OC","AU","AU-WA",,"no",,,"YCOG",,,,
 27477,"YCOH","small_airport","Cohuna Airport",-35.826478,144.213812,,"OC","AU","AU-VIC",,"no",,,"YCOH",,,,
 27478,"YCOI","small_airport","Collie Airport",-33.3666992188,116.217002869,818,"OC","AU","AU-WA","Collie","no","YCOI","CIE","YCOI",,,,
-27479,"YCOL","small_airport","Coleraine Airport",-37.599998474121094,141.6999969482422,,"OC","AU","AU-VIC",,"no",,,"YCOL",,,,
+27479,"YCOL","closed","Coleraine Airport",-37.599998,141.699997,,"OC","AU","AU-VIC",,"no",,,,,,,"YCOL"
 26962,"YCOM","medium_airport","Cooma Snowy Mountains Airport",-36.300445,148.972408,3088,"OC","AU","AU-NSW","Cooma","yes","YCOM","OOM","YCOM",,,"https://en.wikipedia.org/wiki/Cooma_-_Snowy_Mountains_Airport",
 27480,"YCOO","small_airport","Cooinda Airport",-12.903300285339355,132.53199768066406,13,"OC","AU","AU-NT",,"no","YCOO","CDA","YCOO",,,,
 26963,"YCOR","medium_airport","Corowa Airport",-35.994701,146.356995,469,"OC","AU","AU-NSW",,"no","YCOR","CWW","YCOR",,,"https://en.wikipedia.org/wiki/Corowa_Airport",
@@ -84519,7 +84519,7 @@
 27943,"YSDL","small_airport","Sudley Airport",-12.716843,142.36666,,"OC","AU","AU-QLD",,"no",,,"YSDL",,,,
 27944,"YSDN","small_airport","Soudan Station Airport",-20.043907,137.019253,735,"OC","AU","AU-NT",,"no",,,"YSDN",,,,
 27135,"YSDU","medium_airport","Dubbo City Regional Airport",-32.2167015076,148.574996948,935,"OC","AU","AU-NSW","Dubbo","yes","YSDU","DBO","YSDU",,"http://www.dubbo.nsw.gov.au/BusinessandIndustry/DubboCityRegionalAirport.html","https://en.wikipedia.org/wiki/Dubbo_Airport",
-27945,"YSDW","small_airport","Strathdownie Airport",-37.7317008972168,141.125,,"OC","AU","AU-VIC",,"no",,,"YSDW",,,,
+27945,"YSDW","closed","Strathdownie Airport",-37.731701,141.125,,"OC","AU","AU-VIC",,"no",,,,,,,"YSDW"
 517121,"YSEA","small_airport","Sedan Airfield",-34.569014,139.334139,289,"OC","AU","AU-SA",,"no",,,"YSEA",,,,
 27946,"YSEN","small_airport","Serpentine Airport",-32.394966,115.870987,9,"OC","AU","AU-WA",,"no","YSEN",,"YSEN",,"http://www.sabc.org.au","https://en.wikipedia.org/wiki/Serpentine_Airfield",
 27948,"YSFG","small_airport","Stonefield Gliding",-34.343755,139.310031,,"OC","AU","AU-SA","Steinfeld","no",,,"YSFG",,"https://www.augc.org.au/",,
@@ -85624,7 +85624,7 @@
 32417,"ZPSM","small_airport","Pu'er Simao Airport",22.793301,100.959,,"AS","CN","CN-53","Pu'er","yes","ZPSM","SYM","ZPSM",,,"https://en.wikipedia.org/wiki/Pu%27er_Simao_Airport",
 318119,"ZPWS","small_airport","Wenshan Puzhehei Airport",23.5583,104.3255,5217,"AS","CN","CN-53","Wenshan","yes","ZPWS","WNH","ZPWS",,,"https://en.wikipedia.org/wiki/Wenshan_Puzhehei_Airport",
 44127,"ZPYM","medium_airport","Yuanmou Air Base",25.737499,101.882004,3810,"AS","CN","CN-53","Chuxiong (Yuanmou)","no","ZPYM","YUA","ZPYM",,,,
-32740,"ZPZT","medium_airport","Zhaotong Airport",27.327549,103.75617,,"AS","CN","CN-53","Zhaotong (Zhaoyang)","yes",,,,,,"https://en.wikipedia.org/wiki/Zhaotong_Airport",
+32740,"ZPZT","small_airport","Zhaotong Airport (Old)",27.327549,103.75617,6340,"AS","CN","CN-53","Zhaotong (Zhaoyang)","no",,,,,,"https://en.wikipedia.org/wiki/Zhaotong_Airport",
 27215,"ZSAM","large_airport","Xiamen Gaoqi International Airport",24.543889,118.127454,59,"AS","CN","CN-35","Xiamen","yes","ZSAM","XMN","ZSAM",,"http://www.xiagc.com.cn/enweb/","https://en.wikipedia.org/wiki/Xiamen_Gaoqi_International_Airport","厦门高崎国际机场"
 30650,"ZSAQ","medium_airport","Anqing Tianzhushan Airport / Anqing North Air Base",30.582199,117.050003,,"AS","CN","CN-34","Anqing","yes","ZSAQ","AQG","ZSAQ",,,"https://en.wikipedia.org/wiki/Anqing_Tianzhushan_Airport",
 301883,"ZSBB","medium_airport","Bengbu Renheji Airport",32.847733,117.320244,100,"AS","CN","CN-34","Bengbu","no","ZSBB","BFU","ZSBB",,,"https://en.wikipedia.org/wiki/Bengbu_Airport",
