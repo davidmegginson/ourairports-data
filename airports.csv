@@ -4676,6 +4676,7 @@
 11237,"48FL","small_airport","Mc Kinnon Airpark",30.8141002655,-87.47499847410002,227,"NA","US","US-FL","Walnut Hill","no",,,"48FL","48FL",,,
 11238,"48G","small_airport","Gavagan Field",43.10340118408203,-82.89019775390625,800,"NA","US","US-MI","Yale","no",,,"48G","48G",,,
 11239,"48GA","heliport","Fairview Park Hospital Heliport",32.532901763916016,-82.95099639892578,279,"NA","US","US-GA","Dublin","no",,,"48GA","48GA",,,
+610291,"48IA","small_airport","Miller Field",40.963078,-91.852022,764,"NA","US","US-IA","Fairfield","no",,,"48IA","48IA",,,
 11242,"48IN","heliport","123 Arcom Heliport",39.8588981628418,-85.99829864501953,850,"NA","US","US-IN","Indianapolis","no",,,"48IN","48IN",,,
 11243,"48IS","small_airport","P.J. Killian Airport",40.60219955444336,-88.8333969116211,757,"NA","US","US-IL","Lexington","no",,,"48IS","48IS",,,
 11244,"48KS","small_airport","R F Roesner Airport",38.811100006103516,-97.431396484375,1230,"NA","US","US-KS","Salina","no",,,"48KS","48KS",,,
@@ -7177,7 +7178,7 @@
 13783,"73PA","small_airport","Gilbert Airport",39.929500579833984,-76.77079772949219,530,"NA","US","US-PA","York","no",,,"73PA","73PA",,,
 13784,"73PN","small_airport","Finkhaven Airport",41.36840057373047,-77.07109832763672,640,"NA","US","US-PA","Trout Run","no",,,"73PN","73PN",,,
 13785,"73S","small_airport","Willard Field",47.23550033569336,-117.04399871826172,2520,"NA","US","US-WA","Tekoa","no",,,"73S","73S",,,
-13786,"73TA","small_airport","Salado Airport",30.920684,-97.540455,670,"NA","US","US-TX","Salado","no",,,,"2TX",,,"73TA"
+13786,"73TA","small_airport","Salado Airport",30.920487,-97.54014,670,"NA","US","US-TX","Salado","no",,,,"2TX",,,"73TA, AeroVista"
 13787,"73TE","small_airport","Moore Private Airport",32.92658,-97.55957,670,"NA","US","US-TX","Azle","no",,,"73TE","73TE",,,
 336236,"73TN","heliport","Humboldt Medical Center Heliport",35.815308,-88.894997,405,"NA","US","US-TN","Humboldt","no",,,"73TN","73TN",,,
 13791,"73VA","heliport","Southern Virginia Regional Medical Center Heliport",36.7020988464,-77.5400009155,130,"NA","US","US-VA","Emporia","no",,,"73VA","73VA",,,
@@ -7558,7 +7559,7 @@
 355668,"7IL1","heliport","Heading Heli Heliport",41.605111,-89.740611,637,"NA","US","US-IL","New Bedford","no",,,"7IL1","7IL1",,,
 14147,"7IL4","heliport","Northwest Community Hospital Heliport",42.067723,-87.993396,758,"NA","US","US-IL","Arlington Heights","no",,,"7IL4","7IL4",,,
 14150,"7IL7","small_airport","Edward Getzelman Airport",42.127336,-88.529991,870,"NA","US","US-IL","Hampshire","no",,,"7IL7","7IL7",,,
-14151,"7IL8","small_airport","Cody Port RLA Restricted Landing Area",41.518901825,-88.837600708,668,"NA","US","US-IL","Harding","no",,,"7IL8","7IL8",,,
+14151,"7IL8","closed","Cody Port Restricted Landing Area",41.518902,-88.837601,668,"NA","US","US-IL","Harding","no",,,,,,,"7IL8"
 14153,"7IN2","small_airport","Flying Crown Airport",41.501399993896484,-84.87830352783203,920,"NA","US","US-IN","Hamilton","no",,,"7IN2","7IN2",,,
 14154,"7IN3","small_airport","Garrett Field",38.239564,-87.78707,400,"NA","US","US-IN","Poseyville","no",,,"7IN3","7IN3",,,
 14155,"7IN4","heliport","Franciscan Health Hammond Heliport",41.614205,-87.524093,624,"NA","US","US-IN","Hammond","no",,,"7IN4","7IN4",,,"St Margaret Mercy"
@@ -26688,7 +26689,8 @@
 2970,"FQBR","large_airport","Beira International Airport",-19.7964,34.9076,33,"AF","MZ","MZ-S","Beira","yes","FQBR","BEW","FQBR",,,"https://en.wikipedia.org/wiki/Beira_Airport",
 29811,"FQCB","small_airport","Cuamba Airport",-14.815,36.529999,1919,"AF","MZ","MZ-A","Cuamba","no","FQCB","FXO","FQCB",,,"https://en.wikipedia.org/wiki/Cuamba_Airport",
 2971,"FQCH","medium_airport","Chimoio Airport",-19.15130043029785,33.42900085449219,2287,"AF","MZ","MZ-B","Chimoio","yes","FQCH","VPY","FQCH",,,"https://en.wikipedia.org/wiki/Chimoio_Airport",
-31203,"FQFU","small_airport","Furancungo Airport",-14.918600082397461,33.628299713134766,,"AF","MZ","MZ-T","Furancungo","no",,,"FQFU",,,,
+610288,"FQES","small_airport","Estima Airbase",-15.733987,32.756267,1101,"AF","MZ","MZ-T","Chitima","no","FQES",,"FQES",,,,
+31203,"FQFU","small_airport","Furancungo Airport",-14.918217,33.628197,4117,"AF","MZ","MZ-T","Furancungo","no","FQFU",,"FQFU",,,,
 29974,"FQIA","small_airport","Inhaca Airport",-25.9971446991,32.929351806599996,10,"AF","MZ","MZ-L","Inhaca","no","FQIA","IHC","FQIA",,,"https://en.wikipedia.org/wiki/Inhaca_Airport",
 318852,"FQIB","small_airport","Ibo Airport",-12.350174,40.602297,27,"AF","MZ","MZ-P","Ibo","no","FQIB","IBO","FQIB",,,,
 2972,"FQIN","medium_airport","Inhambane Airport",-23.8764,35.408501,30,"AF","MZ","MZ-I","Inhambane","yes","FQIN","INH","FQIN",,,"https://en.wikipedia.org/wiki/Inhambane_Airport",
@@ -30514,7 +30516,7 @@
 31530,"GUSI","small_airport","Siguiri Airport",11.399833,-9.18841,1296,"AF","GN","GN-K","Siguiri","no","GUSI","GII","GUSI",,,"https://en.wikipedia.org/wiki/Siguiri_Airport",
 44577,"GUXN","closed","Kankan Airport",10.394,-9.3038,1267,"AF","GN","GN-K","Kankan","no",,,,,,,"KNN, GUXN"
 3150,"GVAC","large_airport","Amílcar Cabral International Airport",16.7414,-22.9494,177,"AF","CV","CV-B","Espargos","yes","GVAC","SID","GVAC",,,"https://en.wikipedia.org/wiki/Am%C3%ADlcar_Cabral_International_Airport","Sal Island"
-31560,"GVAN","small_airport","Agostinho Neto Airport",17.202800750732422,-25.090599060058594,32,"AF","CV","CV-B","Ponta do Sol","no","GVAN","NTO","GVAN",,,"https://en.wikipedia.org/wiki/Agostinho_Neto_Airport","Santo Antao Island"
+31560,"GVAN","closed","Agostinho Neto Airport",17.202801,-25.090599,32,"AF","CV","CV-B","Ponta do Sol","no",,,,,,"https://en.wikipedia.org/wiki/Agostinho_Neto_Airport","NTO, GVAN, Santo Antao Island"
 3151,"GVBA","large_airport","Aristides Pereira International Airport",16.136499,-22.888901,69,"AF","CV","CV-B","Rabil","yes","GVBA","BVC","GVBA",,,"https://en.wikipedia.org/wiki/Rabil_Airport","Boa Vista Island"
 302436,"GVBR","closed","Esperadinha Airport",14.864306,-24.746,64,"AF","CV","CV-S","Brava Island","no",,,,,,"https://en.wikipedia.org/wiki/Esperadinha_Airport","GVBR, BVR"
 3152,"GVMA","medium_airport","Maio Airport",15.155900001525879,-23.213699340820312,36,"AF","CV","CV-S","Vila do Maio","yes","GVMA","MMO","GVMA",,,"https://en.wikipedia.org/wiki/Maio_Airport","Maio Island"
@@ -44126,7 +44128,7 @@
 4219,"LFRO","medium_airport","Lannion Airport",48.754398,-3.47166,290,"EU","FR","FR-BRE","Lannion","no","LFRO","LAI","LFRO",,"http://www.lannion.aeroport.fr","https://en.wikipedia.org/wiki/Lannion_%E2%80%93_C%C3%B4te_de_Granit_Airport","Servel Airport"
 28995,"LFRP","small_airport","Ploërmel Loyat Airfield",48.0028,-2.37722,236,"EU","FR","FR-BRE","Rennes","no",,,"LFRP",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Plo%C3%ABrmel_-_Loyat",
 4220,"LFRQ","medium_airport","Quimper-Cornouaille Airport",47.973031,-4.169655,297,"EU","FR","FR-BRE","Quimper/Pluguffan","no","LFRQ","UIP","LFRQ",,"https://www.quimper.aeroport.bzh/accueil","https://en.wikipedia.org/wiki/Quimper_-_Cornouaille_Airport",
-4221,"LFRS","medium_airport","Nantes Atlantique Airport",47.153198,-1.61073,90,"EU","FR","FR-PDL","Nantes","yes","LFRS","NTE","LFRS",,"https://www.nantes.aeroport.fr/en","https://en.wikipedia.org/wiki/Nantes_Atlantique_Airport",
+4221,"LFRS","large_airport","Nantes Atlantique Airport",47.153198,-1.61073,90,"EU","FR","FR-PDL","Nantes","yes","LFRS","NTE","LFRS",,"https://www.nantes.aeroport.fr/en","https://en.wikipedia.org/wiki/Nantes_Atlantique_Airport",
 4222,"LFRT","medium_airport","Saint-Brieuc-Armor Airport",48.538628,-2.853518,453,"EU","FR","FR-BRE","Trémuson, Côtes-d'Armor","no","LFRT","SBK","LFRT",,"https://www.st-brieuc.aeroport.fr/en/","https://en.wikipedia.org/wiki/Saint-Brieuc_%E2%80%93_Armor_Airport",
 4223,"LFRU","medium_airport","Morlaix-Ploujean Airport",48.6031990051,-3.81577992439,272,"EU","FR","FR-BRE","Morlaix/Ploujean","no","LFRU","MXN","LFRU",,,"https://en.wikipedia.org/wiki/Morlaix_%E2%80%93_Ploujean_Airport",
 4224,"LFRV","medium_airport","Vannes-Meucon Airport",47.723301,-2.71856,446,"EU","FR","FR-BRE","Vannes/Meucon","no","LFRV","VNE","LFRV",,"http://www.vannes.aeroport.fr/","https://en.wikipedia.org/wiki/Meucon_Airport",
@@ -49702,7 +49704,7 @@
 351658,"MZ-0059","small_airport","Emboqui Airport",-15.60454,32.41439,1240,"AF","MZ","MZ-T","Emboqui","no",,,,,,,
 595493,"MZ-0060","closed","Nairrubi Airstrip",-13.4929,36.0764,2247,"AF","MZ","MZ-A","Nairrubi","no",,,,,,,
 595523,"MZ-0061","small_airport","Mandimba Airport",-14.33943,35.663,2549,"AF","MZ","MZ-A","Mandimba","no",,,,,,,
-610265,"MZ-0062","small_airport","Bananalandia Airport",-26.046478,32.278177,63,"AF","MZ","MZ-L","Boane","no",,,,,,,
+610265,"MZ-0062","small_airport","Bananalândia Airport",-26.046478,32.278177,63,"AF","MZ","MZ-L","Boane","no",,,,,,,
 32441,"MZ-TGS","small_airport","Chokwé Airport",-24.520599365234375,32.965301513671875,,"AF","MZ","MZ-G","Chokwé","no",,"TGS",,,,,
 4956,"MZBZ","large_airport","Philip S. W. Goldson International Airport",17.539951,-88.303556,15,"NA","BZ","BZ-BZ","Belize City","yes","MZBZ","BZE","MZBZ",,"http://www.pgiabelize.com/","https://en.wikipedia.org/wiki/Philip_S._W._Goldson_International_Airport","Belize International, Ladyville"
 309571,"MZE","small_airport","Manatee Airport",17.27846,-89.0238,343,"NA","BZ","BZ-CY","Spanish Lookout","no",,"MZE","MZSL",,,"https://en.wikipedia.org/wiki/Manatee_Airport",
@@ -56783,6 +56785,7 @@
 609966,"RU-10175","small_airport","Siktyakh HLS",69.912345,125.108014,74,"AS","RU","RU-SA","Siktyakh","no",,,,"HBY5",,,"ХБЫ5, Сиктях"
 610072,"RU-10176","closed","Teryut Airfield",64.245684,142.052253,1823,"AS","RU","RU-SA","Teryut","no",,,,,,,"ZF8R, ЗФ8Р, Терют"
 610078,"RU-10177","heliport","Nizhne-Kvakchinskoye Gas Field Helipad",54.689449,155.854202,210,"AS","RU","RU-KAM",,"no",,,,"HGU1",,,"ХГУ1, Нижне-Квакчинскоые"
+610305,"RU-10178","small_airport","Roshchino Airport",45.90343,134.87632,456,"AS","RU","RU-PRI","Roshchino","no",,,"UHWR",,,,"УХВР, Рощино"
 526968,"RU-1018","heliport","Chaika Coal Terminal Helipad",73.379354,80.59003,71,"AS","RU","RU-KYA","Dikson","no",,,,,,,"HELIOPS, Mining, Coal, Vostokugol-Dikson"
 527128,"RU-1019","heliport","Khralov junction Helipad",68.486875,69.521978,,"AS","RU","RU-YAN","Lidino","no",,,,,,,"HELIOPS, OIL & GAS, Gazprom, Obskaya–Bovanenkovo Railroad"
 528461,"RU-1020","heliport","Roman Trebs field",68.624032,57.891887,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
@@ -59068,6 +59071,7 @@
 599651,"SE-0116","heliport","Gotska Sandön Heliport",58.391302,19.191707,,"EU","SE","SE-I","Gotska Sandön","no",,,,,,,
 608242,"SE-0117","small_airport","Fridhem Farm Airstrip",55.42708,13.0087,,"EU","SE","SE-M",,"no",,,,,,,
 608336,"SE-0118","heliport","Fjällflygarna AB",66.274352,16.68746,,"EU","SE","SE-BD","Adolfström","no",,,,,"https://fjallflygarna.se",,
+610308,"SE-0119","small_airport","Finnberga Gård Private Airstrip",59.64915,18.17146,,"EU","SE","SE-AB",,"no",,,,,,,
 2170,"SE01","small_airport","Alba Elena Airport",-2.173581,-79.280763,150,"SA","EC","EC-G","Bucay","no",,,"SEAE",,,,"SE01, Coronel Marcelino Mariduena"
 2171,"SE02","small_airport","Guabital Airport",-2.773399,-79.702411,45,"SA","EC","EC-G","Soledad","no",,,"SEGB",,,,"SE02"
 2172,"SE03","small_airport","Las Peñas Airport",-2.94716,-80.1007,3,"SA","EC","EC-G","Puerto Grande","no",,,"SEEN",,,,"SE03"
@@ -71388,6 +71392,7 @@
 610254,"US-13014","heliport","Virginia Tech Vertiport",37.190096,-80.3954,2100,"NA","US","US-VA","Blacksburg","no",,,"8VA2","8VA2",,,
 610262,"US-13015","small_airport","MIG Restricted Landing Area",41.286399,-89.235522,651,"NA","US","US-U-A","Granville","no",,,"90IL","90IL",,,
 610282,"US-13016","small_airport","McCune RLA",41.439791,-89.815643,636,"NA","US","US-U-A","Sheffield","no",,,"2IL8","2IL8",,,
+610289,"US-13017","heliport","Galesburg Correctional Center Heliport",40.939838,-90.404023,760,"NA","US","US-IL","Galesburg","no",,,,,,,"7IL8"
 334414,"US-1302","small_airport","Morgan's Airport",45.065474,-123.329269,,"NA","US","US-OR","Ballston","no",,,"OR71","OR71",,,
 334415,"US-1303","heliport","Zuma Beach Emergency Helipad",34.01885,-118.82685,,"NA","US","US-CA","Malibu","no",,,,,,,
 334416,"US-1304","heliport","Hoover Dam Lodge Heliport",36.010463,-114.782017,1761,"NA","US","US-NV","Boulder City","no",,,,,,,
