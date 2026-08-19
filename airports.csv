@@ -19959,6 +19959,7 @@
 607615,"CN-0503","closed","Foshan Gaoming International Airport (Under construction)",22.882068,112.574149,,"AS","CN","CN-44","Foshan","no",,,,,,"https://en.wikipedia.org/wiki/Foshan_Gaoming_International_Airport","Pearl River Delta Airport, Foshan, Guangzhou New Airport"
 609056,"CN-0504","small_airport","Arun Banner Airport",48.352649,123.289846,873,"AS","CN","CN-15","Hulunbuir","no",,,,,,,"Arong"
 610002,"CN-0505","closed","Yinchuan Xihuayuan Airport",38.501964,106.144544,3647,"AS","CN","CN-64","Yinchuan","no",,,,,,"https://en.wikipedia.org/wiki/Yinchuan_Xihuayuan_Airport",
+610410,"CN-0506","small_airport","金鸭子国际机场",33.649775,113.430748,50,"AS","CN","CN-41","Pingdingshan","yes",,,,,,,"平顶山"
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -28062,7 +28063,7 @@
 609665,"FR-1347","heliport","Château Hendecourt-les-cagnicourt",50.211846,2.953074,,"EU","FR","FR-HDF","Hendecourt les Cagnicourt","no",,,,,,,
 609792,"FR-1348","heliport","LINZEUX DZ",50.342835,2.197005,,"EU","FR","FR-HDF","Linzeux","no",,,,,,,
 609811,"FR-1349","heliport","Peronne Philippe DZ",49.934592,2.923713,,"EU","FR","FR-HDF","Peronne","no",,,,,,,
-610351,"FR-1350","heliport","Audruicq DZ",50.897579,2.074722,,"EU","FR","FR-HDF","Audruicq","no",,,,,,,
+610351,"FR-1350","heliport","Audruicq HLS",50.897579,2.074722,7,"EU","FR","FR-HDF","Audruicq, Pas-de-Calais","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -30091,7 +30092,7 @@
 609481,"GB-1360","closed","Cluntoe Airfield",54.621947,-6.531097,89,"EU","GB","GB-NIR","Cluntoe, Mid Ulster","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Cluntoe","RAF Cluntoe"
 609581,"GB-1361","small_airport","Ragley Hall Airstrip",52.2283,-1.8439,210,"EU","GB","GB-ENG","Alcester","no",,,,,"https://www.midlandsairfestival.com",,"Ragley Hall, Midlands Air Festival, temporary airstrip, grass runway, private, event airfield, Alcester, Warwickshire"
 609951,"GB-1362","small_airport","Kingstanding Airfield",51.848611,-1.544167,597,"EU","GB","GB-ENG",,"no",,,,,,,
-610315,"GB-1363","small_airport","Methlick",57.448338,-2.239615,,"EU","GB","GB-SCT",,"no",,,,,,,
+610315,"GB-1363","small_airport","Methlick Airfied",57.448338,-2.239615,269,"EU","GB","GB-SCT","Methlick, Aberdeenshire","no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121916,-2.053439,150,"EU","GB","GB-SCT","Foula","yes",,"FOA","EG3G",,,"https://en.wikipedia.org/w/index.php?title=Foula_Airfield&oldid=1234064311","EG42"
@@ -34095,7 +34096,7 @@
 610185,"IT-1006","heliport","Helipad Carrù",44.484777,7.887624,,"EU","IT","IT-21","Carrù","no",,,,,,,
 610186,"IT-1007","heliport","Helipad Rifugio Alpetto",44.658576,7.126453,,"EU","IT","IT-21",,"no",,,,,,,
 610187,"IT-1008","heliport","Helipad Rifugio Vitale Giacoletti",44.696419,7.07631,,"EU","IT","IT-21",,"no",,,,,,,
-610188,"IT-1009","heliport","Bivacco Boerio Helipad",44.614709,6.950387,10134,"EU","IT","IT-21","Belino (CN)","no",,,,,,"https://it.wikipedia.org/wiki/Bivacco_Boerio","Lago Mangioia"
+610188,"IT-1009","heliport","Bivacco Boerio Helipad",44.614709,6.950387,10134,"EU","IT","IT-21","Bellino (CN)","no",,,,,,"https://it.wikipedia.org/wiki/Bivacco_Boerio","Lago Mangioia"
 610215,"IT-1010","small_airport","Umberto Nobile Airfield",41.262517,13.782853,23,"EU","IT","IT-62","Santi Cosma e Damiano (LT)","no",,,,,,,
 610216,"IT-1011","small_airport","Easy Flyte",42.126217,12.60985,,"EU","IT","IT-62","Capena","no",,,,,,,
 610217,"IT-1012","small_airport","Vall'Ornara Airfield",42.04065,12.538278,65,"EU","IT","IT-62","Roma (RM)","no",,,,,"https://www.aviovallornara.it/",,
@@ -41171,7 +41172,7 @@
 20807,"KPBF","medium_airport","Pine Bluff Regional Airport, Grider Field",34.174121,-91.935643,206,"NA","US","US-AR","Pine Bluff","no","KPBF","PBF","KPBF","PBF","http://www.pbaviation.com","https://en.wikipedia.org/wiki/Grider_Field",
 20808,"KPBG","medium_airport","Plattsburgh International Airport",44.650902,-73.468102,234,"NA","US","US-NY","Plattsburgh","yes","KPBG","PBG","KPBG","PBG","http://www.plattsburghinternationalairport.com/","https://en.wikipedia.org/wiki/Plattsburgh_International_Airport","Plattsburgh Air Force Base"
 20809,"KPBH","small_airport","Price County Airport",45.709,-90.402496,1497,"NA","US","US-WI","Phillips","no",,,"KPBH","PBH",,"https://en.wikipedia.org/wiki/Price_County_Airport",
-3766,"KPBI","large_airport","President Donald J. Trump International Airport",26.683201,-80.095596,19,"NA","US","US-FL","West Palm Beach","yes","KDJT","PBI","KDJT","DJT","https://www.pbia.org/","https://en.wikipedia.org/wiki/Palm_Beach_International_Airport","KBPI, MFW, South Florida"
+3766,"KPBI","large_airport","President Donald J. Trump International Airport",26.683201,-80.095596,19,"NA","US","US-FL","West Palm Beach","yes","KDJT","DJT","KDJT","DJT","https://www.pbia.org/","https://en.wikipedia.org/wiki/Palm_Beach_International_Airport","DJT, KDJT, KPBI, MFW, South Florida"
 20810,"KPBX","small_airport","Pike County Airport Hatcher Field",37.560795,-82.570051,1473,"NA","US","US-KY","Pikeville","no","KPBX","PVL","KPBX","PBX",,"https://en.wikipedia.org/wiki/Pike_County_Airport_(Kentucky)","Hatcher Field"
 24076,"KPCA","heliport","Picacho Stagefield Heliport",32.662789,-111.48797,1675,"NA","US","US-AZ","Picacho","no",,,"KPCA","PCA",,"https://en.wikipedia.org/wiki/Picacho_Stagefield_ARNG_Heliport",
 20811,"KPCM","small_airport","Plant City Municipal Airport",28.0002,-82.1642,153,"NA","US","US-FL","Plant City","no",,,"KPCM","PCM",,"https://en.wikipedia.org/wiki/Plant_City_Airport",
@@ -59842,6 +59843,7 @@
 328371,"SIAW","small_airport","Sítio Gurupi Airport",-3.739167,-47.516389,420,"SA","BR","BR-PA","Ulianópolis","no",,,"SIAW","PA0041",,,
 542787,"SIB3","small_airport","Fazenda Tapera Airstrip",-20.304436,-56.828096,554,"SA","BR","BR-MS","Miranda","no",,,"SIB3","MS0719",,,
 517499,"SIB4","small_airport","ASL - Fazenda São Francisco Airport",-13.345067,-54.487507,1490,"SA","BR","BR-MT","Paranatinga","no",,,"SIB4","MT0979",,,
+610407,"SIB5","small_airport","Fazenda Anacã do Corixão",-18.103333,-56.213333,430,"SA","BR","BR-MS","Corumbá","no",,,"SIB5","MS0811",,,
 517485,"SIB6","small_airport","Fazenda Terra Unida",-9.266427,-46.12741,1778,"SA","BR","BR-MA","Alto Parnaíba","no",,,"SIB6","MA0142",,,
 520816,"SIB7","small_airport","Estancia Campo Verde Airport",-24.467597,-52.884557,1755,"SA","BR","BR-PR","Ubiratã","no",,,"SIB7","PR0244",,,
 520851,"SIB8","small_airport","Fazenda Santa Fé Airport",-10.204176,-52.274173,1056,"SA","BR","BR-MT","Santa Cruz do Xingu","no",,,"SIB8","MT0975",,,
@@ -59868,6 +59870,7 @@
 517474,"SIC2","heliport","Avalon Heliport",-26.811817,-48.658611,49,"SA","BR","BR-SC","Penha","no",,,"SIC2","SC0233",,,
 520730,"SIC3","small_airport","C&A - Fazenda Chapadão do Verde Airport",-12.598703,-55.885036,1280,"SA","BR","BR-MT","Sorriso","no",,,"SIC3","MT0985",,,
 520728,"SIC4","heliport","Amarillo Mara Rosa Heliport",-13.980278,-49.178056,1453,"SA","BR","BR-GO","Mara Rosa","no",,,"SIC4","GO0312",,,
+610402,"SIC5","small_airport","Goiatuba Airport",-17.995438,-49.343755,2593,"SA","BR","BR-GO","Goiatuba","no",,,"SIC5","GO0446",,,
 520724,"SIC6","heliport","PortoFino Heliport",-23.641736,-47.376911,2887,"SA","BR","BR-SP","Piedade","no",,,"SIC6","SP1369",,,
 520726,"SIC7","heliport","Suzano - Projeto Cerrado Heliport",-20.475111,-53.666286,1296,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,"SIC7","MS0730",,,
 520732,"SIC8","heliport","Pedreira Central Heliport",-21.234239,-43.082422,1293,"SA","BR","BR-MG","Piraúba","no",,,"SIC8","MG0601",,,
@@ -60255,6 +60258,7 @@
 46470,"SISW","small_airport","Fazenda Mato Grosso Airport",-13.824526,-59.163458,1690,"SA","BR","BR-MT","Campos de Júlio","no",,,"SISW","MT0131",,,
 36258,"SISX","small_airport","Santa Terezinha Airport",-19.379788,-56.057986,361,"SA","BR","BR-MS","Aquidauana","no",,,"SISX","MS0126",,,
 36259,"SISY","small_airport","Piraquara Airport",-25.450986,-49.1422,3212,"SA","BR","BR-PR","Piraquara","no",,,"SISY","PR0052",,,
+610398,"SIT1","heliport","Litoral Plaza Shopping Heliport",-23.999349,-46.403553,7,"SA","BR","BR-SP","Praia Grande","no",,,"SIT1","SP1514",,,
 527469,"SIT2","small_airport","Fazenda ADS 7 Airport",-10.045839,-50.612975,705,"SA","BR","BR-MT","Santa Terezinha","no",,,"SIT2","MT0950",,,
 558708,"SIT3","small_airport","Fazenda Andressa Airstrip",-19.907665,-53.69958,1978,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,"SIT3","MS0740",,,
 527472,"SIT4","small_airport","Fazenda Cocal Airport",-8.950106,-49.976961,650,"SA","BR","BR-PA","Santa Maria das Barreiras","no",,,"SIT4","PA0401",,,
@@ -85464,7 +85468,7 @@
 597938,"ZA-0348","closed","Rietfontein Airfield",-26.031639,27.881164,5038,"AF","ZA","ZA-GT","Rietfontein","no",,,,,,,"FARF"
 598260,"ZA-0349","small_airport","Silver Creek Gorge Estate Airfield",-25.801109,27.515409,4354,"AF","ZA","ZA-NW","Mooinooi","no",,,,,"https://silvercreekgorge.com/estate/our-aviation-lifestyle/",,
 599533,"ZA-0350","small_airport","Ingwelala",-24.16212,31.39501,1109,"AF","ZA","ZA-MP","Ingwelala","no",,,,"R429","https://www.ingwelala.co.za",,
-602691,"ZA-0351","small_airport","Rhino Park Airfield",-25.834537,28.540056,4749,"AF","ZA","ZA-GT",,"no",,,,,,,
+602691,"ZA-0351","small_airport","Rhino Park Airfield",-25.834537,28.540056,4780,"AF","ZA","ZA-GT",,"no",,,,,,,
 602692,"ZA-0352","small_airport","The Coves Airstrip",-25.776769,27.79308,,"AF","ZA","ZA-NW",,"no",,,,,,,
 603927,"ZA-0353","small_airport","Hoedspruit Civil Airfield",-24.347618,30.946141,,"AF","ZA","ZA-NP","Hoedspruit","no",,,,,,,
 603929,"ZA-0354","small_airport","Zandspruit Airstrip",-24.370858,30.926081,,"AF","ZA","ZA-NP","Hoedspruit","no",,,,,,,
