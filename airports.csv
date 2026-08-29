@@ -1163,6 +1163,7 @@
 323292,"11MU","small_airport","Rocky Top Airfield",36.657916,-92.465578,1273,"NA","US","US-MO","Gainesville","no",,,"11MU","11MU",,,
 7727,"11N","small_airport","Candlelight Farms Airport",41.56928,-73.462153,675,"NA","US","US-CT","New Milford","no",,,"K11N","11N",,"https://en.wikipedia.org/wiki/Candlelight_Farms_Airport",
 7728,"11NC","heliport","Sprint/Midatlantic Telecom Heliport",36.02149963378906,-78.5188980102539,427,"NA","US","US-NC","Youngsville","no",,,"11NC","11NC",,,
+610572,"11NH","heliport","Brady Sulivan/Dover Helipad",43.209094,-70.914055,150,"NA","US","US-NH","Dover","no",,,"11NH","11NH",,,
 7730,"11NJ","heliport","Southdown Heliport",40.64070129394531,-74.66419982910156,128,"NA","US","US-NJ","Pluckemin","no",,,"11NJ","11NJ",,,
 7731,"11NK","small_airport","Hop House Airpark",42.91389846801758,-74.61170196533203,530,"NA","US","US-NY","Fort Plain","no",,,"11NK","11NK",,,
 321977,"11NR","heliport","Dosher Heliport",33.9280833,-78.0203889,19,"NA","US","US-NC","Southport","no",,,"11NR","11NR",,,
@@ -2207,7 +2208,7 @@
 8829,"21FD","closed","Land's Field",30.695063,-85.312976,100,"NA","US","US-FL","Marianna","no",,,,,,,"21FD"
 8830,"21FL","small_airport","Kings Field",28.50860023498535,-81.80030059814453,98,"NA","US","US-FL","Clermont","no",,,"21FL","21FL",,,
 8831,"21GA","heliport","Piedmont Hospital-Newnan Heliport",33.3926010132,-84.817199707,930,"NA","US","US-GA","Newnan","no",,,"21GA","21GA",,,
-8832,"21GE","small_airport","Deer Crossing Airport",34.54970169067383,-83.82219696044922,1390,"NA","US","US-GA","Cleveland","no",,,"21GE","21GE",,,
+8832,"21GE","closed","Deer Crossing Airport",34.552216,-83.824604,1390,"NA","US","US-GA","Cleveland","no",,,,,,,"21GE"
 8833,"21H","closed","Skyline Seaplane Base",48.489077,-122.676773,,"NA","US","US-WA","Anacortes","no",,,,,,,"21H"
 301245,"21ID","heliport","Nordman / Phillabaum Heliport",48.631483378700004,-116.871174574,2440,"NA","US","US-ID",,"no",,,"21ID",,,,
 8834,"21II","heliport","The King's Daughters' Heliport",38.739200592041016,-85.38159942626953,531,"NA","US","US-IN","Madison","no",,,"21II","21II",,,
@@ -4197,7 +4198,7 @@
 10813,"3TN4","closed","Kenner Farm Airport",35.881036,-83.726641,940,"NA","US","US-TN","Seymour","no",,,,,,,"3TN4"
 10814,"3TN5","heliport","Holston Valley Medical Center Heliport",36.553643,-82.552815,1270,"NA","US","US-TN","Kingsport","no",,,"3TN5","3TN5",,,"Wellmont"
 10815,"3TN6","small_airport","Wilson Field",35.0968017578125,-89.28060150146484,435,"NA","US","US-TN","Memphis","no",,,"3TN6","3TN6",,,
-10816,"3TN7","heliport","Pigeon Forge Heliport",35.724300384521484,-83.63929748535156,1400,"NA","US","US-TN","Pigeon Forge","no",,,"3TN7","3TN7",,,
+10816,"3TN7","closed","Pigeon Forge Heliport",35.7243,-83.639297,1400,"NA","US","US-TN","Pigeon Forge","no",,,,,,,"3TN7"
 10817,"3TN8","small_airport","Massingale Airport",35.763999938964844,-84.1874008178711,840,"NA","US","US-TN","Lenoir City","no",,,"3TN8","3TN8",,,
 10818,"3TN9","small_airport","Holenthawall Airport",36.61330032348633,-86.810302734375,645,"NA","US","US-TN","Springfield","no",,,"3TN9","3TN9",,,
 10819,"3TS0","small_airport","East Side Airport",32.50849914550781,-94.70020294189453,373,"NA","US","US-TX","Longview","no",,,"3TS0","3TS0",,,
@@ -4883,7 +4884,7 @@
 11434,"4GA9","small_airport","Ebeneezer Airport",34.2422981262207,-84.05709838867188,1230,"NA","US","US-GA","Cumming","no",,,"4GA9","4GA9",,,
 11435,"4GE0","small_airport","Millhaven Airport",32.93600082397461,-81.66210174560547,164,"NA","US","US-GA","Millhaven","no",,,"4GE0","4GE0",,,
 11436,"4GE1","small_airport","Viola Farm Airport",30.72369956970215,-84.54109954833984,285,"NA","US","US-GA","Attapulgus","no",,,"4GE1","4GE1",,,
-11437,"4GE2","small_airport","Gorden E Bellah International Airport",33.55009841918945,-84.1666030883789,780,"NA","US","US-GA","Stockbridge","no",,,"4GE2","4GE2",,,
+11437,"4GE2","closed","Gorden E Bellah International Airport",33.550098,-84.166603,780,"NA","US","US-GA","Stockbridge","no",,,,,,,"8A5, 4GE2"
 45377,"4GE3","small_airport","Whitehall Airport",32.4994,-83.182917,350,"NA","US","US-GA","Montrose","no",,,"4GE3","4GE3",,,
 333954,"4GE7","heliport","AE154 Base Heliport",32.458333,-83.710278,360,"NA","US","US-GA","Perry","no",,,"4GE7","4GE7",,,
 11438,"4H1","heliport","Schaumburg Municipal Helistop",42.047784,-88.052663,730,"NA","US","US-IL","Chicago/Schaumburg","no",,,"4H1","4H1",,"https://en.wikipedia.org/wiki/Schaumburg_Municipal_Helistop",
@@ -5478,7 +5479,7 @@
 12036,"55CO","heliport","Elizabeth Emergency Heliport",39.36249923706055,-104.5999984741211,6512,"NA","US","US-CO","Elizabeth","no",,,"55CO","55CO",,,
 12037,"55FD","small_airport","Dotson Airport",30.818500518798828,-86.68800354003906,251,"NA","US","US-FL","Baker","no",,,"55FD","55FD",,,
 12038,"55FL","closed","The Murphy Company Heliport",26.687525,-80.056997,15,"NA","US","US-FL","West Palm Beach","no",,,,,,,"55FL"
-12039,"55G","small_airport","Arnold Field",43.29748,-82.607703,780,"NA","US","US-MI","Croswell","no",,,"55G","55G",,"https://en.wikipedia.org/wiki/Arnold_Field_(Michigan)",
+12039,"55G","closed","Arnold Field",43.29748,-82.607703,780,"NA","US","US-MI","Croswell","no",,,,,,"https://en.wikipedia.org/wiki/Arnold_Field_(Michigan)","55G"
 12040,"55GA","heliport","Northside Hospital Gwinnett Heliport",33.963522,-84.018293,1044,"NA","US","US-GA","Lawrenceville","no",,,"55GA","55GA",,,"Gwinnett Medical Center"
 12041,"55GE","small_airport","Rostex Airport",34.979764,-84.741926,887,"NA","US","US-GA","Crandall","no",,,"55GE","55GE",,,"Tennga"
 12042,"55H","small_airport","Atlanta Airport",43.810418,-115.134144,5500,"NA","US","US-ID","Atlanta","no",,,,"55H",,"https://en.wikipedia.org/wiki/Atlanta_Airport_(Idaho)",
@@ -8222,7 +8223,7 @@
 14821,"89FD","heliport","Tranquility Pad Heliport",28.401399612426758,-82.24259948730469,38,"NA","US","US-FL","Dade City","no",,,"89FD","89FD",,,
 14822,"89FL","seaplane_base","Lake Hiawassee Seaplane Base",28.529199600219727,-81.48090362548828,70,"NA","US","US-FL","Orlando","no",,,"89FL","89FL",,,
 609290,"89GA","heliport","Reeves Young Heliport",34.074454,-84.062207,1102,"NA","US","US-GA","Sugar Hill","no",,,"89GA","89GA",,,
-14853,"89GE","small_airport","South Fulton Airport",33.537601470947266,-84.63880157470703,1025,"NA","US","US-GA","Palmetto","no",,,"89GE","89GE",,,"Formerly 8A9"
+14853,"89GE","closed","South Fulton Airport",33.537601,-84.638802,1025,"NA","US","US-GA","Palmetto","no",,,,,,,"Formerly 8A9, 89GE"
 14823,"89IA","small_airport","Chain Lakes Airpark",42.05139923095703,-91.716796875,825,"NA","US","US-IA","Cedar Rapids","no",,,"89IA","89IA",,,
 610156,"89IL","heliport","Ag Farmacy Heliport",41.591775,-90.088276,631,"NA","US","US-IL","Erie","no",,,"89IL","89IL",,,
 14825,"89IN","small_airport","Milhon Airport",39.511172,-86.384724,615,"NA","US","US-IN","Martinsville","no",,,"89IN","89IN",,,
@@ -8455,6 +8456,7 @@
 15048,"8MO5","small_airport","Cayton Pony Express Airport",39.82279968261719,-94.38410186767578,1043,"NA","US","US-MO","Maysville","no",,,"8MO5","8MO5",,,
 15049,"8MO6","heliport","Pike County Memorial Hospital Heliport",39.440719,-91.065612,508,"NA","US","US-MO","Louisiana","no",,,"8MO6","8MO6",,,
 15050,"8MO7","small_airport","Bean Lake Airport",39.49169921875,-95.00659942626953,780,"NA","US","US-MO","Rushville","no",,,"8MO7","8MO7",,,
+610535,"8MO8","heliport","Mercy Hospital Jefferson Heliport",38.197596,-90.390869,417,"NA","US","US-MO","Festus","no",,,"8MO8","8MO8",,,
 15052,"8MO9","heliport","Mercy Hospital St Louis Heliport",38.643667,-90.448336,633,"NA","US","US-MO","St Louis","no",,,"8MO9","8MO9",,,"St John's Mercy Medical Center"
 323297,"8MS1","small_airport","Henderson Airport",33.585044,-90.097736,162,"NA","US","US-MS","Greenwood","no",,,"8MS1","8MS1",,,
 325044,"8MS2","small_airport","Godspeed Airpark",34.234296,-88.507179,350,"NA","US","US-MS","Fulton","no",,,"8MS2","8MS2",,,
@@ -24333,10 +24335,11 @@
 29200,"EGTO","small_airport","Rochester Airport",51.351898,0.503333,436,"EU","GB","GB-ENG","Rochester, Kent","no","EGTO","RCS","EGTO",,"http://www.rochesterairport.co.uk/","https://en.wikipedia.org/wiki/Rochester_Airport_%28England%29",
 2484,"EGTP","small_airport","Perranporth Airfield",50.330617,-5.179317,330,"EU","GB","GB-ENG","Perranporth, Cornwall","no","EGTP",,"EGTP",,,"https://en.wikipedia.org/wiki/Perranporth_Airfield","RAF Perranporth, Trevallis Downs"
 29201,"EGTR","small_airport","Elstree Airfield",51.6558,-0.325833,332,"EU","GB","GB-ENG","Borehamwood, Hertfordshire","no","EGTR",,"EGTR",,,"https://en.wikipedia.org/wiki/Elstree_Aerodrome",
-2485,"EGTU","small_airport","Dunkeswell Airfield",50.860956,-3.233929,839,"EU","GB","GB-ENG","Honiton, Devon","no",,,"EGTU",,"https://www.dunkeswell.co.uk/","https://en.wikipedia.org/wiki/Dunkeswell_Aerodrome","RAF Dunkeswell"
-29202,"EGTW","small_airport","Oaksey Park Airfield",51.632198,-2.01472,250,"EU","GB","GB-ENG","Malmesbury, Wiltshire","no",,,"EGTW",,,,
+2485,"EGTU","small_airport","Dunkeswell Airfield",50.860956,-3.233929,839,"EU","GB","GB-ENG","Honiton, Devon","no","EGTU",,"EGTU",,"https://www.dunkeswell.co.uk/","https://en.wikipedia.org/wiki/Dunkeswell_Aerodrome","RAF Dunkeswell"
+29202,"EGTW","small_airport","Oaksey Park Airfield",51.632198,-2.01472,250,"EU","GB","GB-ENG","Malmesbury, Wiltshire","no","EGTW",,"EGTW",,,,
 2486,"EGUB","medium_airport","RAF Benson",51.614366,-1.095991,226,"EU","GB","GB-ENG","Wallingford, Oxfordshire","no","EGUB","BEX","EGUB",,,"https://en.wikipedia.org/wiki/RAF_Benson","Benson"
 29642,"EGUD","small_airport","RAF Abingdon",51.690614,-1.316568,259,"EU","GB","GB-ENG","Abingdon, Oxfordshire","no",,,"EGUD",,,"https://en.wikipedia.org/wiki/RAF_Abingdon","ABB, Dalton Barracks"
+610545,"EGUH","heliport","RAF High Wycombe",51.682508,-0.803265,642,"EU","GB","GB-ENG","High Wycombe, Buckinghamshire","no","EGUH",,"EGUH",,"https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/","https://en.wikipedia.org/wiki/RAF_High_Wycombe",
 2487,"EGUL","medium_airport","RAF Lakenheath",52.40954,0.561161,32,"EU","GB","GB-ENG","Brandon, Suffolk","no","EGUL","LKZ","EGUL",,"http://www.lakenheath.af.mil/","https://en.wikipedia.org/wiki/RAF_Lakenheath",
 2488,"EGUN","medium_airport","RAF Mildenhall",52.3619,0.486406,33,"EU","GB","GB-ENG","Bury Saint Edmunds, Suffolk","no","EGUN","MHZ","EGUN",,"http://www.mildenhall.af.mil/","https://en.wikipedia.org/wiki/RAF_Mildenhall",
 2490,"EGUW","medium_airport","Wattisham Airfield",52.127451,0.956189,284,"EU","GB","GB-ENG","Ipswich, Suffolk","no",,,"EGUW",,,"https://en.wikipedia.org/wiki/RAF_Wattisham","Stowmarket"
@@ -28078,6 +28081,7 @@
 609792,"FR-1348","heliport","LINZEUX DZ",50.342835,2.197005,,"EU","FR","FR-HDF","Linzeux","no",,,,,,,
 609811,"FR-1349","heliport","Peronne Philippe DZ",49.934592,2.923713,,"EU","FR","FR-HDF","Peronne","no",,,,,,,
 610351,"FR-1350","heliport","Audruicq HLS",50.897579,2.074722,7,"EU","FR","FR-HDF","Audruicq, Pas-de-Calais","no",,,,,,,
+610556,"FR-1351","heliport","DROUVILLE DZ",48.661969,6.410988,,"EU","FR","FR-GES","Drouville","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -34117,6 +34121,9 @@
 610216,"IT-1011","small_airport","Easy Flyte",42.126217,12.60985,,"EU","IT","IT-62","Capena","no",,,,,,,
 610217,"IT-1012","small_airport","Vall'Ornara Airfield",42.04065,12.538278,65,"EU","IT","IT-62","Roma (RM)","no",,,,,"https://www.aviovallornara.it/",,
 610218,"IT-1013","small_airport","Fonte di Papa",42.052272,12.566569,,"EU","IT","IT-62","Roma","no",,,,,,,
+610538,"IT-1014","heliport","Elisuperficie Coppa",45.109544,8.452156,,"EU","IT","IT-21","Comune di casale monferrato","no",,,,,,,
+610541,"IT-1015","heliport","Elisuperficie Cascina Marta",45.120117,8.418671,,"EU","IT","IT-21","San Giorgio Monferrato","no",,,,,,,
+610543,"IT-1016","heliport","Elisuperficie Cicengo",45.094505,8.164301,,"EU","IT","IT-21","Comune di Odalengo Grande","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -41188,7 +41195,7 @@
 20807,"KPBF","medium_airport","Pine Bluff Regional Airport, Grider Field",34.174121,-91.935643,206,"NA","US","US-AR","Pine Bluff","no","KPBF","PBF","KPBF","PBF","http://www.pbaviation.com","https://en.wikipedia.org/wiki/Grider_Field",
 20808,"KPBG","medium_airport","Plattsburgh International Airport",44.650902,-73.468102,234,"NA","US","US-NY","Plattsburgh","yes","KPBG","PBG","KPBG","PBG","http://www.plattsburghinternationalairport.com/","https://en.wikipedia.org/wiki/Plattsburgh_International_Airport","Plattsburgh Air Force Base"
 20809,"KPBH","small_airport","Price County Airport",45.709,-90.402496,1497,"NA","US","US-WI","Phillips","no",,,"KPBH","PBH",,"https://en.wikipedia.org/wiki/Price_County_Airport",
-3766,"KPBI","large_airport","President Donald J. Trump International Airport",26.683201,-80.095596,19,"NA","US","US-FL","West Palm Beach","yes","KDJT","DJT","KDJT","DJT","https://www.pbia.org/","https://en.wikipedia.org/wiki/Palm_Beach_International_Airport","PBI, KPBI, MFW, South Florida"
+3766,"KPBI","large_airport","President Donald J. Trump International Airport",26.683201,-80.095596,19,"NA","US","US-FL","West Palm Beach","yes","KDJT","DJT","KDJT","DJT","https://flydjt.org/","https://en.wikipedia.org/wiki/Palm_Beach_International_Airport","PBI, KPBI, MFW, South Florida"
 20810,"KPBX","small_airport","Pike County Airport Hatcher Field",37.560795,-82.570051,1473,"NA","US","US-KY","Pikeville","no","KPBX","PVL","KPBX","PBX",,"https://en.wikipedia.org/wiki/Pike_County_Airport_(Kentucky)","Hatcher Field"
 24076,"KPCA","heliport","Picacho Stagefield Heliport",32.662789,-111.48797,1675,"NA","US","US-AZ","Picacho","no",,,"KPCA","PCA",,"https://en.wikipedia.org/wiki/Picacho_Stagefield_ARNG_Heliport",
 20811,"KPCM","small_airport","Plant City Municipal Airport",28.0002,-82.1642,153,"NA","US","US-FL","Plant City","no",,,"KPCM","PCM",,"https://en.wikipedia.org/wiki/Plant_City_Airport",
@@ -46233,6 +46240,7 @@
 507383,"MN-0004","closed","Ulan Uul West Airport",44.45,110.215,,"AS","MN","MN-063","Zuunbayan","no",,,,,,,
 507385,"MN-0005","medium_airport","Shine Bulagin Hural Air Base",45.9467,109.1233,,"AS","MN","MN-063","Dalanjargalan","no",,,,,,,
 604040,"MN-0006","closed","Ulan Dzuleg Airbase",47.363595,115.288641,2372,"AS","MN","MN-061","Ulan Dzulek","no",,,,,,,
+610548,"MN-0007","small_airport","Bulagtai Resort Airport",43.749167,104.114722,4659,"AS","MN","MN-U-A","Khankhongor","no","ZMBR","UGT",,,,,
 507380,"MN-5M","small_airport","Nalayh Air Base",47.7417,107.3717,,"AS","MN","MN-1","Ulaanbaatar","no",,,,,,,
 507381,"MN-5Z","small_airport","Bayan Suma Airport",47.3667,107.4567,,"AS","MN","MN-047","Bagakhangai","no",,,,,,,
 507382,"MN-60","small_airport","Bayantal Air Base",46.5767,108.3233,,"AS","MN","MN-064","Bayantal","no",,,,,,,
@@ -46501,7 +46509,7 @@
 41930,"MRBN","small_airport","Bataan (Monte Libano) Airport",10.083333015441895,-83.31666564941406,39,"NA","CR","CR-L","Limón","no",,,"MRBN",,,,
 41931,"MRBO","small_airport","Boca Naranjo Airport",9.401526,-84.11896,15,"NA","CR","CR-P","Quepos","no",,,"MRBO",,,,
 41932,"MRBP","small_airport","Barra de Parismina Airport",10.3,-83.349998,7,"NA","CR","CR-L","Pococi","no",,,"MRBP",,,"https://en.wikipedia.org/wiki/Parismina_Airport",
-314927,"MRBT","small_airport","Barra del Tortuguero",10.569,-83.5149,19,"NA","CR","CR-L","Tortuguero","no","MRBT",,"MRBT",,,"https://en.wikipedia.org/wiki/Tortuguero_Airport",
+314927,"MRBT","small_airport","Tortuguero Airport",10.569,-83.5149,19,"NA","CR","CR-L","Tortuguero","no","MRBT","TTQ","MRBT",,,"https://en.wikipedia.org/wiki/Tortuguero_Airport","Barra del Tortuguero"
 41933,"MRCA","small_airport","Codela Airport",10.414,-85.091698,328,"NA","CR","CR-G","Guapiles","no",,,"MRCA",,,"https://en.wikipedia.org/wiki/Codela_Airport",
 4798,"MRCC","medium_airport","Coto 47 Airport",8.60156,-82.968754,26,"NA","CR","CR-P","Corredores","no","MRCC","OTR","MRCC",,,"https://en.wikipedia.org/wiki/Coto_47_Airport",
 519480,"MRCD","small_airport","Cangrejo Verde Airport",8.5,-82.983333,50,"NA","CR","CR-P","Cangrejo-Verde","no",,,"MRCD",,,,
@@ -54838,7 +54846,7 @@
 530233,"RE-0009","small_airport","Grand Coude Altisurface",-21.288889,55.623611,3250,"AF","RE","RE-SR","Grand Coude","no",,,,"LF9743",,,
 301586,"RH8H","heliport","N 210 Helipad",37.754574,126.595346,415,"AS","KR","KR-41",,"no",,,"RK8H","RK8H",,,
 314557,"RHT","small_airport","Alxa Right Banner Badanjilin Airport",39.225,101.546,4659,"AS","CN","CN-15","Badanjilin","yes","ZBAR","RHT","ZBAR",,,"https://en.wikipedia.org/wiki/Alxa_Right_Banner_Badanjilin_Airport",
-24341,"RI01","heliport","Kent County Memorial Hospital Heliport",41.707258,-71.477545,104,"NA","US","US-RI","Warwick","no",,,"RI01","RI01",,,
+24341,"RI01","heliport","Kent County Memorial Hospital Heliport",41.707258,-71.477545,117,"NA","US","US-RI","Warwick","no",,,"RI01","RI01",,,
 45776,"RI02","heliport","Grayrock Ridge Heliport",41.949311,-71.415397,314,"NA","US","US-RI","Cumberland","no",,,"RI02","RI02",,,
 24343,"RI06","seaplane_base","Tiverton Seaplane Base",41.64820098876953,-71.15390014648438,205,"NA","US","US-RI","Tiverton","no",,,"RI06","RI06",,,
 24344,"RI07","small_airport","Wing-Over Farm Airport",41.57899856567383,-71.1417007446289,113,"NA","US","US-RI","Tiverton","no",,,"RI07","RI07",,,
@@ -56816,6 +56824,7 @@
 610072,"RU-10176","closed","Teryut Airfield",64.245684,142.052253,1823,"AS","RU","RU-SA","Teryut","no",,,,,,,"ZF8R, ЗФ8Р, Терют"
 610078,"RU-10177","heliport","Nizhne-Kvakchinskoye Gas Field Helipad",54.689449,155.854202,210,"AS","RU","RU-KAM",,"no",,,,"HGU1",,,"ХГУ1, Нижне-Квакчинскоые"
 610305,"RU-10178","small_airport","Roshchino Airport",45.90343,134.87632,456,"AS","RU","RU-PRI","Roshchino","no",,,"UHWR",,,,"УХВР, Рощино"
+610568,"RU-10179","small_airport","Nudol Airfield",56.0964,36.55477,639,"EU","RU","RU-MOS",,"no",,,"UUCN",,"https://www.uucn.ru/",,"УУЦН, Нудоль, Nudol-Sharino, Алексейково"
 526968,"RU-1018","heliport","Chaika Coal Terminal Helipad",73.379354,80.59003,71,"AS","RU","RU-KYA","Dikson","no",,,,,,,"HELIOPS, Mining, Coal, Vostokugol-Dikson"
 527128,"RU-1019","heliport","Khralov junction Helipad",68.486875,69.521978,,"AS","RU","RU-YAN","Lidino","no",,,,,,,"HELIOPS, OIL & GAS, Gazprom, Obskaya–Bovanenkovo Railroad"
 528461,"RU-1020","heliport","Roman Trebs field",68.624032,57.891887,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
@@ -59102,6 +59111,7 @@
 608242,"SE-0117","small_airport","Fridhem Farm Airstrip",55.42708,13.0087,,"EU","SE","SE-M",,"no",,,,,,,
 608336,"SE-0118","heliport","Fjällflygarna AB",66.274352,16.68746,,"EU","SE","SE-BD","Adolfström","no",,,,,"https://fjallflygarna.se",,
 610308,"SE-0119","small_airport","Finnberga Gård Private Airstrip",59.64915,18.17146,,"EU","SE","SE-AB",,"no",,,,,,,
+610546,"SE-0120","medium_airport","Gävle–Sandviken Airport",60.594444,16.951111,,"EU","SE","SE-U-A","Sandviken","no",,"GVX",,"GVX",,"https://en.wikipedia.org/wiki/G%C3%A4vle%E2%80%93Sandviken_Airport",
 2170,"SE01","small_airport","Alba Elena Airport",-2.173581,-79.280763,150,"SA","EC","EC-G","Bucay","no",,,"SEAE",,,,"SE01, Coronel Marcelino Mariduena"
 2171,"SE02","small_airport","Guabital Airport",-2.773399,-79.702411,45,"SA","EC","EC-G","Soledad","no",,,"SEGB",,,,"SE02"
 2172,"SE03","small_airport","Las Peñas Airport",-2.94716,-80.1007,3,"SA","EC","EC-G","Puerto Grande","no",,,"SEEN",,,,"SE03"
@@ -65376,6 +65386,7 @@
 604550,"TH-0065","heliport","Kanchanaburi Police Heliport",14.113861,99.662957,108,"AS","TH","TH-30","Ban Huai Saphan","no",,,,,,,"บ้านห้วยสะพาน"
 604772,"TH-0066","heliport","CAVPAD Helicopter Field",13.772071,100.543794,22,"AS","TH","TH-10","Phaya Thai","no",,,,,,,
 610525,"TH-0067","small_airport","Ban Klang Airfield",8.330278,98.766111,82,"AS","TH","TH-81","Amphoe Ao Luek","no",,,,,,,
+610560,"TH-0068","small_airport","R'sommai Airfield",13.158,101.03,18,"AS","TH","TH-20","Si Racha","no",,,,,,,
 313984,"THW","seaplane_base","Trincomalee Harbor Waterdrome",8.56,81.22,0,"AS","LK","LK-5","Trincomalee","no",,"THW",,,,,
 6369,"TIST","large_airport","Cyril E. King Airport",18.337091,-64.977251,23,"NA","VI","VI-ST","Charlotte Amalie","yes","TIST","STT","TIST","STT","http://www.viport.com/airports.html","https://en.wikipedia.org/wiki/Cyril_E._King_Airport","Harry S. Truman Airport"
 6370,"TISX","medium_airport","Henry E. Rohlsen Airport",17.701413,-64.802608,74,"NA","VI","VI-SC","Christiansted","yes","TISX","STX","TISX","STX","https://www.viport.com/herastx","https://en.wikipedia.org/wiki/Henry_E._Rohlsen_Airport","St Croix"
@@ -71455,7 +71466,19 @@
 610514,"US-13024","small_airport","Jackson Field",40.273402,-85.479582,901,"NA","US","US-U-A","Muncie","no",,,"1IN2","1IN2",,,
 610529,"US-13025","heliport","Reeves Memorial Medical Center Heliport",32.81557,-92.65922,226,"NA","US","US-LA","Bernice","no",,,"3LA2","3LA2",,,
 610533,"US-13026","heliport","Beauregard Health System Heliport",30.8425,-93.288056,192,"NA","US","US-LA","DeRidder","no",,,"68LA","68LA",,,
+610549,"US-13027","closed","Cobb Airfeild",33.867292,-84.591332,,"NA","US","US-GA",,"no",,,,,,"https://www.airfields-freeman.com/GA/Airfields_GA_Atlanta.htm",
+610550,"US-13028","closed","Lakewood Airport",33.708183,-84.401217,1000,"NA","US","US-GA",,"no",,,,,,,
+610551,"US-13029","closed","Cline Ranch Airstrip",33.617043,-83.781824,,"NA","US","US-GA",,"no",,,,,,"https://www.airfields-freeman.com/GA/Airfields_GA_Atlanta.htm",
 334415,"US-1303","heliport","Zuma Beach Emergency Helipad",34.01885,-118.82685,,"NA","US","US-CA","Malibu","no",,,,,,,
+610553,"US-13030","closed","Cole Field",33.63716,-84.2086,,"NA","US","US-GA",,"no",,,,,,"https://www.airfields-freeman.com/GA/Airfields_GA_Atlanta.htm",
+610554,"US-13031","closed","Sunset Strip",33.621481,-84.25957,,"NA","US","US-GA",,"no",,,,,,,
+610555,"US-13032","closed","South Expressway Airport",33.505845,-84.35969,,"NA","US","US-GA",,"no",,,,,,,
+610559,"US-13033","closed","Parkaire Field",33.964592,-84.407918,,"NA","US","US-GA",,"no",,,,,,"https://www.airfields-freeman.com/GA/Airfields_GA_Atlanta.htm",
+610561,"US-13034","closed","Gunn Airfield",33.727802,-84.162063,,"NA","US","US-GA",,"no",,,,,,"https://www.airfields-freeman.com/GA/Airfields_GA_Atlanta.htm",
+610564,"US-13035","closed","Carrollton Municipal Airport",33.596894,-85.04526,,"NA","US","US-GA",,"no",,,,,,"https://www.airfields-freeman.com/GA/Airfields_GA_Atlanta.htm",
+610565,"US-13036","closed","Conyers Airport",33.654302,-84.015996,,"NA","US","US-GA",,"no",,,,,,"https://www.airfields-freeman.com/GA/Airfields_GA_Atlanta.htm",
+610566,"US-13037","closed","Cumming Airfield",34.25445,-84.203557,,"NA","US","US-GA",,"no",,,,,,"https://www.airfields-freeman.com/GA/Airfields_GA_N.htm",
+610574,"US-13038","heliport","Steward & Sons Heliport",35.985833,-87.355278,779,"NA","US","US-U-A","Fairview","no",,,"3TN7","3TN7",,,
 334416,"US-1304","heliport","Hoover Dam Lodge Heliport",36.010463,-114.782017,1761,"NA","US","US-NV","Boulder City","no",,,,,,,
 334441,"US-1305","small_airport","Bouse Airport",33.930167,-114.000487,,"NA","US","US-AZ","Bouse","no",,,,,,,
 334442,"US-1306","small_airport","Quartzsite Airport",33.66185,-114.249,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
