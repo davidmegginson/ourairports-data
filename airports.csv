@@ -4322,7 +4322,7 @@
 10925,"40MN","small_airport","Turner Field",43.866600036621094,-95.01419830322266,1410,"NA","US","US-MN","Bingham Lake","no",,,"40MN","40MN",,,
 322249,"40MT","small_airport","Silver Creek Airport",46.706601,-112.06909,3860,"NA","US","US-MT","Helena","no",,,"40MT","40MT",,,"https://web.archive.org/web/20150924110614/http://www.airnav.com/airport/40MT"
 10927,"40NC","heliport","Heavenly Flights Heliport",36.180301666259766,-81.5239028930664,2474,"NA","US","US-NC","Boone","no",,,"40NC","40NC",,,
-10928,"40ND","heliport","Gorder Farm Heliport",46.384700775146484,-96.82260131835938,951,"NA","US","US-ND","Galchutt","no",,,"40ND","40ND",,,
+10928,"40ND","small_airport","Gorder Farm Airport",46.387778,-96.819993,951,"NA","US","US-ND","Galchutt","no",,,"40ND","40ND",,,
 10929,"40NE","small_airport","Landgren Ranch Airport",41.975636,-98.515287,2100,"NA","US","US-NE","Bartlett","no",,,"40NE","40NE",,,
 10930,"40NJ","heliport","Osterman Heliport",40.48619842529297,-74.73570251464844,200,"NA","US","US-NJ","Neshanic","no",,,"40NJ","40NJ",,,
 345603,"40NK","heliport","Central Government Center Heliport",38.138906,-85.62941,680,"NA","US","US-KY","Louisville","no",,,"40NK","40NK",,,
@@ -17356,13 +17356,13 @@
 325127,"CA-0688","closed","Amherst Airport",45.812972,-64.239019,69,"NA","CA","CA-NS","Amherst","no",,,,,,"https://en.wikipedia.org/wiki/Amherst_Airport","CQ4"
 325128,"CA-0689","closed","Red Bay Water Aerodrome",51.725117,-56.440726,0,"NA","CA","CA-NL","Red Bay","no",,,,,,,"CP5, CP5"
 325129,"CA-0690","closed","Big Harbour Aerodrome",46.142276,-60.634297,82,"NA","CA","CA-NS","Big Harbour","no",,,,,,,"CY5, CY5"
-325130,"CA-0691","closed","Tatamagouche Airport",45.734393,-63.324875,8,"NA","CA","CA-NS","Tatamgouche","no",,,,,,"https://en.wikipedia.org/wiki/Tatamagouche_Airport","DA2, DA2"
-325133,"CA-0692","closed","Baie Verte Water Aerodrome",49.93811,-56.177848,0,"NA","CA","CA-NL","Baie Verte","no",,,,,,,"DM4, DM4"
-325134,"CA-0693","closed","Campbellton Water Aerodrome",48.018834,-66.630899,,"NA","CA","CA-NB","Campbellton","no",,,,,,,"DN4, DN4"
-325135,"CA-0694","closed","Cartwright Water Aerodrome",53.700893,-57.027136,0,"NA","CA","CA-NL","Cartwright","no",,,,,,,"DP4, DP4"
-325136,"CA-0695","closed","Catalina Harbour Water Aerodrome",48.508475,-53.07021,0,"NA","CA","CA-NL","Catalina","no",,,,,,,"DQ4, DQ4"
-325137,"CA-0696","closed","Charlottetown Water Aerodrome",46.217852,-63.138428,,"NA","CA","CA-PE","Charlottetown","no",,,,,,,"DR4, DR4"
-325138,"CA-0697","closed","Churchill Falls Water Aerodrome",53.515182,-63.988769,449,"NA","CA","CA-NL","Churchill Falls","no",,,,,,,"DS4, DS4"
+325130,"CA-0691","closed","Tatamagouche Airport",45.734393,-63.324875,8,"NA","CA","CA-NS","Tatamgouche","no",,,,,,"https://en.wikipedia.org/wiki/Tatamagouche_Airport","DA2"
+325133,"CA-0692","closed","Baie Verte Water Aerodrome",49.93811,-56.177848,,"NA","CA","CA-NL","Baie Verte","no",,,,,,,"DM4"
+325134,"CA-0693","closed","Campbellton Water Aerodrome",48.018834,-66.630899,,"NA","CA","CA-NB","Campbellton","no",,,,,,,"DN4"
+325135,"CA-0694","closed","Cartwright Water Aerodrome",53.700893,-57.027136,,"NA","CA","CA-NL","Cartwright","no",,,,,,,"DP4"
+325136,"CA-0695","closed","Catalina Harbour Water Aerodrome",48.508475,-53.07021,,"NA","CA","CA-NL","Catalina","no",,,,,,,"DQ4"
+325137,"CA-0696","closed","Charlottetown Water Aerodrome",46.217852,-63.138428,,"NA","CA","CA-PE","Charlottetown","no",,,,,,,"DR4"
+325138,"CA-0697","closed","Churchill Falls Water Aerodrome",53.515182,-63.988769,449,"NA","CA","CA-NL","Churchill Falls","no",,,,,,,"DS4"
 325139,"CA-0698","closed","Dauphinee (Mill) Lake Water Aerodrome",44.647193,-64.09235,243,"NA","CA","CA-NS","Hubbards","no",,,,,,,"DT4, DT4"
 325172,"CA-0699","small_airport","Bolton Lake Lodge Airstrip",54.220665,-95.766588,719,"NA","CA","CA-MB","Bolton Lake","no",,,,,"http://www.boltonlake.com/",,
 325560,"CA-0700","closed","Amaranth Airstrip",43.967869,-80.225381,1594,"NA","CA","CA-ON","Amaranth","no",,,,,,,"Glideslope Aerospace"
@@ -17765,7 +17765,7 @@
 1543,"CA-1099","closed","Stanhope Airport",45.01572,-71.793888,1450,"NA","CA","CA-QC","Stanhope","no",,,,,,"https://en.wikipedia.org/wiki/Stanhope_Airport","SN5, CSN5"
 1553,"CA-1100","closed","Rimouski (Hydro-Québec) Heliport",48.441101074219,-68.542503356934,45,"NA","CA","CA-QC","Rimouski","no",,,,,,,"SR4, CSR4, CSR4"
 1558,"CA-1101","closed","Montreal / Les Cèdres Airport",45.3475,-74.076698,160,"NA","CA","CA-QC","Montréal","no",,,,,"http://www.laurentideaviation.com/cfs.php","https://en.wikipedia.org/wiki/Montr%C3%A9al/Les_C%C3%A8dres_Airport","SS3, Cedars Airport, CSS3"
-1565,"CA-1102","closed","Sainte-Lucie-de-Beauregard Airport",46.740799,-70.032501,1212,"NA","CA","CA-QC","Sainte-Lucie-de-Beauregard","no",,,,,,"https://en.wikipedia.org/wiki/Ste-Lucie-De-Beauregard_Airport","SU4, CSU4, CSU4"
+1565,"CA-1102","closed","Sainte-Lucie-de-Beauregard Airport",46.740799,-70.032501,1212,"NA","CA","CA-QC","Sainte-Lucie-de-Beauregard","no",,,,,,"https://en.wikipedia.org/wiki/Ste-Lucie-De-Beauregard_Airport","SU4, CSU4"
 1598,"CA-1103","closed","Ottawa / Hull (Expressair) Heliport",45.464377,-75.737363,180,"NA","CA","CA-QC","Ottawa","no",,,,,,,"CTH4"
 1602,"CA-1104","closed","Quebec / Hôpital de l'enfant-Jésus Heliport",46.837568,-71.225179,110,"NA","CA","CA-QC","Québec","no",,,,,,,"TJ5, Quebec City, CTJ5, CTJ5"
 1610,"CA-1105","closed","Airview Airport",45.353254,-71.86087,575,"NA","CA","CA-QC","Lennoxville","no",,,,,,"https://en.wikipedia.org/wiki/Lennoxville_(Airview)_Airport","CTQ4"
@@ -17959,6 +17959,7 @@
 610482,"CA-1294","closed","Brown Bear Airstrip",55.801703,-128.878834,,"NA","CA","CA-BC","Van Dyke Camp","no",,,,,,,
 610492,"CA-1295","closed","Burns Lake Water Aerodrome",54.228,-125.771,2297,"NA","CA","CA-BC","Burns Lake","no",,,,,,,"AJ6"
 610493,"CA-1296","heliport","Elie Acres Heliport",48.56,-123.602833,1010,"NA","CA","CA-BC","Shawnigan Lake","no",,,"CLE3","CLE3",,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#Shawnigan_Lake_(Elie_Acres)",
+610606,"CA-1297","small_airport","Spencerville STOLport (Private Aerodrome)",44.857894,-75.532537,295,"NA","CA","CA-ON","Spencerville","no",,,,"CSV5",,,"PPR"
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -20646,6 +20647,7 @@
 28324,"CST8","seaplane_base","Montreal / Marina Venise Seaplane Base",45.632856,-73.782409,65,"NA","CA","CA-QC","Montréal","no",,,"CST8","CST8",,"https://en.wikipedia.org/wiki/Montr%C3%A9al/Marina_Venise_Water_Airport",
 1563,"CSU2","small_airport","Chisasibi Airport",53.805599212646484,-78.91690063476562,43,"NA","CA","CA-QC","Chisasibi","yes",,"YKU","CSU2","CSU2",,"https://en.wikipedia.org/wiki/Chisasibi_Airport","SU2"
 1564,"CSU3","small_airport","Saint-Hyacinthe Aerodrome",45.60687,-73.015146,115,"NA","CA","CA-QC","Saint-Hyacinthe","no",,,"CSU3","CSU3",,"https://en.wikipedia.org/wiki/Saint-Hyacinthe_Aerodrome","SU3"
+610612,"CSU4","heliport","Shubenacadie Heliport",45.093228,-63.396957,80,"NA","CA","CA-NS","Shubenacadie","no",,,"CSU4","CSU4",,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#Shubenacadie",
 1566,"CSU5","small_airport","Weymontachie Airport",47.937133,-73.818004,1171,"NA","CA","CA-QC","Wemotaci","no",,,"CSU5","CSU5",,"https://en.wikipedia.org/wiki/Weymontachie_Airport","SU5"
 28424,"CSU6","seaplane_base","Spout Lake Seaplane Base",52.0075,-121.445,3560,"NA","CA","CA-BC",,"no",,,"CSU6","CSU6",,"https://en.wikipedia.org/wiki/Spout_Lake_Water_Aerodrome",
 1567,"CSU7","seaplane_base","Lac-à-la-Tortue Water Aerodrome",46.616699,-72.625801,427,"NA","CA","CA-QC","Lac-à-la-Tortue","no",,,"CSU7","CSU7",,"https://en.wikipedia.org/wiki/Lac-%C3%A0-la-Tortue_Water_Aerodrome","SU7"
@@ -34130,6 +34132,9 @@
 610538,"IT-1014","heliport","Elisuperficie Coppa",45.109544,8.452156,,"EU","IT","IT-21","Comune di casale monferrato","no",,,,,,,
 610541,"IT-1015","heliport","Elisuperficie Cascina Marta",45.120117,8.418671,,"EU","IT","IT-21","San Giorgio Monferrato","no",,,,,,,
 610543,"IT-1016","heliport","Elisuperficie Cicengo",45.094505,8.164301,,"EU","IT","IT-21","Comune di Odalengo Grande","no",,,,,,,
+610598,"IT-1017","heliport","elisuperficie Lauriano",45.167152,7.984883,,"EU","IT","IT-21","Comune di Lauriano","no",,,,,,,
+610600,"IT-1018","heliport","Ferrero Heliport",45.049308,7.773791,1844,"EU","IT","IT-21","Pino Torinese, (TO)","no",,,,,,,
+610602,"IT-1019","closed","Elisuperficie Pininfarina",44.970521,7.765167,,"EU","IT","IT-25","Comune di Cambiano","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -43386,6 +43391,8 @@
 430337,"LA-0005","small_airport","Khoksa Airfield",18.068039,102.910591,,"AS","LA","LA-VT",,"no",,,,,,,
 430434,"LA-0006","medium_airport","Bokeo International Airport",20.323986,100.165392,1175,"AS","LA","LA-BK","Ton Phueng","yes","VLBK","BOR","VLBK",,,"https://en.wikipedia.org/wiki/Bokeo_International_Airport",
 508578,"LA-0007","balloonport","Above Laos Ballooning",18.911778,102.405238,873,"AS","LA","LA-VI","Vang Vieng","no",,,,,"http://abovelaos.com/",,
+610596,"LA-0008","balloonport","Vang Vieng Flying Camp",18.910593,102.446198,,"AS","LA","LA-U-A","Vang Vieng","no",,,,,,,
+610597,"LA-0009","balloonport","Vang Vieng",18.904156,102.400528,,"AS","LA","LA-U-A",,"no",,,,,,,
 21467,"LA00","heliport","Baton Rouge General Medical Center Heliport",30.395334,-91.094924,36,"NA","US","US-LA","Baton Rouge","no",,,"LA00","LA00",,,
 21468,"LA01","small_airport","Millers Flying Service Airport",30.48349952697754,-92.54679870605469,44,"NA","US","US-LA","Basile","no",,,"LA01","LA01",,,
 21469,"LA02","heliport","Hammond Developmental Center Heliport",30.518400192260742,-90.56649780273438,42,"NA","US","US-LA","Hammond","no",,,"LA02","LA02",,,
@@ -43685,7 +43692,7 @@
 4017,"LELC","medium_airport","San Javier Airport",37.775002,-0.812389,11,"EU","ES","ES-MC","San Javier","no","LELC",,"LELC",,,"https://en.wikipedia.org/wiki/Murcia-San_Javier_Airport",
 43233,"LELH","small_airport","Alhama De Murcia Airfield",37.748901,-1.30216,669,"EU","ES","ES-MC","Cánovas","no",,,"LELH",,,,
 29412,"LELL","small_airport","Sabadell Airfield",41.520901,2.10508,485,"EU","ES","ES-CT","Sabadell","no",,,"LELL",,"https://www.aena.es/en/sabadell.html","https://en.wikipedia.org/wiki/Sabadell_Airport","QSA"
-43234,"LELM","small_airport","Almansa Airfield",38.895,-1.11318,2248,"EU","ES","ES-CM","Almansa","no",,,"LELM",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Almansa",
+43234,"LELM","closed","Almansa Airfield",38.895,-1.11318,2248,"EU","ES","ES-CM","Almansa","no",,,,,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Almansa","LELM"
 4018,"LELN","medium_airport","León Airport",42.590709,-5.653406,3006,"EU","ES","ES-CL","La Virgen del Camino","yes","LELN","LEN","LELN",,"https://www.aena.es/en/leon.html","https://en.wikipedia.org/wiki/Le%C3%B3n_Airport",
 30083,"LELO","medium_airport","Logroño-Agoncillo Airport",42.460953,-2.322235,1161,"EU","ES","ES-RI","Logroño","no",,"RJL","LERJ",,"https://www.aena.es/en/logrono-agoncillo.html","https://en.wikipedia.org/wiki/Logro%C3%B1o%E2%80%93Agoncillo_Airport","LELO"
 43279,"LELT","small_airport","Lillo Airfield",39.7169,-3.32056,2272,"EU","ES","ES-CM","Lillo","no",,,"LELT",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Lillo",
@@ -80390,11 +80397,11 @@
 42968,"UUMT","medium_airport","Tretyakovo Airport",54.904999,39.026669,515,"EU","RU","RU-MOS","Lukhovitsy","no",,,"UUMT",,,"https://en.wikipedia.org/wiki/Tretyakovo_Airport","Lukhovitsy Airport, Аэропорт Третьяково, Аэропорт Луховицы"
 34969,"UUMU","medium_airport","Chkalovskiy Air Base",55.8783,38.061699,499,"EU","RU","RU-MOS","Moscow","no","UUMU","CKL","UUMU",,,"https://en.wikipedia.org/wiki/Chkalovsky_Airport","Chkalovsky Airport, Аэродром Чкаловский"
 605772,"UUMY","small_airport","Ozery Airport",54.815239,38.629275,675,"EU","RU","RU-MOS","Ozery","no",,,"UUMY","UUMY",,,"УУМЫ, Озеры, Озёры"
-26398,"UUOB","medium_airport","Belgorod International Airport",50.643799,36.590099,735,"AS","RU","RU-BEL","Belgorod","no","UUOB","EGO","UUOB",,,"https://en.wikipedia.org/wiki/Belgorod_Airport",
+26398,"UUOB","medium_airport","Belgorod International Airport",50.643799,36.590099,735,"EU","RU","RU-BEL","Belgorod","no","UUOB","EGO","UUOB",,,"https://en.wikipedia.org/wiki/Belgorod_Airport",
 42995,"UUOD","small_airport","Pridacha Airport",51.652861,39.256244,344,"EU","RU","RU-VOR","Voronezh","no",,,"UUOD",,"http://www.vaso.ru/","https://en.wikipedia.org/wiki/Pridacha_Airport","УУОД, Аэропорт Придача, Repnoe Airport, Voronezh East Airport"
-26399,"UUOK","medium_airport","Kursk East Airport",51.750599,36.295601,686,"AS","RU","RU-KRS","Kursk","no","UUOK","URS","UUOK","XUOK",,"https://en.wikipedia.org/wiki/Kursk_Vostochny_Airport","УУОК, ЬУОК, Kursk Vostochny Airport, Курск / Восточный"
-31846,"UUOL","medium_airport","Lipetsk Airport",52.702801,39.5378,584,"AS","RU","RU-LIP","Lipetsk","no","UUOL","LPK","UUOL",,,"https://en.wikipedia.org/wiki/Lipetsk_Airport","УУОЛ, Липецк"
-26400,"UUOO","medium_airport","Voronezh International Airport",51.814324,39.230948,514,"AS","RU","RU-VOR","Voronezh","yes","UUOO","VOZ","UUOO",,,"https://en.wikipedia.org/wiki/Voronezh_International_Airport","УУОО, Chertovitskoye Airport, Chertovitskoe Airport, Аэропорт Воронеж, Аэропорт Чертовицкое"
+26399,"UUOK","medium_airport","Kursk East Airport",51.750599,36.295601,686,"EU","RU","RU-KRS","Kursk","no","UUOK","URS","UUOK","XUOK",,"https://en.wikipedia.org/wiki/Kursk_Vostochny_Airport","УУОК, ЬУОК, Kursk Vostochny Airport, Курск / Восточный"
+31846,"UUOL","medium_airport","Lipetsk Airport",52.702801,39.5378,584,"EU","RU","RU-LIP","Lipetsk","no","UUOL","LPK","UUOL",,,"https://en.wikipedia.org/wiki/Lipetsk_Airport","УУОЛ, Липецк"
+26400,"UUOO","medium_airport","Voronezh International Airport",51.814324,39.230948,514,"EU","RU","RU-VOR","Voronezh","yes","UUOO","VOZ","UUOO",,,"https://en.wikipedia.org/wiki/Voronezh_International_Airport","УУОО, Chertovitskoye Airport, Chertovitskoe Airport, Аэропорт Воронеж, Аэропорт Чертовицкое"
 604037,"UUOQ","small_airport","Parus Airfield",51.587233,39.490063,366,"EU","RU","RU-VOR","Parusnoye","no",,,"UUOQ",,,,"УУОЯ, Парус, Парусное"
 32427,"UUOT","medium_airport","Donskoye Airport",52.806099,41.4828,413,"EU","RU","RU-TAM","Tambov","no","UUOT","TBW","UUOT",,,"https://en.wikipedia.org/wiki/Tambov_Donskoye_Airport",
 600077,"UUOW","small_airport","Valuyki  Airfield",50.224929,38.110891,593,"EU","RU","RU-BEL","Valuyki","no",,,"UUOW",,,,"УУОВ, Валуйки"
