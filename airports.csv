@@ -43701,7 +43701,7 @@
 29412,"LELL","small_airport","Sabadell Airfield",41.520901,2.10508,485,"EU","ES","ES-CT","Sabadell","no",,,"LELL",,"https://www.aena.es/en/sabadell.html","https://en.wikipedia.org/wiki/Sabadell_Airport","QSA"
 43234,"LELM","closed","Almansa Airfield",38.895,-1.11318,2248,"EU","ES","ES-CM","Almansa","no",,,,,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Almansa","LELM"
 4018,"LELN","medium_airport","León Airport",42.590709,-5.653406,3006,"EU","ES","ES-CL","La Virgen del Camino","yes","LELN","LEN","LELN",,"https://www.aena.es/en/leon.html","https://en.wikipedia.org/wiki/Le%C3%B3n_Airport",
-30083,"LELO","medium_airport","Logroño-Agoncillo Airport",42.460953,-2.322235,1161,"AF","ES","ES-RI","Logroño","yes","LERJ","RJL","LERJ",,"https://www.aena.es/en/logrono-agoncillo.html","https://en.wikipedia.org/wiki/Logro%C3%B1o%E2%80%93Agoncillo_Airport","LELO"
+30083,"LELO","medium_airport","Logroño-Agoncillo Airport",42.460953,-2.322235,1161,"EU","ES","ES-RI","Logroño","yes","LERJ","RJL","LERJ",,"https://www.aena.es/en/logrono-agoncillo.html","https://en.wikipedia.org/wiki/Logro%C3%B1o%E2%80%93Agoncillo_Airport","LELO"
 43279,"LELT","small_airport","Lillo Airfield",39.7169,-3.32056,2272,"EU","ES","ES-CM","Lillo","no",,,"LELT",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Lillo",
 549915,"LELV","heliport","Infanta Leonor University Hospital Heliport",40.386565,-3.615839,2145,"EU","ES","ES-MD","Madrid","no",,,"LELV",,,"https://en.wikipedia.org/wiki/Hospital_Universitario_Infanta_Leonor",
 4019,"LEMD","large_airport","Adolfo Suárez Madrid–Barajas Airport",40.493407,-3.572249,1998,"EU","ES","ES-MD","Madrid","yes","LEMD","MAD","LEMD",,"https://www.aena.es/en/adolfo-suarez-madrid-barajas.html","https://en.wikipedia.org/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport","Leganés, Madrid Barajas International Airport"
@@ -59964,6 +59964,7 @@
 35924,"SIDY","small_airport","Fazenda Yanduy Airport",-24.07771,-51.819447,1483,"SA","BR","BR-PR","Lunardelli","no",,,"SIDY","PR0043",,,
 518720,"SIE2","small_airport","Fazenda Marape Airport",-13.164972,-56.176833,1355,"SA","BR","BR-MT","Lucas do Rio Verde","no",,,"SIE2","MT0990",,,
 518723,"SIE3","small_airport","Taiga Agropecuária Airport",-9.060556,-59.120047,525,"SA","BR","BR-MT","Colniza","no",,,"SIE3","MT0989",,,
+610671,"SIE5","small_airport","Confinamento Adão Airport",-4.338594,-47.526115,804,"SA","BR","BR-PA","Dom Eliseu","no",,,"SIE5","PA0455",,,
 520562,"SIE6","small_airport","Fazenda São Francisco da Nhecolândia Airport",-18.793827,-56.905176,335,"SA","BR","BR-MS","Corumbá","no",,,"SIE6","MS0726",,,
 520563,"SIE7","heliport","Animalia Park Heliport",-23.621772,-46.969446,2904,"SA","BR","BR-SP","Cotia","no",,,"SIE7","SP1464","https://animaliapark.com.br/",,
 520570,"SIE8","small_airport","Fazenda Planalto Airport",-7.89655,-56.684725,908,"SA","BR","BR-PA","Itaituba","no",,,"SIE8","PA0187",,,
@@ -60345,6 +60346,7 @@
 238,"SIUW","small_airport","Candote Airport",-20.839112,-52.301478,1093,"SA","BR","BR-MS","Três Lagoas","no",,,"SWCC","MS0366",,,"SIUW"
 559845,"SIV3","small_airport","Fazenda Eldorado Airport",-13.962158,-46.804631,1516,"SA","BR","BR-GO","Iaciara","no",,,"SIV3","GO0379",,,
 540761,"SIV4","small_airport","Astolfi Agropecuária Airport",-11.641339,-45.801692,2625,"SA","BR","BR-BA","Riachão das Neves","no",,,"SIV4","BA0460",,,
+610668,"SIV5","small_airport","Fazenda Paraíso Airport",-16.453211,-52.755754,1853,"SA","BR","BR-MT","Ribeirãozinho","no",,,"SIV5","MT1191",,,
 534213,"SIV6","heliport","Fazenda Lagoa Grande Heliport",-18.790325,-44.95035,1991,"SA","BR","BR-MG","Felixlândia","no",,,"SIV6","MG0607",,,
 559849,"SIV7","small_airport","Fazenda Boa Vista Airport",-12.846298,-54.225275,1262,"SA","BR","BR-MT","Paranatinga","no",,,"SIV7","MT1033",,,
 536606,"SIV8","small_airport","Fazenda Santa Amélia Airport",-21.323333,-52.606389,1257,"SA","BR","BR-MS","Santa Rita do Pardo","no",,,"SIV8","MS0735",,,
@@ -60431,6 +60433,7 @@
 36389,"SIYV","heliport","Mário Henrique Simonsen Heliport",-22.996973,-43.346549,20,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SIYV","RJ0095",,,
 244,"SIYY","small_airport","Ilha do Caracará Airport",-17.456944,-56.841111,346,"SA","BR","BR-MT","Poconé","no",,,"SDQE","MT0055",,,"SIYY"
 36392,"SIYZ","heliport","Condomínio Edifício Berrini 1681 Heliport",-23.611512,-46.694695,2576,"SA","BR","BR-SP","São Paulo","no",,,"SIYZ","SP0580",,,
+610666,"SIZ1","small_airport","Fazenda Berro D'Água Airport",-12.453725,-55.141242,1301,"SA","BR","BR-MT","Vera","no",,,"SIZ1","MT1192",,,
 538203,"SIZ4","small_airport","São Matheus Airport",2.089656,-61.824728,515,"SA","BR","BR-RR","Iracema","no",,,"SIZ4","RR0156",,,
 538225,"SIZ6","small_airport","Fazenda Tarumã Airstrip",-10.229688,-47.879113,1194,"SA","BR","BR-TO","Palmas","no",,,"SIZ6","TO0142",,,
 532975,"SIZ7","small_airport","Usina Cedro Airstrip",-19.406111,-51.25,1565,"SA","BR","BR-MS","Paranaíba","no",,,"SIZ7","MS0746",,,
@@ -60462,6 +60465,9 @@
 610624,"SJ13","small_airport","Fazenda Dona Gema Airport",-13.2522,-56.402783,1231,"SA","BR","BR-MT","Nova Mutum","no",,,"SJ13","MT1190",,,
 609722,"SJ14","small_airport","Fazenda Sucupira Airport",-12.461196,-49.388322,881,"SA","BR","BR-TO","Figueirópolis","no",,,"SJ14","TO0164",,,
 609724,"SJ15","small_airport","Lizete & Odair Airport",-16.665515,-47.389187,3058,"SA","BR","BR-GO","Cristalina","no",,,"SJ15","GO0415",,,
+610660,"SJ16","small_airport","São Pedro da Canastra Airport",-19.971156,-46.629819,4101,"SA","BR","BR-MG","Medeiros","no",,,"SJ16","MG0685",,,
+610661,"SJ17","small_airport","Fazenda Pássaro Preto Airport",-17.460747,-53.908897,2331,"SA","BR","BR-MS","Sonora","no",,,"SJ17","MS0825",,,
+610664,"SJ19","small_airport","Fazenda Acari Airport",-8.912358,-62.45485,369,"SA","BR","BR-RO","Cujubim","no",,,"SJ19","RO0119",,,
 610396,"SJ1B","small_airport","Fazenda Barrocal Airport",-29.473525,-55.509455,509,"SA","BR","BR-RS","Manoel Viana","no",,,"SJ1B","RS0229",,,
 610622,"SJ1C","small_airport","Fazenda Cruz Alta Airport",-19.038725,-55.73741,450,"SA","BR","BR-MS","Corumbá","no",,,"SJ1C","MS0790",,,
 610394,"SJ1D","heliport","Fazenda Água Doce Heliport",-26.894265,-51.677368,3839,"SA","BR","BR-SC","Vargem Bonita","no",,,"SJ1D","SC0260",,,
