@@ -11028,6 +11028,9 @@
 609111,"AR-0806","small_airport","Estancia San Joaquin Airstrip",-30.755496,-59.997364,75,"SA","AR","AR-S","San Javier","no",,,,"829",,,
 609115,"AR-0807","small_airport","Estancia Nina",-29.453876,-58.597505,194,"SA","AR","AR-W","Perugorria","no",,,,"1214",,,
 610276,"AR-0808","small_airport","Aeroclub Tupungato",-33.353901,-69.133272,,"SA","AR","AR-M","Tupungato","no",,,,"TPG",,,
+610686,"AR-0809","heliport","ACA Delta Heliport",-34.376348,-58.665353,3,"SA","AR","AR-B","Dique Luján","no",,,,"2744",,,
+610688,"AR-0810","small_airport","Lahuen - Có Airstrip",-35.164326,-69.888945,6056,"SA","AR","AR-M","El Sosneado","no",,,,"2960",,,
+610689,"AR-0811","small_airport","Santa Clara Airstrip",-35.361737,-60.466022,179,"SA","AR","AR-B","Bragado","no",,,,"2955",,,
 16296,"AR02","heliport","Johnson Regional Medical Center Heliport",35.461216,-93.445383,491,"NA","US","US-AR","Clarksville","no",,,"AR02","AR02",,,"AR71, Johnson County Regional Hospital Heliport"
 16297,"AR03","small_airport","Centerville Airstrip",35.128718,-93.205798,350,"NA","US","US-AR","Centerville","no",,,"AR03","AR03",,,
 16299,"AR05","small_airport","John Harris Field",35.21590042114258,-93.30490112304688,1770,"NA","US","US-AR","Chickala","no",,,"AR05","AR05",,,
@@ -21322,7 +21325,7 @@
 1864,"CYQB","large_airport","Quebec Jean Lesage International Airport",46.7911,-71.393303,244,"NA","CA","CA-QC","Quebec","yes","CYQB","YQB","CYQB","YQB","http://www.aeroportdequebec.com/","https://en.wikipedia.org/wiki/Qu%C3%A9bec/Jean_Lesage_International_Airport","Quebec City"
 1865,"CYQD","medium_airport","The Pas Airport",53.97140121459961,-101.09100341796875,887,"NA","CA","CA-MB","The Pas","yes","CYQD","YQD","CYQD",,,"https://en.wikipedia.org/wiki/The_Pas_Airport",
 1866,"CYQF","medium_airport","Red Deer Regional Airport",52.182201,-113.893997,2968,"NA","CA","CA-AB","Springbrook","no","CYQF","YQF","CYQF",,,"https://en.wikipedia.org/wiki/Red_Deer_Regional_Airport",
-1867,"CYQG","medium_airport","Windsor International Airport",42.2756,-82.955597,622,"NA","CA","CA-ON","Windsor","yes","CYQG","YQG","CYQG",,,"https://en.wikipedia.org/wiki/Windsor_Airport",
+1867,"CYQG","large_airport","Windsor International Airport",42.2756,-82.955597,622,"NA","CA","CA-ON","Windsor","yes","CYQG","YQG","CYQG",,"https://flyyqg.ca/","https://en.wikipedia.org/wiki/Windsor_Airport",
 1868,"CYQH","medium_airport","Watson Lake Airport",60.116839,-128.821993,2255,"NA","CA","CA-YT","Watson Lake","yes","CYQH","YQH","CYQH",,,"https://en.wikipedia.org/wiki/Watson_Lake_Airport",
 1869,"CYQI","medium_airport","Yarmouth Airport",43.826900482177734,-66.08809661865234,141,"NA","CA","CA-NS","Yarmouth","no","CYQI","YQI","CYQI",,,"https://en.wikipedia.org/wiki/Yarmouth_Airport",
 1870,"CYQK","medium_airport","Kenora Airport",49.788299560546875,-94.36309814453125,1332,"NA","CA","CA-ON","Kenora","yes","CYQK","YQK","CYQK",,,"https://en.wikipedia.org/wiki/Kenora_Airport",
@@ -56848,6 +56851,7 @@
 610305,"RU-10178","small_airport","Roshchino Airport",45.90343,134.87632,456,"AS","RU","RU-PRI","Roshchino","no",,,"UHWR",,,,"УХВР, Рощино"
 610568,"RU-10179","small_airport","Nudol Airfield",56.0964,36.55477,639,"EU","RU","RU-MOS",,"no",,,"UUCN",,"https://www.uucn.ru/",,"УУЦН, Нудоль, Nudol-Sharino, Алексейково"
 526968,"RU-1018","heliport","Chaika Coal Terminal Helipad",73.379354,80.59003,71,"AS","RU","RU-KYA","Dikson","no",,,,,,,"HELIOPS, Mining, Coal, Vostokugol-Dikson"
+610684,"RU-10180","heliport","South Tabagan Oil Field Heliport",57.291693,78.89163,449,"EU","RU","RU-TOM","Yuzhno-Tabaganskaya","no",,,,"HJ9U","https://mklogistic.ru/ujnotabaganskoe_mestorojdenie",,"ХЙ9У, Южно-Табаганская"
 527128,"RU-1019","heliport","Khralov junction Helipad",68.486875,69.521978,,"AS","RU","RU-YAN","Lidino","no",,,,,,,"HELIOPS, OIL & GAS, Gazprom, Obskaya–Bovanenkovo Railroad"
 528461,"RU-1020","heliport","Roman Trebs field",68.624032,57.891887,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
 528462,"RU-1021","heliport","Roman Trebs field",68.609969,57.715387,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
@@ -59889,6 +59893,7 @@
 328369,"SIAQ","small_airport","Bom Futuro Airport",-15.506389,-56.098333,768,"SA","BR","BR-MT","Cuiabá","no",,,"SIAQ","MT0078",,,
 35855,"SIAV","heliport","Helicentro Helipark",-23.564818,-46.830227,2592,"SA","BR","BR-SP","Carapicuiba","no",,,"SIAV","SP0464","https://helipark.com.br/",,
 328371,"SIAW","small_airport","Sítio Gurupi Airport",-3.739167,-47.516389,420,"SA","BR","BR-PA","Ulianópolis","no",,,"SIAW","PA0041",,,
+610677,"SIB1","small_airport","Rubens Tavares Cotrim Airport",-16.512769,-51.142647,1938,"SA","BR","BR-GO","Amorinópolis","no",,,"SIB1","GO0445",,,
 542787,"SIB3","small_airport","Fazenda Tapera Airstrip",-20.304436,-56.828096,554,"SA","BR","BR-MS","Miranda","no",,,"SIB3","MS0719",,,
 517499,"SIB4","small_airport","ASL - Fazenda São Francisco Airport",-13.345067,-54.487507,1490,"SA","BR","BR-MT","Paranatinga","no",,,"SIB4","MT0979",,,
 610407,"SIB5","small_airport","Fazenda Anacã do Corixão Airport",-18.103333,-56.213333,430,"SA","BR","BR-MS","Corumbá","no",,,"SIB5","MS0811",,,
@@ -59941,6 +59946,7 @@
 35900,"SICX","heliport","Edifício Salvador Trade Center Heliport",-12.983928,-38.453608,348,"SA","BR","BR-BA","Salvador","no",,,"SICX","BA0192",,,
 35901,"SICY","small_airport","Fazenda do Cedro Airport",-28.108334,-53.196388,2143,"SA","BR","BR-RS","Chapada","no",,,"SDRX","RS0057",,,"SICY"
 35902,"SICZ","heliport","Edifício Comercial Lorena Helipad",-23.573334,-46.655443,2644,"SA","BR","BR-SP","São Paulo","no",,,"SICZ","SP0477",,,
+610673,"SID1","small_airport","Fazenda Santa Bárbara Airstrip",-10.778719,-49.396881,632,"SA","BR","BR-TO","Santa Rita do Tocantins","no",,,"SID1","TO0181",,,
 520801,"SID2","heliport","Caju Heliport",-26.838989,-49.228267,292,"SA","BR","BR-SC","Timbó","no",,,"SID2","SC0237",,,
 520856,"SID3","small_airport","Fazenda Produtiva Airport",-11.99213,-51.190147,761,"SA","BR","BR-MT","São Félix do Araguaia","no",,,"SID3","MT0986",,,
 520858,"SID4","small_airport","Fazenda Boa Esperança Airstrip",2.650533,-61.462678,361,"SA","BR","BR-RR","Mucajaí","no",,,"SID4","RR0151",,,
