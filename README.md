@@ -24,3 +24,6 @@ Note that there are some things you cannot do, such as updating the internal ide
 * https://davidmegginson.github.io/ourairports-data/navaids.csv
 * https://davidmegginson.github.io/ourairports-data/countries.csv
 * https://davidmegginson.github.io/ourairports-data/regions.csv
+
+## Self hosted API Server
+* [vacxe/airports-info-api](https://github.com/Vacxe/airports-info-api)
