@@ -16544,7 +16544,7 @@
 345908,"BW-0058","small_airport","Gorokwe Airport",-19.58672,23.47126,3120,"AF","BW","BW-NW","Okavango","no",,,,,,,
 351700,"BW-0059","closed","Satawani Airstrip",-19.517889,23.63512,3098,"AF","BW","BW-NW","Santawani Lodge","no",,,,,,,
 351715,"BW-0060","closed","Ngarangi Airport",-18.38705,22.01159,3315,"AF","BW","BW-NW","Ngarangi","no",,,,,,,
-31072,"BW-0061","closed","Gaborone Notwane Airport",-24.683001,25.933001,3218,"AF","BW","BW-GA","Gaborone Notwane","no",,,,,,,"FBNW"
+31072,"BW-0061","closed","Gaborone Notwane Airport",-24.657803,25.941049,3218,"AF","BW","BW-GA","Gaborone Notwane","no",,,,,,"https://en.wikipedia.org/wiki/Gaborones_Airport","FBNW"
 31068,"BW-0062","closed","Molepolole Airport",-24.389444444,25.498611111,3790,"AF","BW","BW-KW","Molepolole","no",,,,,,,"FBML, FBML"
 31069,"BW-0063","small_airport","Makalamabedi Airport",-20.310743,23.907773,3100,"AF","BW","BW-CE","Makalamabedi","no","FBMM",,"FBMM",,,"https://en.wikipedia.org/wiki/Makalamabedi_Airport",
 31074,"BW-0064","closed","Rakops Airport",-21,24.333,3000,"AF","BW","BW-CE","Rakops","no",,,,,,"https://en.wikipedia.org/wiki/Rakops_Airport","FBRK, FBRK"
@@ -26480,7 +26480,7 @@
 17457,"FL90","small_airport","Salty Approach Airport",26.603585,-82.220055,6,"NA","US","US-FL","North Captiva","no",,,"FL90","FL90","https://visitnorthcaptivaisland.com/north-captiva-island/salty-approach/",,
 17458,"FL91","small_airport","Big Cypress Ranch Airfield",26.309799,-81.227303,22,"NA","US","US-FL","Sunniland","no",,,"FA02","FA02",,,"FL91, Hendry Correctional Institution, Counter Terrorism Advanced Training Center"
 17459,"FL92","heliport","L M Hughey Heliport",27.9414005279541,-82.535400390625,27,"NA","US","US-FL","Tampa","no",,,"FL92","FL92",,,
-17460,"FL93","heliport","Mount Sinai Medical Center Heliport",25.81450080871582,-80.14119720458984,6,"NA","US","US-FL","Miami Beach","no",,,"FL93","FL93",,,
+17460,"FL93","heliport","Mount Sinai Medical Center Heliport",25.814283,-80.141053,9,"NA","US","US-FL","Miami Beach","no",,,"FL93","FL93",,,"0FA3"
 17461,"FL94","heliport","Florida Power & Light County Heliport",25.7682331637,-80.34499235450001,107,"NA","US","US-FL","Miami","no",,,"FL94","FL94",,,
 17462,"FL95","small_airport","Broocke Air Patch Airport",27.708599090576172,-80.45279693603516,22,"NA","US","US-FL","Winter Beach","no",,,"FL95","FL95",,,
 596851,"FL96","heliport","Baptist St Augustine Heliport",29.923861,-81.413692,38,"NA","US","US-FL","St Augustine","no",,,"FL96","FL96",,,
@@ -27076,7 +27076,7 @@
 43654,"FR-0311","small_airport","Altisurface de Valmorel",45.455,6.41306,6050,"EU","FR","FR-ARA","Les Avanchers","no",,,,"LF7328",,,
 43655,"FR-0312","small_airport","Altiport de Vaugellaz",45.607224,6.709722,6627,"EU","FR","FR-ARA","Les Chapelles","no",,,,"LF7329",,,
 43656,"FR-0313","small_airport","Col du Palet Altiport",45.450452,6.882602,8005,"EU","FR","FR-ARA","Tignes","no",,,,"LF7333",,,"Altisurface vers le Col du Palet"
-44902,"FR-0314","small_airport","Europa Island Airstrip",-22.349385,40.35129,,"AF","TF","TF-U-A","Europa Island","no",,,,,,"https://en.wikipedia.org/wiki/Europa_Island","Île Europa"
+44902,"FR-0314","small_airport","Europa Island Airstrip",-22.349385,40.35129,38,"AF","TF","TF-U-A","Europa Island","no",,,,,,"https://en.wikipedia.org/wiki/Europa_Island","Île Europa"
 308839,"FR-0315","heliport","Amiens-Picardy University Hospital North Heliport",49.906744,2.295928,162,"EU","FR","FR-HDF","Amiens, Somme","no",,,,,,,"Centre Hospitalier Universitaire d'Amiens-Picardie Site Nord"
 308840,"FR-0316","heliport","Simone Veil Beauvais Hospital Heliport",49.449339,2.068497,301,"EU","FR","FR-HDF","Beauvais","no",,,,,,,
 308842,"FR-0317","heliport","South Île-de-France Hospital Heliport",48.620279,2.457238,256,"EU","FR","FR-IDF","Corbeil-Essonnes, Essonne","no",,,,,,,"Centre Hospitalier Sud Francilien"
@@ -28110,6 +28110,8 @@
 609811,"FR-1349","heliport","Peronne Philippe DZ",49.934592,2.923713,,"EU","FR","FR-HDF","Peronne","no",,,,,,,
 610351,"FR-1350","heliport","Audruicq HLS",50.897579,2.074722,7,"EU","FR","FR-HDF","Audruicq, Pas-de-Calais","no",,,,,,,
 610556,"FR-1351","heliport","DROUVILLE DZ",48.661969,6.410988,,"EU","FR","FR-GES","Drouville","no",,,,,,,
+610741,"FR-1352","heliport","RIEUX EN CIS DZ",50.198388,3.346515,,"EU","FR","FR-HDF","RIEUX EN CIS","no",,,,,,,
+610743,"FR-1353","heliport","Hélicentre",47.896004,2.519852,,"EU","FR","FR-CVL",,"no",,,,,"https://helicentre.net/",,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -54222,7 +54224,7 @@
 345686,"PL-0194","small_airport","Rawicz Airstrip",51.61527,16.90386,,"EU","PL","PL-WP",,"no",,,,,,,
 345811,"PL-0195","small_airport","Księginki Airstrip",51.95672,17.07527,334,"EU","PL","PL-WP",,"no",,,,,,,
 346101,"PL-0196","small_airport","Podgórze Airstrip",51.34014,16.28043,,"EU","PL","PL-DS",,"no",,,,,,,
-346266,"PL-0197","small_airport","Bogatynia Airstrip",50.93039,14.97937,1302,"EU","PL","PL-DS","Bogatynia","no",,,,,,,
+346266,"PL-0197","closed","Bogatynia Airstrip",50.93039,14.97937,1302,"EU","PL","PL-DS","Bogatynia","no",,,,,,,
 346269,"PL-0198","small_airport","Niegowoniczki Airfield",50.373651,19.42111,,"EU","PL","PL-SL","Niegowoniczki","no",,,,,,,"Lądowisko Niegowoniczki"
 346291,"PL-0199","small_airport","Smolnik Altiport",49.281514,22.119274,,"EU","PL","PL-PK",,"no",,,,,"http://www.smolnik.info.pl",,
 346356,"PL-0200","small_airport","Konopiska Airstrip",50.73958,19.00814,,"EU","PL","PL-SL",,"no",,,,,,,
@@ -71503,15 +71505,15 @@
 610166,"US-13009","small_airport","Neustrip Airport",38.603703,-97.765548,1610,"NA","US","US-U-A","Lindsborg","no",,,"99KS","99KS",,,
 335788,"US-1301","closed","Baird Ranch Airstrip",30.276247,-98.310106,,"NA","US","US-TX","Johnson City","no",,,,,,,
 610168,"US-13010","heliport","Jax Redline Heliport",27.613742,-97.223631,14,"NA","US","US-U-A","Corpus Christi","no",,,"7TX3","7TX3",,,
-610245,"US-13011","small_airport","Robert Lehman RLA",38.238318,-89.73581,506,"NA","US","US-U-A","Madissa","no",,,"70IL","70IL","http://www.airnav.com/airport/70IL",,
-610247,"US-13012","heliport","Kellogg Heliport",36.516287,-95.785273,692,"NA","US","US-U-A","Talala","no",,,"21OK","21OK",,,
+610245,"US-13011","small_airport","Robert Lehman RLA",38.238318,-89.73581,506,"NA","US","US-IL","Madissa","no",,,"70IL","70IL","http://www.airnav.com/airport/70IL",,
+610247,"US-13012","heliport","Kellogg Heliport",36.516287,-95.785273,692,"NA","US","US-OK","Talala","no",,,"21OK","21OK",,,
 610252,"US-13013","small_airport","Lazy Dog Ranch Airpark",33.724118,-96.826518,704,"NA","US","US-TX","Sadler","no",,,"63TS","63TS",,,
 610254,"US-13014","heliport","Virginia Tech Vertiport",37.190096,-80.3954,2100,"NA","US","US-VA","Blacksburg","no",,,"8VA2","8VA2",,,
-610262,"US-13015","small_airport","MIG Restricted Landing Area",41.286399,-89.235522,651,"NA","US","US-U-A","Granville","no",,,"90IL","90IL",,,
-610282,"US-13016","small_airport","McCune RLA",41.439791,-89.815643,636,"NA","US","US-U-A","Sheffield","no",,,"2IL8","2IL8",,,
+610262,"US-13015","small_airport","MIG Restricted Landing Area",41.286399,-89.235522,651,"NA","US","US-IL","Granville","no",,,"90IL","90IL",,,
+610282,"US-13016","small_airport","McCune RLA",41.439791,-89.815643,636,"NA","US","US-IL","Sheffield","no",,,"2IL8","2IL8",,,
 610289,"US-13017","heliport","Galesburg Correctional Center Heliport",40.939838,-90.404023,760,"NA","US","US-IL","Galesburg","no",,,,,,,"7IL8"
-610313,"US-13018","heliport","Sanford Health Heliport",48.089877,-96.194967,1120,"NA","US","US-U-A","Three River Falls","no",,,"MY55","MY55",,,
-610331,"US-13019","small_airport","Charles Judy RLA",38.763269,-87.715644,441,"NA","US","US-U-A","Lawrenceville","no",,,"8IL7","8IL7",,,
+610313,"US-13018","heliport","Sanford Health Heliport",48.089877,-96.194967,1120,"NA","US","US-MN","Three River Falls","no",,,"MY55","MY55",,,
+610331,"US-13019","small_airport","Charles Judy RLA",38.763269,-87.715644,441,"NA","US","US-IL","Lawrenceville","no",,,"8IL7","8IL7",,,
 334414,"US-1302","small_airport","Morgan's Airport",45.065474,-123.329269,,"NA","US","US-OR","Ballston","no",,,"OR71","OR71",,,
 610349,"US-13020","small_airport","Oso Canyon Airport",30.027576,-101.557267,1820,"NA","US","US-TX","Ozona","no",,,"18XS","18XS",,,
 610372,"US-13021","heliport","Clam Heliport",44.93535,-85.264753,593,"NA","US","US-U-A","Bellaire","no",,,"MI67","MI67",,,
@@ -81694,6 +81696,7 @@
 605573,"VN-0082","heliport","People's Hospital No. 115 Heliport",10.775372,106.668101,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
 605574,"VN-0083","heliport","Saigon Times Square Heliport",10.773857,106.704695,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
 605575,"VN-0084","heliport","Police Heliport",10.7584,106.686185,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
+610745,"VN-0085","small_airport","Rakhoi TV Trực Tiếp Bóng Đá",60,52,,"AS","VN","VN-CH","36 Võ Văn Tần, Phuờng 2, Quận 3, Hồ Chí Minh","no",,,,,"https://rakhoizab.cc/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
