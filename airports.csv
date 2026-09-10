@@ -26030,15 +26030,15 @@
 30542,"FAVY","small_airport","Vryheid Airport",-27.78689956665039,30.79640007019043,3799,"AF","ZA","ZA-NL","Vryheid","no","FAVY","VYD","FAVY",,,,
 27298,"FAWA","small_airport","Warmbaths Airport",-24.90999984741211,28.299999237060547,3655,"AF","ZA","ZA-NP","Warmbaths","no",,,"FAWA",,,,
 2854,"FAWB","medium_airport","Wonderboom Airport",-25.6539,28.224199,4095,"AF","ZA","ZA-GT","Pretoria","no","FAWB","PRY","FAWB",,"http://www.wonderboomairport.co.za/","https://en.wikipedia.org/wiki/Wonderboom_Airport",
-30569,"FAWC","small_airport","Worcester Glider Airport",-33.66310119628906,19.415300369262695,673,"AF","ZA","ZA-WC","Worcester","no",,,"FAWC",,,,
-27299,"FAWD","small_airport","Wolmeransstad Airport",-27.170000076293945,25.979999542236328,4513,"AF","ZA","ZA-NW","Wolmeransstad","no",,,"FAWD",,,,
-331856,"FAWE","small_airport","Welgevonden Reserve",-24.2046,27.9,3609,"AF","ZA","ZA-NP",,"no",,,"FAWE",,,,
+30569,"FAWC","small_airport","Worcester Glider Airport",-33.663101,19.4153,673,"AF","ZA","ZA-WC","Worcester","no","FAWC",,"FAWC",,,,
+27299,"FAWD","closed","Wolmeransstad Airport",-27.173195,25.976252,4513,"AF","ZA","ZA-NW","Wolmeransstad","no",,,,,,,"FAWD"
+331856,"FAWE","small_airport","Welgevonden Reserve",-24.2046,27.9,3609,"AF","ZA","ZA-NP",,"no","FAWE",,"FAWE",,,,
 2855,"FAWI","small_airport","Witbank Airport",-25.8323,29.191999,5078,"AF","ZA","ZA-MP","Witbank","no","FAWI",,"FAWI",,,,
 2856,"FAWK","medium_airport","Waterkloof Air Force Base",-25.829999923699997,28.222499847399998,4940,"AF","ZA","ZA-GT","Pretoria","no","FAWK","WKF","FAWK",,,"https://en.wikipedia.org/wiki/AFB_Waterkloof","AFB"
-30562,"FAWL","small_airport","Williston Airport",-31.38360023498535,20.93280029296875,3484,"AF","ZA","ZA-NC","Williston","no",,,"FAWL",,,,
+30562,"FAWL","small_airport","Williston Airport",-31.3836,20.9328,3484,"AF","ZA","ZA-NC","Williston","no","FAWL",,"FAWL",,,,
 2857,"FAWM","small_airport","Welkom Airport",-27.996825,26.663334,4421,"AF","ZA","ZA-FS","Welkom","no","FAWM","WEL","FAWM",,,,
 27282,"FAWN","small_airport","Cape Winelands Airport",-33.77,18.74,399,"AF","ZA","ZA-WC","Durbanville","no","FAWN",,"FAWN",,"https://capewinelands.aero/","https://en.wikipedia.org/wiki/Cape_Winelands_Airport","Fisantekraal Airport, FAFK"
-30561,"FAWO","small_airport","Willowmore Airport",-33.263301849365234,23.4906005859375,2608,"AF","ZA","ZA-EC","Willowmore","no",,,"FAWO",,,,
+30561,"FAWO","small_airport","Willowmore Airport",-33.263302,23.490601,2608,"AF","ZA","ZA-EC","Willowmore","no","FAWO",,"FAWO",,,,
 31061,"FAWP","closed","Wepener Airport",-29.741801,27.023349,4755,"AF","ZA","ZA-FS","Wepener","no",,,,,,,"FAWP, FA0074"
 30555,"FAWR","small_airport","Wavecrest Airport",-32.589318,28.519384,89,"AF","ZA","ZA-EC","Wavecrest","no","FAWR",,"FAWR",,,,
 30558,"FAWS","small_airport","Wesselbronn Airport",-27.846701,26.350599,4301,"AF","ZA","ZA-FS","Wesselsbron","no","FAWS",,"FAWS",,,,
@@ -29736,7 +29736,7 @@
 337727,"GB-0953","small_airport","Woods Farm Airstrip",52.39349,-1.839674,,"EU","GB","GB-ENG",,"no",,,,,,,
 337821,"GB-0954","small_airport","South Weald Private Airstrip",51.62295,0.26135,233,"EU","GB","GB-ENG","Brentwood, Essex","no",,,,,,,
 337967,"GB-0955","small_airport","Sears-Crossing Airstrip",51.89257,-0.672483,296,"EU","GB","GB-ENG","Slapton, Buckinghamshire","no",,,,,,,"Grove"
-338031,"GB-0956","small_airport","Tinnel Farm Airstrip",50.45598,-4.21859,172,"EU","GB","GB-ENG","Saltash, Cornwall","no",,,,,,,
+338031,"GB-0956","closed","Tinnel Farm Airstrip",50.45598,-4.21859,172,"EU","GB","GB-ENG","Saltash, Cornwall","no",,,,,,,
 338065,"GB-0957","small_airport","Ripple Airstrip",51.204759,1.366682,,"EU","GB","GB-ENG","Ripple, Kent","no",,,,,,,
 338098,"GB-0958","small_airport","Pittodrie-House",57.309118,-2.488232,,"EU","GB","GB-SCT",,"no",,,,,,,
 338472,"GB-0959","heliport","North Rona Heliport",59.12089,-5.81469,,"EU","GB","GB-SCT","North Rona","no",,,,,,,
@@ -51099,7 +51099,7 @@
 5008,"NTTP","medium_airport","Maupiti Airport",-16.42650032043457,-152.24400329589844,15,"OC","PF","PF-U-A",,"yes","NTTP","MAU","NTTP",,,"https://en.wikipedia.org/wiki/Maupiti_Airport",
 5009,"NTTR","medium_airport","Raiatea Airport",-16.7229,-151.466003,3,"OC","PF","PF-U-A","Uturoa","yes","NTTR","RFP","NTTR",,,"https://en.wikipedia.org/wiki/Raiatea_Airport",
 313347,"NTTU","small_airport","Tupai Airport",-16.2423,-151.8338,32,"OC","PF","PF-U-A","Tupai Atoll","no","NTTU","TPX","NTTU",,,,"Motu Iti"
-32053,"NTTX","small_airport","Moruroa Airport",-21.80978,-138.813385,7,"OC","PF","PF-U-A","Moruroa Atoll","no","NTTX","UOA","NTTX",,,,"Mururoa, Mururura, Aopuni"
+32053,"NTTX","small_airport","Moruroa Airport",-21.80978,-138.813385,7,"OC","PF","PF-TG","Moruroa Atoll","no","NTTX","UOA","NTTX",,,,"Mururoa, Mururura, Aopuni"
 32573,"NTUV","small_airport","Vahitahi Airport",-18.780697,-138.85568,9,"OC","PF","PF-U-A","Vahitahi","no","NTUV","VHZ","NTUV",,,"https://en.wikipedia.org/wiki/Vahitahi_Airport",
 317282,"NUF","seaplane_base","Castlereagh Lake Seaplane Base",6.86,80.584,3580,"AS","LK","LK-2","Hatton","no",,"NUF",,,,,"Castlereigh Reservoir"
 23312,"NV00","small_airport","Valley View Airport",36.257954,-115.992379,2740,"NA","US","US-NV","Pahrump","no",,,"NV00","NV00",,,
@@ -53147,6 +53147,8 @@
 355167,"PG-0159","closed","Nutuve Airport",-5.35485,151.6695,1100,"OC","PG","PG-EBR","Parakaman","no",,,,,,,"Nuiuve, NUT"
 356247,"PG-0160","closed","Ningerum Airstrip",-5.669808,141.143214,299,"OC","PG","PG-WPD","Ningerum","no",,,,,,,"NGR, NGR, NIN"
 604688,"PG-0161","small_airport","Pambwa Airstrip",-11.402966,154.011701,18,"OC","PG","PG-MBA","Pambwa Station","no",,"PAW",,,,,
+610764,"PG-0162","small_airport","Dimansigan Airstrip",-4.802766,141.136431,,"OC","PG","PG-SAN",,"no",,,,,,,
+610765,"PG-0163","small_airport","Umanap Airstrip",-5.308741,142.147369,,"OC","PG","PG-SAN",,"no",,,,,,,
 30657,"PG-ATP","small_airport","Tadji Airport",-3.198192,142.430964,33,"OC","PG","PG-SAN","Aitape","no",,"TAJ","AYTJ","TAD",,"https://en.wikipedia.org/wiki/Tadji_Airport",
 35181,"PG-IHU","small_airport","Ihu Airport",-7.89756,145.395996,70,"OC","PG","PG-GPK","Ihu","no",,"IHU","AYIH","IHU",,"https://en.wikipedia.org/wiki/Ihu_Airport",
 31693,"PG-JAQ","small_airport","Jacquinot Bay Airport",-5.6525,151.507004,136,"OC","PG","PG-EBR","Jacquinot Bay","no",,"JAQ","AYJB","JCB",,"https://en.wikipedia.org/wiki/Jacquinot_Bay_Airport",
@@ -85419,7 +85421,7 @@
 340258,"ZA-0177","small_airport","Delta Golf Airstrip",-30.773168,30.423876,,"AF","ZA","ZA-NL","Port Shepstone","no",,,,,,,
 340259,"ZA-0178","closed","Port Grosvenor Airfield",-31.371355,29.911104,,"AF","ZA","ZA-EC","Port Grosvenor","no",,,,,,,
 340260,"ZA-0179","small_airport","The Haven Airstrip",-32.242606,28.910072,,"AF","ZA","ZA-EC","Mbhashe","no",,,,,,,
-340261,"ZA-0180","small_airport","Whats Landing Airport",-32.9019,28.0491,,"AF","ZA","ZA-EC","Kwelega","no",,,,,,,
+340261,"ZA-0180","small_airport","Watts Landing Airport",-32.9019,28.0491,279,"AF","ZA","ZA-EC","Kwelega","no","FAWG",,"FAWG",,,,
 340262,"ZA-0181","small_airport","Kwelega Road Airstrip",-32.905791,28.039851,,"AF","ZA","ZA-EC","Kwelega","no",,,,,,,
 340263,"ZA-0182","small_airport","Wings Park Airfield",-32.8248,27.83568,,"AF","ZA","ZA-EC","East London","no",,,,,,,
 340264,"ZA-0183","small_airport","Mtwentwe Farm Airfield",-32.74585,28.22815,,"AF","ZA","ZA-EC","Haga Haga","no",,,,,,,
@@ -85605,6 +85607,11 @@
 610724,"ZA-0366","closed","Jozini Airport",-27.45416,32.130005,255,"AF","ZA","ZA-NL","Jozini","no",,,,,,,
 610726,"ZA-0367","small_airport","Ronald Shay Airport",-27.714785,32.27945,185,"AF","ZA","ZA-NL",,"no",,,,,,,
 610727,"ZA-0368","small_airport","Mantuma Airport",-27.594576,32.253136,200,"AF","ZA","ZA-NL","Mantuma Camp","no",,,,,,,
+610766,"ZA-0369","small_airport","Unknown airstrip",-24.447111,30.941083,,"AF","ZA","ZA-NP",,"no",,,,,,,
+610767,"ZA-0370","small_airport","Sabie Airfield",-25.096685,30.795702,,"AF","ZA","ZA-MP",,"no",,,,,,,
+610768,"ZA-0371","small_airport","Nzumba Lodge Airstrip",-24.114364,31.135554,,"AF","ZA","ZA-MP",,"no",,,,,,,
+610769,"ZA-0372","small_airport","Ximuwu Lodge Airstrip",-24.300423,31.087028,,"AF","ZA","ZA-MP",,"no",,,,,,,
+610770,"ZA-0373","small_airport","N’tsiri Airstrip",-24.164315,31.345818,1129,"AF","ZA","ZA-MP",,"no","FANI",,,,,,
 31753,"ZA-KIG","small_airport","Koingnaas Airport",-30.187136,17.282706,228,"AF","ZA","ZA-NC","Koingnaas","no",,"KIG",,,,,
 609677,"ZA49","closed","Ilyinskoye-Khovanskoye Airstrip",56.959436,39.781629,456,"EU","RU","RU-IVA",,"no",,,,,,,"ЗА49, ZA49"
 27188,"ZBAA","large_airport","Beijing Capital International Airport",40.077349,116.596702,116,"AS","CN","CN-11","Beijing","yes","ZBAA","PEK","ZBAA",,"https://en.bcia.com.cn/","https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport","BJS, Beijing, Peking, 北京, 北京首都国际机场, 北京首都机场, 北京机场"
