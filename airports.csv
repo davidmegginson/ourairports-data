@@ -4738,7 +4738,7 @@
 11281,"49FL","closed","Mike's Ag Air Airport",30.9771,-87.495003,210,"NA","US","US-FL","Walnut Hill","no",,,,,,,"49FL"
 11282,"49G","small_airport","Wend Valley Airport",42.579007,-84.908947,859,"NA","US","US-MI","Charlotte","no",,,"K49G","49G",,"https://en.wikipedia.org/wiki/Wend_Valley_Airport",
 11283,"49GA","heliport","Southern Regional Medical Center Heliport",33.579722,-84.388229,821,"NA","US","US-GA","Riverdale","no",,,"49GA","49GA",,,
-598255,"49ID","small_airport","R7 Aero Airport",43.958248,-116.939952,2233,"NA","US","US-WA","Fruitland","no",,,"49ID","49ID",,,
+598255,"49ID","small_airport","R7 Aero Airport",43.958248,-116.939952,2233,"NA","US","US-ID","Fruitland","no",,,"49ID","49ID",,,
 11284,"49II","small_airport","Reinoehl Field",39.609798431396484,-87.01529693603516,800,"NA","US","US-IN","Lena","no",,,"49II","49II",,,
 11285,"49IL","small_airport","Walnut Creek Airport",41.593299865722656,-88.69170379638672,666,"NA","US","US-IL","Somonauk","no",,,"49IL","49IL",,,
 11286,"49IN","small_airport","Drake Airport",39.131699,-87.382004,500,"NA","US","US-IN","Sullivan","no",,,"49IN","49IN",,,
@@ -21244,7 +21244,7 @@
 1780,"CYJN","medium_airport","St Jean Airport",45.29439926147461,-73.28109741210938,136,"NA","CA","CA-QC","St Jean","no","CYJN","YJN","CYJN",,,"https://en.wikipedia.org/wiki/St-Jean_Airport",
 1781,"CYJP","small_airport","Fort Providence Airport",61.319400787353516,-117.60600280761719,524,"NA","CA","CA-NT","Fort Providence","no",,,"CYJP",,,"https://en.wikipedia.org/wiki/Fort_Providence_Airport","YJP"
 1782,"CYJQ","small_airport","Denny Island Airport",52.136474,-128.056182,162,"NA","CA","CA-BC","Denny Island","no",,,"CYJQ",,,"https://en.wikipedia.org/wiki/Bella_Bella_(Denny_Island)_Airport","YJQ"
-1783,"CYJT","medium_airport","Stephenville Dymond International Airport",48.54339,-58.552892,84,"NA","CA","CA-NL","Stephenville","no","CYJT","YJT","CYJT",,"https://cyjt.com/","https://en.wikipedia.org/wiki/Stephenville_Airport","Ernest Harmon AFB"
+1783,"CYJT","closed","Stephenville Dymond International Airport",48.54339,-58.552892,84,"NA","CA","CA-NL","Stephenville","no",,,,,"https://cyjt.com/","https://en.wikipedia.org/wiki/Stephenville_Airport","Ernest Harmon AFB, CYJT, YJT"
 1784,"CYKA","medium_airport","Kamloops John Moose Fulton Field Regional Airport",50.703038,-120.448641,1133,"NA","CA","CA-BC","Kamloops","yes","CYKA","YKA","CYKA",,,"https://en.wikipedia.org/wiki/Kamloops_Airport","Fulton"
 1785,"CYKC","small_airport","Collins Bay Airport",58.236099243199995,-103.678001404,1341,"NA","CA","CA-SK","Collins Bay","no","CYKC","YKC","CYKC",,,"https://en.wikipedia.org/wiki/Collins_Bay_Airport","YKC"
 1786,"CYKD","small_airport","Aklavik/Freddie Carmichael Airport",68.223297,-135.00599,23,"NA","CA","CA-NT","Aklavik","yes","CYKD","LAK","CYKD",,,"https://en.wikipedia.org/wiki/Aklavik_Airport","YKD"
@@ -27118,7 +27118,7 @@
 322119,"FR-0351","seaplane_base","Rhône-Lavours Ultralight Seaplane Base",45.810876,5.78132,767,"EU","FR","FR-ARA","Ceyzérieu, Ain","no",,,,"LF0158",,,"Base Hydro-ULM Rhône Lavours"
 322120,"FR-0352","seaplane_base","Base Hydro-ULM de Montrevel-en-Bresse",46.34499,5.142219,620,"EU","FR","FR-ARA","Montrevel-en-Bresse","no",,,,"LF0159",,,
 322121,"FR-0353","small_airport","Val de l'Ailette Airfield",49.568056,3.225278,180,"EU","FR","FR-HDF","Pierremande, Aisne","no",,,,"LF0259",,,"Base ULM du Val de l'Ailette"
-322152,"FR-0354","balloonport","Cérizols Balloonport",43.128889,1.069444,1312,"EU","FR","FR-OCC","Cérizols","no",,,,"LF0926","http://www.ballon-bleu-horizon.fr/",,
+322152,"FR-0354","closed","Cérizols Balloonport",43.128889,1.069444,1312,"EU","FR","FR-OCC","Cérizols","no",,,,,"http://www.ballon-bleu-horizon.fr/",,"LF0926"
 322153,"FR-0355","small_airport","Troye d'Ariège ULM",43.020043,1.877509,1377,"EU","FR","FR-OCC","Troye d'Ariège","no",,,,"LF0927","https://partagair.jimdofree.com/situation/",,
 322154,"FR-0356","small_airport","Seyne les Alpes Glider Field",44.341944,6.372778,3937,"EU","FR","FR-PAC",,"no",,,,"LF0430",,,
 322162,"FR-0357","seaplane_base","Base Hydro-ULM d'Amance",48.350833,4.505,430,"EU","FR","FR-GES","Amance","no",,,,"LF1056",,,
@@ -27144,7 +27144,7 @@
 329135,"FR-0377","closed","Laon-Couvron Air Base",49.63048,3.54344,,"EU","FR","FR-HDF","Vivaise, Aisne","no",,,,,,"https://fr.wikipedia.org/wiki/Base_a%C3%A9rienne_de_Laon-Couvron",
 329815,"FR-0378","closed","Clipperton Island Landing Strip",10.313828,-109.230497,11,"EU","FR","FR-U-A","La Passion–Clipperton","no",,,,,,"https://en.wikipedia.org/wiki/Clipperton_Island",
 330629,"FR-0379","heliport","Vars Helistrip",44.548963,6.701518,,"EU","FR","FR-PAC",,"no",,,,,,,
-330775,"FR-0380","small_airport","Les Bories Ultralight Airfield",44.511353,3.270996,,"EU","FR","FR-OCC","Saint-Bonnet-de-Chirac, Lozère","no",,,,"LF4864",,,"Base ULM des Bories"
+330775,"FR-0380","closed","Les Bories Ultralight Airfield",44.511353,3.270996,,"EU","FR","FR-OCC","Saint-Bonnet-de-Chirac, Lozère","no",,,,,,,"Base ULM des Bories, LF4864"
 330785,"FR-0381","small_airport","Fontaine-lès-Clerval Ultralight Airfield",47.420889,6.459371,,"EU","FR","FR-BFC","Fontaine-lès-Clerval, Doubs","no",,,,"LF2556",,,"Base ULM de Fontaine les Clerval"
 330786,"FR-0382","closed","Petit Fay Airfield",48.247629,3.194275,607,"EU","FR","FR-BFC","Nailly, Yonne","no",,,,,,,"LF8926, Base ULM du Petit Fay"
 330835,"FR-0383","small_airport","Aghione Casone Ultralight Airfield",42.101866,9.415692,,"EU","FR","FR-COR","Aghione, Haute-Corse","no",,,,"LF2023",,,"Base ULM d'Aghione Casone"
@@ -32847,7 +32847,7 @@
 342840,"IR-0033","closed","Parsiyan Airport",27.22208,53.02638,174,"AS","IR","IR-22","Parsiyan","no",,,,,,,
 343527,"IR-0034","heliport","Amol Heliport",36.45814,52.35132,361,"AS","IR","IR-02","Amol","no",,,,,,,
 349457,"IR-0035","closed","Filestan Airport",35.43327,51.64057,3241,"AS","IR","IR-23","Filestan","no",,,,,,,
-349458,"IR-0036","small_airport","Fath Airport",35.7154,50.93407,3999,"AS","IR","IR-30","Fardis","no",,,"OIIF",,,"https://en.wikipedia.org/wiki/Fath_Air_Base",
+349458,"IR-0036","small_airport","Fath Airport",35.7154,50.93407,3999,"AS","IR","IR-32","Fardis","no",,,"OIIF",,,"https://en.wikipedia.org/wiki/Fath_Air_Base",
 349459,"IR-0037","heliport","Sonqor Heliport",34.78199,47.58784,5620,"AS","IR","IR-05","Sonqor","no",,,,,,,
 349460,"IR-0038","small_airport","Mirmiro Agricultural Airport",34.56826,45.82255,1752,"AS","IR","IR-05","Mirmiro","no",,,,,,,
 350784,"IR-0039","small_airport","Gonbad Kavus / Haji Balkan Airport",37.20101,55.26871,220,"AS","IR","IR-27","Haji Balkan","no",,,,,,,
@@ -32997,7 +32997,7 @@
 42522,"IR-0184","closed","Ghaem Shahr Airport",36.466667,52.866669,,"AS","IR","IR-02","Ghaem Shahr","no",,,,,,,"OINI, OINI"
 42527,"IR-0185","closed","Bafgh Airport",31.583332,55.566666,,"AS","IR","IR-21","Bafgh","no",,,,,,,"OIYB"
 596490,"IR-0186","small_airport","Manzariyeh Drone Airstrip",35.027205,50.815219,2837,"AS","IR","IR-25","Abbasabad","no",,,,,,,
-597143,"IR-0187","heliport","Karaj",35.879646,50.891459,,"AS","IR","IR-30",,"no",,,,,,,
+597143,"IR-0187","heliport","Karaj",35.879646,50.891459,,"AS","IR","IR-32",,"no",,,,,,,
 605470,"IR-0188","heliport","Dolab Heliport",26.542105,55.289185,33,"AS","IR","IR-22","Dolab","no",,,,,,,
 605471,"IR-0189","heliport","Gasheh Police Station Heliport",26.525349,54.838612,39,"AS","IR","IR-22","Gasheh","no",,,,,,,
 605515,"IR-0190","heliport","Konarak 10th Tactical Base Heliport",25.366041,60.362011,23,"AS","IR","IR-11","Konarak","no",,,,,,,
@@ -41068,7 +41068,7 @@
 20748,"KONA","small_airport","Winona Municipal Airport Max Conrad Field",44.077202,-91.708298,656,"NA","US","US-MN","Winona","no","KONA","ONA","KONA","ONA",,"https://en.wikipedia.org/wiki/Winona_Municipal_Airport",
 20749,"KONL","small_airport","O'Neill Municipal Airport–John L Baker Field",42.468916,-98.686989,2031,"NA","US","US-NE","O'Neill","no","KONL","ONL","KONL","ONL","https://growholt.com/in-holt-county/businesses/oneill-airport/","https://en.wikipedia.org/wiki/O%27Neill_Municipal_Airport",
 20750,"KONM","small_airport","Socorro Municipal Airport",34.022499,-106.903,4875,"NA","US","US-NM","Socorro","no","KONM","ONM","KONM","ONM",,,
-20751,"KONO","medium_airport","Ontario Municipal Airport",44.0198,-117.013289,2193,"NA","US","US-OR","Oregon","no","KONO","ONO","KONO","ONO","https://www.ontariooregon.org/airport.html","https://en.wikipedia.org/wiki/Ontario_Municipal_Airport",
+20751,"KONO","medium_airport","Ontario Municipal Airport",44.0198,-117.013289,2193,"NA","US","US-OR","Ontario","no","KONO","ONO","KONO","ONO","https://www.ontariooregon.org/airport.html","https://en.wikipedia.org/wiki/Ontario_Municipal_Airport",
 20752,"KONP","medium_airport","Newport Municipal Airport",44.580399,-124.057999,160,"NA","US","US-OR","Newport","no","KONP","ONP","KONP","ONP",,"https://en.wikipedia.org/wiki/Newport_Municipal_Airport_(Oregon)",
 3752,"KONT","large_airport","Ontario International Airport",34.056,-117.600998,944,"NA","US","US-CA","Ontario","yes","KONT","ONT","KONT","ONT","https://www.flyontario.com/","https://en.wikipedia.org/wiki/LA/Ontario_International_Airport",
 20753,"KONX","small_airport","Currituck County Regional Airport",36.398899,-76.016296,18,"NA","US","US-NC","Maple","no",,,"KONX","ONX","http://www.co.currituck.nc.us/airport.cfm","https://en.wikipedia.org/wiki/Currituck_County_Airport","9W7"
@@ -47883,7 +47883,7 @@
 329414,"MX-0883","small_airport","El Zopilote Airport",18.246933,-95.721035,29,"NA","MX","MX-VER","Carlos Carrillo","no",,,,"AZK",,,
 329415,"MX-0884","heliport","Helipuerto Tribunal Superior de Justicia",19.433914,-99.143475,7631,"NA","MX","MX-DIF","Cuahutemoc","no",,,,"HTJ",,,
 329416,"MX-0885","small_airport","El Dorado Airport",24.321481,-107.398628,20,"NA","MX","MX-SIN","El Dorado","no",,,,"EDD",,,
-329417,"MX-0886","heliport","Hospital Angeles Ciudad Juárez Heliport",31.71365,-106.392306,5905,"NA","MX","MX-CHH","Ciudad Juárez","no",,,,"HDJ",,,
+329417,"MX-0886","heliport","Angeles Hospital Helistop",31.713657,-106.39219,5905,"NA","MX","MX-CHH","Ciudad Juárez","no",,,,"HDJ",,,
 329505,"MX-0887","heliport","Helipuerto Hospital de Alta Especialidad Ixtapaluca",19.318226,-98.855597,7451,"NA","MX","MX-MEX","Ixtapaluca","no",,,,"HIX",,,
 329506,"MX-0888","heliport","Helipuerto Magnocentro 26",19.407061,-99.271753,8235,"NA","MX","MX-MEX","Huixquilucan","no",,,,"HFR",,,
 329507,"MX-0889","small_airport","Cahuisori Airport",28.247351,-108.273105,6800,"NA","MX","MX-CHH","Ocampo","no",,,,"CHR",,,
@@ -52027,8 +52027,8 @@
 5166,"OIIE","large_airport","Imam Khomeini International Airport",35.416099548339844,51.152198791503906,3305,"AS","IR","IR-23","Tehran","yes","OIIE","IKA","OIIE",,"http://www.ikia.ir/","https://en.wikipedia.org/wiki/Imam_Khomeini_International_Airport","Ahmadabad"
 5168,"OIII","large_airport","Mehrabad International Airport",35.689175,51.314392,3962,"AS","IR","IR-23","Tehran","yes","OIII","THR","OIII",,,"https://en.wikipedia.org/wiki/Mehrabad_International_Airport",
 5169,"OIIK","medium_airport","Qazvin Airport",36.240101,50.0471,4184,"AS","IR","IR-26","Qazvin","no","OIIK","GZW","OIIK",,,"https://en.wikipedia.org/wiki/Qazvin_Airport","Ghazvin"
-5170,"OIIM","small_airport","Naja Airport",35.776299,50.881001,4040,"AS","IR","IR-30","Karaj","no",,,"OIIM",,,,
-5171,"OIIP","large_airport","Payam International Airport",35.7761,50.826698,4170,"AS","IR","IR-30","Karaj","yes","OIIP","PYK","OIIP",,,"https://en.wikipedia.org/wiki/Payam_International_Airport",
+5170,"OIIM","small_airport","Naja Airport",35.776299,50.881001,4040,"AS","IR","IR-32","Karaj","no",,,"OIIM",,,,
+5171,"OIIP","large_airport","Payam International Airport",35.7761,50.826698,4170,"AS","IR","IR-32","Karaj","yes","OIIP","PYK","OIIP",,,"https://en.wikipedia.org/wiki/Payam_International_Airport",
 32103,"OIIS","small_airport","Semnan Municipal Airport",35.591099,53.495098,3665,"AS","IR","IR-20","Semnan","yes","OIIS","SNX","OIIS",,,"https://en.wikipedia.org/wiki/Semnan_Municipal_Airport",
 5172,"OIKB","large_airport","Bandar Abbas International Airport",27.2183,56.3778,22,"AS","IR","IR-22","Bandar Abbas","yes","OIKB","BND","OIKB",,,"https://en.wikipedia.org/wiki/Bandar_Abbas_International_Airport",
 5173,"OIKJ","medium_airport","Jiroft Airport",28.723519,57.675037,2663,"AS","IR","IR-08","Jiroft","no","OIKJ","JYR","OIKJ",,,"https://en.wikipedia.org/wiki/Jiroft_Airport","Sabzevaran"
