@@ -16560,6 +16560,7 @@
 595524,"BW-0072","small_airport","Leopard Plains Airstrip",-20.18091,24.16769,3068,"AF","BW","BW-NW","Motopi","no",,,,,,,
 607151,"BW-0073","heliport","Sir Seretse Khama Barracks Heliport",-24.600006,25.86664,3376,"AF","BW","BW-GA","Gaborone","no",,,,,,,
 607154,"BW-0074","heliport","Botswana International University of Science and Technology Drone Port and Heliport",-22.59488,27.12772,3241,"AF","BW","BW-CE","Palapye","no",,,,,,,"BIUST"
+610784,"BW-0075","closed","Kasane Airport (old)",-17.786574,25.160344,,"AF","BW","BW-CH","Kasane","no",,,,,,"https://en.wikipedia.org/wiki/Kasane_Airfield","FBKE"
 31654,"BW-HUK","small_airport","Hukuntsi Airport",-23.9897,21.758101,3720,"AF","BW","BW-KG","Hukuntsi","no",,"HUK","FBHK",,,"https://en.wikipedia.org/wiki/Hukuntsi_Airport","FB24"
 301800,"BWJ","small_airport","Bawan Airport",-6.396944444440001,146.881666667,4700,"OC","PG","PG-MPL",,"no",,"BWJ",,"BWN",,,
 302394,"BXL","seaplane_base","Blue Lagoon Seaplane Base",-16.943,177.368,0,"OC","FJ","FJ-W","Nanuya Lailai Island","no",,"BXL",,,,,
@@ -46114,7 +46115,7 @@
 31910,"MLIP","small_airport","Mili Island Airport",6.084754,171.731419,4,"OC","MH","MH-MIL","Mili Island","yes",,"MIJ","1Q9","1Q9",,"https://en.wikipedia.org/wiki/Mili_Airport",
 41921,"MLLJ","small_airport","La Javilla Airport",9.81112003326416,-85.29550170898438,43,"NA","CR","CR-G","Guanacaste","no",,,"MLLJ",,,,
 42456,"MM-0001","closed","Hanthawaddy International Airport (under construction)",17.3005,96.4276,138,"AS","MM","MM-02","Bago","no",,,,,,"https://en.wikipedia.org/wiki/Hanthawaddy_International_Airport","Bago"
-42457,"MM-0002","small_airport","Hinthada Airport",17.633329391500002,95.4666976929,32,"AS","MM","MM-07","Hinthada","no",,"HEB","VYHT",,,,"Henzada Airport"
+42457,"MM-0002","small_airport","Hinthada Airport",17.633329,95.466698,32,"AS","MM","MM-07","Hinthada","no","VYHT","HEB","VYHT",,,,"Henzada Airport"
 42458,"MM-0003","small_airport","Langkho Airport",20.350000381469727,98.01667022705078,1014,"AS","MM","MM-17","Langhko","no",,,,,,,
 42459,"MM-0004","small_airport","Myoungmya Airport",16.570999145507812,94.93229675292969,85,"AS","MM","MM-07","Myoungmya","no",,,,,,,
 42460,"MM-0005","small_airport","Shinbweyang Airport",26.68600082397461,96.21040344238281,1680,"AS","MM","MM-11","Shinbweyang","no",,,,,,,
@@ -47475,7 +47476,7 @@
 323928,"MX-0475","small_airport","Los Violines Poniente Airport",30.305161,-106.479226,4167,"NA","MX","MX-CHH","Villa Ahumada","no",,,,"VSP",,,
 323929,"MX-0476","small_airport","General Roberto Fierro Airport",28.568056,-107.467221,6798,"NA","MX","MX-CHH","Guerrero","no",,,,"CDG",,,"Ciudad Guerrero, Vicente Guerrero"
 323930,"MX-0477","small_airport","Rancho La Escondida Airport",28.858056,-101.873888,3251,"NA","MX","MX-COA","Zaragoza","no",,,,"REC",,,
-323931,"MX-0478","heliport","Helipuerto Palacio de Hierro -Durango",19.418739,-99.169072,7438,"NA","MX","MX-DIF","Cuauhtémoc","no",,,,"HDX",,,
+323931,"MX-0478","heliport","Palacio de Hierro Durango Heliport",19.418739,-99.169072,7438,"NA","MX","MX-DIF","Cuauhtémoc","no",,,,"HDX",,,
 323932,"MX-0479","small_airport","El Contadero Airport",23.786944,-97.878056,7,"NA","MX","MX-TAM","Soto La Marina","no",,,,"CTF",,,
 323933,"MX-0480","small_airport","Ingenio de Huixtla Airport",15.086121,-92.502777,66,"NA","MX","MX-CHP","Huixtla","no",,,,"IHC",,,"Garcia"
 323934,"MX-0481","small_airport","Rancho Santa Anita Airport",29.673203,-105.280751,3901,"NA","MX","MX-CHH","Coyame del Sotol","no",,,,"RTA",,,
@@ -48121,7 +48122,7 @@
 332554,"MX-1121","heliport","Najucal Heliport",18.354538,-95.325275,141,"NA","MX","MX-VER","Minatitlan","no",,,,"HNX",,,
 332556,"MX-1122","small_airport","La Campana Airport",24.556453,-106.223845,3630,"NA","MX","MX-DUR","Tamazula","no",,,,"CAP",,,
 332557,"MX-1123","heliport","Helipuerto Aero Servicios",19.349063,-99.190965,7316,"NA","MX","MX-DIF","Alvaro Obregon","no",,,,"HAS",,,
-332930,"MX-1124","heliport","Helipuerto Bardahl Ajusco",19.2078,-99.219033,10074,"NA","MX","MX-DIF","Tlalpan","no",,,,"HDT",,,
+332930,"MX-1124","heliport","Bardahl Ajusco Heliport",19.2078,-99.219033,10074,"NA","MX","MX-DIF","Tlalpan","no",,,,"HDT",,,
 332933,"MX-1125","small_airport","El Zapatero Airstrip",24.598065,-106.381871,2297,"NA","MX","MX-DUR","Tamazula","no",,,,"ZPV",,,
 332934,"MX-1126","small_airport","La Campanilla Airstrip",24.633872,-106.152005,4921,"NA","MX","MX-DUR","Tamazula","no",,,,"CAM",,,
 332935,"MX-1127","heliport","Coorporativo Blanco Helipad",20.613932,-100.411332,6257,"NA","MX","MX-QUE","Tequisquiapan","no",,,,"HBV",,,
@@ -49024,7 +49025,6 @@
 505573,"MX-2024","heliport","Helipuerto Campo Militar 37-B Temamatla N°3",19.184261,-98.865758,,"NA","MX","MX-MEX","Campo Militar 37-B (Temamatla)","no",,,,,"https://www.gob.mx/sedena",,
 505574,"MX-2025","heliport","Helipuerto Campo Militar 37-B Temamatla N°4",19.194844,-98.853462,,"NA","MX","MX-MEX","Campo Militar 37-B (Temamatla)","no",,,,,"https://www.gob.mx/sedena",,
 505575,"MX-2026","small_airport","Base Nº8 de la Fuerza Aérea Mexicana",20.93629,-89.647161,,"NA","MX","MX-YUC","Ciudad de Mérida","no",,,,,"https://www.gob.mx/sedena/documentos/fuerza-aerea-mexicana","https://es.m.wikipedia.org/wiki/Fuerza_Aérea_Mexicana",
-505576,"MX-2027","small_airport","Base Nº19 de la Fuerza Aérea Mexicana",19.423969,-99.074589,,"NA","MX","MX-DIF","Ciudad de México","no",,,,,"https://www.gob.mx/sedena/documentos/fuerza-aerea-mexicana","https://es.m.wikipedia.org/wiki/Fuerza_Aérea_Mexicana",
 508877,"MX-2028","closed","Potrero del Llano Airport",29.20715,-104.44619,3448,"NA","MX","MX-CHH","Ojinaga","no",,,,,,,
 508890,"MX-2029","small_airport","Ciudad Tula Airport",22.96638,-99.77224,3665,"NA","MX","MX-TAM","Ciudad Tula","no",,,,,,,
 508915,"MX-2030","closed","Cerro Chapala Airport",29.4042,-114.36459,2180,"NA","MX","MX-BCN","San Quintín","no",,,,,,,
@@ -49119,7 +49119,7 @@
 514410,"MX-2119","heliport","Helipuerto Campo Militar 37/D - Santa Lucía",19.752188,-98.981398,7365,"NA","MX","MX-MEX","Zumpango","no",,,,"NLU",,"https://es.wikipedia.org/wiki/Base_Aérea_Militar_N.º_1_de_Santa_Lucía",
 514420,"MX-2120","heliport","Churubusco Tower Helipad",19.359113,-99.169278,7972,"NA","MX","MX-DIF","Benito Juárez","no",,,,"HZJ",,,
 514422,"MX-2121","heliport","Helipuerto Guardia Nacional -Cuartel General",19.447706,-99.209257,,"NA","MX","MX-DIF","Miguel Hidalgo","no",,,,,"https://www.gob.mx/guardianacional",,
-514423,"MX-2122","small_airport","Mexico City Air Base",19.426074,-99.076606,,"NA","MX","MX-DIF","Mexico City","no",,,,,"https://www.gob.mx/semar","https://es.wikipedia.org/wiki/Aviación_Naval_Mexicana","Aeropuerto Nacional Militar de Ciudad de México, Estación Aeronaval Ciudad de México"
+514423,"MX-2122","small_airport","Mexico City Air Base",19.424699,-99.076126,,"NA","MX","MX-DIF","Mexico City","no",,,,,"https://www.gob.mx/semar","https://es.wikipedia.org/wiki/Aviación_Naval_Mexicana","Base Nº19, Aeropuerto Nacional Militar de Ciudad de México, Estación Aeronaval Ciudad de México"
 514927,"MX-2123","heliport","Helipuerto Campo Militar 1-A Naucalpan N°1",19.43517,-99.243021,,"NA","MX","MX-MEX","Naucalpan","no",,,,,,,
 514928,"MX-2124","heliport","Helipuerto Campo Militar 1-J Predio Reforma",19.44182,-99.21523,,"NA","MX","MX-DIF",,"no",,,,,,,
 514929,"MX-2125","heliport","Helipuerto Hospital Central Militar N°1",19.436539,-99.214524,,"NA","MX","MX-DIF",,"no",,,,,,,
@@ -65974,6 +65974,7 @@
 610532,"TR-0344","small_airport","Private Airfield",36.88025,31.033266,,"AS","TR","TR-07","Serik","no",,,,,,,
 610589,"TR-0345","small_airport","Private Airfield",38.440279,28.456564,,"AS","TR","TR-45",,"no",,,,,,,
 610711,"TR-0346","closed","Yozgat Airport (Under Construction)",39.88939,34.98363,,"AS","TR","TR-66",,"no",,,,,,,
+610790,"TR-0347","closed","Private Airfield (Closed)",39.704358,32.754214,,"AS","TR","TR-06","Gölbaşı","no",,,,,,,
 43074,"TRPG","large_airport","John A. Osborne Airport",16.791835,-62.193204,550,"NA","MS","MS-SP","Gerald's Park","yes","TRPG","MNI","TRPG",,,"https://en.wikipedia.org/wiki/John_A._Osborne_Airport","Gerald's Airport, Brades"
 25017,"TS00","small_airport","Fuller Airport",32.787314,-97.180499,490,"NA","US","US-TX","Fort Worth","no",,,"TS00","TS00",,,
 25019,"TS02","small_airport","One Sixty Four Place Airport",33.119598388671875,-98.23059844970703,1200,"NA","US","US-TX","Jacksboro","no",,,"TS02","TS02",,,
