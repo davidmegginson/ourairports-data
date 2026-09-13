@@ -11039,6 +11039,8 @@
 610705,"AR-0817","small_airport","Martinez Airport",-26.318814,-60.668907,354,"SA","AR","AR-H","Tres Isletes","no",,,,"2961",,,
 610707,"AR-0818","small_airport","Aeroclub Caraguatay",-26.652605,-54.750793,562,"SA","AR","AR-N","Caraguatay","no",,,,"2964",,,"New entry."
 610709,"AR-0819","small_airport","La Elisa Airstrip",-34.799108,-62.349208,348,"SA","AR","AR-B","Ameghino","no",,,,"3001",,,
+610800,"AR-0820","small_airport","Romang Airfield",-29.488495,-59.767069,141,"SA","AR","AR-S","Localidad","no",,,,"1309",,,
+610802,"AR-0821","small_airport","Establicimiento Las Teresas Airfield",-34.614442,-62.089557,338,"SA","AR","AR-B","Germania","no",,,,"2099",,,
 16296,"AR02","heliport","Johnson Regional Medical Center Heliport",35.461216,-93.445383,491,"NA","US","US-AR","Clarksville","no",,,"AR02","AR02",,,"AR71, Johnson County Regional Hospital Heliport"
 16297,"AR03","small_airport","Centerville Airstrip",35.128718,-93.205798,350,"NA","US","US-AR","Centerville","no",,,"AR03","AR03",,,
 16299,"AR05","small_airport","John Harris Field",35.21590042114258,-93.30490112304688,1770,"NA","US","US-AR","Chickala","no",,,"AR05","AR05",,,
@@ -23082,7 +23084,7 @@
 602183,"DK-0065","small_airport","Rømø Beach Airstrip",55.144154,8.482475,,"EU","DK","DK-83","Rømø","no",,,,,,,
 609466,"DK-0066","closed","Skovlunde Flyveplads",55.7176,12.382579,105,"EU","DK","DK-84",,"no",,,,,,"https://da.wikipedia.org/wiki/Skovlunde_Flyveplads","EKSL, Danish Airport, European airports, closed 1980"
 609837,"DK-0067","small_airport","Lille Gjerndrupholm Airstrip",55.531163,9.009519,,"EU","DK","DK-83",,"no",,,,,,,
-610634,"DK-0068","heliport","Vejrø Helipad",55.036793,11.373333,,"EU","DK","DK-U-A",,"no",,,,,,,
+610634,"DK-0068","heliport","Vejrø Helipad",55.036793,11.373333,10,"EU","DK","DK-85","Vejrø","no",,,,,,,
 330383,"DLR","small_airport","Dalnerechensk Airport",45.879857,133.737629,272,"AS","RU","RU-PRI","Dalnerechensk","yes",,"DLR","UHHD",,,,"УХХД, Дальнереченск"
 604368,"DM-0001","closed","Dominica International Airport (Under Construction)",15.572906,-61.31357,,"NA","DM","DM-02","Wesley","no",,,,,,"https://en.wikipedia.org/wiki/Dominica_International_Airport",
 17152,"DM2","heliport","Diomede Heliport",65.758367,-168.953676,20,"NA","US","US-AK","Diomede","yes",,"DIO","PPDM","DM2",,,"DIO"
@@ -28115,6 +28117,11 @@
 610556,"FR-1351","heliport","DROUVILLE DZ",48.661969,6.410988,,"EU","FR","FR-GES","Drouville","no",,,,,,,
 610741,"FR-1352","heliport","RIEUX EN CIS DZ",50.198388,3.346515,,"EU","FR","FR-HDF","RIEUX EN CIS","no",,,,,,,
 610743,"FR-1353","heliport","Hélicentre",47.896004,2.519852,,"EU","FR","FR-CVL",,"no",,,,,"https://helicentre.net/",,
+610793,"FR-1354","heliport","Quéant DZ",50.182217,2.987265,,"EU","FR","FR-HDF","Quéant","no",,,,,,,
+610794,"FR-1355","heliport","Metz en couture DZ",50.063442,3.056556,,"EU","FR","FR-HDF","Metz en couture DZ","no",,,,,,,
+610795,"FR-1356","heliport","Villers-Plouich Heliport",50.081707,3.134132,355,"EU","FR","FR-HDF","Villers-Plouich, Nord","no",,,,,,,
+610796,"FR-1357","heliport","Bourlon HLS",50.17815,3.127184,302,"EU","FR","FR-HDF","Bourlon, Pas-de-Calais","no",,,,,,,
+610797,"FR-1358","heliport","Ecourt-St-Quentin HLS",50.254787,3.081254,133,"EU","FR","FR-HDF","Ecourt-Saint-Quentin, Pas-de-Calais","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -45362,6 +45369,7 @@
 601019,"LV-8049","balloonport","Liepāja",56.501819,20.997697,,"EU","LV","LV-LPX","Liepāja","no",,,,,,,
 604484,"LV-8050","closed","Rujiena Airfield",57.887663,25.333786,,"EU","LV","LV-113","Rujiena","no",,,,,,"https://en.wikipedia.org/wiki/Rujiena_Airfield",
 610203,"LV-8051","small_airport","Ječi Airfield",56.265229,21.202622,,"EU","LV","LV-112","Ječi","no",,,,,,,
+610799,"LV-8052","small_airport","Nīca Airfield",56.34863,21.11936,,"EU","LV","LV-112","Nīca","no",,,,,,,
 4668,"LW66","small_airport","Malo Konjari Sport Airfield",41.333099,21.4491,2034,"EU","MK","MK-005","Malo Konjari","no",,,,,,,"LW66, Prilep"
 4669,"LW67","small_airport","Kumanovo Airfield",42.154242,21.699328,1217,"EU","MK","MK-007","Kumanovo","no",,,,,,,"LW67, Adzi Tepe, Kumanovo Airbase"
 4672,"LW70","small_airport","Veles Airfield",41.758796,21.842451,1112,"EU","MK","MK-001","Karatmanovo","no",,,,,,,"Titov Veles, LW70, Велес"
@@ -81980,7 +81988,7 @@
 301326,"VVN","small_airport","Las Malvinas/Echarate Airport",-11.854861,-72.939332,1285,"SA","PE","PE-CUS","Las Malvinas","no",,"VVN","SPWT",,,"https://en.wikipedia.org/wiki/Las_Malvinas_Airport",
 26700,"VVNB","large_airport","Noi Bai International Airport",21.221201,105.806999,39,"AS","VN","VN-RRD","Hanoi (Soc Son)","yes","VVNB","HAN","VVNB",,,"https://en.wikipedia.org/wiki/Noi_Bai_International_Airport","Noibai Airport, Sân bay Quốc tế Nội Bài"
 32382,"VVNS","small_airport","Na San Airport",21.215301,104.032803,2133,"AS","VN","VN-NW","Mai Son","no","VVNS","SQH","VVNS",,,"https://en.wikipedia.org/wiki/N%C3%A0_S%E1%BA%A3n_Airport",
-26702,"VVPB","medium_airport","Phu Bai International Airport",16.400628,107.703094,48,"AS","VN","VN-NC","Huế","yes","VVPB","HUI","VVPB",,,"https://en.wikipedia.org/wiki/Phu_Bai_International_Airport","Phubai"
+26702,"VVPB","large_airport","Phu Bai International Airport",16.400581,107.704094,48,"AS","VN","VN-NC","Huế","yes","VVPB","HUI","VVPB",,,"https://en.wikipedia.org/wiki/Phu_Bai_International_Airport","Phubai"
 26703,"VVPC","medium_airport","Phu Cat Airport",13.955,109.042,80,"AS","VN","VN-SCC","Quy Nohn","yes","VVPC","UIH","VVPC",,"https://vietnamairport.vn/phucatairport/","https://en.wikipedia.org/wiki/Phu_Cat_Airport","Phucat"
 26704,"VVPK","medium_airport","Pleiku Airport",14.004500389099121,108.01699829101562,2434,"AS","VN","VN-CH","Pleiku","yes","VVPK","PXU","VVPK",,,"https://en.wikipedia.org/wiki/Pleiku_Air_Base",
 26705,"VVPQ","large_airport","Phú Quốc International Airport",10.169783,103.99353,37,"AS","VN","VN-SW","Phu Quoc Island","yes","VVPQ","PQC","VVPQ",,"https://sunwairport.vn","https://en.wikipedia.org/wiki/Phu_Quoc_International_Airport",
