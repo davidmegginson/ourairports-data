@@ -13565,7 +13565,7 @@
 330753,"BR-0390","heliport","Condomínio Edifício Paulista Plaza Heliport",-23.57361,-46.641769,2913,"SA","BR","BR-SP","São Paulo","no",,,"SIGO","SP0495",,,
 330755,"BR-0391","small_airport","Pista Fogoió",-5.359444,-57.520007,390,"SA","BR","BR-PA","Itaituba","no",,,"SNFG","PA0089",,,
 330776,"BR-0392","heliport","SESC Triunfo Heliport",-7.842986,-38.109267,3583,"SA","BR","BR-PE","Triunfo","no",,,"SSTH","SSTH",,,
-330778,"BR-0393","heliport","Villa Otto Baumgart Heliport",-22.743763,-45.563107,5676,"SA","BR","BR-SP","Campos do Jordão","no",,,"SDUH","SDUH",,,
+330778,"BR-0393","heliport","Villa Otto Baumgart Heliport",-22.743763,-45.563107,5676,"SA","BR","BR-SP","Campos do Jordão","no",,,"SDUH","SP0429",,,
 330852,"BR-0394","heliport","Praia do Paiva Heliport",-8.239522,-34.938377,3,"SA","BR","BR-PE","Jaboatão dos Guararapes","no",,,"SWXI","PE0058",,,
 330858,"BR-0395","heliport","Sierra Wriskey Victor Romeu Heliport",-3.265627,-45.181765,49,"SA","BR","BR-MA","Penalva","no",,,"SSSX","SSSX",,,
 331021,"BR-0396","heliport","Central Engenharia Heliport",-2.535175,-44.299808,62,"SA","BR","BR-MA","São Luís","no",,,"SICE","MA0057",,,
@@ -22346,7 +22346,7 @@
 321055,"DE-0389","small_airport","Metelen Ultralight Airfield",52.15949,7.241294,160,"EU","DE","DE-NW","Metelen","no",,,,,"http://www.ul-metelen.de",,"Flugplatz Metelen, UL Metelen"
 321056,"DE-0390","small_airport","Dorstadt Ultralight Airfield",52.099876,10.550802,351,"EU","DE","DE-NI","Dorstadt","no",,,,,"http://www.rittergut-dorstadt.de/flugplatz/",,
 321125,"DE-0391","small_airport","Malsch-Ettlingen Ultralight Flightpark",48.901667,8.328333,387,"EU","DE","DE-BW","Malsch","no",,,,,,,
-321127,"DE-0392","small_airport","Weidberg-Kaltenwestheim Ultralight Airfield",50.608674,10.087069,2034,"EU","DE","DE-TH","Kaltennordheim","no",,,,,,,
+321127,"DE-0392","closed","Weidberg-Kaltenwestheim Ultralight Airfield",50.608674,10.087069,2034,"EU","DE","DE-TH","Kaltennordheim","no",,,,,,,
 321128,"DE-0393","small_airport","Dörzbach-Hohebach Ultralight Flightpark",49.350308,9.715267,1320,"EU","DE","DE-BW","Dörzbach","no",,,,,"http://www.ul-verein.de",,
 321129,"DE-0394","small_airport","Morbach Ultralight Airfield",49.033929,9.589713,1624,"EU","DE","DE-BW","Großerlach","no",,,,,,,
 321189,"DE-0395","small_airport","Sonderlandeplatz Kremmen-Hohenbruch UL",52.797548,13.102406,120,"EU","DE","DE-BR","Kremmen","no",,,,,"http://www.flugplatz-kremmen.de/",,
@@ -29285,7 +29285,7 @@
 322438,"GB-0494","small_airport","Avon Lane Airfield",51.410211,-2.447792,89,"EU","GB","GB-ENG","Bristol, Somerset","no",,,,,,,"Saltford"
 322713,"GB-0495","small_airport","Red House Farm Airstrip",52.178085,-1.176136,,"EU","GB","GB-ENG","Daventry, Northamptonshire","no",,,,,,,"Preston Capes"
 322722,"GB-0496","heliport","Rotorspan",52.285500001,-2.1823,,"EU","GB","GB-ENG","Droitwich","no",,,,,,,
-322762,"GB-0497","small_airport","Kirton-in-Lindsey Glider Field",53.4622,-0.5769,210,"EU","GB","GB-ENG","Gainsborough, Lincolnshire","no",,,,,"http://tvgc.org.uk","https://en.wikipedia.org/wiki/RAF_Kirton_in_Lindsey","RAF Kirton in Lindsey"
+322762,"GB-0497","closed","Kirton-in-Lindsey Glider Field",53.4622,-0.5769,210,"EU","GB","GB-ENG","Gainsborough, Lincolnshire","no",,,,,"http://tvgc.org.uk","https://en.wikipedia.org/wiki/RAF_Kirton_in_Lindsey","RAF Kirton in Lindsey"
 322818,"GB-0498","small_airport","Wold Lodge Airstrip",52.368446,-0.633624,282,"EU","GB","GB-ENG","Wellingborough, Northamptonshire","no",,,,,,,
 322881,"GB-0499","small_airport","Windsor Farm Airstrip",53.197605,0.03781,180,"EU","GB","GB-ENG","Spilsby, Lincolnshire","no",,,,,,,"Hagworthingham"
 322882,"GB-0500","small_airport","Lindens Farm Airstrip",53.561675,-0.202133,75,"EU","GB","GB-ENG","Grimsby, Lincolnshire","no",,,,,,,
@@ -58911,10 +58911,10 @@
 323622,"SDUC","small_airport","Santa Rita Airport",4.426748,-60.188598,515,"SA","BR","BR-RR","Uiramutã","no",,,"SDUC","RR0018",,,
 207,"SDUD","small_airport","Usina Santa Adélia Airport",-21.331926,-48.315786,2028,"SA","BR","BR-SP","Jaboticabal","no",,,"SDUD","SP0150",,,
 45587,"SDUF","closed","Fazenda Touro Peru Airport",-21.071319,-57.495489,492,"SA","BR","BR-MS","Porto Murtinho","no",,,,,,,"SDUF, MS0056"
-35757,"SDUI","heliport","Centro EmpresariaL Iudice Helipad",-23.513621,-46.694625,2500,"SA","BR","BR-SP","São Paulo","no",,,"SDUI","SP0430",,,
-35758,"SDUJ","heliport","Milennium Heliport",-23.584809,-46.682743,2575,"SA","BR","BR-SP","São Paulo","no",,,"SDUJ","SP0431",,,
+35757,"SDUI","heliport","Centro Empresarial Iudice Helistop",-23.513621,-46.694625,2500,"SA","BR","BR-SP","São Paulo","no",,,"SDUI","SP0430",,,
+35758,"SDUJ","heliport","Milennium Helistop",-23.583141,-46.683387,2612,"SA","BR","BR-SP","São Paulo","no",,,"SDUJ","SP0431",,,
 44719,"SDUK","small_airport","Fazenda Xaimite Airport",-14.0966672897,-52.9019432068,1601,"SA","BR","BR-MT","Água Boa","no",,,"SDUK",,,,
-35759,"SDUL","small_airport","Usina Santa Lydia Airport",-21.20166778564453,-47.920555114746094,2270,"SA","BR","BR-SP","Ribeirão Preto","no",,,"SDUL",,,,
+35759,"SDUL","small_airport","Usina Santa Lydia Airport",-21.202968,-47.920993,2282,"SA","BR","BR-SP","Ribeirão Preto","no",,,"SDUL","SP0151",,,
 35760,"SDUM","heliport","Uniban Heliport",-23.506389617919922,-46.59694290161133,2568,"SA","BR","BR-SP","São Paulo","no",,,"SDUM",,,,
 208,"SDUN","small_airport","Itaperuna Airport",-21.219299316399997,-41.8759002686,410,"SA","BR","BR-RJ","Itaperuna","no","SDUN","ITP","SDUN","SDUN",,"http://pt.wikipedia.org/wiki/Aeroporto_de_Itaperuna",
 35762,"SDUQ","small_airport","Paraguaçu Paulista Airport",-22.42690086364746,-50.60689926147461,1525,"SA","BR","BR-SP","Paraguaçu Paulista","no",,,"SDUQ",,,,"SDSS"
