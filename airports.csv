@@ -2747,7 +2747,7 @@
 45305,"2CN6","heliport","Department of Water & Power Los Angeles Heliport",34.058055,-118.24954,654,"NA","US","US-CA","Los Angeles","no",,,"2CN6","2CN6",,,
 45312,"2CN7","heliport","Qualcomm Building N Heliport",32.896236,-117.196029,486,"NA","US","US-CA","San Diego","no",,,"2CN7","2CN7",,,
 45310,"2CN8","small_airport","Lake Arrowhead Airport",34.304167,-117.151389,4610,"NA","US","US-CA","Lake Arrowhead","no",,,"2CN8","2CN8",,,
-9355,"2CO0","heliport","Heli-One American Support, LLC Heliport",40.583585,-106.985331,4935,"NA","US","US-CO","Fort Collins","no",,,"2CO0","2CO0",,,"Heli-Support II Heliport"
+9355,"2CO0","closed","Heli-One American Support, LLC Heliport",40.583585,-106.985331,4935,"NA","US","US-CO","Fort Collins","no",,,,,,,"2CO0, Heli-Support II Heliport"
 9356,"2CO1","closed","Cherokee Trail Ranch Airport",39.106385,-104.581935,7240,"NA","US","US-CO","Peyton","no",,,,,,,"2CO1"
 9358,"2CO3","small_airport","Jackrabbit Strip",40.375,-104.87300109863281,5000,"NA","US","US-CO","Milliken","no",,,"2CO3","2CO3",,,
 9359,"2CO4","heliport","Presbyterian/St Luke's Medical Center Heliport",39.747752,-104.967866,5291,"NA","US","US-CO","Denver","no",,,"2CO4","2CO4",,,
@@ -3753,6 +3753,7 @@
 350183,"39MD","small_airport","Barton Hall Airfield",38.274989,-76.724047,21,"NA","US","US-MD","Leonardtown","no",,,"39MD","39MD",,,
 328922,"39ME","heliport","Maine Coast Memorial Heliport",44.5465528,-68.4173944,161,"NA","US","US-ME","Ellsworth","no",,,"39ME","39ME",,,
 10335,"39MI","small_airport","Huber Airport",46.168800354003906,-88.17240142822266,1418,"NA","US","US-MI","Crystal Falls","no",,,"39MI","39MI",,,
+610811,"39MN","small_airport","Gades Farm Airport",45.007216,-95.641406,1024,"NA","US","US-MN","Montevideo","no",,,"39MN","39MN",,,
 10337,"39MO","small_airport","Gardner Airport",37.118698,-93.204903,1325,"NA","US","US-MO","Springfield","no",,,"39MO","39MO",,"https://web.archive.org/web/20171228202306/https://en.wikipedia.org/wiki/Gardner_Airport_(Missouri)",
 529907,"39MS","closed","Benton Farms Airport",32.406831,-90.382678,312,"NA","US","US-MS","Clinton","no",,,,,,,"39MS"
 596768,"39MT","small_airport","Flying E Ranch Airport",46.636369,-112.076912,3922,"NA","US","US-MT","Helena","no",,,"39MT","39MT",,,
@@ -5299,7 +5300,7 @@
 11868,"51G","small_airport","Alkay Airport",43.143588,-83.796938,722,"NA","US","US-MI","Clio","no",,,,"51G",,,"Cagney"
 11869,"51GA","small_airport","Smith Field",33.50809860229492,-84.60050201416016,920,"NA","US","US-GA","Tyrone","no",,,"51GA","51GA",,,
 599688,"51ID","small_airport","Little Weiser Airport",44.529617,-116.424339,3095,"NA","US","US-ID","Little Valley","no",,,"51ID","51ID",,,
-11870,"51IL","small_airport","Marvin D Bradd Airport",40.27170181274414,-88.49449920654297,797,"NA","US","US-IL","Mansfield","no",,,"51IL","51IL",,,
+11870,"51IL","closed","Marvin D Bradd Airport",40.271702,-88.494499,797,"NA","US","US-IL","Mansfield","no",,,,,,,"51IL"
 11871,"51IN","small_airport","Dahnke Airport",40.492801666259766,-86.90560150146484,670,"NA","US","US-IN","West Lafayette","no",,,"51IN","51IN",,,
 11872,"51IS","closed","Curry Airport",39.659199,-90.700104,620,"NA","US","US-IL","Griggsville","no",,,,,,,"51IS"
 11873,"51K","small_airport","Cedar Air Park",38.931400299072266,-94.88500213623047,1020,"NA","US","US-KS","Olathe","no",,,"51K","51K",,,
@@ -23989,7 +23990,7 @@
 2305,"EFHA","medium_airport","Halli Airport",61.856039,24.786686,479,"EU","FI","FI-08","Jämsä","no","EFHA","KEV","EFHA",,,"https://en.wikipedia.org/wiki/Halli_Airport","Halli Air Base"
 43021,"EFHE","heliport","Hernesaari Heliport",60.147778,24.924444,7,"EU","FI","FI-18","Helsinki","no",,"HEN","EFHE",,,"https://en.wikipedia.org/wiki/Hernesaari_Heliport","Hernesaaren helikopterikenttä, Ärtholmens heliport"
 44026,"EFHH","heliport","Kanta-Hämeen Central Hospital Heliport",60.991112,24.415277,440,"EU","FI","FI-06","Hämeenlinna","no",,,"EFHH",,,,
-2307,"EFHK","large_airport","Helsinki Vantaa Airport",60.318363,24.963341,179,"EU","FI","FI-18","Helsinki (Vantaa)","yes","EFHK","HEL","EFHK",,"http://www.finavia.fi/en/helsinki-airport","https://en.wikipedia.org/wiki/Helsinki_Airport",
+2307,"EFHK","large_airport","Helsinki Vantaa Airport",60.318363,24.963341,179,"EU","FI","FI-18","Helsinki (Vantaa)","yes","EFHK","HEL","EFHK",,"https://www.finavia.fi/en/airports/helsinki-airport","https://en.wikipedia.org/wiki/Helsinki_Airport",
 27252,"EFHL","small_airport","Hailuoto Airfield",64.969553,24.704218,7,"EU","FI","FI-14","Hailuoto","no",,,"EFHL",,,"https://en.wikipedia.org/wiki/Hailuoto_Airfield",
 2308,"EFHM","small_airport","Hämeenkyrö Airfield",61.689701,23.0737,449,"EU","FI","FI-11","Hämeenkyrö","no",,,"EFHM",,,"https://en.wikipedia.org/wiki/H%C3%A4meenkyr%C3%B6_Airfield",
 2309,"EFHN","small_airport","Hanko Airfield",59.8489,23.083599,20,"EU","FI","FI-18","Hanko","no",,,"EFHN",,,"https://en.wikipedia.org/wiki/Hanko_Airfield",
@@ -58915,14 +58916,14 @@
 35758,"SDUJ","heliport","Milennium Helistop",-23.583141,-46.683387,2612,"SA","BR","BR-SP","São Paulo","no",,,"SDUJ","SP0431",,,
 44719,"SDUK","small_airport","Fazenda Xaimite Airport",-14.0966672897,-52.9019432068,1601,"SA","BR","BR-MT","Água Boa","no",,,"SDUK",,,,
 35759,"SDUL","small_airport","Usina Santa Lydia Airport",-21.202968,-47.920993,2282,"SA","BR","BR-SP","Ribeirão Preto","no",,,"SDUL","SP0151",,,
-35760,"SDUM","heliport","Uniban Heliport",-23.506389617919922,-46.59694290161133,2568,"SA","BR","BR-SP","São Paulo","no",,,"SDUM",,,,
-208,"SDUN","small_airport","Itaperuna Airport",-21.219299316399997,-41.8759002686,410,"SA","BR","BR-RJ","Itaperuna","no","SDUN","ITP","SDUN","SDUN",,"http://pt.wikipedia.org/wiki/Aeroporto_de_Itaperuna",
-35762,"SDUQ","small_airport","Paraguaçu Paulista Airport",-22.42690086364746,-50.60689926147461,1525,"SA","BR","BR-SP","Paraguaçu Paulista","no",,,"SDUQ",,,,"SDSS"
+35760,"SDUM","closed","Uniban Helipad",-23.506986,-46.597388,2568,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SDUM"
+208,"SDUN","small_airport","Itaperuna Airport",-21.219299,-41.8759,361,"SA","BR","BR-RJ","Itaperuna","no","SDUN","ITP","SDUN","RJ0008",,"http://pt.wikipedia.org/wiki/Aeroporto_de_Itaperuna",
+35762,"SDUQ","small_airport","Paraguaçu Paulista Airport",-22.427956,-50.607913,1594,"SA","BR","BR-SP","Paraguaçu Paulista","no",,,"SDUQ","SP0042",,,"SDSS"
 35764,"SDUT","heliport","Hotel Transamérica Heliport",-23.650833129882812,-46.7227783203125,2379,"SA","BR","BR-SP","São Paulo","no",,,"SDUT",,,,
-46476,"SDUU","small_airport","Usina Califórnia Airport",-21.91111,-50.86833,1476,"SA","BR","BR-SP","Parapuã","no",,,"SDUU","SDUU",,,
+46476,"SDUU","small_airport","Usina Califórnia Airport",-21.91111,-50.86833,1476,"SA","BR","BR-SP","Parapuã","no",,,"SDUU","SP0152",,,
 327077,"SDUV","heliport","Columbia Heliport",-20.177503,-40.232426,84,"SA","BR","BR-ES","Serra","no",,,"SDUV",,,,
 44715,"SDUW","heliport","Fazenda Sertãozinho Heliport",-21.64189910888672,-46.342201232910156,2739,"SA","BR","BR-MG","Botelho","no",,,"SDUW",,,,
-45883,"SDUX","heliport","Havan Heliport",-27.1069444444,-48.9075,253,"SA","BR","BR-SC","Brusque","no",,,"SDUX",,,,
+45883,"SDUX","heliport","Havan Heliport",-27.106953,-48.907132,253,"SA","BR","BR-SC","Brusque","no",,,"SDUX","SC0045",,,
 45615,"SDUY","heliport","Rio Alpha Heliport",-22.909133,-43.181367,495,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SDAZ","RJ0029",,,"SDUY"
 35765,"SDUZ","small_airport","Usina São Luiz Airport",-22.947486,-49.764333,1608,"SA","BR","BR-SP","Ourinhos","no",,,"SNZL","SP0242",,,"SDUZ"
 605494,"SDV1","small_airport","Fazenda Viscal Airport",-12.84058,-49.961406,902,"SA","BR","BR-TO","Araguaçu","no",,,"SDV1","TO0163",,,
@@ -58935,7 +58936,7 @@
 35766,"SDVA","small_airport","Fazenda Campo Vitória Airport",-21.83222198486328,-46.9555549621582,2329,"SA","BR","BR-SP","Vargem Grande Do Sul","no",,,"SDVA",,,,
 35767,"SDVB","heliport","INA Brasil Heliport",-23.43777847290039,-47.41416549682617,2072,"SA","BR","BR-SP","Sorocaba","no",,,"SDVB",,,,
 35768,"SDVC","heliport","Cometa Vila Maria Heliport",-23.517221,-46.579167,2418,"SA","BR","BR-SP","São Paulo","no",,,"SJWC","SP0672",,,"SDVC"
-35769,"SDVD","heliport","Vila Real Heliport",-22.410936,-43.148612,2257,"SA","BR","BR-RJ","Petrópolis","no",,,"SDVD",,,,
+35769,"SDVD","heliport","Vila Real Heliport",-22.410936,-43.148612,2257,"SA","BR","BR-RJ","Petrópolis","no",,,"SDVD","RJ0059",,,
 210,"SDVE","small_airport","Vera Cruz Airport",-22.230199813842773,-49.81719970703125,2100,"SA","BR","BR-SP","Vera Cruz","no",,,"SDVE","SDVE",,,
 323625,"SDVF","small_airport","Santo Antônio do Pão Airport",4.589723,-60.181388,653,"SA","BR","BR-RR","Uiramutã","no",,,"SDVF",,,,
 211,"SDVG","small_airport","Domingos Pignatari Airport",-20.458426,-50.003134,1676,"SA","BR","BR-SP","Votuporanga","no","SDVG","VOT","SDVG","SP0026",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Votuporanga",
@@ -71561,6 +71562,8 @@
 610645,"US-13042","small_airport","Fannin Field",28.691742,-97.288264,155,"NA","US","US-U-A","Goliad","no",,,"66TS","66TS",,,
 610649,"US-13043","heliport","Exceptional Community Hospital Heliport",36.119764,-97.163289,918,"NA","US","US-OK","Stillwater","no",,,"36OK","36OK",,,
 610657,"US-13044","heliport","Davia Heliport",41.569626,-90.52408,682,"NA","US","US-U-A","Davenport","no",,,"3IA3","3IA3",,,
+610821,"US-13045","small_airport","Roca Grande RLA",41.787954,-88.606596,762,"NA","US","US-IL","Big Rock","no",,,"51IL","51IL",,,
+610823,"US-13046","heliport","Dennis Webster Heliport",41.1811,-89.8596,776,"NA","US","US-IL","Toulon","no",,,"3IL0","3IL0",,,
 334441,"US-1305","small_airport","Bouse Airport",33.930167,-114.000487,,"NA","US","US-AZ","Bouse","no",,,,,,,
 334442,"US-1306","small_airport","Quartzsite Airport",33.66185,-114.249,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334443,"US-1307","closed","Desert Gardens Airport",33.6573,-114.2357,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
@@ -78198,7 +78201,7 @@
 510910,"US-7935","closed","Berkeley Plantation Airport",37.31839,-77.17323,29,"NA","US","US-VA","Charles City","no",,,,,,,
 510911,"US-7936","closed","Skinkle Airport",37.38436,-105.48793,7774,"NA","US","US-CO","Blanca","no",,,,,,,
 510914,"US-7937","small_airport","Turkey Ridge Ranch Airport",37.80851,-104.58431,5866,"NA","US","US-CO","Walsenberg","no",,,,,,,
-510915,"US-7938","small_airport","Bonanza Airpark",38.265487,-105.948522,7935,"NA","US","US-CO","Villa Grove","no",,,,,,,"Villa Grove Flight Park"
+510915,"US-7938","small_airport","Bonanza Airpark",38.265487,-105.948522,7935,"NA","US","US-CO","Villa Grove","no",,,"70CO","70CO",,,"Villa Grove Flight Park"
 510922,"US-7939","closed","Cave Valley Ranch Airport",38.65471,-114.8096,6542,"NA","US","US-NV","Pioche","no",,,,,,,
 510923,"US-7940","small_airport","Gardner Ranch Airport",38.96646,-115.19911,6168,"NA","US","US-NV","Lund","no",,,,,,,
 510924,"US-7941","small_airport","Smith Airport",44.75488,-73.27821,133,"NA","US","US-VT","Grand Isle","no",,,,,,,
@@ -80266,7 +80269,7 @@
 24018,"US-PA47","small_airport","Dream Air Airport",41.852933,-80.407192,870,"NA","US","US-PA","Albion","no",,,,"07PA",,,"PA47, Jim Shearer"
 24447,"US-SC49","heliport","Bamberg County Memorial Hospital Heliport",33.307174,-81.028461,152,"NA","US","US-SC","Bamberg","no",,,,"SC49",,,
 25316,"US-UT73","heliport","Diamond 'G' Ranch Heliport",37.233857,-113.278886,3020,"NA","US","US-UT","Toquerville","no",,,"UT73","UT73",,,
-25320,"US-UT77","heliport","Aladdin Air Heliport",37.698287,-112.183392,7540,"NA","US","US-UT","Bryce Canyon City","no",,,"UT77","UT77",,,
+25320,"US-UT77","closed","Aladdin Air Heliport",37.698251,-112.183163,7540,"NA","US","US-UT","Bryce Canyon City","no",,,,,,,"UT77"
 25371,"US-VA38","heliport","LZ Alfa Heliport",36.790333,-75.96621,10,"NA","US","US-VA","Virginia Beach","no",,,,"VA38",,,
 25379,"US-VA47","heliport","Rockingham Memorial Hospital Heliport",38.405312,-78.854038,1452,"NA","US","US-VA","Harrisonburg","no",,,"VA47","VA47",,,"Sentara RMH"
 25383,"US-VA51","heliport","DMME Heliport",36.855263,-82.759758,1950,"NA","US","US-VA","Big Stone Gap","no",,,"VA51","VA51",,,
@@ -80389,6 +80392,7 @@
 25315,"UT72","heliport","Two Jays #2 Heliport",38.584352,-109.566789,4200,"NA","US","US-UT","Moab","no",,,"UT72","UT72",,,
 25317,"UT74","small_airport","Fry Canyon Field",37.6483,-110.167,5372,"NA","US","US-UT","Hite","no",,,"UT74","UT74",,,
 25318,"UT75","small_airport","Mineral Canyon Strip",38.531583177899996,-109.995889664,3900,"NA","US","US-UT","Moab","no",,,"UT75","UT75",,,
+610820,"UT77","heliport","Exceptional Community Hospital Heliport",37.169529,-113.440726,3072,"NA","US","US-UT","Hurricane","no",,,"UT77","UT77",,,
 25321,"UT78","heliport","Timpanogos Regional Hospital Heliport",40.312933,-111.714455,4735,"NA","US","US-UT","Orem","no",,,"UT78","UT78",,,
 25322,"UT79","small_airport","3-I Rocker Ranch Airport",40.41559982299805,-109.34400177001953,4865,"NA","US","US-UT","Jensen","no",,,"UT79","UT79",,,
 25323,"UT80","small_airport","Hamilton Fort Ranch Airport",37.634700775146484,-113.15899658203125,5460,"NA","US","US-UT","Cedar City","no",,,"UT80","UT80",,,
