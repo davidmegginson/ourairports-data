@@ -38333,7 +38333,7 @@
 18800,"K49X","small_airport","Chemehuevi Valley Airport",34.528805,-114.431999,631,"NA","US","US-CA","Havasu Lake","no",,,"K49X","49X",,"https://en.wikipedia.org/wiki/Chemehuevi_Valley_Airport",
 18801,"K4A0","small_airport","Berry Hill Airport",33.535567,-84.179081,770,"NA","US","US-GA","Stockbridge","no",,,"7GA7","7GA7",,,"4AO"
 18802,"K4A4","small_airport","Polk County Airport- Cornelius Moore Field",34.0187,-85.1465,979,"NA","US","US-GA","Cedartown","no",,,"4A4","4A4",,,
-18803,"K4A5","small_airport","Searcy County Airport",35.896999,-92.658997,963,"NA","US","US-AR","Marshall","no",,,"K4A5","4A5",,"https://en.wikipedia.org/wiki/Searcy_County_Airport",
+18803,"K4A5","small_airport","Buffalo River Airport",35.898556,-92.656522,963,"NA","US","US-AR","Marshall","no",,,"4A5","4A5",,"https://en.wikipedia.org/wiki/Searcy_County_Airport","Searcy County"
 18804,"K4A6","small_airport","Scottsboro Municipal Word Field",34.688702,-86.005898,650,"NA","US","US-AL","Scottsboro","no",,,"K4A6","4A6",,"https://en.wikipedia.org/wiki/Scottsboro_Municipal_Airport",
 18805,"K4A7","small_airport","Atlanta Speedway Airport",33.389876,-84.331011,882,"NA","US","US-GA","Hampton","no",,,"KHMP","HMP","http://www.co.henry.ga.us/airport/","https://en.wikipedia.org/wiki/Atlanta_Speedway_Airport","4A7, Atlanta South Regional Airport, Clayton County Airport – Tara Field, Bear Creek Airport, Henry County Airport"
 18806,"K4A9","small_airport","Isbell Field",34.473701,-85.721397,877,"NA","US","US-AL","Fort Payne","no",,,"K4A9","4A9",,"https://en.wikipedia.org/wiki/Isbell_Field",
@@ -71578,6 +71578,7 @@
 610860,"US-13048","closed","Coolidge Airpark",32.954,-111.518,,"NA","US","US-AZ","Coolidge","no",,,,,,,
 610861,"US-13049","closed","Midland Field",33.412575,-110.830341,,"NA","US","US-AZ","Globe","no",,,,,,,
 334441,"US-1305","small_airport","Bouse Airport",33.930167,-114.000487,,"NA","US","US-AZ","Bouse","no",,,,,,,
+610862,"US-13050","closed","Oasis Airport",33.411884,-111.638073,,"NA","US","US-AZ","Mesa","no",,,,,,,
 334442,"US-1306","small_airport","Quartzsite Airport",33.66185,-114.249,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334443,"US-1307","closed","Desert Gardens Airport",33.6573,-114.2357,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334444,"US-1308","closed","Ora Acres Airport",33.68147,-114.21366,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
