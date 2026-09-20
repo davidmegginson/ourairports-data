@@ -56887,6 +56887,14 @@
 610568,"RU-10179","small_airport","Nudol Airfield",56.0964,36.55477,639,"EU","RU","RU-MOS",,"no",,,"UUCN",,"https://www.uucn.ru/",,"УУЦН, Нудоль, Nudol-Sharino, Алексейково"
 526968,"RU-1018","heliport","Chaika Coal Terminal Helipad",73.379354,80.59003,71,"AS","RU","RU-KYA","Dikson","no",,,,,,,"HELIOPS, Mining, Coal, Vostokugol-Dikson"
 610684,"RU-10180","heliport","South Tabagan Oil Field Heliport",57.291693,78.89163,449,"EU","RU","RU-TOM","Yuzhno-Tabaganskaya","no",,,,"HJ9U","https://mklogistic.ru/ujnotabaganskoe_mestorojdenie",,"ХЙ9У, Южно-Табаганская"
+610868,"RU-10181","heliport","Volkovo Helipad",56.772784,33.652684,670,"EU","RU","RU-TVE","Volkovo","no",,,,"HHL8",,,"ХХЛ8, Волково"
+610873,"RU-10182","heliport","Zarechye Helipad",59.565535,33.991342,404,"EU","RU","RU-LEN","Zarechye","no",,,,"HH8G",,,"ХХ8Г, Заречье"
+610875,"RU-10183","closed","Vskhody Airfield",54.657721,34.149742,617,"EU","RU","RU-SMO","Vskhody","no",,,,,,,"ZAY5, ЗАЫ5, Всходы"
+610876,"RU-10184","closed","Sychevka Airfield",55.840116,34.259269,643,"EU","RU","RU-SMO","Sychevka","no",,,,,,,"ZC6S, ЗЦ6С, Сичівка"
+610877,"RU-10185","closed","Tyotkino Airfield",51.266815,34.298398,519,"EU","RU","RU-KRS","Tyotkino, Glushkovsky","no",,,,,,,"ZAR1, ЗАР1, Тёткино, Tetkino."
+610884,"RU-10186","closed","Rylsk Airfield",51.554814,34.660726,626,"EU","RU","RU-KRS","Rylsk","no",,,,,,,"ZAH2, ЗАХ2, Рыльск"
+610887,"RU-10187","closed","Soglasiye Airfield",53.086317,34.924813,676,"EU","RU","RU-BRY","Soglasiye","no",,,,,,,"ZAM6, ЗАМ6, Согласие"
+610888,"RU-10188","closed","Taldykino Airfield",52.468498,35.008332,696,"EU","RU","RU-ORL","Taldykino","no",,,,,,,"ZC75, ЗЦ75, Талдыкино"
 527128,"RU-1019","heliport","Khralov junction Helipad",68.486875,69.521978,,"AS","RU","RU-YAN","Lidino","no",,,,,,,"HELIOPS, OIL & GAS, Gazprom, Obskaya–Bovanenkovo Railroad"
 528461,"RU-1020","heliport","Roman Trebs field",68.624032,57.891887,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
 528462,"RU-1021","heliport","Roman Trebs field",68.609969,57.715387,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
@@ -66632,7 +66640,7 @@
 342216,"UA-0148","closed","Oleksandrivka Airfield",46.3069,31.9753,3,"EU","UA","UA-65","Oleksandrivka","no",,,,,,,
 342217,"UA-0149","heliport","Mriya Resort Helipad",44.3977,33.94168,251,"EU","UA","UA-43","Yalta","no",,,,,,,
 342218,"UA-0150","heliport","Internal Affairs Ministry Dacha Helipad",44.40043,33.92258,182,"EU","UA","UA-43","Yalta","no",,,,,,,
-342219,"UA-0151","heliport","Demetrynskaya Street Helipad",44.5097,33.6069,305,"EU","UA","UA-40","Sevastopol","no",,,,,,,
+342219,"UA-0151","heliport","Demetrynskaya Street Helipad",44.5097,33.6069,658,"EU","UA","UA-40","Balaklava","no",,,,,,,"HDF0, ХДФ0, Балаклава"
 342220,"UA-0152","heliport","Orlinovsky Helipad",44.4207,33.6741,348,"EU","UA","UA-40","Sevastopol","no",,,,,,,
 342221,"UA-0153","heliport","State House #9 (Oliva) Heliport",44.4074,33.8539,184,"EU","UA","UA-43","Yalta","no",,,,,,,
 342222,"UA-0154","heliport","State House #8 (Berehove) Heliport",44.4045,33.8663,,"EU","UA","UA-43","Yalta","no",,,,,,,
@@ -66659,7 +66667,7 @@
 353019,"UA-0175","closed","Holubivka Airfield",48.63034,38.67211,672,"EU","UA","UA-14","Holubivka","no",,,,,,,
 353023,"UA-0176","heliport","Yalta North Helipad",44.511515,34.155678,,"EU","UA","UA-43","Yalta","no",,,,,,,
 353281,"UA-0177","closed","Ximik Airfield",47.34706,35.142817,300,"EU","UA","UA-23","Orlyanske","no",,,,,,,"UKDW"
-353282,"UA-0178","closed","Mala Bilozerka Airport",47.268353,34.962648,246,"EU","UA","UA-23","Mala Bilozerka","no",,,,,,,
+353282,"UA-0178","closed","Mala Bilozerka Airport",47.268353,34.962648,246,"EU","UA","UA-23","Mala Bilozerka","no",,,,,,,"ZBB8, ЗББ8, Мала Білозерка"
 353372,"UA-0179","heliport","Mamalyha Heliport",48.2477,26.58473,377,"EU","UA","UA-77","Mamalyha","no",,,,,,,
 504971,"UA-0180","closed","Sydorenko Airstrip",49.711725,35.385783,551,"EU","UA","UA-63","Sydorenko","no",,,,,,,
 510535,"UA-0181","closed","Novomikolayivka Airfield",47.100432,35.702487,,"EU","UA","UA-23","Novomikolayivka, Polohy Raion","no",,,,,,,
@@ -66727,6 +66735,9 @@
 610043,"UA-9892","closed","Dzhulinka  Airfield",48.455776,29.766087,650,"EU","UA","UA-05","Dzhulinka","no",,,,,,,"ZC24, ЗЦ24, Джулінка"
 610061,"UA-9893","closed","Zadunaivka Airfield",45.855072,29.11952,168,"EU","UA","UA-51","Zadunaivka","no",,,,,,,"ZB6V, ЗБ6Ж, Задунаібка"
 610439,"UA-9894","small_airport","Kislichevataya Airfield",47.910194,34.693203,378,"EU","UA","UA-12","Kislichevataya","no",,,,,,,"ZB9U, ЗБ9У, Кисличувата"
+610874,"UA-9895","closed","Sholokhovo Airfield",47.732399,34.057682,228,"EU","UA","UA-12","Sholokhovo","no",,,,,,,"ZB9X, ЗБ9Ь, Шолохове, Гірницьке, Hirnytske"
+610883,"UA-9896","closed","Sokolinoye Airfield",50.999994,34.607166,650,"EU","UA","UA-59","Sokolinoye","no",,,,,,,"ZC10, ЗЦ10, Соколине"
+610889,"UA-9897","closed","Novouspenovka Airfield",47.039338,35.040228,254,"EU","UA","UA-23","Novouspenovka","no",,,,,,,"ZBB6, ЗББ6, Новоуспенівка"
 3549,"UA30","medium_airport","Batken Airport",40.042899,70.83784,3602,"AS","KG","KG-B","Batken","yes","UCFB",,"UCFB",,"http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6","https://en.wikipedia.org/wiki/Batken_Airport","UAFB, Баткен"
 3964,"UA34","small_airport","Chardara Airport",41.2765007019043,67.97100067138672,709,"AS","KZ","KZ-YUZ","Shardara","no",,,"UA34","UA34",,,
 3966,"UA36","small_airport","Lugovoy Airport",42.972565,72.728051,2130,"AS","KZ","KZ-ZHA","Lugovoy","no",,,"UA36","XAAL",,,
