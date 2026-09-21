@@ -20163,7 +20163,7 @@
 306924,"CNV9","small_airport","Québec / Neuville Airport",46.7214759694,-71.5854978561,314,"NA","CA","CA-QC","Neuville, QC","no",,,"CNV9","CNV9","http://www.aeroportdeneuville.ca/","https://en.wikipedia.org/wiki/Neuville_Airport","Neuville, Québec"
 1355,"CNW3","small_airport","Bancroft Community Airport",45.072652,-77.880678,1085,"NA","CA","CA-ON","Bancroft","no",,,"CNW3","CNW3",,"https://en.wikipedia.org/wiki/Bancroft_Airport","NW3, Jack Brown"
 1356,"CNW4","heliport","Mindemoya (Hospital) Heliport",45.73889923095703,-82.16670227050781,675,"NA","CA","CA-ON","Mindemoya","no",,,"CNW4","CNW4",,,"NW4"
-1357,"CNW8","heliport","Toronto (Hospital For Sick Children) Heliport",43.6568464507,-79.3878802657,498,"NA","CA","CA-ON","Toronto","no",,,"CNW8","CNW8",,,"NW8"
+1357,"CNW8","heliport","Toronto (Hospital For Sick Children) Heliport",43.656673,-79.387629,498,"NA","CA","CA-ON","Toronto","no",,,"CNW8","CNW8",,,"NW8"
 1358,"CNW9","heliport","New Westminster (Royal Columbian Hospital) Heliport",49.226671,-122.892291,124,"NA","CA","CA-BC","New Westminster","no",,,"CNW9","CNW9",,,"NW9"
 1359,"CNX3","small_airport","Carey Lake Airport",49.7442,-84.034,837,"NA","CA","CA-ON","Carey Lake","no",,,"CNX3","CNX3",,"https://en.wikipedia.org/wiki/Carey_Lake_Airport","NX3"
 28382,"CNX7","seaplane_base","Sparrow Lake Seaplane Base",44.799136,-79.410558,698,"NA","CA","CA-ON","Port Stanton","no",,,"CNX7","CNX7",,"https://en.wikipedia.org/wiki/Port_Stanton/Sparrow_Lake_Water_Aerodrome",
@@ -25002,7 +25002,7 @@
 309929,"ES-0012","small_airport","Castriz/Cambe Airfield",43.102502,-8.7617,1200,"EU","ES","ES-GA","Santa Comba","no",,,,,,,"Aeroclub Cambre"
 309930,"ES-0013","small_airport","Godos Airfield",42.5787,-8.6968,45,"EU","ES","ES-GA","Caldas de Reis","no",,,,,,,
 309932,"ES-0014","small_airport","Monforte Airfield",42.547,-7.5191,1078,"EU","ES","ES-GA","Monforte de Lemos","no",,,"LENF",,,,
-314988,"ES-0015","small_airport","Pozo Cañada Airfield",38.798137,-1.726842,2700,"EU","ES","ES-CM","Pozo Cañada","no",,,,,,,
+314988,"ES-0015","closed","Old Pozo Cañada Airfield",38.798137,-1.726842,2700,"EU","ES","ES-CM","Pozo Cañada","no",,,,,,,
 315436,"ES-0016","small_airport","Club Aernautic Catalunya",41.750278,2.611389,,"EU","ES","ES-CT",,"no",,,,,,,
 315437,"ES-0017","small_airport","Aeroclub Cáceres",39.329167,-6.343611,1350,"EU","ES","ES-EX","La Cervera","no",,,,,,,
 315438,"ES-0018","small_airport","AeroSidonia",36.44026,-5.94093,,"EU","ES","ES-AN",,"no",,,,,,,
@@ -25237,7 +25237,7 @@
 331329,"ES-0248","small_airport","Atlas Center Vuelos de Drones",38.1392261,-3.1738682,,"EU","ES","ES-AN",,"no",,,,,,,
 331330,"ES-0249","small_airport","Beuda Besalu Private Airstrip",42.2114675,2.7092805,,"EU","ES","ES-CT",,"no",,,,,,,
 331406,"ES-0250","small_airport","Fresno de Losa Airstrip",42.9534667,-3.1531167,,"EU","ES","ES-CL",,"no",,,,,,,
-331408,"ES-0251","small_airport","Pueblonuevo de Miramontes Airstrip",40.059082,-5.363341,,"EU","ES","ES-EX","Pueblonuevo de Miramontes","no",,,,,,,
+331408,"ES-0251","small_airport","Pueblonuevo de Miramontes Airstrip",40.059082,-5.363341,,"EU","ES","ES-CM","Pueblonuevo de Miramontes","no",,,,,,,
 331411,"ES-0252","closed","Calamocha Airstrip",40.902364,-1.298009,2963,"EU","ES","ES-AR","Calamocha","no",,,,,,,"LECH"
 331419,"ES-0253","closed","El Robledo",39.2242833,-4.3076333,1772,"EU","ES","ES-CM",,"no",,,,,,,
 331420,"ES-0254","closed","Valdeperdices",39.403683,-4.918783,,"EU","ES","ES-CM",,"no",,,,,,,
@@ -25375,6 +25375,7 @@
 610582,"ES-0387","heliport","Hospital Piñor Medical Heliport",42.331187,-7.8943,,"EU","ES","ES-GA","Barbadás - Ourense","no",,,,,,,
 610583,"ES-0388","heliport","Compass Rose - Torre de Hercules - Emergency Helipad",43.3866,-8.4077,,"EU","ES","ES-GA","A Coruña","no",,,,,,,
 610584,"ES-0389","heliport","Riazor Beach Emergency Helipad",43.37066,-8.41445,,"EU","ES","ES-GA","A Coruña","no",,,,,,,
+610895,"ES-0390","small_airport","Aeródromo de Pozo-Cañada",38.797759,-1.760298,,"EU","ES","ES-CM","Pozo-Cañada","no","LEPZ",,,,,,
 599574,"ESAN","heliport","Norra Alvsborgs County Hospital Heliport",58.319006,12.26819,312,"EU","SE","SE-Q","Trollhättan","no","ESEN",,"ESAN","NAL",,,
 2643,"ESCF","medium_airport","Malmen Air Base",58.397666,15.522422,308,"EU","SE","SE-E","Linköping","no","ESCF",,"ESCF",,,"https://en.wikipedia.org/wiki/Malmen_Airbase",
 2645,"ESCM","small_airport","Ärna Air Base",59.897301,17.5886,68,"EU","SE","SE-C","Uppsala","no","ESCM",,"ESCM",,,"https://en.wikipedia.org/wiki/%C3%84rna",
@@ -43769,7 +43770,7 @@
 43285,"LEPS","heliport","Mas Passamaner Heliport",41.1859016418457,1.1599199771881104,480,"EU","ES","ES-CT","Reus","no",,,"LEPS",,,,
 43250,"LEPV","heliport","Costa Norte-Puerto de Viveiro-Celeiro Heliport",43.674801,-7.59523,13,"EU","ES","ES-GA","Vivero","no",,,"LEPV",,,"https://es.wikipedia.org/wiki/Helipuerto_Costa_Norte",
 43257,"LEPY","heliport","El Portinyol Heliport",41.583499908447266,2.5607900619506836,200,"EU","ES","ES-CT","Barcelona","no",,,"LEPY",,,,
-4026,"LEPZ","small_airport","Los Pozuelos De Calatrava Airfield",38.912201,-4.19111,1850,"EU","ES","ES-CM","Los Pozuelos De Calatrava","no",,,"LEPZ",,,,
+4026,"LEPZ","small_airport","Los Pozuelos De Calatrava Airfield",38.912201,-4.19111,1850,"AF","ES","ES-CM","Los Pozuelos De Calatrava","no",,,,,,,
 533123,"LEQE","heliport","Queimadelos Heliport",42.215543,-8.426442,1210,"EU","ES","ES-GA","Vigo","no",,,"LEQE",,,,
 43293,"LERA","heliport","R.A.C.C. Heliport",41.38330078125,2.108330011367798,300,"EU","ES","ES-CT","Barcelona","no",,,"LERA",,,,
 550459,"LERB","heliport","Rabanal del Camino Firefighting Heliport",42.480863,-6.272399,3665,"EU","ES","ES-CL","León","no",,,"LERB",,,,
@@ -56895,7 +56896,12 @@
 610884,"RU-10186","closed","Rylsk Airfield",51.554814,34.660726,626,"EU","RU","RU-KRS","Rylsk","no",,,,,,,"ZAH2, ЗАХ2, Рыльск"
 610887,"RU-10187","closed","Soglasiye Airfield",53.086317,34.924813,676,"EU","RU","RU-BRY","Soglasiye","no",,,,,,,"ZAM6, ЗАМ6, Согласие"
 610888,"RU-10188","closed","Taldykino Airfield",52.468498,35.008332,696,"EU","RU","RU-ORL","Taldykino","no",,,,,,,"ZC75, ЗЦ75, Талдыкино"
+610890,"RU-10189","closed","Baturinskaya Airfield",45.810843,39.390197,144,"EU","RU","RU-KDA","Baturinskaya","no",,,,,,,"ZD86, ЗД86, Батуринская"
 527128,"RU-1019","heliport","Khralov junction Helipad",68.486875,69.521978,,"AS","RU","RU-YAN","Lidino","no",,,,,,,"HELIOPS, OIL & GAS, Gazprom, Obskaya–Bovanenkovo Railroad"
+610896,"RU-10190","heliport","Varnek Heliport",69.713314,60.058242,67,"EU","RU","RU-NEN","Varnek","no",,,,"HE9U",,,"ХЕ9У, Варнек"
+610897,"RU-10191","heliport","Nord-Avia Heliport",69.39495,88.361712,98,"EU","RU","RU-KYA","Valek","no",,,,"HE6Y",,,"ХЕ6Ы, Норд-Авиа, Валек"
+610898,"RU-10192","closed","Veshnyak Helipad",67.10855,41.400902,3,"EU","RU","RU-MUR","Veshnyak Island","no",,,,,"https://www.lightphotos.net/photos/displayimage.php?cat=0&pid=17264",,"HE1M, ХЕ1М, Остров Вешняк"
+610899,"RU-10193","heliport","Tumanniy Heliport",69.011358,35.711983,3,"EU","RU","RU-MUR","Tumanniy","no",,,,"HE0Y",,,"ХЕ0Ы, Туманный"
 528461,"RU-1020","heliport","Roman Trebs field",68.624032,57.891887,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
 528462,"RU-1021","heliport","Roman Trebs field",68.609969,57.715387,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
 528463,"RU-1022","heliport","Roman Trebs field",68.655715,57.699562,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
@@ -67217,7 +67223,7 @@
 42958,"UOIG","medium_airport","Svetlogorsk Airport",66.839996,88.403336,394,"AS","RU","RU-KYA","Svetlogorsk","no",,"SES","UOIG",,,"https://en.wikipedia.org/wiki/Svetlogorsk_Airport",
 31660,"UOII","medium_airport","Igarka Airport",67.437202,86.621902,82,"AS","RU","RU-KYA","Igarka","yes","UOII","IAA","UOII",,,"https://en.wikipedia.org/wiki/Igarka_Airport",
 6510,"UOOO","large_airport","Alykel International Airport",69.307951,87.325906,574,"AS","RU","RU-KYA","Norilsk","yes","UOOO","NSK","UOOO",,"https://www.airport-norilsk.ru/","https://en.wikipedia.org/wiki/Norilsk_Alykel_Airport",
-42959,"UOOW","heliport","Valek Airport",69.398057,88.352315,108,"AS","RU","RU-KYA","Valek","no",,,"UOOW",,,"https://en.wikipedia.org/wiki/Valek_Airport","Аэропорт Валек"
+42959,"UOOW","heliport","Valek Airport",69.398057,88.352315,108,"AS","RU","RU-KYA","Valek","no",,,"UOOW",,,"https://en.wikipedia.org/wiki/Valek_Airport","Аэропорт Валек, УООВ, Valyok, Валёк"
 32547,"UOTT","small_airport","Turukhansk Airport",65.797203,87.935303,128,"AS","RU","RU-KYA","Turukhansk","yes","UOTT","THX","UOTT",,,"https://en.wikipedia.org/wiki/Turukhansk_Airport",
 315497,"UOTU","small_airport","Tutonchany Airport",64.210168,93.792455,900,"EU","RU","RU-KYA","Tutonchany","no",,,"UOTU","UOTU",,,"УОТУ, Тутончаны"
 532685,"UPTS","heliport","Truskavets – Rixos Heliport",49.267747,23.496729,1328,"EU","UA","UA-46","Truskavets","no",,,"UPTS",,"https://rixos.ua/",,"УПТС, Трускавець"
