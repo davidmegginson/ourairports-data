@@ -60519,6 +60519,7 @@
 36410,"SIZW","heliport","Darinha Heliport",-4.111667,-38.248055,33,"SA","BR","BR-CE","Cascavel","no",,,"SDRO","CE0030",,,"SIZW"
 36411,"SIZX","small_airport","Inácio Luís do Nascimento Airport",-11.2966,-57.5495,870,"SA","BR","BR-MT","Juara","no","SIZX","JUA","SIZX","MT0018",,"http://pt.wikipedia.org/wiki/Aeroporto_In%C3%A1cio_Lu%C3%ADs_do_Nascimento","Juara Sul Airport"
 36412,"SIZY","heliport","IMOCOP Heliport",-22.695981,-47.561842,1775,"SA","BR","BR-SP","Piracicaba","no",,,"SIZY","SP0584",,,"Coopersucar CTC"
+610922,"SJ02","small_airport","Fazenda São José Airport",-12.8683,-55.956537,1355,"SA","BR","BR-MT","Sorriso","no",,,"SJ02","MT1202",,,
 609705,"SJ08","small_airport","Fazenda Engano Airstrip",-18.964488,-53.536173,2022,"SA","BR","BR-MS","Camapuã","no",,,"SJ08","MS0808",,,
 541476,"SJ09","small_airport","Senhor do Bonfim Airport",-10.51862,-40.084642,1529,"SA","BR","BR-BA","Senhor do Bonfim","no",,,"SJO9","BA0253",,,
 609715,"SJ0C","small_airport","Fazenda Calixbento Airport",-10.8272,-55.959839,915,"SA","BR","BR-MT","Nova Canaã do Norte","no",,,"SJ0C","MT1153",,,
@@ -60572,6 +60573,7 @@
 354868,"SJ2W","small_airport","Fazenda Tucumã Airstrip",3.133324,-61.041673,410,"SA","BR","BR-RR","Alto Alegre","no",,,"SJ2W","RR0125",,,
 506385,"SJ2X","small_airport","Fazenda Lapacho Airstrip",-23.878611,-55.036944,1129,"SA","BR","BR-MS","Sete Quedas","no",,,"SJ2X","MS0632",,,
 430381,"SJ2Z","heliport","Pontal de Jaguaripe Heliport",-13.113333,-38.875278,16,"SA","BR","BR-BA","Jaguaripe","no",,,"SJ2Z","BA0423",,,
+610919,"SJ30","heliport","DAS Brasil Heliport",-23.033478,-45.510648,1879,"SA","BR","BR-SP","Taubaté","no",,,"SJ30","SP1530",,,
 430383,"SJ32","small_airport","Fazenda Santa Marta Airstrip",-30.502993,-54.279663,673,"SA","BR","BR-RS","São Gabriel","no",,,"SJ32","RS0187",,,
 506386,"SJ33","small_airport","Fazenda Pica Pau Airstrip",-9.421111,-65.556111,587,"SA","BR","BR-AM","Lábrea","no",,,"SJ33","AM0106",,,
 506387,"SJ34","small_airport","Fazenda Alta Vista Airport",-14.962778,-59.709167,741,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,"SJ34","MT0799",,,
@@ -60789,6 +60791,7 @@
 36430,"SJAW","small_airport","Fazenda Citrícola Airport",-21.724679,-48.377154,2051,"SA","BR","BR-SP","Gavião Peixoto","no",,,"SJAW","SP0204",,,
 36431,"SJAX","small_airport","Fazenda Acalanto Airport",-12.95931,-45.972805,2657,"SA","BR","BR-BA","São Desidério","no",,,"SNEK","BA0135",,,"SJAX"
 36433,"SJAZ","small_airport","Fazenda Querubim Airport",-12.770401,-46.023488,2733,"SA","BR","BR-BA","São Desidério","no",,,"SJAZ","BA0102",,,
+610917,"SJB1","heliport","Pier da Barra Heliport",-27.008867,-48.606489,10,"SA","BR","BR-SC","Balneário Camboriú","no",,,"SJB1","SC0274",,,
 509688,"SJB4","heliport","Thiago Simon Heliport",-26.739722,-53.191667,2024,"SA","BR","BR-SC","Maravilha","no",,,"SJB4","SC0216",,,
 510508,"SJB6","small_airport","Fazenda São Luís Airstrip",-24.555267,-52.38221,2280,"SA","BR","BR-PR","Roncador","no",,,"SJB6","PR0239",,,
 509690,"SJB7","heliport","Mercado Internacional Heliport",-19.657375,-43.913548,2559,"SA","BR","BR-MG","Lagoa Santa","no",,,"SJB7","MG0550",,,
