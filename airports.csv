@@ -13839,7 +13839,7 @@
 334386,"BR-0663","small_airport","Paraná Experimental Aviation Club Airport",-23.28741,-51.091345,1617,"SA","BR","BR-PR","Ibiporã","no",,,"SWES","PR0095",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Ibipor%C3%A3","Clube de Aviação Experimental do Paraná"
 334389,"BR-0664","heliport","KKS-37 Heliport",-22.73881,-43.493665,144,"SA","BR","BR-RJ","Nova Iguaçu","no",,,"SWET","RJ0179",,,
 334391,"BR-0665","small_airport","Boa Esperança Airport",-3.911944,-45.786175,243,"SA","BR","BR-MA","Santa Luzia","no",,,"SWEX","MA0050",,,
-334392,"BR-0666","heliport","Fazenda São Fernando Heliport",-22.345979,-43.533887,1627,"SA","BR","BR-RJ","Vassouras","no",,,"SWEY","RJ0155",,,
+334392,"BR-0666","heliport","Fazenda São Fernando Heliport",-22.345979,-43.533887,1627,"SA","BR","BR-RJ","Vassouras","no",,,"SIG1","RJ0155",,,"SWEY"
 334396,"BR-0667","small_airport","Fazenda São Félix Airport",-9.293056,-61.806527,427,"SA","BR","BR-RO","Machadinho d'Oeste","no",,,"SWFE","RO0029",,,
 334703,"BR-0668","small_airport","Fazenda Toca da Onça Airport",-15.278446,-51.413114,935,"SA","BR","BR-GO","Jussara","no",,,,,,,"SWFF"
 334705,"BR-0669","small_airport","Fly Club Airport",-16.358824,-39.01528,16,"SA","BR","BR-BA","Porto Seguro","no",,,"SWFH","BA0175",,,
@@ -59785,7 +59785,7 @@
 354193,"SI46","small_airport","Fazenda Primavera Airstrip",-20.143639,-47.555832,3018,"SA","BR","BR-SP","Pedregulho","no",,,"SI46","SP1368",,,
 354195,"SI47","small_airport","Fazenda Byeta Airport",-4.722287,-46.259706,1253,"SA","BR","BR-MA","Buriticupu","no",,,"SI47","MA0108",,,
 354253,"SI48","small_airport","Fazenda São José Airport",-10.043254,-53.868317,1142,"SA","BR","BR-MT","Peixoto de Azevedo","no",,,"SI48","MT0802",,,
-354254,"SI49","heliport","WT Morumbi Helipad",-23.623569,-46.701591,2828,"SA","BR","BR-SP","São Paulo","no",,,"SI49","SP1185",,,
+354254,"SI49","heliport","WT Morumbi Helipad",-23.623794,-46.702017,2828,"SA","BR","BR-SP","São Paulo","no",,,"SI49","SP1185",,,
 353898,"SI4A","heliport","Asor Sul Connect Heliport",-29.218889,-51.171667,1883,"SA","BR","BR-RS","Caxias do Sul","no",,,"SI4A","RS0185",,,
 354257,"SI4D","small_airport","Nova Bandeirantes Airport",-9.845779,-57.808016,774,"SA","BR","BR-MT","Nova Bandeirantes","no",,,"SI4D","MT0808",,,
 354144,"SI4F","small_airport","Solag Aviação Agrícola Airstrip",-11.283333,-58.639444,1293,"SA","BR","BR-MT","Juína","no",,,"SI4F","MT0776",,,
@@ -59903,6 +59903,7 @@
 508255,"SI92","small_airport","Fazenda Atual Airport",-10.965618,-51.978638,745,"SA","BR","BR-MT","Porto Alegre do Norte","no",,,"SI92","MT0848",,,
 508257,"SI93","small_airport","El Salvador Airport",-17.874599,-39.904232,325,"SA","BR","BR-BA","Nova Viçosa","no",,,"SI93","BA0407",,,
 356388,"SI94","small_airport","Fazenda Vitória Airport",-9.784491,-53.601028,1060,"SA","BR","BR-MT","Peixoto de Azevedo","no",,,"SI94","MT0855",,,
+610944,"SI95","heliport","Esther Towers Helistop",-23.626219,-46.704406,2812,"SA","BR","BR-SP","São Paulo","no",,,"SI95","SP0883",,,
 356390,"SI96","small_airport","Fazenda Nossa Senhora do Rosário de Fátima Airport",-12.258056,-56.4425,1316,"SA","BR","BR-MT","Itanhangá","no",,,"SI96","MT0835",,,
 354488,"SI97","small_airport","Santa Filomena Airport",-9.136451,-45.886406,1148,"SA","BR","BR-PI","Santa Filomena","no",,,"SI97","PI0092",,,
 356445,"SI98","heliport","Porto Preguiças Resort Heliport",-2.738889,-42.8375,10,"SA","BR","BR-MA","Barreirinhas","no",,,"SI98","MA0155",,,
@@ -59931,8 +59932,10 @@
 518359,"SI9X","small_airport","Fazenda Rio Branco Airport",-11.93359,-56.154309,1249,"SA","BR","BR-MT","Ipiranga do Norte","no",,,"SI9X","MT0973",,,
 518360,"SI9Y","small_airport","Fazenda Santana Airport",-18.066521,-56.556598,384,"SA","BR","BR-MS","Corumbá","no",,,"SI9Y","MS0721",,,
 518361,"SI9Z","small_airport","Fazenda Bandeirantes Airport",-24.203882,-52.982906,1673,"SA","BR","BR-PR","Goioerê","no",,,"SI9Z","PR0242",,,
+610941,"SIA1","heliport","Shopping Parque Dom Pedro Heliport",-22.844932,-47.066061,2070,"SA","BR","BR-SP","Campinas","no",,,"SIA1","SP1523",,,
 518363,"SIA2","heliport","July Quartzo Heliport",-12.388889,-38.740833,699,"SA","BR","BR-BA","Amélia Rodrigues","no",,,"SIA2","BA0454",,,
 518429,"SIA4","heliport","Santo Amaro Grand House Helipad",-2.50968,-43.247541,16,"SA","BR","BR-MA","Santo Amaro do Maranhão","no",,,"SIA4","MA0181",,,
+610937,"SIA5","small_airport","Fazenda Morrinho Airport",-21.313611,-55.981389,1096,"SA","BR","BR-MS","Nioaque","no",,,"SIA5","MS0820",,,
 518431,"SIA6","small_airport","Fazenda Baraúna Airstrip",-4.862086,-43.188097,479,"SA","BR","BR-MA","Caxias","no",,,"SIA6","MA0184",,,
 518434,"SIA7","small_airport","Fazenda Porto Velho Airport",3.975674,-61.382939,384,"SA","BR","BR-RR","Amajari","no",,,"SIA7","RR0145",,,
 520606,"SIA9","small_airport","Fazenda Rancho do Couro Airport",-15.591275,-59.263089,906,"SA","BR","BR-MT","Pontes e Lacerda","no",,,"SIA9","MT0857",,,
@@ -60003,6 +60006,7 @@
 520801,"SID2","heliport","Caju Heliport",-26.838989,-49.228267,292,"SA","BR","BR-SC","Timbó","no",,,"SID2","SC0237",,,
 520856,"SID3","small_airport","Fazenda Produtiva Airport",-11.99213,-51.190147,761,"SA","BR","BR-MT","São Félix do Araguaia","no",,,"SID3","MT0986",,,
 520858,"SID4","small_airport","Fazenda Boa Esperança Airstrip",2.650533,-61.462678,361,"SA","BR","BR-RR","Mucajaí","no",,,"SID4","RR0151",,,
+610933,"SID5","small_airport","Fazenda Santa Matilde Airport",-16.025106,-47.158533,3022,"SA","BR","BR-MG","Cabeceira Grande","no",,,"SID5","MG0686",,,
 536857,"SID6","small_airport","Fazenda Sarandi Airstrip",-12.750189,-56.578083,1117,"SA","BR","BR-MT","Tapurah","no",,,"SID6","MT0977",,,
 536859,"SID7","small_airport","Fazenda Fronteira Airport",-14.222938,-50.152229,1053,"SA","BR","BR-GO","Crixás","no",,,"SID7","GO0306",,,
 536864,"SID8","small_airport","Clube de Voo de Ângulo Airport",-23.153056,-51.867778,1831,"SA","BR","BR-PR","Ângulo","no",,,"SID8","PR0233",,,
@@ -60021,6 +60025,7 @@
 335321,"SIDW","small_airport","Fazenda Cortezia Airport",-13.004636,-56.087606,1355,"SA","BR","BR-MT","Lucas do Rio Verde","no",,,"SIDW","MT0089",,,
 35923,"SIDX","heliport","Polícia Federal - Florianópolis Heliport",-27.572937,-48.531638,98,"SA","BR","BR-SC","Florianópolis","no",,,"SDSF","SC0044",,,"SIDX"
 35924,"SIDY","small_airport","Fazenda Yanduy Airport",-24.07771,-51.819447,1483,"SA","BR","BR-PR","Lunardelli","no",,,"SIDY","PR0043",,,
+610931,"SIE1","small_airport","Rancho Cardoso",-5.219056,-44.289914,459,"SA","BR","BR-MA","Gonçalves Dias","no",,,"SIE1","MA0149",,,
 518720,"SIE2","small_airport","Fazenda Marape Airport",-13.164972,-56.176833,1355,"SA","BR","BR-MT","Lucas do Rio Verde","no",,,"SIE2","MT0990",,,
 518723,"SIE3","small_airport","Taiga Agropecuária Airport",-9.060556,-59.120047,525,"SA","BR","BR-MT","Colniza","no",,,"SIE3","MT0989",,,
 610671,"SIE5","small_airport","Confinamento Adão Airport",-4.338594,-47.526115,804,"SA","BR","BR-PA","Dom Eliseu","no",,,"SIE5","PA0455",,,
@@ -60046,6 +60051,7 @@
 538598,"SIF2","small_airport","Fazenda Porto d'Oeste Airport",-14.340083,-60.190672,650,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,"SIF2","MT0963",,,
 538602,"SIF3","small_airport","Fazenda Tremendal Airport",-16.456095,-58.292987,374,"SA","BR","BR-MT","Cáceres","no",,,"SIF3","MT0873",,,
 538593,"SIF4","heliport","Grand Brasil Helipad",-23.503298,-46.856227,2528,"SA","BR","BR-SP","Barueri","no",,,"SIF4","SP1424",,,
+610928,"SIF5","small_airport","Fazenda Santa Juliana Airport",-11.932792,-52.017319,1055,"SA","BR","BR-MT","Alto Boa Vista","no",,,"SIF5","MT1198",,,
 540569,"SIF6","small_airport","Agro Mascarello Airport",-12.073611,-63.661944,705,"SA","BR","BR-RO","São Francisco do Guaporé","no",,,"SIF6","RO0094",,,
 540609,"SIF7","small_airport","Fazenda Alvorada Airport",-15.625877,-58.804441,804,"SA","BR","BR-MT","Porto Esperidião","no",,,"SIF7","MT0856",,,
 540617,"SIF8","small_airport","Fazenda Maré Mansa",-12.607222,-44.728611,2516,"SA","BR","BR-BA","São Desidério","no",,,"SIF8","BA0456",,,"Fazenda Alabama"
@@ -71603,6 +71609,7 @@
 334441,"US-1305","small_airport","Bouse Airport",33.930167,-114.000487,,"NA","US","US-AZ","Bouse","no",,,,,,,
 610862,"US-13050","closed","Oasis Airport",33.411884,-111.638073,,"NA","US","US-AZ","Mesa","no",,,,,,,
 610909,"US-13051","balloonport","World View Balloon Launch Site",32.086619,-110.944719,,"NA","US","US-AZ","Tucson","no",,,,,,,
+610936,"US-13052","medium_airport","Nw Quik Pull",45.801586,-122.520347,,"NA","US","US-WA","Heisson","no",,,,,,"https://nwquikpull.com/","Sign puller heisson washington"
 334442,"US-1306","small_airport","Quartzsite Airport",33.66185,-114.249,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334443,"US-1307","closed","Desert Gardens Airport",33.6573,-114.2357,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334444,"US-1308","closed","Ora Acres Airport",33.68147,-114.21366,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
