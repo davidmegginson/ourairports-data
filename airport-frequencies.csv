@@ -3665,9 +3665,13 @@
 58354,2394,"EGBO","ATIS","ATIS",124.875
 58355,2394,"EGBO","TWR","TWR",123
 58099,2395,"EGBP","AFIS","INFO",118.9
+611002,2395,"EGBP","AFIS 2","Cotswolds Information 2",118.43
+611000,2395,"EGBP","STO","Starrspeed Training Ops",131.61
+611001,2395,"EGBP","ZAO","Zero Avia Ops",131.94
 71984,29112,"EGBS","AFIS","Shobdon Information",118.155
 71983,29112,"EGBS","RDO","Shobdon Radio",118.155
 58546,2396,"EGBT","A/G","Turweston Radio",122.18
+610997,2396,"EGBT","A/G (other)","Turweston Radio (other)",122.175
 71985,29113,"EGBV","A/G","Silverstone A/G",121.075
 58547,2397,"EGBW","AFIS","INFO",124.03
 71952,29114,"EGCB","AFIS","Manchester Barton AFIS",120.25
@@ -4047,7 +4051,9 @@
 307872,2476,"EGSS","RDR","Director",136.2
 58390,2476,"EGSS","TWR","TWR",123.8
 71924,29192,"EGST","A/G","Elmsett A/G",130.9
-58144,2477,"EGSU","INFO","Duxford Information",122.075
+610999,2477,"EGSU","A/G / AFIS","A/G / Duxford Information",122.08
+610998,2477,"EGSU","FIRE","Duxford Fire",121.605
+58144,2477,"EGSU","INFO / A/G","Duxford Information / A/G",122.075
 71964,29193,"EGSV","A/G","Buckenham Radio",124.405
 58185,2478,"EGSX","A/G","RDO",123.525
 307869,29196,"EGTB","GND","Wycombe ground",121.77
@@ -4063,7 +4069,7 @@
 58114,2481,"EGTE","TWR","TWR",119.8
 71928,29198,"EGTF","A/G","Fairoaks Radio",123.43
 71929,29198,"EGTF","AFIS","Fairoaks AFIS",123.43
-609579,29199,"EGTH","Airband",,130.705
+609579,29199,"EGTH","A/G / AFIS","Air to Ground and AFIS",130.705
 58411,2483,"EGTK","APP","OXFORD APP",125.325
 307866,2483,"EGTK","APP",,127.75
 58412,2483,"EGTK","ATIS","OXFORD ATIS",136.225
@@ -4157,7 +4163,10 @@
 58487,2495,"EGWC","TWR","TWR",128.65
 307822,2495,"EGWC","TWR",,378.65
 71939,29206,"EGWE","A/G","Henlow A/G",121.1
-71938,29207,"EGWN","A/G","Halton A/G",130.425
+71938,29207,"EGWN","A/G","Halton A/G",130.43
+610984,29207,"EGWN","A/G (historical)","Halton A/G (historical)",130.425
+610983,29207,"EGWN","Airshows/A/G","Airshows / Event Air-to-Ground",123.35
+610985,29207,"EGWN","Ground","Halton Military Ground",356.275
 58488,2496,"EGWU","APP","APP",126.45
 307808,2496,"EGWU","ATIS",,125.125
 58489,2496,"EGWU","ATIS","ATIS",300.35
@@ -5597,6 +5606,8 @@
 314368,314367,"GB-0157","A/G","Chiltern Park Radio",134.025
 327815,315672,"GB-0177","A/G","new! 8,33 !",123.205
 315789,315788,"GB-0180","Safetycom","Strathaven Traffic",120.31
+611003,315913,"GB-0182","A/G","Kirkby Radio",121.18
+611004,315913,"GB-0182","A/G (Historical)","Kirkby Radio (Historical)",121.175
 600500,315931,"GB-0185","Wadswick Traffic",,120.075
 505085,316038,"GB-0198","A/G","Priory Micro",129.825
 316102,316100,"GB-0201","Safetycom","Glenswinton Traffic",135.475
@@ -5615,11 +5626,22 @@
 319945,319943,"GB-0365","SafetyCom",,135.475
 320647,320072,"GB-0368","Info","Sandy Radio",129.825
 320076,320075,"GB-0369","SafetyCom","Darley Moor Traffic",135.475
+610996,320548,"GB-0414","Gliding Club","Gliding Club (Oxford Gliding Club)",164.025
+610995,320548,"GB-0414","SUAAIS","Special Use Airspace Advisory Information Service",119
+610994,320548,"GB-0414","UHF AM","RAF Weston-on-the-Green Radio UHF",241.675
+610992,320548,"GB-0414","VHF AM","RAF Weston-on-the-Green Radio",120.09
+610993,320548,"GB-0414","VHF AM","RAF Weston-on-the-Green Radio 02",120.092
 505081,320611,"GB-0420","A/G","Tibenham Radio",129.98
 331646,320793,"GB-0440","Info","Tarn Farm Traffic",129.825
 331534,321059,"GB-0464","SafetyCom","Hunsdon Traffic",135.48
 599876,321864,"GB-0492","CTAF","Rattlesden Base",130.29
 329261,329259,"GB-0577","SafetyCom","Kirriemuir Traffic",132.475
+610986,331321,"GB-0609","25 KHz","25 KHz balloons",122.475
+610987,331321,"GB-0609","8.33 KHz","8.33 KHz balloons",122.48
+610988,331679,"GB-0615","A/G","Dunstable Radio",119.905
+610989,331679,"GB-0615","Competition","Competition Start/End",129.89
+610990,331679,"GB-0615","Glider-to-Glider","Glider-to-Glider 01",130.105
+610991,331679,"GB-0615","Glider-to-Glider","Glider-to-Glider 02",130.405
 505229,331711,"GB-0616","VHF",,118.685
 608562,333526,"GB-0762","Military","Salisbury Radio",122.755
 606378,333878,"GB-0815","Radio","Kittyhawk aerodrome",118.265
@@ -20351,8 +20373,7 @@
 593687,4569,"LTFJ","Gokcen DLV","Gokcen Delivery (Main)",122.625
 610946,4569,"LTFJ","Gokcen GND","Gokcen Ground (Main-2)",121.58
 57838,4569,"LTFJ","Gokcen GND","Gokcen Ground (Main-1)",121.75
-57840,4569,"LTFJ","TWR","TWR",37.877
-57839,4569,"LTFJ","TWR","TWR",118.8
+57839,4569,"LTFJ","Gokcen TWR","Gokcen Tower",118.8
 333707,317457,"LTFM","Clearance","Istanbul Clearance Delivery",127.1
 333706,317457,"LTFM","GROUND","Istanbul Ground",121.75
 333705,317457,"LTFM","TOWER","Istanbul Tower",131.1
