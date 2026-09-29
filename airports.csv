@@ -20005,6 +20005,7 @@
 610002,"CN-0505","closed","Yinchuan Xihuayuan Airport",38.501964,106.144544,3647,"AS","CN","CN-64","Yinchuan","no",,,,,,"https://en.wikipedia.org/wiki/Yinchuan_Xihuayuan_Airport",
 610410,"CN-0506","small_airport","金鸭子国际机场",33.649775,113.430748,50,"AS","CN","CN-41","Pingdingshan","yes",,,,,,,"平顶山"
 610586,"CN-0507","closed","Kyirong Heliport",28.280928,85.377009,,"AS","CN","CN-54","Xigazê (Kyirong)","no",,,,,,,
+611048,"CN-0508","small_airport","Zhongxiang Airbase",31.10841,112.403043,,"AS","CN","CN-13",,"no",,,,,,,
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -25515,7 +25516,7 @@
 30525,"ESTT","small_airport","Vellinge Airfield",55.391202,13.022103,12,"EU","SE","SE-M","Trelleborg","no",,,"ESTT",,"http://www.estt.se/front/","https://en.wikipedia.org/wiki/Vellinge_Airport","Vellinge/Söderslätt Airfield"
 29374,"ESUB","small_airport","Arbrå Airfield",61.513425,16.37247,381,"EU","SE","SE-X","Arbrå","no","ESUB",,"ESUB",,"https://www.facebook.com/p/Arbrå-Flygklubb-100064337065413/",,
 2713,"ESUD","medium_airport","Storuman Airport",64.960899,17.6966,915,"EU","SE","SE-AC","Storuman","no","ESUD","SQO","ESUD",,,"https://en.wikipedia.org/wiki/Storuman_Airport",
-29375,"ESUE","small_airport","Idre Airport",61.869701,12.6894,1480,"EU","SE","SE-W","Idre","no","ESUE","IDB","ESUE",,"https://www.idrefjallensairport.se/",,
+29375,"ESUE","small_airport","Idre Airport",61.869701,12.6894,1480,"EU","SE","SE-W","Idre","no","ESUE","IDB","ESUE",,"https://www.idrefjallensairport.se/","https://en.wikipedia.org/wiki/Idre_Airport",
 29377,"ESUG","small_airport","Gargnäs Airfield",65.304033,17.975175,974,"EU","SE","SE-AC","Gargnäs","no","ESUG",,"ESUG",,,,
 29378,"ESUH","small_airport","Myran Airfield",62.632734,17.982576,271,"EU","SE","SE-Y","Härnösand","no","ESUH",,"ESUH",,"https://www.harnosandsflygklubb.com",,
 30129,"ESUI","small_airport","Mellansel Airfield",63.391806,18.319471,310,"EU","SE","SE-Y","Mellansel","no","ESUI",,"ESUI",,"https://www.mellanselsfk.se",,
@@ -32862,7 +32863,7 @@
 342840,"IR-0033","closed","Parsiyan Airport",27.22208,53.02638,174,"AS","IR","IR-22","Parsiyan","no",,,,,,,
 343527,"IR-0034","heliport","Amol Heliport",36.45814,52.35132,361,"AS","IR","IR-02","Amol","no",,,,,,,
 349457,"IR-0035","closed","Filestan Airport",35.43327,51.64057,3241,"AS","IR","IR-23","Filestan","no",,,,,,,
-349458,"IR-0036","small_airport","Fath Airport",35.7154,50.93407,3999,"AS","IR","IR-32","Fardis","no",,,"OIIF",,,"https://en.wikipedia.org/wiki/Fath_Air_Base",
+349458,"IR-0036","small_airport","Fath Airport",35.7154,50.93407,3999,"AS","IR","IR-30","Fardis","no",,,"OIIF",,,"https://en.wikipedia.org/wiki/Fath_Air_Base",
 349459,"IR-0037","heliport","Sonqor Heliport",34.78199,47.58784,5620,"AS","IR","IR-05","Sonqor","no",,,,,,,
 349460,"IR-0038","small_airport","Mirmiro Agricultural Airport",34.56826,45.82255,1752,"AS","IR","IR-05","Mirmiro","no",,,,,,,
 350784,"IR-0039","small_airport","Gonbad Kavus / Haji Balkan Airport",37.20101,55.26871,220,"AS","IR","IR-27","Haji Balkan","no",,,,,,,
@@ -33012,7 +33013,7 @@
 42522,"IR-0184","closed","Ghaem Shahr Airport",36.466667,52.866669,,"AS","IR","IR-02","Ghaem Shahr","no",,,,,,,"OINI, OINI"
 42527,"IR-0185","closed","Bafgh Airport",31.583332,55.566666,,"AS","IR","IR-21","Bafgh","no",,,,,,,"OIYB"
 596490,"IR-0186","small_airport","Manzariyeh Drone Airstrip",35.027205,50.815219,2837,"AS","IR","IR-25","Abbasabad","no",,,,,,,
-597143,"IR-0187","heliport","Karaj",35.879646,50.891459,,"AS","IR","IR-32",,"no",,,,,,,
+597143,"IR-0187","heliport","Karaj",35.879646,50.891459,,"AS","IR","IR-30",,"no",,,,,,,
 605470,"IR-0188","heliport","Dolab Heliport",26.542105,55.289185,33,"AS","IR","IR-22","Dolab","no",,,,,,,
 605471,"IR-0189","heliport","Gasheh Police Station Heliport",26.525349,54.838612,39,"AS","IR","IR-22","Gasheh","no",,,,,,,
 605515,"IR-0190","heliport","Konarak 10th Tactical Base Heliport",25.366041,60.362011,23,"AS","IR","IR-11","Konarak","no",,,,,,,
@@ -51416,6 +51417,21 @@
 604999,"NZ-0104","heliport","Lumsden Medical Centre Heliport",-45.741043,168.442322,,"OC","NZ","NZ-STL","Lumsden","no","NZLM",,,,,,"Lumsden"
 605009,"NZ-0105","heliport","Tasman Heliport",-41.204538,173.049349,,"OC","NZ","NZ-TAS","Tasman","no","NZTS",,"NZTS",,"https://www.ctctasman.com/",,"Tasman"
 609930,"NZ-0106","small_airport","Westray Farm Airstrip",-45.44279,167.776573,,"OC","NZ","NZ-STL","Te Anau","no",,,,,,,
+611033,"NZ-0107","small_airport","Malibu Park Airfield",-41.3777,173.0847,53,"OC","NZ","NZ-TAS","Brightwater","no",,,,,,,
+611034,"NZ-0108","small_airport","Wagner's Field",-41.3523,173.1371,53,"OC","NZ","NZ-TAS","Hope","no",,,,,,,
+611035,"NZ-0109","small_airport","Upper Moutere Airstrip",-41.28585,173.0036,377,"OC","NZ","NZ-TAS","Upper Moutere","no",,,,,,,
+611036,"NZ-0110","small_airport","Neudorf Valley Airstrip",-41.2642,172.961,295,"OC","NZ","NZ-TAS","Neudorf","no",,,,,,,
+611037,"NZ-0111","small_airport","Pigeon Valley Airstrip",-41.4421,173.0145,246,"OC","NZ","NZ-TAS","Wakefield","no",,,,,,,
+611038,"NZ-0112","small_airport","Stanley Brook / Motupiko Strip",-41.3582,172.8401,564,"OC","NZ","NZ-TAS","Stanley Brook","no",,,,,,,
+611039,"NZ-0113","small_airport","Tapawera Airstrip",-41.4115,172.812,476,"OC","NZ","NZ-TAS","Tapawera","no",,,,,,,
+611040,"NZ-0114","small_airport","Upper Moutere Strip",-41.2915,173.0112,377,"OC","NZ","NZ-TAS","Upper Moutere","no",,,,,,,
+611041,"NZ-0115","small_airport","Tasman / Kina Peninsula Airstrip",-41.2155,173.0456,53,"OC","NZ","NZ-TAS","Kina Peninsula","no",,,,,,,
+611042,"NZ-0116","small_airport","Harley Road Strip",-41.2215,173.0182,148,"OC","NZ","NZ-TAS","Harley Road","no",,,,,,,
+611043,"NZ-0117","small_airport","Sunrise Valley Airstrip",-41.2642,172.961,295,"OC","NZ","NZ-TAS","Sunrise Valley","no",,,,,,,
+611044,"NZ-0118","small_airport","Upper Dovedale Ridge Strip",-41.2988,172.855,689,"OC","NZ","NZ-TAS","Dovedale Valley","no",,,,,,,
+611045,"NZ-0119","small_airport","Brandy Creek Strip",-41.334,172.8615,637,"OC","NZ","NZ-TAS","Brandy Creek","no",,,,,,,
+611046,"NZ-0120","small_airport","Central Dovedale Valley Strip",-41.3125,172.9152,410,"OC","NZ","NZ-TAS","Central Dovedale","no",,,,,,,
+611047,"NZ-0121","small_airport","Thorpe / Baton Outlet Strip",-41.3578,172.9511,377,"OC","NZ","NZ-TAS","Thorpe","no",,,,,,,
 11,"NZ12","small_airport","Palmer Station Airport",-64.774582,-64.035907,149,"AN","AQ","AQ-U-A","Palmer Station","no",,,"NZ0B","NZ0B",,"https://en.wikipedia.org/wiki/Palmer_Station",
 5023,"NZAA","large_airport","Auckland International Airport",-37.01199,174.786331,23,"OC","NZ","NZ-AUK","Auckland","yes","NZAA","AKL","NZAA",,"http://www.auckland-airport.co.nz/","https://en.wikipedia.org/wiki/Auckland_International_Airport",
 32067,"NZAE","small_airport","Mount Tarawera Airport",-38.233001708984375,176.51699829101562,3100,"OC","NZ","NZ-BOP","Mount Tarawera","no",,,"NZAE",,,,
@@ -52045,8 +52061,8 @@
 5166,"OIIE","large_airport","Imam Khomeini International Airport",35.416099548339844,51.152198791503906,3305,"AS","IR","IR-23","Tehran","yes","OIIE","IKA","OIIE",,"http://www.ikia.ir/","https://en.wikipedia.org/wiki/Imam_Khomeini_International_Airport","Ahmadabad"
 5168,"OIII","large_airport","Mehrabad International Airport",35.689175,51.314392,3962,"AS","IR","IR-23","Tehran","yes","OIII","THR","OIII",,,"https://en.wikipedia.org/wiki/Mehrabad_International_Airport",
 5169,"OIIK","medium_airport","Qazvin Airport",36.240101,50.0471,4184,"AS","IR","IR-26","Qazvin","no","OIIK","GZW","OIIK",,,"https://en.wikipedia.org/wiki/Qazvin_Airport","Ghazvin"
-5170,"OIIM","small_airport","Naja Airport",35.776299,50.881001,4040,"AS","IR","IR-32","Karaj","no",,,"OIIM",,,,
-5171,"OIIP","large_airport","Payam International Airport",35.7761,50.826698,4170,"AS","IR","IR-32","Karaj","yes","OIIP","PYK","OIIP",,,"https://en.wikipedia.org/wiki/Payam_International_Airport",
+5170,"OIIM","small_airport","Naja Airport",35.776299,50.881001,4040,"AS","IR","IR-30","Karaj","no",,,"OIIM",,,,
+5171,"OIIP","large_airport","Payam International Airport",35.7761,50.826698,4170,"AS","IR","IR-30","Karaj","yes","OIIP","PYK","OIIP",,,"https://en.wikipedia.org/wiki/Payam_International_Airport",
 32103,"OIIS","small_airport","Semnan Municipal Airport",35.591099,53.495098,3665,"AS","IR","IR-20","Semnan","yes","OIIS","SNX","OIIS",,,"https://en.wikipedia.org/wiki/Semnan_Municipal_Airport",
 5172,"OIKB","large_airport","Bandar Abbas International Airport",27.2183,56.3778,22,"AS","IR","IR-22","Bandar Abbas","yes","OIKB","BND","OIKB",,,"https://en.wikipedia.org/wiki/Bandar_Abbas_International_Airport",
 5173,"OIKJ","medium_airport","Jiroft Airport",28.723519,57.675037,2663,"AS","IR","IR-08","Jiroft","no","OIKJ","JYR","OIKJ",,,"https://en.wikipedia.org/wiki/Jiroft_Airport","Sabzevaran"
@@ -52922,7 +52938,7 @@
 5422,"PAWI","medium_airport","Wainwright Airport",70.638,-159.994995,41,"NA","US","US-AK","Wainwright","yes","PAWI","AIN","PAWI","AWI",,"https://en.wikipedia.org/wiki/Wainwright_Airport_(Alaska)","5WW"
 25794,"PAWM","small_airport","White Mountain Airport",64.689201,-163.412994,267,"NA","US","US-AK","White Mountain","yes","PAWM","WMO","PAWM","WMO",,"https://en.wikipedia.org/wiki/White_Mountain_Airport",
 5423,"PAWN","small_airport","Noatak Airport",67.561241,-162.980461,88,"NA","US","US-AK","Noatak","yes","PAWN","WTK","PAWN","WTK",,"https://en.wikipedia.org/wiki/Noatak_Airport",
-17876,"PAWR","small_airport","Whittier Airport",60.777225,-148.719606,30,"NA","US","US-AK","Whittier","no","PAWR",,"PAWR","IEM",,"https://en.wikipedia.org/wiki/Whittier,_Alaska#Airfield","AK66"
+17876,"PAWR","small_airport","Whittier Airport",60.777225,-148.719606,30,"NA","US","US-AK","Whittier","no","PAWR",,"PAWR","IEM",,"https://en.wikipedia.org/wiki/Whittier,_Alaska#Transportation","AK66"
 5424,"PAWS","medium_airport","Wasilla Airport",61.571701,-149.539993,354,"NA","US","US-AK","Wasilla","no","PAWS","WWA","PAWS","IYS",,"https://en.wikipedia.org/wiki/Wasilla_Airport","4A1"
 5425,"PAWT","small_airport","Wainwright Air Station",70.613891,-159.863343,35,"NA","US","US-AK","Wainwright","no","PAWT",,"PAWT","AK03",,"https://en.wikipedia.org/wiki/Wainwright_Air_Station","Wainwright AFS, Fort Wainwright, North Slope Borough"
 24334,"PAXK","small_airport","Paxson Airport",63.026422,-145.498778,2653,"NA","US","US-AK","Paxson","no","PAXK",,"PAXK","PXK",,"https://en.wikipedia.org/wiki/Paxson_Airport","5PX"
@@ -63354,7 +63370,7 @@
 32359,"SPLN","small_airport","San Nicolas Airport",-6.39231,-77.501198,5082,"SA","PE","PE-AMA","Rodriguez de Mendoza","no","SPLN","RIM","SPLN",,,"https://en.wikipedia.org/wiki/San_Nicolas_Airport",
 6224,"SPLO","medium_airport","General Jorge Fernandez Maldon Airport",-17.695,-71.344002,72,"SA","PE","PE-MOQ","Ilo","yes","SPLO","ILQ","SPLO",,,"https://en.wikipedia.org/wiki/Ilo_Airport",
 6225,"SPLP","small_airport","Las Palmas Air Base",-12.16069984436,-76.998901367188,250,"SA","PE","PE-LIM","Chorrillos","no",,,"SPLP",,,"https://en.wikipedia.org/wiki/Las_Palmas_Air_Base",
-32360,"SPLS","small_airport","Zorrillos Airport",-8.416999816894531,-75.13300323486328,711,"SA","PE","PE-UCA","Zorrillos","no",,,"SPLS",,,,
+32360,"SPLS","small_airport","Zorrillos Airport",-8.436496,-75.196302,711,"SA","PE","PE-UCA","Zorrillos","no",,,"SPLS",,,,
 356332,"SPLX","small_airport","Lib Mandi Metropolitan Airport",-12.38875,-76.75834,200,"SA","PE","PE-LIM","San Bartolo","no",,,"SPLX",,,"https://en.wikipedia.org/wiki/Lib_Mandy_Metropolitano_Airport",
 6226,"SPME","medium_airport","Captain Pedro Canga Rodríguez International Airport",-3.552074,-80.381086,115,"SA","PE","PE-TUM","Tumbes","yes","SPME","TBP","SPME",,,"https://en.wikipedia.org/wiki/Cap._FAP_Pedro_Canga_Rodr%C3%ADguez_Airport","Capitan FAP Pedro Canga Rodriguez"
 6227,"SPMF","small_airport","Mayor PNP Nancy Flores Paucar Airport",-11.3254,-74.535598,2247,"SA","PE","PE-JUN","Mazamari","no","SPMF","MZA","SPMF",,,"https://en.wikipedia.org/wiki/Mayor_Pnp_Nancy_Flore_Airport","Manuel Prado Ugarteche"
@@ -84074,7 +84090,7 @@
 27630,"YHYD","small_airport","Hyden Airport",-32.43330001831055,118.86699676513672,,"OC","AU","AU-WA",,"no",,,"YHYD",,,,
 350248,"YHYL","small_airport","Hoyleton Airbase",-34.029171,138.52423,545,"OC","AU","AU-SA","Hoyleton","no",,,"YHYL",,,"https://en.wikipedia.org/wiki/Hoyleton_Airbase",
 315732,"YHYN","heliport","Hayman Island Heliport",-20.0599,148.8834,8,"OC","AU","AU-QLD","Hayman Island Resort","no",,,"YHYN","YHYN",,,
-352213,"YIBO","small_airport","Iron Bridge Mine Airport",-21.287575,118.88252,665,"OC","AU","AU-WA","Japal Camp","no",,"IBM","YIBO",,,,
+352213,"YIBO","small_airport","Iron Bridge Mine Airport",-21.287575,118.88252,665,"OC","AU","AU-WA","Japal Camp","no",,"IBM","YIBO",,,"https://en.wikipedia.org/wiki/Iron_Bridge_Airport",
 27631,"YIDK","small_airport","Indulkana Airport",-26.965435,133.321989,401,"OC","AU","AU-SA","Indulkana","no","YIDK","IDK","YIDK",,,,
 27632,"YIDR","small_airport","Idracowra Airport",-25.06329917907715,133.73300170898438,,"OC","AU","AU-NT",,"no",,,"YIDR",,,,
 430067,"YIFF","small_airport","Iffley HS Airstrip",-22.236667,148.433056,574,"OC","AU","AU-QLD","Iffley Homestead","no",,,"YIFF",,,,
