@@ -20006,6 +20006,8 @@
 610410,"CN-0506","small_airport","金鸭子国际机场",33.649775,113.430748,50,"AS","CN","CN-41","Pingdingshan","yes",,,,,,,"平顶山"
 610586,"CN-0507","closed","Kyirong Heliport",28.280928,85.377009,,"AS","CN","CN-54","Xigazê (Kyirong)","no",,,,,,,
 611048,"CN-0508","small_airport","Zhongxiang Airbase",31.10841,112.403043,,"AS","CN","CN-13",,"no",,,,,,,
+611049,"CN-0509","small_airport","Lihue Airbase",42.25388,125.70531,,"AS","CN","CN-22",,"no",,,,,,,
+611050,"CN-0510","small_airport","Nangangzi Airbase",43.815591,127.506242,,"AS","CN","CN-22",,"no",,,,,,,
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -38913,7 +38915,7 @@
 19359,"KBCT","medium_airport","Boca Raton Airport",26.3785,-80.107697,13,"NA","US","US-FL","Boca Raton","no","KBCT","BCT","KBCT","BCT",,"https://en.wikipedia.org/wiki/Boca_Raton_Airport","Boca Raton AAF"
 3395,"KBDE","medium_airport","Baudette International Airport",48.728401,-94.612198,1086,"NA","US","US-MN","Baudette","no","KBDE","BDE","KBDE","BDE",,"https://en.wikipedia.org/wiki/Baudette_International_Airport",
 19360,"KBDG","small_airport","Blanding Municipal Airport",37.58330154,-109.4830017,5868,"NA","US","US-UT","Blanding","no","KBDG","BDG","KBDG","BDG",,"https://en.wikipedia.org/wiki/Blanding_Municipal_Airport",
-16495,"KBDH","small_airport","Willmar Municipal Airport John L Rice Field (2006)",45.117552,-95.132259,1126,"NA","US","US-MN","Willmar","no","KBDH","ILL","KBDH","BDH","http://www.willmarmn.gov/residents/travel-transportation/airport","https://en.wikipedia.org/wiki/Willmar_Municipal_Airport",
+16495,"KBDH","small_airport","Willmar Municipal Airport John L Rice Field (2006)",45.117552,-95.132259,1126,"NA","US","US-MN","Willmar","no","KBDH","ILL","KBDH","BDH","https://www.willmarmn.gov/airport/","https://en.wikipedia.org/wiki/Willmar_Municipal_Airport",
 16496,"KBDJ","small_airport","Boulder Junction Payzer Airport",46.1374015808,-89.64600372310001,1666,"NA","US","US-WI","Boulder Junction","no",,,"KBDJ","BDJ",,"https://en.wikipedia.org/wiki/Boulder_Junction_Airport",
 3396,"KBDL","large_airport","Bradley International Airport",41.938555,-72.688016,173,"NA","US","US-CT","Hartford","yes","KBDL","BDL","KBDL","BDL","http://www.bradleyairport.com/","https://en.wikipedia.org/wiki/Bradley_International_Airport","HFD, Hartford"
 16497,"KBDN","small_airport","Bend Municipal Airport",44.09479904,-121.2009964,3460,"NA","US","US-OR","Bend","no",,,"KBDN","BDN","http://www.bend.or.us/index.aspx?page=47","https://en.wikipedia.org/wiki/Bend_Municipal_Airport","KAEB, AEB, S07"
@@ -47696,7 +47698,7 @@
 327792,"MX-0676","small_airport","Harpe Airport",30.132725,-106.408644,4698,"NA","MX","MX-CHH","Villa Ahumada","no",,,,"ARP",,,
 327793,"MX-0677","heliport","Helipuerto GPM Aeroservicio Toluca",19.337158,-99.590464,8514,"NA","MX","MX-MEX","San Mateo Otzacatipan","no",,,,"HRG",,,
 327794,"MX-0678","small_airport","La Rosca Airport",25.403452,-108.121214,131,"NA","MX","MX-SIN","Angostura","no",,,,"ROS",,,
-327795,"MX-0679","seaplane_base","Hidro Aeródromo de Isla de La Pasión",20.543472,-86.867778,,"NA","MX","MX-ROO","Cozumel","no",,,,"ILP",,,
+327795,"MX-0679","seaplane_base","Isla de La Pasion Seaplane Base",20.543472,-86.867778,,"NA","MX","MX-ROO","Cozumel","no",,,,"ILP",,,
 327796,"MX-0680","small_airport","Bodegas Graneleras del Campo Airport",28.775415,-107.087487,6637,"NA","MX","MX-CHH","Cuauhtémoc","no",,,,"BGC",,,"Bodegas Generales del Campo"
 327797,"MX-0681","small_airport","El Cachorro Airport",27.524145,-105.34933,4340,"NA","MX","MX-CHH","San Francisco de Conchos","no",,,,"CHO",,,
 327971,"MX-0682","heliport","Diana Tower Helipad",19.426577,-99.171828,7854,"NA","MX","MX-DIF","Cuahutemoc","no",,,,"HDI",,,
@@ -52586,7 +52588,7 @@
 32140,"OYKM","small_airport","Kamaran Airport",15.368755,42.612515,51,"AS","YE","YE-HU","Kamaran","no","OYKM","KAM","OYKM",,,"https://en.wikipedia.org/wiki/Kamaran_Airport",
 31994,"OYMB","small_airport","Marib Airport",15.469228,45.327272,3300,"AS","YE","YE-MA","Marib","no","OYMB","MYN","OYMB",,,"https://en.wikipedia.org/wiki/Marib_Airport",
 316933,"OYMS","small_airport","Mukeiras Airport",13.9368,45.657,7080,"AS","YE","YE-BA","Mukayras","no","OYMS","UKR","OYMS",,,"https://en.wikipedia.org/wiki/Mukeiras_Airport","Mukayras, OYMK"
-31667,"OYQN","small_airport","Qishn Airport",15.417,51.682999,100,"AS","YE","YE-MR","Qishn","no","OYQN","IHN","OYQN",,,"https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D9%82%D8%B4%D9%86",
+31667,"OYQN","small_airport","Qishn Airport",15.417,51.682999,100,"AS","YE","YE-MR","Qishn","no","OYQN",,"OYQN",,,"https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D9%82%D8%B4%D9%86","IHN"
 5317,"OYRN","large_airport","Riyan International Airport",14.662241,49.375289,54,"AS","YE","YE-HD","Mukalla(Riyan)","yes","OYRN","RIY","OYRN",,,"https://en.m.wikipedia.org/wiki/Riyan_International_Airport","ريان المكلا الدولي, Riyan Mukalla International Airport"
 32142,"OYRT","small_airport","Barat Airport",16.732999801635742,44.349998474121094,6800,"AS","YE","YE-JA","Barat","no",,,"OYRT",,,,
 32143,"OYSF","small_airport","As Salif Airport",15.294577,42.685954,,"AS","YE","YE-HU","As Salif","no",,,"OYSF",,,,
@@ -66924,7 +66926,7 @@
 609945,"UESP","heliport","Polyarnoye HLS",71.13353,149.272888,66,"AS","RU","RU-SA","Polyarnoye","no",,,"UESP",,,,"УЕСП, Полярный / Полярное"
 335196,"UESR","small_airport","Tumat Airport",70.72611,139.235833,,"EU","RU","RU-SA",,"no",,,"UESR",,,,
 30870,"UESS","medium_airport","Cherskiy Airport",68.740601,161.337997,20,"AS","RU","RU-SA","Cherskiy","yes","UESS","CYX","UESS",,,"https://en.wikipedia.org/wiki/Chersky_Airport","УЕСС, Chersky Airport, Аэропорт Черский"
-6450,"UEST","medium_airport","Tiksi Airport",71.697700500488,128.90299987793,26,"AS","RU","RU-SA","Tiksi","yes","UEST","IKS","UEST",,,"https://en.wikipedia.org/wiki/Tiksi_Airport","УЕСТ, Аеропорт Тикси"
+6450,"UEST","medium_airport","Tiksi Airport",71.697701,128.903,26,"AS","RU","RU-SA","Tiksi","yes","UEST","IKS","UEST","XEST",,"https://en.wikipedia.org/wiki/Tiksi_Airport","УЕСТ, ЬЕСТ, Аеропорт Тикси"
 42980,"UESU","medium_airport","Zyryanka Airport",65.7485,150.8889,140,"AS","RU","RU-SA","Zyryanka","yes","UESU","ZKP","UESU",,,"https://en.wikipedia.org/wiki/Zyryanka_Airport","УЕСУ, Аэропорт Зырянка"
 335197,"UESV","small_airport","Svatay Airport",68.057338,151.79625,75,"AS","RU","RU-SA","Svatay","no",,,"UESW",,,,"УЕСВ, Сватай"
 335198,"UESX","small_airport","Aleko-Kyuyol Airport",68.676693,151.873798,82,"AS","RU","RU-SA",,"no",,,"UESX",,,,"УЕСЬ, Алеко-Кюель"
@@ -67080,7 +67082,7 @@
 42931,"UIBV","medium_airport","Zheleznogorsk Airport",56.487701,104.106003,1946,"AS","RU","RU-IRK","Zheleznogorsk-Ilimsky","no",,,"UIBV",,,"https://en.wikipedia.org/wiki/Zheleznogorsk_Airport","УИБЖ, Аэропорт Железногорск"
 34948,"UIIB","small_airport","Belaya Air Base",52.91487,103.575499,1503,"AS","RU","RU-IRK","Usolye-Sibirskoye","no",,,"UIIB",,,"https://en.wikipedia.org/wiki/Belaya_%28air_base%29","УИИБ, Белое, Усолье-Сибирское"
 546403,"UIIH","small_airport","Khuzhir Airport",53.217869,107.410469,1626,"AS","RU","RU-IRK","Khuzhir, Olkhon Island","yes","UIIH",,"UIIH","UIIH",,"https://en.wikipedia.org/wiki/Khuzhir_Airport","УИИХ, Хужир,"
-6465,"UIII","large_airport","Irkutsk International Airport",52.266707,104.395563,1675,"AS","RU","RU-IRK","Irkutsk","yes","UIII","IKT","UIII",,"http://www.iktport.ru/","https://en.wikipedia.org/wiki/Irkutsk_Airport",
+6465,"UIII","large_airport","Irkutsk International Airport",52.266707,104.395563,1675,"AS","RU","RU-IRK","Irkutsk","yes","UIII","IKT","UIII","XIII","http://www.iktport.ru/","https://en.wikipedia.org/wiki/Irkutsk_Airport","УИИИ, ЬИИИ, Иркутск"
 43683,"UIIV","small_airport","Zhigalovo Airport",54.798765,105.216197,1376,"AS","RU","RU-IRK","Zhigalovo","no",,,"UIIV",,,,"УИИЖ, Аэропорт Жигалово"
 32524,"UIKB","small_airport","Bodaybo Airport",57.866100311299995,114.242996216,919,"AS","RU","RU-IRK","Bodaybo","yes","UIKB","ODO","UIKB",,,"https://en.wikipedia.org/wiki/Bodaybo_Airport","Bodaibo Airport, Аэропорт Бодайбо"
 42926,"UIKE","small_airport","Yerbogachen Airport",61.2750015259,108.029998779,400,"AS","RU","RU-IRK","Erbogachen","no","UIKE","ERG","UIKE",,,"https://en.wikipedia.org/wiki/Erbogachen_Airport","Yerbogachyon Airport, Erbogachyon Airport, Erbogachen Airport, Аэропорт Ербогачен, Аэропорт Ербогачён"
@@ -69964,7 +69966,7 @@
 20031,"US-11523","closed","Joshua Sanford Field",43.656601,-90.3282,938,"NA","US","US-WI","Hillsboro","no",,,,,,"https://en.wikipedia.org/wiki/Joshua_Sanford_Field","KHBW, HBW"
 20037,"US-11524","closed","Hardwick Field",35.2201,-84.832397,874,"NA","US","US-TN","Cleveland","no",,,,,,"https://en.wikipedia.org/wiki/Hardwick_Field","KHDI, HDI"
 20163,"US-11525","closed","Horace Williams Airport",35.935001,-79.065902,512,"NA","US","US-NC","Chapel Hill","no",,,,,"http://fa.unc.edu/enterprises/airport/","https://en.wikipedia.org/wiki/Horace_Williams_Airport","KIGX, IGX, W52, Martindale Field"
-20172,"US-11526","closed","Willmar Municipal Airport John L Rice Field (1934)",45.115121,-95.089131,1127,"NA","US","US-MN","Willmar","no",,,,,,,"KILL, KILL, ILL"
+20172,"US-11526","closed","Willmar Municipal Airport John L Rice Field (1934)",45.116336,-95.094594,1127,"NA","US","US-MN","Willmar","no",,,,,,,"KILL, ILL"
 20188,"US-11527","closed","Sloulin Field International Airport",48.177898,-103.641998,1982,"NA","US","US-ND","Williston","no",,,,,,"https://en.wikipedia.org/wiki/Sloulin_Field_International_Airport","KISN, ISN"
 20192,"US-11528","closed","Cincinnati-Blue Ash Airport",39.2467,-84.389,856,"NA","US","US-OH","Blue Ash","no",,,,,,"https://en.wikipedia.org/wiki/Cincinnati%E2%80%93Blue_Ash_Airport","KISZ, I77, ISZ, Grisard Field, Watson Airport"
 20248,"US-11529","closed","Onawa Municipal Airport",42.004598,-96.104064,1047,"NA","US","US-IA","Onawa","no",,,,,,,"KK36, K36"
