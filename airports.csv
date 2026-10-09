@@ -1994,7 +1994,7 @@
 8606,"1OR4","small_airport","North Plains Gliderport",45.604000091552734,-123.0250015258789,210,"NA","US","US-OR","North Plains","no",,,"1OR4","1OR4",,,
 8608,"1OR6","closed","Clackamas Heights Airport",45.371399,-122.554001,545,"NA","US","US-OR","Oregon City","no",,,,,,,"1OR6"
 8609,"1OR7","small_airport","Skyhill Airport",45.287899017333984,-122.45600128173828,735,"NA","US","US-OR","Oregon City","no",,,"1OR7","1OR7",,,
-8610,"1OR8","heliport","Clackamas County Redsoils Heliport",45.334800720214844,-122.59700012207031,470,"NA","US","US-OR","Oregon City","no",,,"1OR8","1OR8",,,
+8610,"1OR8","closed","Clackamas County Redsoils Heliport",45.334801,-122.597,470,"NA","US","US-OR","Oregon City","no",,,,,,,"1OR8"
 8611,"1OR9","heliport","Willamette Falls Community Hospital Heliport",45.357601,-122.585999,275,"NA","US","US-OR","Oregon City","no",,,"1OR9","1OR9",,"https://en.wikipedia.org/wiki/Providence_Willamette_Falls_Medical_Center",
 8612,"1P1","small_airport","Plymouth Municipal Airport",43.778299,-71.753919,505,"NA","US","US-NH","Plymouth","no",,,"K1P1","1P1",,"https://en.wikipedia.org/wiki/Plymouth_Municipal_Airport_(New_Hampshire)",
 8613,"1PA0","small_airport","Hinaman Acres Airport",41.133399963378906,-77.19969940185547,800,"NA","US","US-PA","Jersey Shore","no",,,"1PA0","1PA0",,,
@@ -5773,6 +5773,7 @@
 12313,"5CO3","heliport","Jim's Heliport",38.703611,-108.063164,5093,"NA","US","US-CO","Delta","no",,,"5CO3","5CO3",,,
 12314,"5CO4","small_airport","Spickard Farm Airport",39.699158,-104.256443,5320,"NA","US","US-CO","Byers","no",,,"5CO4","5CO4",,,
 12315,"5CO5","heliport","Black Hollow Heliport",40.673099517822266,-104.91999816894531,5294,"NA","US","US-CO","Carr","no",,,"5CO5","5CO5",,,
+611245,"5CO7","small_airport","Virga Ridge Field",40.685917,-104.940676,5350,"NA","US","US-CO","Wellington","no",,,"5CO7","5CO7",,,
 12318,"5CO8","small_airport","Pleasant Valley Airport",40.341400146484375,-106.8489990234375,7120,"NA","US","US-CO","Oak Creek","no",,,"5CO8","5CO8",,,
 12319,"5CO9","heliport","Wray Community District Hospital Heliport",40.076401,-102.235504,3640,"NA","US","US-CO","Wray","no",,,"5CO9","5CO9",,,
 12320,"5CT0","small_airport","Eastford Airport",41.910400390625,-72.06809997558594,600,"NA","US","US-CT","Eastford","no",,,"5CT0","5CT0",,,
@@ -8918,6 +8919,7 @@
 15473,"95VA","small_airport","Buck Hollar Airport",36.623199462890625,-79.35590362548828,450,"NA","US","US-VA","Danville","no",,,"95VA","95VA",,,
 15474,"95WA","small_airport","Black Diamond Airport",47.31570053100586,-122.01000213623047,595,"NA","US","US-WA","Black Diamond","no",,,"95WA","95WA",,,
 15475,"95WI","small_airport","Wisersky Airport",42.936100006103516,-89.12969970703125,965,"NA","US","US-WI","Stoughton","no",,,"95WI","95WI",,,
+611243,"95WY","small_airport","Rocking T Airport",42.88178,-104.207683,4794,"NA","US","US-WY","Lusk","no",,,"95WY","95WY",,,
 15477,"95Z","small_airport","Bradley Sky-Ranch Airport",64.758904,-147.392235,483,"NA","US","US-AK","North Pole","no",,,"K95Z","95Z",,,
 15478,"96AK","seaplane_base","Hackney Landing Seaplane Base",60.28779983520508,-151.3459930419922,208,"NA","US","US-AK","Clam Gulch","no",,,"96AK","96AK",,,
 526322,"96AL","small_airport","Bent Oak Airport",30.827684,-87.889177,87,"NA","US","US-AL","Bay Minette","no",,,"96AL","96AL",,,
@@ -50285,7 +50287,7 @@
 22906,"NE08","small_airport","Larrabee Farm Airport",40.547877,-101.978284,3518,"NA","US","US-NE","Lamar","no",,,"NE08","NE08",,,
 22907,"NE09","small_airport","Simpson Airport",41.96329879760742,-97.46730041503906,1650,"NA","US","US-NE","Norfolk","no",,,"NE09","NE09",,,
 22908,"NE10","heliport","Flying C Heliport",41.256900787353516,-96.24359893798828,1227,"NA","US","US-NE","Elkhorn","no",,,"NE10","NE10",,,
-22910,"NE12","small_airport","Sullivan Airstrip",41.23889923095703,-98.22810363769531,1745,"NA","US","US-NE","Palmer","no",,,"NE12","NE12",,,
+22910,"NE12","closed","Sullivan Airstrip",41.238899,-98.228104,1745,"NA","US","US-NE","Palmer","no",,,,,,,"NE12"
 22911,"NE14","heliport","Ogallala Community Hospital Heliport",41.1505012512207,-101.72000122070312,3326,"NA","US","US-NE","Ogallala","no",,,"NE14","NE14",,,
 22913,"NE16","heliport","Gothenburg Memorial Hospital Heliport",40.939753,-100.154251,2680,"NA","US","US-NE","Gothenburg","no",,,"NE16","NE16",,,
 22914,"NE17","small_airport","Walts Aerial Service Airport",41.2486000061,-98.4559020996,1795,"NA","US","US-NE","St. Paul","no",,,"NE17","NE17",,,
@@ -52513,7 +52515,7 @@
 23909,"OR59","small_airport","Trivelpiece Airport",45.33150100708008,-123.20700073242188,165,"NA","US","US-OR","Yamhill","no",,,"OR59","OR59",,,
 23911,"OR61","small_airport","Apple Valley Airport",45.678398,-123.185997,247,"NA","US","US-OR","Buxton","no",,,"OR61","OR61",,"https://en.wikipedia.org/wiki/Apple_Valley_Airport_(Oregon)",
 23913,"OR63","heliport","Seaside Heliport",45.84149932861328,-123.927001953125,10,"NA","US","US-OR","Seaside","no",,,"OR63","OR63",,,
-23914,"OR64","small_airport","Beach Ranch Airport",45.96379852294922,-117.23500061035156,4000,"NA","US","US-OR","Enterprise","no",,,"OR64","OR64",,,
+23914,"OR64","closed","Beach Ranch Airport",45.963799,-117.235001,4000,"NA","US","US-OR","Enterprise","no",,,,,,,"OR64"
 23915,"OR65","small_airport","Eagle Nest Ranch Airport",45.354759,-122.347068,425,"NA","US","US-OR","Estacada","no",,,"OR65","OR65",,,
 23916,"OR66","small_airport","Beaver Oaks Airport",45.317711,-122.363205,400,"NA","US","US-OR","Estacada","no",,,"OR66","OR66",,,
 23918,"OR68","heliport","Columbia Helicopters Heliport",45.258598327637,-122.76499938965,195,"NA","US","US-OR","Aurora","no",,,,"OR68",,,"OR68"
@@ -69802,7 +69804,7 @@
 331809,"US-1132","small_airport","Seib Airport",38.133139,-87.785764,428,"NA","US","US-IN","Poseyville","no",,,"88IN","88IN",,,
 17631,"US-11320","closed","Puu Waa Waa Ranch Airport",19.792041,-155.848041,2250,"OC","US","US-HI","Kailua-Kona","no",,,,,,,"HI13, HI13, HI13"
 17638,"US-11321","closed","Upper Paauau Airport",19.227478,-155.506234,2600,"OC","US","US-HI","Pahala","no",,,,,,,"HI29"
-17639,"US-11322","closed","Mauna Kea-Honolii Airport",19.764024,-155.139525,1400,"OC","US","US-HI","Papaikou","no",,,,,,,"HI31, HI31, HI31"
+17639,"US-11322","closed","Mauna Kea-Honolii Airport",19.764024,-155.139525,1400,"NA","US","US-HI","Papaikou","no",,,,,,,"HI31"
 17650,"US-11323","closed","Kualoa Ranch Heliport",21.520605,-157.841981,125,"OC","US","US-HI","Kaneohe","no",,,,,,,"HI56"
 17653,"US-11324","closed","Tahneta Pass Airport",61.90059,-147.309022,2960,"NA","US","US-AK","Tahneta Pass Lodge","no",,,,,,,"PAHE, HNE"
 17660,"US-11325","closed","Empress River Casino Heliport",41.480301,-88.143997,550,"NA","US","US-IL","Joliet","no",,,,,,,"I01"
@@ -71708,6 +71710,7 @@
 611220,"US-13060","heliport","Olney Air Evac 150 Heliport",38.703917,-88.083825,461,"NA","US","US-U-A","Olney","no",,,"31IL","31IL",,,
 611225,"US-13061","small_airport","Steward Restricted Landing Area",42.433524,-89.346896,778,"NA","US","US-IL","Durand","no",,,"22IS","22IS",,,
 611227,"US-13062","small_airport","Nichols Aero Airport",42.481728,-88.987974,776,"NA","US","US-IL","South Beloit","no",,,"12IL","12IL",,,
+611239,"US-13063","small_airport","Center Creek Field",40.098494,-98.977728,1870,"NA","US","US-NE","Franklin","no",,,"NE12","NE12",,,
 334443,"US-1307","closed","Desert Gardens Airport",33.6573,-114.2357,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334444,"US-1308","closed","Ora Acres Airport",33.68147,-114.21366,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334445,"US-1309","small_airport","Salome Emergency Airfield",33.58057,-113.58721,,"NA","US","US-AZ","Salome","no",,,,,,,
@@ -73703,7 +73706,7 @@
 342003,"US-3297","closed","Sky Court Airport / Snell Airport",35.117,-106.56,5361,"NA","US","US-NM","Albuquerque","no",,,,,,,
 342004,"US-3298","closed","Western Air Express Airport / West Mesa Airport",35.086737,-106.718655,5098,"NA","US","US-NM","Albuquerque","no",,,,,,,
 342005,"US-3299","heliport","Kirtland Air Force Base Auxiliary Field",34.953,-106.5618,5295,"NA","US","US-NM","Albuquerque","no",,,,,,,
-342133,"US-3300","heliport","Baptist Health South Florida Helipad",25.48061,-80.43147,7,"NA","US","US-FL","Homestead","no",,,,,,,
+342133,"US-3300","heliport","Baptist Health Homestead Heliport",25.48061,-80.43147,16,"NA","US","US-FL","Homestead","no",,,"9FA0","9FA0",,,
 342028,"US-3301","heliport","Getty Center Heliport",34.0798,-118.4752,861,"NA","US","US-CA","Los Angeles","no",,,,,,,
 342030,"US-3302","heliport","Los Angeles County Sheriff's Department Heliport",34.050838,-118.168329,474,"NA","US","US-CA","Los Angeles","no",,,,,,,"K1DER, Fire Station 1, Biscailuz Center"
 342031,"US-3303","heliport","Pacific Design Center Green Building Helipad",34.0833,-118.3827,286,"NA","US","US-CA","West Hollywood","no",,,,,,,
@@ -79911,7 +79914,7 @@
 7453,"US-9502","closed","Edmond Airport",35.683399,-97.433601,1169,"NA","US","US-OK","Edmond","no",,,,,,,"0OK0"
 7455,"US-9503","closed","Parkview Hospital Heliport",35.5298,-97.983902,1349,"NA","US","US-OK","El Reno","no",,,,,,,"0OK2"
 7461,"US-9504","closed","Cade's Airport",36.29325,-97.59402,1140,"NA","US","US-OK","Covington","no",,,,,,,"0OK8"
-7468,"US-9505","closed","East Oregon Cattle Company Airport",42.505557,-122.863228,1345,"NA","US","US-OR","Eagle Point","no",,,,,,,"0OR5, 0OR5, 0OR5"
+7468,"US-9505","small_airport","Desimone Airport",42.503458,-122.854764,1345,"NA","US","US-OR","Eagle Point","no",,,,,,,"East Oregon Cattle Company"
 7473,"US-9506","closed","Valley Forge Bicentennial Heliport",40.121201,-75.405998,260,"NA","US","US-PA","Norristown","no",,,,,,,"0P0, PA06"
 7483,"US-9507","closed","Linvill Airport",39.884801,-75.414902,180,"NA","US","US-PA","Media","no",,,,,,,"0PA7"
 7495,"US-9508","closed","Paul Personal Use Airport",41.719501,-79.677803,1645,"NA","US","US-PA","Titusville","no",,,,,,,"0PN9"
