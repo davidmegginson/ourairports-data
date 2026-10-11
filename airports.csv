@@ -33558,7 +33558,7 @@
 319978,"IT-0379","small_airport","Rosangeles Airfield",45.362976,9.017057,360,"EU","IT","IT-25","Rosate (MI)","no",,,,"MIROS",,,"Aviosuperficie Rosangeles, Cascina Rota"
 319980,"IT-0380","small_airport","Ulcor Airfield",39.9787,8.6792,157,"EU","IT","IT-88","Solarusa (OR)","no",,,,"ORSOL",,,"Campo di Volo A.S. Ulcor"
 319981,"IT-0381","small_airport","Campo di Volo Vallermosa",39.3561,8.7919,235,"EU","IT","IT-88","Vallermosa (CA)","no",,,,"CAVAL",,,
-319983,"IT-0382","small_airport","Faco Fly",39.894733,18.189937,323,"EU","IT","IT-75","Ugento (LE)","no",,,,"LEUGN",,,"LE05, Campo di Volo Gemini, Campo Volo Faco Fly, Faco Fly"
+319983,"IT-0382","small_airport","Gemini",39.894733,18.189937,323,"EU","IT","IT-75","Ugento (LE)","no",,,,"LE05",,,"LE05, Campo di Volo Gemini, Campo Volo Faco Fly, Faco Fly"
 319993,"IT-0383","small_airport","Campo di Volo Giovanni Zaccini",41.560349,13.34412,492,"EU","IT","IT-62","Ceccano (FR)","no",,,,"FRCCC",,,"Giovanni Zaccini"
 319995,"IT-0384","small_airport","Il Grifo Airfield",41.671186,13.278646,,"EU","IT","IT-62","Ferentino (FR)","no",,,,"FRFEG",,,"Campo di Volo ""Il Grifo"""
 319996,"IT-0385","small_airport","Rains Airfield",41.146,14.338803,97,"EU","IT","IT-72","Caiazzo (CE)","no",,,,"CECZZ",,,"Campo di Volo Rains"
@@ -43759,7 +43759,7 @@
 4019,"LEMD","large_airport","Adolfo Suárez Madrid–Barajas Airport",40.493407,-3.572249,1998,"EU","ES","ES-MD","Madrid","yes","LEMD","MAD","LEMD",,"https://www.aena.es/en/adolfo-suarez-madrid-barajas.html","https://en.wikipedia.org/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport","Leganés, Madrid Barajas International Airport"
 550119,"LEME","heliport","S'Arangi Heliport",39.968221,4.093734,429,"EU","ES","ES-IB","Es Mercadal","no",,,"LEME",,,,"Menorca"
 43283,"LEMF","small_airport","Mafé - Gibraleón Airfield",37.3643,-6.92094,86,"EU","ES","ES-AN","Gibraleón","no",,,"LEMF",,,,
-4020,"LEMG","large_airport","Málaga-Costa del Sol Airport",36.6749,-4.49911,53,"EU","ES","ES-AN","Málaga","yes","LEMG","AGP","LEMG",,"https://www.aena.es/en/malaga-costa-del-sol.html","https://en.wikipedia.org/wiki/M%C3%A1laga_Airport","Costa del Sol, Malaga"
+4020,"LEMG","large_airport","Málaga-Costa del Sol Airport",36.678234,-4.500208,53,"EU","ES","ES-AN","Málaga","yes","LEMG","AGP","LEMG",,"https://www.aena.es/en/malaga-costa-del-sol.html","https://en.wikipedia.org/wiki/M%C3%A1laga_Airport","Costa del Sol, Malaga"
 4021,"LEMH","large_airport","Menorca Airport",39.862598,4.21865,302,"EU","ES","ES-IB","Mahón (Maó)","yes","LEMH","MAH","LEMH",,"https://www.aena.es/en/menorca.html","https://en.wikipedia.org/wiki/Menorca_Airport","Menorca"
 308134,"LEMI","large_airport","Region of Murcia International Airport",37.802852,-1.124884,644,"EU","ES","ES-MC","Corvera","yes","LEMI","RMU","LEMI",,"https://www.aena.es/en/internacional-region-de-murcia.html","https://en.wikipedia.org/wiki/Murcia-Corvera_Airport",
 43263,"LEMN","heliport","Heli Montsiá - Amposta Heliport",40.66640090942383,0.5647220015525818,254,"EU","ES","ES-CT","Tarragona","no",,,"LEMN",,,,
