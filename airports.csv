@@ -54786,10 +54786,10 @@
 5506,"PWAK","medium_airport","Wake Island Airfield",19.282437,166.636637,14,"OC","UM","UM-79","Wake Island","yes","PWAK","AWK","PWAK","AWK",,"https://en.wikipedia.org/wiki/Wake_Island_Airfield",
 24333,"PWR","seaplane_base","Port Walter Seaplane Base",56.381001,-134.651001,,"NA","US","US-AK","Port Walter","no",,"PWR","PPWR","PWR",,,
 39562,"PY-0001","small_airport","Aeródromo de Iturbe",-26.063066,-56.493378,328,"SA","PY","PY-4","Iturbe","no",,,,,,,
-39563,"PY-0002","medium_airport","Aeropuerto Nacional de Coronel Oviedo",-25.517347,-56.406555,487,"SA","PY","PY-5","Coronel Oviedo","no",,,"SGOV",,,,"Aeropuerto Nacional de Coronel Oviedo"
+39563,"PY-0002","medium_airport","Coronel Oviedo National Airport",-25.517347,-56.406555,487,"SA","PY","PY-5","Coronel Oviedo","no","SGOV",,"SGOV",,,,"Aeropuerto Nacional de Coronel Oviedo"
 39564,"PY-0003","small_airport","Aeródromo de Isla Pucú",-25.298498,-56.901884,416,"SA","PY","PY-3","Isla Pucu","no",,,,,,,
 39565,"PY-0004","small_airport","Aeródromo Hugo Stroessner",-25.40757,-56.554098,364,"SA","PY","PY-5","Nueva Londres","no",,,,,,,
-39566,"PY-0005","small_airport","Aeródromo Nueva Australia",-25.42,-56.57,338,"SA","PY","PY-5","Nueva Australia","no",,,,,,,
+39566,"PY-0005","small_airport","Nueva Australia Airport",-25.421678,-56.570575,338,"SA","PY","PY-5","Nueva Australia","no",,,,,,,"Aeródromo Nueva Australia"
 41570,"PY-0006","small_airport","Aeródromo de Puerto Guaraní",-21.274458,-57.925254,257,"SA","PY","PY-16","Puerto Guaraní","no",,,,,,,
 41571,"PY-0007","small_airport","Aeródromo de la Estancia Cunataí",-21.550106,-57.969028,264,"SA","PY","PY-16","Porto María","no",,,,,,,
 41572,"PY-0008","small_airport","Aeródromo de Colonia Carmelo Peralta",-21.681,-57.912498,253,"SA","PY","PY-16","Colonia Carmelo Peralta","no",,,,,,,
@@ -54816,7 +54816,7 @@
 318319,"PY-0029","small_airport","Aeropista N°3 de Villa del Rosario",-24.486413,-57.102357,,"SA","PY","PY-2","Villa del Rosario","no",,,,,,,
 318320,"PY-0030","small_airport","Aeródromo de la Colonia Volendam",-24.285026,-57.012056,,"SA","PY","PY-2","Villa del Rosario","no",,,"SGVO",,,,
 318321,"PY-0031","small_airport","Aeródromo de Nueva Germania",-23.908399,-56.557038,,"SA","PY","PY-2","Nueva Germania","no",,,,,,,
-318552,"PY-0032","small_airport","Aeródromo de Loma Plata",-22.364205,-59.838238,70,"SA","PY","PY-19","Loma Plata","no",,,"SGLP",,,,
+318552,"PY-0032","small_airport","Loma Plata Airport",-22.357604,-59.838879,70,"SA","PY","PY-19","Loma Plata","no","SGLP",,"SGLP",,,,"Aeródromo de Loma Plata"
 318553,"PY-0033","small_airport","Aeródromo Gnadenheim",-22.369842,-59.770861,,"SA","PY","PY-19","Gnadenheim","no",,,,,,,"Aeródromo de Gnadenheim"
 318554,"PY-0034","small_airport","Aeródromo de La Victoria",-22.289467,-57.931053,,"SA","PY","PY-16","La Victoria","no",,,,,,,
 318555,"PY-0035","small_airport","Aeródromo Militar del Parque Nacional Cerro Corá",-22.639541,-56.020317,,"SA","PY","PY-13","Cerro Corá","no",,,,,,,
@@ -54846,7 +54846,7 @@
 505548,"PY-0059","heliport","Helipuerto Área Naval de Canindeyú",-24.064799,-54.301073,,"SA","PY","PY-14","Área Naval de Canindeyú","no",,,,,"https://www.armadaparaguaya.mil.py/","https://es.m.wikipedia.org/wiki/Armada_Paraguaya",
 505549,"PY-0060","heliport","Helipuerto Área Naval de Itapú",-27.367747,-55.853634,,"SA","PY","PY-7","Área Naval de Itapúa","no",,,,,"https://www.armadaparaguaya.mil.py/","https://es.m.wikipedia.org/wiki/Armada_Paraguaya",
 505550,"PY-0061","heliport","Helipuerto Área Naval y Prefectura de la Zona del Este",-25.515634,-54.603285,,"SA","PY","PY-10","Área Naval y Prefectura de la Zona del Este","no",,,,,"https://www.armadaparaguaya.mil.py/","https://es.m.wikipedia.org/wiki/Armada_Paraguaya",
-505551,"PY-0062","heliport","Helipuerto Costanera de Encarnación",-27.34117,-55.870779,,"SA","PY","PY-7","Encarnación","no",,,,,,,
+505551,"PY-0062","heliport","Costanera de Encarnación Heliport",-27.34117,-55.870779,282,"SA","PY","PY-7","Encarnación","no",,,,,,,
 505556,"PY-0063","closed","Helipuerto Sanatorio Británico",-25.294759,-57.632936,400,"SA","PY","PY-ASU","Helipuerto del Sanatorio Británico","no",,,,,,,
 505558,"PY-0064","heliport","Helipuerto de la Agrupación Aero Fluvial Policial",-25.310298,-57.652227,600,"SA","PY","PY-ASU","Agrupación Aero Fluvial Policial","no",,,,,,,
 505559,"PY-0065","heliport","Helipuerto del Comando de Infantería de Marina",-25.276721,-57.649689,300,"SA","PY","PY-ASU","Comando de Infantería de Marina","no",,,,,,,
@@ -54870,15 +54870,15 @@
 514993,"PY-0083","small_airport","Base de la Fuerza Aérea Paraguaya ""Teniente Amín Ayub González""",-27.220503,-55.83299,,"SA","PY","PY-7",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
 514995,"PY-0084","small_airport","Base de la Fuerza Aérea Paraguaya ""Aviadores del Chaco""",-26.564336,-55.394003,,"SA","PY","PY-7",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
 514996,"PY-0085","small_airport","Base de la Fuerza Aérea Paraguaya ""Silvio Pettirossi""",-25.257017,-57.518595,,"SA","PY","PY-11",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
-514997,"PY-0086","small_airport","Base de la Fuerza Aérea Paraguaya ""Ñu Guasú""",-25.274209,-57.529676,,"SA","PY","PY-11",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
+514997,"PY-0086","small_airport","Ñu Guasú Airbase",-25.273585,-57.532192,319,"SA","PY","PY-11","Luque","no","SGAM",,"SGAM",,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya","Base de la Fuerza Aérea Paraguaya ""Ñu Guasú"", Campo Grande"
 515013,"PY-0087","small_airport","Base de la Fuerza Aérea Paraguaya ""Mariscal Francisco Solano López""",-23.439302,-57.430772,,"SA","PY","PY-1",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
 538429,"PY-0088","heliport","Asunción Jockey Club Heliport",-25.317999,-57.585011,506,"SA","PY","PY-ASU","La Recoleta","no",,,,,"https://www.jcp.com.py/",,"Jockey Club of Paraguay"
-30531,"PY-0089","closed","Aeródromo de Villa Hayes",-25.154666,-57.560495,210,"SA","PY","PY-15","Villa Hayes","no",,,,,,,"SGNB"
+30531,"PY-0089","closed","Sgt Nicola Bo Airport",-25.155013,-57.562244,210,"SA","PY","PY-15","Villa Hayes","no",,,,,,,"SGNB"
 597859,"PY-0090","small_airport","Aeródromo del Aeroclub Altona",-25.375874,-55.653325,1030,"SA","PY","PY-5","Dr. Juan Eulogio Estigarribia (Campo 9)","no",,,,,"https://asn.flightsafety.org/wikibase/514344",,
 606687,"PY-0091","closed","Aeródromo de Zoro del Pampa",-21.014972,-58.481997,308,"SA","PY","PY-16","Zoro del Pampa","no",,,,,,"https://es.wikipedia.org/wiki/Toro_Pampa",
 606719,"PY-0092","small_airport","Mayor Pablo Lagerenza Airport",-19.925271,-60.768684,647,"SA","PY","PY-16","Mayor Pablo Lagerenza","no",,,,,,"https://es.wikipedia.org/wiki/Mayor_Pablo_Lagerenza",
 41569,"PY-PBT","small_airport","Aeródromo de Puerto Leda",-20.908982,-57.926881,260,"SA","PY","PY-16","Puerto Leda","no",,"PBT",,,,,
-41568,"PY-PCJ","small_airport","Puerto La Victoria Airport",-22.296022,-57.870076,286,"SA","PY","PY-1","Puerto La Victoria","no",,"PCJ","SGLV",,,"https://en.wikipedia.org/wiki/La_Victoria_Airport",
+41568,"PY-PCJ","small_airport","Puerto La Victoria Airport",-22.296022,-57.870076,286,"SA","PY","PY-1","Puerto La Victoria","no","SGLV","PCJ","SGLV",,,"https://en.wikipedia.org/wiki/La_Victoria_Airport",
 24336,"PYL","seaplane_base","Perry Island Seaplane Base",60.685298919699996,-147.919006348,0,"NA","US","US-AK","Perry Island","no",,"PYL","PYL","PYL",,,
 4659,"Q51","small_airport","Kili Airport",5.64386,169.124586,5,"OC","MH","MH-KIL","Kili Island","yes",,"KIO","C51","C51",,"https://en.wikipedia.org/wiki/Kili_Airport","Q51"
 333369,"QA-0001","small_airport","Dukhan / Tamim Airbase",25.467722,50.999479,,"AS","QA","QA-SH","Dukhan","no",,,,,,"https://en.wikipedia.org/wiki/Dukhan_/_Tamim_Airbase",
@@ -59528,26 +59528,31 @@
 351987,"SG-0005","small_airport","Murai Airfield",1.39203,103.69951,72,"AS","SG","SG-03","Western Water Catchment","no",,,,,,,
 5508,"SG67","small_airport","Estancia Pai Quara Airport",-23.223334,-55.946254,712,"SA","PY","PY-13","Estancia Pai Quara","no",,,,"SG67",,,
 6088,"SGAS","large_airport","Silvio Pettirossi International Airport",-25.240156,-57.519227,292,"SA","PY","PY-11","Asunción","yes","SGAS","ASU","SGAS",,,"https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport","Luque, Stroessner, Aeropuerto Internacional Silvio Pettirossi"
-6089,"SGAY","medium_airport","Aeropuerto Nacional Juan de Ayolas",-27.378379,-56.856791,223,"SA","PY","PY-8","Ayolas","no","SGAY","AYO","SGAY",,,"https://en.wikipedia.org/wiki/Juan_de_Ayolas_Airport","Aeropuerto Nacional de Juan De Ayolas"
+6089,"SGAY","medium_airport","Juan de Ayolas National Airport",-27.37052,-56.854052,223,"SA","PY","PY-8","Ayolas","no","SGAY","AYO","SGAY",,,"https://en.wikipedia.org/wiki/Juan_de_Ayolas_Airport","Aeropuerto Nacional de Juan de Ayolas"
 308256,"SGBA","small_airport","Aeródromo de Bella Vista Sur",-27.052393,-55.578026,650,"SA","PY","PY-7","Colonia Doctor Pastor Obligado","no",,,"SGBA",,,,
 41566,"SGBN","small_airport","Bahía Negra Airport",-20.230777,-58.170455,277,"SA","PY","PY-16","Bahía Negra","no","SGBN","BFA","SGBN",,,,
-515514,"SGCB","small_airport","Aeródromo Capitan Bado",-23.257493,-55.528057,1710,"SA","PY","PY-9","Capitan Bado","no",,,"SGCB",,,,
+611276,"SGBV","small_airport","Icanimby Airport",-22.121637,-56.507417,684,"SA","PY","PY-7","Bella Vista Norte","no","SGBV",,"SGBV",,,,
+515514,"SGCB","small_airport","Capitan Bado Airport",-23.257493,-55.528057,1710,"SA","PY","PY-9","Capitan Bado","no","SGCB",,"SGCB",,,,"Aeródromo Capitan Bado"
 6090,"SGCO","medium_airport","Lieutenant Colonel Carmelo Peralta National Airport",-23.441609,-57.427039,253,"SA","PY","PY-1","Concepción","no","SGCO","CIO","SGCO",,,"https://en.wikipedia.org/wiki/Teniente_Coronel_Carmelo_Peralta_Airport","Aeropuerto Nacional Tte. Cnel. Carmelo Peralta"
-318322,"SGCU","small_airport","Aeródromo de Curuguaty",-24.497675,-55.686307,,"SA","PY","PY-14",,"no",,,"SGCU",,,,
-515518,"SGCZ","small_airport","Aeródromo de Caazapá",-26.168958,-56.360464,470,"SA","PY","PY-6","Caazapá","no",,,"SGCZ",,,,
+318322,"SGCU","small_airport","Curuguaty Airport",-24.50033,-55.681895,699,"SA","PY","PY-14",,"no","SGCU",,"SGCU",,,,"Aeródromo de Curuguaty"
+515518,"SGCZ","small_airport","Caazapá Airport",-26.169009,-56.357705,470,"SA","PY","PY-6","Caazapá","no","SGCZ",,"SGCZ",,,,"Aeródromo de Caazapá"
 29851,"SGEN","large_airport","Teniente Ramon A. Ayub Gonzalez International Airport",-27.227537,-55.837584,659,"SA","PY","PY-7","Encarnación","yes","SGEN","ENO","SGEN",,,"https://en.wikipedia.org/wiki/Teniente_Amin_Ayub_Gonzalez_Airport","Aeropuerto Internacional Tte. Amin Ayub González"
 6091,"SGES","large_airport","Guaraní International Airport",-25.457186,-54.839544,846,"SA","PY","PY-10","Ciudad del Este","yes","SGES","AGT","SGES",,,"https://en.wikipedia.org/wiki/Guarani_International_Airport","Aeropuerto Internacional Guaraní"
-31157,"SGFI","small_airport","Aeródromo de Filadelfia",-22.354611,-60.053211,423,"SA","PY","PY-19","Filadelfia","no","SGFI","FLM","SGFI",,,"https://en.wikipedia.org/wiki/Filadelfia_Airport",
-308258,"SGGR","medium_airport","Aeropuerto Nacional de Salto del Guaira",-24.032844,-54.35267,990,"SA","PY","PY-14","Salto del Guaira","no",,,"SGGR",,,"https://en.wikipedia.org/wiki/Salto_del_Guair%C3%A1_Airport","Aeropuerto Nacional de Salto del Guaira"
+31157,"SGFI","small_airport","Fernheim Airport",-22.36016,-60.054447,423,"SA","PY","PY-19","Filadelfia","no","SGFI","FLM","SGFI",,,"https://en.wikipedia.org/wiki/Filadelfia_Airport","Aeródromo de Filadelfia"
+611277,"SGFR","small_airport","Friesland Airport",-24.605573,-56.7981,290,"SA","PY","PY-2","Colonia Friesland","no","SGFR",,"SGFR",,,,
+308258,"SGGR","medium_airport","Saltos del Guairá Airport",-24.032263,-54.350835,990,"SA","PY","PY-14","Salto del Guaira","no","SGGR",,"SGGR",,,"https://en.wikipedia.org/wiki/Salto_del_Guair%C3%A1_Airport","Aeropuerto Nacional de Salto del Guaira"
 6092,"SGIB","medium_airport","Itaipú Airport",-25.407818,-54.619457,762,"SA","PY","PY-10","Itaipú","no","SGIB",,"SGIB",,,"https://en.wikipedia.org/wiki/Itaipu_Airport","Aeropuerto Nacional de Itaipú"
-515481,"SGLZ","small_airport","Aeródromo La Paz",-27.00382,-55.887119,620,"SA","PY","PY-7","La Paz","no",,,"SGLZ",,,,
+611278,"SGIT","small_airport","Itapé Airport",-25.857321,-56.617864,343,"SA","PY","PY-4","Itapé","no","SGIT",,"SGIT",,,,
+611279,"SGJN","small_airport","San Juan Nepomuceno Airport",-26.099415,-55.936901,477,"SA","PY","PY-6","San Juan Nepomuceno","no","SGJN",,"SGJN",,,,
+515481,"SGLZ","small_airport","La Paz Airport",-27.001647,-55.883965,620,"SA","PY","PY-7","La Paz","no","SGLZ",,"SGLZ",,,,"Aeródromo La Paz"
 6093,"SGME","medium_airport","Dr. Luis María Argaña International Airport",-22.046499,-60.6217,553,"SA","PY","PY-19","Mariscal Estigarribia","no","SGME","ESG","SGME",,,"https://en.wikipedia.org/wiki/Dr._Luis_Maria_Arga%C3%B1a_International_Airport","Aeropuerto Internacional Dr. Luis Maria Argaña"
-526442,"SGMZ","small_airport","Aeródromo José María Argaña",-26.839758,-55.328915,867,"SA","PY","PY-7",,"no",,,"SGMZ",,,,
-41565,"SGOL","small_airport","Aeródromo de Fuerte",-21.045724,-57.882935,270,"SA","PY","PY-16","Fuerte Olimpo","no","SGOL","OLK","SGOL",,,"https://en.wikipedia.org/wiki/Fuerte_Olimpo_Airport","1st Lt. Inocencio Herebia"
-308260,"SGPC","small_airport","Aeropuerto de Pozo Colorado",-23.495565,-58.788464,325,"SA","PY","PY-15","Pozo Colorado","no",,,"SGPC",,,,
-308261,"SGPG","small_airport","Base de la Fuerza Aérea Paraguaya ""Teniente Pelayo Prats Gill""",-22.559962,-61.611972,690,"SA","PY","PY-19",,"no",,,"SGPG",,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
-6094,"SGPI","medium_airport","Aeródromo Don Carlos Miguel Gimenez",-26.881981,-58.319067,249,"SA","PY","PY-12","Pilar","no","SGPI","PIL","SGPI",,,"https://en.wikipedia.org/wiki/Carlos_Miguel_Jim%C3%A9nez_Airport",
-6095,"SGPJ","medium_airport","Aeropuerto Nacional Dr. Augusto Roberto Fuster",-22.641427,-55.829993,1873,"SA","PY","PY-13","Pedro Juan Caballero","no","SGPJ","PJC","SGPJ",,,"https://en.wikipedia.org/wiki/Dr._Augusto_Roberto_Fuster_International_Airport","Aeropuerto Internacional Dr. Augusto Roberto Fuster"
+526442,"SGMZ","small_airport","José María Argaña Airport",-26.839758,-55.328915,867,"SA","PY","PY-7","Capitán Meza","no","SGMZ",,"SGMZ",,,,"Aeródromo José María Argaña"
+611281,"SGNE","small_airport","Neuland Airport",-22.676926,-60.118473,447,"SA","PY","PY-19","Neuland","no","SGNE",,"SGNE",,,,
+41565,"SGOL","small_airport","Fuerte Olimpo Airport",-21.045724,-57.882935,270,"SA","PY","PY-16","Fuerte Olimpo","no","SGOL","OLK","SGOL",,,"https://en.wikipedia.org/wiki/Fuerte_Olimpo_Airport","1st Lt. Inocencio Herebia, Aeródromo de Fuerte"
+308260,"SGPC","small_airport","Pozo Colorado Airport",-23.49892,-58.786097,325,"SA","PY","PY-15","Pozo Colorado","no","SGPC",,"SGPC",,,,"Aeropuerto de Pozo Colorado"
+308261,"SGPG","small_airport","Lt. Pelayo Prats Gill Airbase",-22.556125,-61.613951,690,"SA","PY","PY-19","Fort Prats Gill","no",,,"SGPG",,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya","Base de la Fuerza Aérea Paraguaya ""Teniente Pelayo Prats Gill"""
+6094,"SGPI","medium_airport","Don Carlos Miguel Gimenez Airport",-26.882079,-58.318181,249,"SA","PY","PY-12","Pilar","no","SGPI","PIL","SGPI",,,"https://en.wikipedia.org/wiki/Carlos_Miguel_Jim%C3%A9nez_Airport","Aeródromo Don Carlos Miguel Gimenez"
+6095,"SGPJ","medium_airport","Dr. Augusto Roberto Fuster International Airport",-22.641427,-55.829993,1873,"SA","PY","PY-13","Pedro Juan Caballero","no","SGPJ","PJC","SGPJ",,,"https://en.wikipedia.org/wiki/Dr._Augusto_Roberto_Fuster_International_Airport","Aeropuerto Internacional Dr. Augusto Roberto Fuster"
 39567,"SGPO","small_airport","Aeródromo de Puerto Pinasco",-22.629856,-57.838469,239,"SA","PY","PY-15","Pinasco","no",,,"SGPO",,,,
 39568,"SGRO","small_airport","Aeródromo de Rosario",-24.430037,-57.12013,236,"SA","PY","PY-2","Rosario","no",,,"SGRO",,,,
 308262,"SGSP","small_airport","San Pedro de Ycuamanindeyu National Airport",-24.027103,-57.02342,270,"SA","PY","PY-2","San Pedro del Ycuamandiyu","no",,,"SGSP",,,,"Aeropuerto Nacional de San Pedro de Ycuamanindeyu"
@@ -81799,7 +81804,7 @@
 26588,"VLVT","large_airport","Wattay International Airport",17.985052,102.566692,564,"AS","LA","LA-VT","Vientiane","yes","VLVT","VTE","VLVT",,"http://www.vientianeairport.com/","https://en.wikipedia.org/wiki/Wattay_International_Airport",
 32703,"VLXK","small_airport","Xieng Khouang Airport",19.450001,103.157997,3445,"AS","LA","LA-XI","Xieng Khouang","yes","VLXK","XKH","VLXK",,,"https://en.wikipedia.org/wiki/Xieng_Khouang_Airport",
 317828,"VLXL","small_airport","Xienglom Airport",19.6203,100.815332,1830,"AS","LA","LA-BK","Xienglom","no",,"XIE","VLXL",,,"https://pl.wikipedia.org/wiki/Port_lotniczy_Xienglom",
-41567,"VMI","medium_airport","Aeropuerto Nacional Doctor Juan Plate",-22.159371,-57.942395,280,"SA","PY","PY-1","Puerto Vallemi","no",,"VMI","SGVM",,,"https://en.wikipedia.org/wiki/Dr._Juan_Plate_Airport","Aeropuerto Nacional Dr. Juan Plate"
+41567,"VMI","medium_airport","Doctor Juan Plate National Airport",-22.159371,-57.942395,280,"SA","PY","PY-1","Puerto Vallemi","no",,"VMI","SGVM",,,"https://en.wikipedia.org/wiki/Dr._Juan_Plate_Airport","Aeropuerto Nacional Dr. Juan Plate"
 26589,"VMMC","large_airport","Macau International Airport",22.149599,113.592003,20,"AS","MO","MO-CAR","Nossa Senhora do Carmo","yes","VMMC","MFM","VMMC",,"http://www.macau-airport.gov.mo/en/index.php","https://en.wikipedia.org/wiki/Macau_International_Airport","澳門國際機場"
 46218,"VN-0002","closed","Duc My Airstrip",12.5384566216,109.007956982,,"AS","VN","VN-SCC","Duc My","no",,,,,,,
 46318,"VN-0003","heliport","Bach Mai Heliport",20.996632,105.832232,,"AS","VN","VN-RRD","Hanoi (Thanh Xuan)","no",,,,,,"https://en.wikipedia.org/wiki/Bach_Mai_Airfield","Bac Mai Airfield, Sân bay Bach Mai"
