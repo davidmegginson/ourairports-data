@@ -30093,7 +30093,7 @@
 317476,"GB-1279","small_airport","North Coates Airfield",53.497795,0.061976,7,"EU","GB","GB-ENG","Grimsby, Lincolnshire","no",,,"EGYO",,"http://www.northcoatesflyingclub.com","https://en.wikipedia.org/wiki/RAF_North_Coates","RAF North Coates, North Coates Flying Club"
 321690,"GB-1280","small_airport","Bognor Regis Lec Airfield",50.80243,-0.657787,1,"EU","GB","GB-ENG","Bognor Regis, West Sussex","no",,,"EGKC",,"https://www.brgc.co.uk/location/","https://en.wikipedia.org/wiki/LEC_Airfield",
 307538,"GB-1281","small_airport","Badminton Airfield",51.548417,-2.303181,495,"EU","GB","GB-ENG","Badminton, Gloucestershire","no",,,,,,,
-307747,"GB-1282","small_airport","Boon Hill Farm Airstrip",54.308098,-0.974114,,"EU","GB","GB-ENG","Fadmoor, Kirbymoorside","no",,,,,,,"EG19, EG35"
+307747,"GB-1282","small_airport","Fadmoor Airfield",54.308098,-0.974114,,"EU","GB","GB-ENG","Fadmoor, Kirbymoorside","no",,,,,,,"EG19, EG35"
 594858,"GB-1283","heliport","Addiston Mains Farm Heliport",55.915381,-3.349063,,"EU","GB","GB-SCT","Riccarton, Edinburgh","no",,,,,,,
 594859,"GB-1284","heliport","RIE Rooftop",55.921057,-3.137,,"EU","GB","GB-SCT",,"no",,,,,,,
 594860,"GB-1285","heliport","Gilmerton",55.901433,-3.125167,,"EU","GB","GB-SCT",,"no",,,,,,,
@@ -54785,31 +54785,31 @@
 312750,"PUA","small_airport","Puas Airport",-2.395,150.2361,45,"OC","PG","PG-NIK","Puas Mission","no",,"PUA",,"PUAS",,,
 5506,"PWAK","medium_airport","Wake Island Airfield",19.282437,166.636637,14,"OC","UM","UM-79","Wake Island","yes","PWAK","AWK","PWAK","AWK",,"https://en.wikipedia.org/wiki/Wake_Island_Airfield",
 24333,"PWR","seaplane_base","Port Walter Seaplane Base",56.381001,-134.651001,,"NA","US","US-AK","Port Walter","no",,"PWR","PPWR","PWR",,,
-39562,"PY-0001","small_airport","Aeródromo de Iturbe",-26.063066,-56.493378,328,"SA","PY","PY-4","Iturbe","no",,,,,,,
+39562,"PY-0001","small_airport","Iturbe Airport",-26.063066,-56.493378,328,"SA","PY","PY-4","Iturbe","no",,,,,,,"Aeródromo de Iturbe"
 39563,"PY-0002","medium_airport","Coronel Oviedo National Airport",-25.517347,-56.406555,487,"SA","PY","PY-5","Coronel Oviedo","no","SGOV",,"SGOV",,,,"Aeropuerto Nacional de Coronel Oviedo"
-39564,"PY-0003","small_airport","Aeródromo de Isla Pucú",-25.298498,-56.901884,416,"SA","PY","PY-3","Isla Pucu","no",,,,,,,
+39564,"PY-0003","small_airport","Isla Pucú Airport",-25.298498,-56.901884,416,"SA","PY","PY-3","Isla Pucú","no",,,,,,,"Aeródromo de Isla Pucú"
 39565,"PY-0004","small_airport","Aeródromo Hugo Stroessner",-25.40757,-56.554098,364,"SA","PY","PY-5","Nueva Londres","no",,,,,,,
 39566,"PY-0005","small_airport","Nueva Australia Airport",-25.421678,-56.570575,338,"SA","PY","PY-5","Nueva Australia","no",,,,,,,"Aeródromo Nueva Australia"
-41570,"PY-0006","small_airport","Aeródromo de Puerto Guaraní",-21.274458,-57.925254,257,"SA","PY","PY-16","Puerto Guaraní","no",,,,,,,
-41571,"PY-0007","small_airport","Aeródromo de la Estancia Cunataí",-21.550106,-57.969028,264,"SA","PY","PY-16","Porto María","no",,,,,,,
-41572,"PY-0008","small_airport","Aeródromo de Colonia Carmelo Peralta",-21.681,-57.912498,253,"SA","PY","PY-16","Colonia Carmelo Peralta","no",,,,,,,
-41573,"PY-0009","small_airport","Aeródromo de Puerto La Esperanza",-22.037316,-58.012565,254,"SA","PY","PY-16","Puerto La Esperanza","no",,,,,,,
-41574,"PY-0010","small_airport","Aeródromo de Puerto Risso",-22.373204,-57.81655,268,"SA","PY","PY-1","Puerto Risso","no",,,,,,,
-41575,"PY-0011","small_airport","Aeródromo de Puerto Alegre",-22.446919,-57.832975,276,"SA","PY","PY-1","Puerto Alegre","no",,,,,,,
-41576,"PY-0012","small_airport","Aeródromo de Puerto Calera",-22.541753,-57.825508,243,"SA","PY","PY-1","Puerto Calera","no",,,,,,,
-41577,"PY-0013","small_airport","Aeródromo de Puerto Max",-22.630302,-57.770469,241,"SA","PY","PY-1","Puerto Max","no",,,,,,,
-41578,"PY-0014","small_airport","Aeródromo de Puerto Itapucu",-22.678639,-57.909708,269,"SA","PY","PY-1","Puerto Itapucu","no",,,,,,,
-41579,"PY-0015","small_airport","Aeródromo de Puerto Abente",-22.945422,-57.792163,243,"SA","PY","PY-1","Puerto Abente","no",,,,,,,
-41580,"PY-0016","small_airport","Aeródromo de Puerto Boquerón",-23.976944,-57.245915,223,"SA","PY","PY-15","Puerto Boqueron","no",,,,,,,
-41581,"PY-0017","small_airport","Aeródromo de Puerto Michi",-24.135367,-57.284914,217,"SA","PY","PY-2","Puerto Michu","no",,,,,,,
-41582,"PY-0018","small_airport","Aeródromo de la Estancia Lomas",-24.612863,-57.149463,220,"SA","PY","PY-2","Rosario","no",,,,,,,
-41583,"PY-0019","small_airport","Aeródromo de Villa Rey",-24.688288,-57.230937,220,"SA","PY","PY-2","Villa Rey","no",,,,,,,
-41584,"PY-0020","small_airport","Aeródromo de Santa Clara",-25.663906,-57.664833,209,"SA","PY","PY-11","Santa Clara","no",,,,,,,
-41585,"PY-0021","small_airport","Aeródromo de la Estancia Herradura",-26.493698,-58.20547,188,"SA","PY","PY-12","Estancia Herradura","no",,,,,,,
+41570,"PY-0006","small_airport","Puerto Guaraní Airport",-21.273051,-57.924637,257,"SA","PY","PY-16","Puerto Guaraní","no",,,,,,,"Aeródromo de Puerto Guaraní"
+41571,"PY-0007","small_airport","Estancia Cunataí Airport",-21.555211,-57.969155,264,"SA","PY","PY-16","Porto María","no",,,,,,,"Aeródromo de la Estancia Cunataí"
+41572,"PY-0008","small_airport","Colonia Carmelo Peralta Airport",-21.681956,-57.912498,253,"SA","PY","PY-16","Colonia Carmelo Peralta","no",,,,,,,"Aeródromo de Colonia Carmelo Peralta"
+41573,"PY-0009","small_airport","Puerto La Esperanza Airport",-22.041661,-58.015472,254,"SA","PY","PY-16","Puerto La Esperanza","no",,,,,,,"Aeródromo de Puerto La Esperanza"
+41574,"PY-0010","small_airport","Puerto Risso Airport",-22.36991,-57.81484,268,"SA","PY","PY-1","Puerto Risso","no",,,,,,,"Aeródromo de Puerto Risso"
+41575,"PY-0011","small_airport","Puerto Alegre Airport",-22.4429,-57.832322,276,"SA","PY","PY-1","Puerto Alegre","no",,,,,,,"Aeródromo de Puerto Alegre"
+41576,"PY-0012","small_airport","Puerto Calera Airport",-22.546023,-57.822331,243,"SA","PY","PY-1","Puerto Calera","no",,,,,,,"Aeródromo de Puerto Calera"
+41577,"PY-0013","small_airport","Puerto Max Airport",-22.631199,-57.770346,241,"SA","PY","PY-1","Puerto Max","no",,,,,,,"Aeródromo de Puerto Max"
+41578,"PY-0014","small_airport","Puerto Itapucu Airport",-22.680903,-57.909475,269,"SA","PY","PY-1","Puerto Itapucu","no",,,,,,,"Aeródromo de Puerto Itapucu"
+41579,"PY-0015","small_airport","Puerto Abente Airport",-22.950825,-57.791428,243,"SA","PY","PY-1","Puerto Abente","no",,,,,,,"Aeródromo de Puerto Abente"
+41580,"PY-0016","small_airport","Puerto Boqueron Airport",-23.979072,-57.246064,223,"SA","PY","PY-15","Puerto Boqueron","no",,,,,,,"Aeródromo de Puerto Boquerón"
+41581,"PY-0017","small_airport","Puerto Michi Airport",-24.135738,-57.283764,217,"SA","PY","PY-2","Puerto Michu","no",,,,,,,"Aeródromo de Puerto Michi"
+41582,"PY-0018","small_airport","Estancia Lomas Airport",-24.617172,-57.148439,220,"SA","PY","PY-2","Rosario","no",,,,,,,"Aeródromo de la Estancia Lomas"
+41583,"PY-0019","small_airport","Villa Rey Airport",-24.689499,-57.231325,220,"SA","PY","PY-2","Villa Rey","no",,,,,,,"Aeródromo de Villa Rey"
+41584,"PY-0020","small_airport","Santa Clara Airport",-25.663349,-57.664301,209,"SA","PY","PY-11","Santa Clara","no",,,,,,,"Aeródromo de Santa Clara"
+41585,"PY-0021","small_airport","Estancia Herradura Airport",-26.496073,-58.202413,188,"SA","PY","PY-12","Estancia Herradura","no",,,,,,,"Aeródromo de la Estancia Herradura"
 41586,"PY-0022","small_airport","Aeródromo Jorge Bolf",-27.280865,-56.433359,318,"SA","PY","PY-7","San Cosme y Damian","no",,,,,,,
 41587,"PY-0023","closed","Aeródromo de Coronel Bogado",-27.1439,-56.2561,285,"SA","PY","PY-7","Coronel Bogado","no",,,,,,,
-41588,"PY-0024","small_airport","Aeródromo de la Estancia Trementina",-22.74078,-56.842403,511,"SA","PY","PY-1","Estancia Trementina","no",,,,,,,
-41589,"PY-0025","small_airport","Aeródromo de la Estancia Coeyu",-23.9363,-57.735901,250,"SA","PY","PY-15","Estancia Coeyu","no",,,,,,,
+41588,"PY-0024","small_airport","Estancia Trementina Airport",-22.735931,-56.842243,511,"SA","PY","PY-1","Estancia Trementina","no",,,,,,,"Aeródromo de la Estancia Trementina"
+41589,"PY-0025","small_airport","Estancia Coeyu Airport",-23.937504,-57.734476,250,"SA","PY","PY-15","Estancia Coeyu","no",,,,,,,"Aeródromo de la Estancia Coeyu"
 505532,"PY-0026","heliport","Helipuerto Edificio Miami",-25.297592,-57.575859,416,"SA","PY","PY-ASU","Edificio Miami","no",,,,,"https://www.cci.com.py/portfolio-item/edificio-miami/",,
 318317,"PY-0027","small_airport","Aeropista Nº1 de Villa del Rosario",-24.471234,-57.154851,,"SA","PY","PY-2","Villa del Rosario","no",,,,,,,
 318318,"PY-0028","small_airport","Aeropista Nº2 de Villa del Rosario",-24.4777,-57.147968,,"SA","PY","PY-2","Villa del Rosario","no",,,,,,,
@@ -54852,7 +54852,7 @@
 505559,"PY-0065","heliport","Helipuerto del Comando de Infantería de Marina",-25.276721,-57.649689,300,"SA","PY","PY-ASU","Comando de Infantería de Marina","no",,,,,,,
 505560,"PY-0066","heliport","Helipuerto Banco Sudameris",-25.284219,-57.634594,300,"SA","PY","PY-ASU","Corporativo del Banco Sudameris","no",,,,,,,
 505561,"PY-0067","closed","Helipuerto Hospital San Jorge",-25.256253,-57.546542,,"SA","PY","PY-ASU","Hospital San Jorge","no",,,,,,,
-505562,"PY-0068","closed","Helipuerto Comando del Ejército",-25.251526,-57.548354,300,"SA","PY","PY-11","Comando del Ejército","no",,,,,,,
+505562,"PY-0068","closed","Loma Pyta Barrack HLS",-25.251526,-57.548354,300,"SA","PY","PY-11","Loma Pyta","no",,,,,,,"Helipuerto Comando del Ejército"
 505590,"PY-0069","small_airport","Aeródromo Arrayán",-25.275519,-57.413291,,"SA","PY","PY-11","Luque","no",,,,,,,
 505591,"PY-0070","closed","Helipuerto Nicolás Bo",-25.154827,-57.561069,,"SA","PY","PY-15","Villa Hayes","no",,,,,,,
 505592,"PY-0071","closed","Helipuerto del Comando de Artillería",-25.602802,-57.147263,,"SA","PY","PY-9","Comando de Artillería","no",,,,,,,
@@ -54862,10 +54862,10 @@
 505833,"PY-0075","heliport","Helipuerto del Comando de Comunicaciones",-25.304949,-57.65706,600,"SA","PY","PY-ASU","Comando de Comunicaciones","no",,,,,,,
 514983,"PY-0076","small_airport","Base de la Fuerza Aérea Paraguaya ""Nueva Asunción""",-20.517909,-62.142795,,"SA","PY","PY-19",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
 514984,"PY-0077","small_airport","[Duplicate] Base de la Fuerza Aérea Paraguaya ""Dr. Luis María Argaña""",-22.029324,-60.61899,,"SA","PY","PY-19",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
-514986,"PY-0078","small_airport","Base de la Fuerza Aérea Paraguaya ""General Adrián Jara""",-19.540817,-59.495138,,"SA","PY","PY-16",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
+514986,"PY-0078","small_airport","General Adrián Jara Airbase",-19.540953,-59.494179,453,"SA","PY","PY-16",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya","Base de la Fuerza Aérea Paraguaya ""General Adrián Jara"""
 514987,"PY-0079","heliport","Base de la Fuerza Aérea Paraguaya ""Dr. Augusto Roberto Fuster""",-22.642344,-55.832704,,"SA","PY","PY-13",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
 514988,"PY-0080","small_airport","Base de la Fuerza Aérea Paraguaya ""Guaraní""",-25.452952,-54.835693,,"SA","PY","PY-10",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
-514989,"PY-0081","small_airport","Base de la Fuerza Aérea Paraguaya ""Yacyretá""",-27.435916,-56.837483,,"SA","PY","PY-8",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
+514989,"PY-0081","small_airport","Yacyretá Airfield",-27.435337,-56.836979,,"SA","PY","PY-8","Yacyretá Island","no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya","Base de la Fuerza Aérea Paraguaya ""Yacyretá"""
 514990,"PY-0082","small_airport","Base de la Fuerza Aérea Paraguaya ""Ayolas""",-27.378664,-56.857024,,"SA","PY","PY-8",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
 514993,"PY-0083","small_airport","Base de la Fuerza Aérea Paraguaya ""Teniente Amín Ayub González""",-27.220503,-55.83299,,"SA","PY","PY-7",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
 514995,"PY-0084","small_airport","Base de la Fuerza Aérea Paraguaya ""Aviadores del Chaco""",-26.564336,-55.394003,,"SA","PY","PY-7",,"no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
@@ -54877,7 +54877,11 @@
 597859,"PY-0090","small_airport","Aeródromo del Aeroclub Altona",-25.375874,-55.653325,1030,"SA","PY","PY-5","Dr. Juan Eulogio Estigarribia (Campo 9)","no",,,,,"https://asn.flightsafety.org/wikibase/514344",,
 606687,"PY-0091","closed","Aeródromo de Zoro del Pampa",-21.014972,-58.481997,308,"SA","PY","PY-16","Zoro del Pampa","no",,,,,,"https://es.wikipedia.org/wiki/Toro_Pampa",
 606719,"PY-0092","small_airport","Mayor Pablo Lagerenza Airport",-19.925271,-60.768684,647,"SA","PY","PY-16","Mayor Pablo Lagerenza","no",,,,,,"https://es.wikipedia.org/wiki/Mayor_Pablo_Lagerenza",
-41569,"PY-PBT","small_airport","Aeródromo de Puerto Leda",-20.908982,-57.926881,260,"SA","PY","PY-16","Puerto Leda","no",,"PBT",,,,,
+611282,"PY-0093","small_airport","Toro Mina Airstrip",-20.761812,-58.41063,308,"SA","PY","PY-16","Toro Pampa","no",,,,,,,
+611283,"PY-0094","small_airport","San Juan Airstrip",-26.063226,-55.162857,896,"SA","PY","PY-10","Agropeco","no",,,,,,,
+611285,"PY-0095","small_airport","Ypané Complex Airport",-22.610311,-55.651277,2100,"SA","PY","PY-13","Colonia Potrero Sur - Zanja Pytá","no",,,,,,,
+611289,"PY-0096","small_airport","Corateí Airfield",-27.412968,-56.958137,206,"SA","PY","PY-8","Corateí","no",,,,,,,
+41569,"PY-PBT","small_airport","Puerto Leda Airport",-20.908982,-57.926881,260,"SA","PY","PY-16","Puerto Leda","no",,"PBT",,,,,"Aeródromo de Puerto Leda"
 41568,"PY-PCJ","small_airport","Puerto La Victoria Airport",-22.296022,-57.870076,286,"SA","PY","PY-1","Puerto La Victoria","no","SGLV","PCJ","SGLV",,,"https://en.wikipedia.org/wiki/La_Victoria_Airport",
 24336,"PYL","seaplane_base","Perry Island Seaplane Base",60.685298919699996,-147.919006348,0,"NA","US","US-AK","Perry Island","no",,"PYL","PYL","PYL",,,
 4659,"Q51","small_airport","Kili Airport",5.64386,169.124586,5,"OC","MH","MH-KIL","Kili Island","yes",,"KIO","C51","C51",,"https://en.wikipedia.org/wiki/Kili_Airport","Q51"
@@ -59529,7 +59533,7 @@
 5508,"SG67","small_airport","Estancia Pai Quara Airport",-23.223334,-55.946254,712,"SA","PY","PY-13","Estancia Pai Quara","no",,,,"SG67",,,
 6088,"SGAS","large_airport","Silvio Pettirossi International Airport",-25.240156,-57.519227,292,"SA","PY","PY-11","Asunción","yes","SGAS","ASU","SGAS",,,"https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport","Luque, Stroessner, Aeropuerto Internacional Silvio Pettirossi"
 6089,"SGAY","medium_airport","Juan de Ayolas National Airport",-27.37052,-56.854052,223,"SA","PY","PY-8","Ayolas","no","SGAY","AYO","SGAY",,,"https://en.wikipedia.org/wiki/Juan_de_Ayolas_Airport","Aeropuerto Nacional de Juan de Ayolas"
-308256,"SGBA","small_airport","Aeródromo de Bella Vista Sur",-27.052393,-55.578026,650,"SA","PY","PY-7","Colonia Doctor Pastor Obligado","no",,,"SGBA",,,,
+308256,"SGBA","small_airport","Bella Vista Sur Airport",-27.052393,-55.578026,650,"SA","PY","PY-7","Colonia Doctor Pastor Obligado","no","SGBA",,"SGBA",,,,"Aeródromo de Bella Vista Sur"
 41566,"SGBN","small_airport","Bahía Negra Airport",-20.230777,-58.170455,277,"SA","PY","PY-16","Bahía Negra","no","SGBN","BFA","SGBN",,,,
 611276,"SGBV","small_airport","Icanimby Airport",-22.121637,-56.507417,684,"SA","PY","PY-7","Bella Vista Norte","no","SGBV",,"SGBV",,,,
 515514,"SGCB","small_airport","Capitan Bado Airport",-23.257493,-55.528057,1710,"SA","PY","PY-9","Capitan Bado","no","SGCB",,"SGCB",,,,"Aeródromo Capitan Bado"
@@ -59537,7 +59541,7 @@
 318322,"SGCU","small_airport","Curuguaty Airport",-24.50033,-55.681895,699,"SA","PY","PY-14",,"no","SGCU",,"SGCU",,,,"Aeródromo de Curuguaty"
 515518,"SGCZ","small_airport","Caazapá Airport",-26.169009,-56.357705,470,"SA","PY","PY-6","Caazapá","no","SGCZ",,"SGCZ",,,,"Aeródromo de Caazapá"
 29851,"SGEN","large_airport","Teniente Ramon A. Ayub Gonzalez International Airport",-27.227537,-55.837584,659,"SA","PY","PY-7","Encarnación","yes","SGEN","ENO","SGEN",,,"https://en.wikipedia.org/wiki/Teniente_Amin_Ayub_Gonzalez_Airport","Aeropuerto Internacional Tte. Amin Ayub González"
-6091,"SGES","large_airport","Guaraní International Airport",-25.457186,-54.839544,846,"SA","PY","PY-10","Ciudad del Este","yes","SGES","AGT","SGES",,,"https://en.wikipedia.org/wiki/Guarani_International_Airport","Aeropuerto Internacional Guaraní"
+6091,"SGES","large_airport","Guaraní International Airport",-25.4555,-54.843601,846,"SA","PY","PY-10","Ciudad del Este","yes","SGES","AGT","SGES",,,"https://en.wikipedia.org/wiki/Guarani_International_Airport","Aeropuerto Internacional Guaraní"
 31157,"SGFI","small_airport","Fernheim Airport",-22.36016,-60.054447,423,"SA","PY","PY-19","Filadelfia","no","SGFI","FLM","SGFI",,,"https://en.wikipedia.org/wiki/Filadelfia_Airport","Aeródromo de Filadelfia"
 611277,"SGFR","small_airport","Friesland Airport",-24.605573,-56.7981,290,"SA","PY","PY-2","Colonia Friesland","no","SGFR",,"SGFR",,,,
 308258,"SGGR","medium_airport","Saltos del Guairá Airport",-24.032263,-54.350835,990,"SA","PY","PY-14","Salto del Guaira","no","SGGR",,"SGGR",,,"https://en.wikipedia.org/wiki/Salto_del_Guair%C3%A1_Airport","Aeropuerto Nacional de Salto del Guaira"
@@ -59553,10 +59557,10 @@
 308261,"SGPG","small_airport","Lt. Pelayo Prats Gill Airbase",-22.556125,-61.613951,690,"SA","PY","PY-19","Fort Prats Gill","no",,,"SGPG",,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya","Base de la Fuerza Aérea Paraguaya ""Teniente Pelayo Prats Gill"""
 6094,"SGPI","medium_airport","Don Carlos Miguel Gimenez Airport",-26.882079,-58.318181,249,"SA","PY","PY-12","Pilar","no","SGPI","PIL","SGPI",,,"https://en.wikipedia.org/wiki/Carlos_Miguel_Jim%C3%A9nez_Airport","Aeródromo Don Carlos Miguel Gimenez"
 6095,"SGPJ","medium_airport","Dr. Augusto Roberto Fuster International Airport",-22.641427,-55.829993,1873,"SA","PY","PY-13","Pedro Juan Caballero","no","SGPJ","PJC","SGPJ",,,"https://en.wikipedia.org/wiki/Dr._Augusto_Roberto_Fuster_International_Airport","Aeropuerto Internacional Dr. Augusto Roberto Fuster"
-39567,"SGPO","small_airport","Aeródromo de Puerto Pinasco",-22.629856,-57.838469,239,"SA","PY","PY-15","Pinasco","no",,,"SGPO",,,,
-39568,"SGRO","small_airport","Aeródromo de Rosario",-24.430037,-57.12013,236,"SA","PY","PY-2","Rosario","no",,,"SGRO",,,,
-308262,"SGSP","small_airport","San Pedro de Ycuamanindeyu National Airport",-24.027103,-57.02342,270,"SA","PY","PY-2","San Pedro del Ycuamandiyu","no",,,"SGSP",,,,"Aeropuerto Nacional de San Pedro de Ycuamanindeyu"
-6096,"SGST","medium_airport","Santa Teresa Airport",-22.622487,-56.634393,582,"SA","PY","PY-13","Santa Teresa","no",,,"SGST",,,"https://en.wikipedia.org/wiki/Santa_Teresa_Airport","Aeropuerto Nacional de Santa Teresa"
+39567,"SGPO","small_airport","Puerto Pinasco Airport",-22.634482,-57.839126,239,"SA","PY","PY-15","Pinasco","no",,,"SGPO",,,,"Aeródromo de Puerto Pinasco"
+39568,"SGRO","small_airport","Rosario Airport",-24.432599,-57.116608,236,"SA","PY","PY-2","Rosario","no","SGRO",,"SGRO",,,,"Aeródromo de Rosario"
+308262,"SGSP","small_airport","San Pedro de Ycuamanindeyu National Airport",-24.027103,-57.02342,270,"SA","PY","PY-2","San Pedro del Ycuamandiyu","no","SGSP",,"SGSP",,,,"Aeropuerto Nacional de San Pedro de Ycuamanindeyu"
+6096,"SGST","medium_airport","Santa Teresa Airport",-22.622487,-56.634393,582,"SA","PY","PY-13","Santa Teresa","no","SGST",,"SGST",,,"https://en.wikipedia.org/wiki/Santa_Teresa_Airport","Aeropuerto Nacional de Santa Teresa"
 340420,"SH-0001","heliport","Gough Island Heliport",-40.347933,-9.881306,,"AF","SH","SH-TA","Gough Island","no",,,"FAGE","FHGH",,,
 340421,"SH-0002","heliport","Saint Helena Heliport",-15.960775,-5.654768,,"AF","SH","SH-SH","Longwood","no",,,,,,,
 301241,"SH1","small_airport","Shelby Auxiliary Field One",31.205185,-89.175961,305,"NA","US","US-MS","Hattiesburg","no",,,"KSH1","SH1",,,
