@@ -26605,7 +26605,7 @@
 32538,"FM-ULI","small_airport","Ulithi Airport",10.0198,139.789993,6,"OC","FM","FM-YAP","Falalop Island","no","PTYU","ULI","PTYU","TT02","https://tci.gov.fm/civilaviation/ulithi.html","https://en.wikipedia.org/wiki/Ulithi_Airport","Ulithi Airport, TT02"
 4641,"FM43","small_airport","Antsiranana Andrakaka Airport",-12.2561,49.2542,200,"AF","MG","MG-D",,"no","FMNK",,"FMNK","FM43",,,
 300253,"FMBI","small_airport","Betainomby Airport",-18.1958013864,49.348526001,40,"AF","MG","MG-A","Betainomby","no",,,"FMFZ","MBI",,,
-2901,"FMCH","large_airport","Prince Said Ibrahim International Airport",-11.5337,43.2719,93,"AF","KM","KM-G","Moroni","yes","FMCH","HAH","FMCH",,,"https://en.wikipedia.org/wiki/Prince_Said_Ibrahim_International_Airport","Hahaia"
+2901,"FMCH","medium_airport","Prince Said Ibrahim International Airport",-11.5337,43.2719,93,"AF","KM","KM-G","Moroni","yes","FMCH","HAH","FMCH",,,"https://en.wikipedia.org/wiki/Prince_Said_Ibrahim_International_Airport","Hahaia"
 2902,"FMCI","medium_airport","Mohéli Bandar Es Eslam Airport",-12.298096,43.766496,46,"AF","KM","KM-M","Fomboni","no","FMCI","NWA","FMCI",,,"https://en.wikipedia.org/wiki/Moh%C3%A9li_Bandar_Es_Eslam_Airport","Mwali, Bandaressalam"
 2903,"FMCV","medium_airport","Ouani Airport",-12.131047,44.430044,62,"AF","KM","KM-A","Ouani","yes","FMCV","AJN","FMCV",,,"https://en.wikipedia.org/wiki/Ouani_Airport",
 2904,"FMCZ","large_airport","Dzaoudzi Pamandzi International Airport",-12.809319,45.281815,23,"AF","YT","YT-U-A","Dzaoudzi","yes","FMCZ","DZA","FMCZ",,,"https://en.wikipedia.org/wiki/Dzaoudzi_Pamandzi_International_Airport",
@@ -30175,6 +30175,7 @@
 609951,"GB-1362","small_airport","Kingstanding Airfield",51.848611,-1.544167,597,"EU","GB","GB-ENG",,"no",,,,,,,
 610315,"GB-1363","small_airport","Methlick Airfied",57.448338,-2.239615,269,"EU","GB","GB-SCT","Methlick, Aberdeenshire","no",,,,,,,
 610456,"GB-1364","closed","RNAS Culham",51.659655,-1.225958,190,"EU","GB","GB-U-A","Clifton Hampden","no",,,,,,"https://en.wikipedia.org/wiki/RNAS_Culham",
+611295,"GB-1365","heliport","Southmead Hospital Heliport",51.493685,-2.592585,245,"EU","GB","GB-ENG","Bristol, Bristol","no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121916,-2.053439,150,"EU","GB","GB-SCT","Foula","yes",,"FOA","EG3G",,,"https://en.wikipedia.org/w/index.php?title=Foula_Airfield&oldid=1234064311","EG42"
@@ -44301,7 +44302,7 @@
 4258,"LGIR","large_airport","Heraklion International Nikos Kazantzakis Airport",35.339699,25.1803,115,"EU","GR","GR-M","Heraklion","yes","LGIR","HER","LGIR",,"https://www.heraklion-airport.gr/en/","https://en.wikipedia.org/wiki/Heraklion_International_Airport_""Nikos_Kazantzakis""","Crete Island"
 4259,"LGKA","small_airport","Kastoria National Airport Aristotle",40.446301,21.2822,2167,"EU","GR","GR-C","Argos Orestiko","yes","LGKA","KSO","LGKA",,,"https://en.wikipedia.org/wiki/Kastoria_National_Airport","Aristotelis Airport"
 4260,"LGKC","small_airport","Kithira Airport",36.273978,23.016719,1045,"EU","GR","GR-I","Kithira Island","yes","LGKC","KIT","LGKC",,,"https://en.wikipedia.org/wiki/Kithira_Island_National_Airport","Alexandros Aristotelous Onassis"
-4261,"LGKF","medium_airport","Kefallinia Airport",38.12009811401367,20.500499725341797,59,"EU","GR","GR-F","Kefallinia Island","yes","LGKF","EFL","LGKF",,,"https://en.wikipedia.org/wiki/Kefalonia_Island_International_Airport",
+4261,"LGKF","large_airport","Kefalonia International Airport ""Anna Pollatou""",38.120098,20.5005,59,"AS","GR","GR-F","Kefallinia Island","yes","LGKF","EFL","LGKF",,"https://www.efl-airport.gr/","https://en.wikipedia.org/wiki/Kefalonia_Island_International_Airport","Kefallinia"
 30014,"LGKJ","small_airport","Kastelorizo Airport",36.141701,29.576401,489,"AS","GR","GR-L","Kastelorizo Island","yes","LGKJ","KZS","LGKJ",,,"https://en.wikipedia.org/wiki/Kastellorizo_Airport",
 4262,"LGKL","medium_airport","Kalamata Airport",37.06829833984375,22.02549934387207,26,"EU","GR","GR-J","Kalamata","yes","LGKL","KLX","LGKL",,,"https://en.wikipedia.org/wiki/Kalamata_International_Airport",
 4263,"LGKM","small_airport","Kavala Amygdaleon Lydia Airfield",40.972801,24.3414,199,"EU","GR","GR-A","Amygdaleonas","no","LGKM",,"LGKM",,"https://lgkm.aero",,"Kavala National, Καβάλα"
@@ -44343,7 +44344,7 @@
 4292,"LGTP","small_airport","Tripolis Air Base",37.530602,22.403601,2113,"EU","GR","GR-J","Trípoli","no",,,"LGTP",,,"https://en.wikipedia.org/wiki/Tripoli_Airport_(Greece)",
 4293,"LGTS","large_airport","Thessaloniki Macedonia International Airport",40.51928,22.970009,22,"EU","GR","GR-B","Thessaloniki","yes","LGTS","SKG","LGTS",,"https://www.skg-airport.gr/en","https://en.wikipedia.org/wiki/Thessaloniki_Airport","Makedonia. Macedonia. Salonica"
 4294,"LGTT","small_airport","Tatoi Airport",38.108898,23.7838,785,"EU","GR","GR-I","Tatoi","no",,,"LGTT",,,"https://en.wikipedia.org/wiki/Tatoi_Airport",
-4295,"LGZA","medium_airport","Zakynthos International Airport Dionysios Solomos",37.7509,20.8843,12,"EU","GR","GR-F","Zakynthos","yes","LGZA","ZTH","LGZA",,"https://www.zth-airport.gr","https://en.wikipedia.org/wiki/Zakynthos_International_Airport","Zakinthos"
+4295,"LGZA","large_airport","Zakynthos International Airport ""Dionysios Solomos""",37.7509,20.8843,12,"AS","GR","GR-F","Zakynthos","yes","LGZA","ZTH","LGZA",,"https://www.zth-airport.gr","https://en.wikipedia.org/wiki/Zakynthos_International_Airport","Zakinthos"
 309204,"LH0","small_airport","Hertelendy Kastély Field",46.373168,17.428007,469,"EU","HU","HU-SO","Kutas","no",,,"LHKU",,"http://www.hotel-hertelendy.com/airfield_information",,"Hertelendy Castle, Kutas-Hertelendy"
 331678,"LHBB","heliport","Légimentő bázis",47.4545191,18.9072779,,"EU","HU","HU-BU","Budapest","no",,,"LHBB",,,,
 29691,"LHBC","small_airport","Békéscsaba Airfield",46.677132,21.161188,286,"EU","HU","HU-BE","Békéscsaba","no",,,"LHBC",,"http://www.bekesairport.hu","https://hu.wikipedia.org/wiki/B%C3%A9k%C3%A9scsabai_rep%C3%BCl%C5%91t%C3%A9r","Viharsarok,Kvasz András"
@@ -46571,7 +46572,7 @@
 513281,"MR-0012","small_airport","Chegga Airport",25.365756,-5.74055,1291,"AF","MR","MR-11","Chegga","no",,,,,,,
 3135,"MR-0013","closed","Nouakchott International Airport",18.09754,-15.948222,13,"AF","MR","MR-NKC","Nouakchott","no",,,,,,"https://en.wikipedia.org/wiki/Nouakchott_International_Airport","NKC, GQNN"
 312503,"MR-0014","closed","Chinguetti Airport",20.5055,-12.3978,1775,"AF","MR","MR-07","Chinguetti","no",,,,,,,"CGT, CGT"
-41922,"MRAD","small_airport","Aerodamas Airport",9.45777702331543,-84.20899963378906,18,"NA","CR","CR-P","Quepos","no",,,"MRAD",,,,
+41922,"MRAD","small_airport","Aerodamas Airport",9.457827,-84.207985,18,"NA","CR","CR-P","Quepos","no",,,"MRAD",,,,
 326342,"MRAG","small_airport","Altagracia Airport",9.332707,-83.582653,3168,"NA","CR","CR-SJ","AltaGracia Resort","no",,,"MRAG",,,,
 41923,"MRAJ","small_airport","Aranjuez Airport",10.057268,-84.807556,52,"NA","CR","CR-P","Miramar","no",,,"MRAJ",,,,
 326341,"MRAL","small_airport","Altomonte Airport",9.363861,-83.626046,2822,"NA","CR","CR-SJ","Trinidad","no",,,"MRAL",,,,
@@ -46598,7 +46599,7 @@
 41936,"MRCL","small_airport","Coyolar Airport",10.667222023010254,-85.51139068603516,262,"NA","CR","CR-G","Liberia","no",,,"MRCL",,,,
 41937,"MRCO","small_airport","El Cerrito Airport",10.45359992980957,-85.55819702148438,59,"NA","CR","CR-G","Filadelfia","no",,,"MRCO",,,,
 32210,"MRCR","small_airport","Playa Samara/Carrillo Airport",9.87051,-85.4814,50,"NA","CR","CR-G","Carrillo","no","MRCR","PLD","MRCR",,,"https://en.wikipedia.org/wiki/Carrillo_Airport","RIK"
-4800,"MRCV","small_airport","Cabo Velas Airport",10.3557,-85.852898,33,"NA","CR","CR-G","Nicoya","no",,,"MRCV",,,"https://en.wikipedia.org/wiki/Cabo_Velas_Airport",
+4800,"MRCV","small_airport","Cabo Velas Airport",10.3557,-85.852898,33,"NA","CR","CR-G","Cabo Velas","no",,,"MRCV",,,"https://en.wikipedia.org/wiki/Cabo_Velas_Airport",
 41938,"MRCZ","small_airport","Carrizal Airport",10.087599754333496,-84.16950225830078,4650,"NA","CR","CR-A","Carrizal","no",,,"MRCZ",,,,
 4801,"MRDC","small_airport","Duacari 2 Airport",10.351499557495117,-83.63050079345703,79,"NA","CR","CR-L","Guapiles","no",,,"MRDC",,,,
 41939,"MRDD","small_airport","Don Diego Airport",9.550000190734863,-82.88333129882812,161,"NA","CR","CR-L","Limón","no",,,"MRDD",,,,
@@ -50197,7 +50198,7 @@
 22837,"NC97","small_airport","Dirt Dobber's Grass Strip",35.3689,-81.522499,930,"NA","US","US-NC","Shelby","no",,,"NC97","NC97",,,
 22838,"NC98","heliport","Sentara Albemarle Regional Medical Center Heliport",36.324462,-76.216881,12,"NA","US","US-NC","Elizabeth City","no",,,"NC98","NC98",,,"Albemarle Hospital Heliport"
 22839,"NC99","small_airport","Bagwell Airport",35.67430114746094,-78.6072006225586,300,"NA","US","US-NC","Garner","no",,,"NC99","NC99",,,
-4957,"NCAI","small_airport","Aitutaki Airport",-18.8309,-159.764008,14,"OC","CK","CK-U-A","Aitutaki","yes","NCAI","AIT","NCAI",,"https://cookislandsairports.com/home/","https://en.wikipedia.org/wiki/Aitutaki_Airport",
+4957,"NCAI","small_airport","Aitutaki Airport",-18.837091,-159.761008,14,"OC","CK","CK-U-A","Aitutaki","yes","NCAI","AIT","NCAI",,"https://cookislandsairports.com/home/","https://en.wikipedia.org/wiki/Aitutaki_Airport",
 30629,"NCAT","small_airport","Enua Airport",-19.96780014038086,-158.11900329589844,36,"OC","CK","CK-U-A","Atiu Island","yes","NCAT","AIU","NCAT",,,"https://en.wikipedia.org/wiki/Enua_Airport",
 22840,"NCL","heliport","Comlantflt Heliport",36.92509841918945,-76.30439758300781,14,"NA","US","US-VA","Norfolk","no",,,"NCL","NCL",,,
 31900,"NCMG","small_airport","Mangaia Island Airport",-21.895987,-157.906662,45,"OC","CK","CK-U-A","Mangaia Island","no","NCMG","MGS","NCMG",,,"https://en.wikipedia.org/wiki/Mangaia_Airport",
@@ -54833,7 +54834,7 @@
 505535,"PY-0046","heliport","Helipuerto N°2 del Palacio de López",-25.276652,-57.636761,206,"SA","PY","PY-ASU","Palacio de López (Palacio Presidencial)","no",,,,,"https://www.presidencia.gov.py","https://es.wikipedia.org/wiki/Palacio_de_López",
 505536,"PY-0047","heliport","Helipuerto de la Costanera de Asunción",-25.276051,-57.635887,206,"SA","PY","PY-ASU","Av. José Asunción Flores (Av. Costanera)","no",,,,,"https://www.presidencia.gov.py","https://es.wikipedia.org/wiki/Palacio_de_López",
 505537,"PY-0048","heliport","Helipuerto de la Residencia Presidencial de la República de Paraguay",-25.295227,-57.602588,426,"SA","PY","PY-ASU","Residencia Presidencial de la República de Paraguay","no",,,,,"https://www.presidencia.gov.py","https://es.wikipedia.org/wiki/Mburuvicha_Róga",
-505538,"PY-0049","heliport","Helipuerto del Comando de la Flota de Guerra",-25.292525,-57.669591,210,"SA","PY","PY-ASU","Aviación","no",,,,,"http://www.armadaparaguaya.mil.py","https://es.wikipedia.org/wiki/Armada_Paraguaya","Comando de Aviación Naval"
+505538,"PY-0049","heliport","Puerto Sajonia Naval Base Heliport",-25.292516,-57.669614,210,"SA","PY","PY-ASU","Asunción","no",,,,,"http://www.armadaparaguaya.mil.py","https://es.wikipedia.org/wiki/Armada_Paraguaya","Comando de Aviación Naval, Helipuerto del Comando de la Flota de Guerra"
 505539,"PY-0050","heliport","Helipuerto Grupo Aéreo de Helicópteros N°1",-25.273623,-57.530461,328,"SA","PY","PY-11","Cuartel General de la Fuerza Aérea Paraguaya","no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
 505540,"PY-0051","heliport","Helipuerto Grupo Aéreo de Helicópteros N°2",-25.273989,-57.530116,328,"SA","PY","PY-11","Cuartel General de la Fuerza Aérea Paraguaya","no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
 505541,"PY-0052","heliport","Helipuerto Escuela de Formación de Suboficiales",-25.275842,-57.529129,328,"SA","PY","PY-11","Cuartel General de la Fuerza Aérea Paraguaya","no",,,,,"https://www.fuerzaaerea.mil.py","https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
@@ -54881,6 +54882,7 @@
 611283,"PY-0094","small_airport","San Juan Airstrip",-26.063226,-55.162857,896,"SA","PY","PY-10","Agropeco","no",,,,,,,
 611285,"PY-0095","small_airport","Ypané Complex Airport",-22.610311,-55.651277,2100,"SA","PY","PY-13","Colonia Potrero Sur - Zanja Pytá","no",,,,,,,
 611289,"PY-0096","small_airport","Corateí Airfield",-27.412968,-56.958137,206,"SA","PY","PY-8","Corateí","no",,,,,,,
+611296,"PY-0097","heliport","Col Maka Helipad",-25.211718,-57.577961,207,"SA","PY","PY-15",,"no",,,,,,,
 41569,"PY-PBT","small_airport","Puerto Leda Airport",-20.908982,-57.926881,260,"SA","PY","PY-16","Puerto Leda","no",,"PBT",,,,,"Aeródromo de Puerto Leda"
 41568,"PY-PCJ","small_airport","Puerto La Victoria Airport",-22.296022,-57.870076,286,"SA","PY","PY-1","Puerto La Victoria","no","SGLV","PCJ","SGLV",,,"https://en.wikipedia.org/wiki/La_Victoria_Airport",
 24336,"PYL","seaplane_base","Perry Island Seaplane Base",60.685298919699996,-147.919006348,0,"NA","US","US-AK","Perry Island","no",,"PYL","PYL","PYL",,,
