@@ -1,4 +1,6 @@
 "id", "threadRef", "airportRef", "airportIdent", "date", "memberNickname", "subject", "body"
+611372,83413,19898,"KFSK","2026-10-22 15:00:42","AlanM70","Nice place","Courtesy cars are available.  I flew in for my medical."
+611371,83412,21242,"KTZT","2026-10-22 14:58:52","AlanM70","Not bad","No fuel available but It looks like they have some expansion plans in the works.  That pretty exiting"
 611313,83411,3632,"KLAX","2026-10-14 07:39:32","testpentest789","Probe Test","Probe Test"
 611312,83410,3632,"KLAX","2026-10-14 07:36:50","testpentest789","Test","Test"
 611307,83409,307747,"GB-1282","2026-10-14 07:34:25","testpentest789","Test SSTI2","${7*7}"
