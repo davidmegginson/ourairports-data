@@ -3997,7 +3997,7 @@
 10586,"3MA4","heliport","North Chatham Heliport",41.71480178833008,-69.96610260009766,10,"NA","US","US-MA","Chatham","no",,,"3MA4","3MA4",,,
 10587,"3MA5","small_airport","Westport Airport",41.543201,-71.035301,80,"NA","US","US-MA","Westport","no",,,"3MA5","3MA5",,,
 10588,"3MA6","heliport","Happy Heliport",41.58369827270508,-71.04060363769531,127,"NA","US","US-MA","Dartmouth","no",,,"3MA6","3MA6",,,
-10590,"3MA8","heliport","Sadler Hill Heliport",42.62229919433594,-70.65229797363281,125,"NA","US","US-MA","Gloucester","no",,,"3MA8","3MA8",,,
+10590,"3MA8","closed","Sadler Hill Heliport",42.622299,-70.652298,125,"NA","US","US-MA","Gloucester","no",,,,,,,"3MA8"
 10591,"3MA9","heliport","Marston Mills Heliport",41.64039993286133,-70.40779876708984,10,"NA","US","US-MA","Marston Mills","no",,,"3MA9","3MA9",,,
 10592,"3MD0","small_airport","Burhans Memorial Airport",39.348201751708984,-77.33609771728516,490,"NA","US","US-MD","Frederick","no",,,"3MD0","3MD0",,,
 10593,"3MD1","heliport","MedStar Southern Maryland Hospital Center Heliport",38.748009,-76.876858,270,"NA","US","US-MD","Clinton","no",,,"3MD1","3MD1",,,
@@ -23990,7 +23990,7 @@
 317655,"EERD","small_airport","Riidaja Airfield",58.08457,25.89877,295,"EU","EE","EE-82","Riidaja","no","EERD",,"EERD",,,"https://en.wikipedia.org/wiki/Riidaja_Airfield#cite_note-2",
 30336,"EERI","small_airport","Ridali Airfield",57.939999,26.979,302,"EU","EE","EE-65","Suurküla","no","EERI",,"EERI",,,"https://en.wikipedia.org/wiki/Ridali_Airfield",
 30355,"EERU","small_airport","Ruhnu Airfield",57.78559,23.262377,10,"EU","EE","EE-74","Ringsu","yes","EERU",,"EERU",,,"https://en.wikipedia.org/wiki/Ruhnu_Airfield","Ruhnu island"
-2357,"EES","large_airport","Berenice International Airport / Banas Cape Air Base",23.980437,35.460277,108,"AF","EG","EG-BA","Berenice Troglodytica","no","HEBR","EES","HEBR",,,"https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D8%A8%D8%B1%D9%86%D9%8A%D8%B3_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+2357,"EES","medium_airport","Berenice International Airport / Banas Cape Air Base",23.980437,35.460277,108,"AF","EG","EG-BA","Berenice Troglodytica","no","HEBR","EES","HEBR",,,"https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D8%A8%D8%B1%D9%86%D9%8A%D8%B3_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
 318294,"EESE","heliport","Salme Heliport",58.131944,22.258333,16,"EU","EE","EE-74","Salme","no","EESE",,"EESE",,,,"Estwind Energy"
 538413,"EESI","heliport","Suurupi Heliport",59.45943,24.388188,,"EU","EE","EE-37","Suurupi","no",,,"EESI",,,,
 506046,"EETI","small_airport","Tõutsi Private Airfield",57.952306,26.476493,,"EU","EE","EE-82","Tõutsi","no",,,"EETI",,,"https://en.wikipedia.org/wiki/en:T%C3%B5utsi%20Airfield","Joosti Puhkemaja"
@@ -24223,7 +24223,7 @@
 29117,"EGCL","small_airport","Fenland Airfield",52.739201,-0.029722,8,"EU","GB","GB-ENG","Spalding, Lincolnshire","no",,,"EGCL",,,"https://en.wikipedia.org/wiki/Fenland_Airfield",
 29120,"EGCS","small_airport","Sturgate Airfield",53.381242,-0.6848,58,"EU","GB","GB-ENG","Gainsborough, Lincolnshire","no","EGCS",,"EGCS",,"http://www.lincolnaeroclub.co.uk/airfield.html","https://en.wikipedia.org/wiki/Sturgate_Airfield","RAF Sturgate"
 29121,"EGCT","small_airport","Tilstock Airfield",52.932363,-2.647435,301,"EU","GB","GB-ENG","Whitchurch, Shropshire","no",,,"EGCT",,,"https://en.wikipedia.org/wiki/Tilstock_Airfield","RAF Whitchurch Heath, RAF Tilstock"
-29122,"EGCV","small_airport","Sleap Airfield",52.834809,-2.770312,275,"EU","GB","GB-ENG","Shrewsbury, Shropshire","no","EGCV","QKV","EGCV",,"http://www.shropshireaeroclub.com/","https://en.wikipedia.org/wiki/Sleap_Airfield","RAF Sleap, QKV"
+29122,"EGCV","small_airport","Sleap Airfield",52.834809,-2.770312,275,"EU","GB","GB-ENG","Shrewsbury, Shropshire","no","EGCV",,"EGCV",,"http://www.shropshireaeroclub.com/","https://en.wikipedia.org/wiki/Sleap_Airfield","RAF Sleap, QKV"
 2402,"EGCW","small_airport","Welshpool Airport",52.628601,-3.15333,233,"EU","GB","GB-WLS","Welshpool, Powys","no",,,"EGCW",,"http://www.welshpoolairport.co.uk/","https://en.wikipedia.org/wiki/Welshpool_Airport","Mid-Wales, Mid Wales, Maes Awyr y Trallwng"
 2403,"EGDC","medium_airport","Royal Marines Base Chivenor",51.0872,-4.15034,27,"EU","GB","GB-ENG","Chivenor","no",,,"EGDC",,,"https://en.wikipedia.org/wiki/Royal_Marines_Base_Chivenor",
 29123,"EGDJ","small_airport","Upavon Aerodrome",51.28657,-1.782239,574,"EU","GB","GB-ENG","Pewsey, Wiltshire","no","EGDJ","UPV","EGDJ",,,"https://en.wikipedia.org/wiki/RAF_Upavon","RAF Upavon, Trenchard Lines, Salisbury Plain"
@@ -29441,7 +29441,7 @@
 331802,"GB-0622","small_airport","Dairy House Farm Airfield",53.106477,-2.5037106,,"EU","GB","GB-ENG",,"no",,,,,,,
 331815,"GB-0623","heliport","Aberdeen Royal Infirmary Helistrip",57.152453,-2.134904,,"EU","GB","GB-SCT","Aberdeen","no",,,,,,,
 331816,"GB-0624","small_airport","Sparr Farm Airstrip",51.035749,-0.512273,,"EU","GB","GB-ENG","Billingshurst, West Sussex","no",,,,,,,
-331831,"GB-0625","heliport","Aintree University Hospital Helipad",53.464711,-2.928417,,"EU","GB","GB-ENG",,"no",,,,,,,
+331831,"GB-0625","heliport","Aintree University Hospital Helipad",53.465368,-2.929093,71,"EU","GB","GB-ENG","Fazakerley, Liverpool","no",,,,,,,
 331846,"GB-0626","small_airport","North Reston Hall Farm Airstrip",53.325672,0.071807,69,"EU","GB","GB-ENG","Louth, Lincolnshire","no",,,,,,,
 331847,"GB-0627","small_airport","Willow Farm Louth Airstrip",53.357986,0.032615,92,"EU","GB","GB-ENG","Louth, Lincolnshire","no",,,,,,,
 331848,"GB-0628","small_airport","Eastfield Farm Airstrip",53.364727,0.119561,16,"EU","GB","GB-ENG","Louth, Lincolnshire","no",,,,,,,"Manby"
@@ -30186,7 +30186,7 @@
 611333,"GB-1368","heliport","Axis Business Park Helipad",53.465098,-2.895401,,"EU","GB","GB-ENG",,"no",,,,,,,
 611334,"GB-1369","heliport","Greenbank Helipad",53.523847,-2.957511,36,"EU","GB","GB-ENG","Maghull, Liverpool","no",,,,,,,
 611406,"GB-1370","heliport","Blythe Hall Helipad",53.584218,-2.848588,,"EU","GB","GB-ENG",,"no",,,,,,,
-611407,"GB-1371","heliport","Alder Hey Children's Hospital Helipad",53.418504,-2.898901,,"EU","GB","GB-ENG",,"no",,,,,,,
+611407,"GB-1371","heliport","Alder Hey Children's Hospital Helipad",53.418504,-2.898901,144,"EU","GB","GB-ENG","West Derby, Liverpool","no",,,,,"https://www.alderhey.nhs.uk/",,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121916,-2.053439,150,"EU","GB","GB-SCT","Foula","yes",,"FOA","EG3G",,,"https://en.wikipedia.org/w/index.php?title=Foula_Airfield&oldid=1234064311","EG42"
@@ -39778,7 +39778,7 @@
 334847,"KEE0","small_airport","Eloy Farms Airstrip",32.686198,-111.547097,1555,"NA","US","US-AZ","Eloy","no",,,,"EE0",,,
 19727,"KEED","medium_airport","Needles Airport",34.7663002014,-114.623001099,983,"NA","US","US-CA","Needles","no","KEED","EED","KEED","EED","http://cms.sbcounty.gov/airports/Airports/Needles.aspx","https://en.wikipedia.org/wiki/Needles_Airport","Needles AAF"
 3504,"KEEN","medium_airport","Dillant Hopkins Airport",42.898399,-72.270798,488,"NA","US","US-NH","Keene","no","KEEN","EEN","KEEN","EEN","https://ci.keene.nh.us/keene-dillant-hopkins-airport","https://en.wikipedia.org/wiki/Dillant-Hopkins_Airport",
-19728,"KEEO","small_airport","Meeker Airport",40.04880142211914,-107.88600158691406,6421,"NA","US","US-CO","Meeker","no",,,"KEEO","EEO",,,
+19728,"KEEO","small_airport","Meeker Coulter Field",40.048801,-107.886002,6421,"NA","US","US-CO","Meeker","no",,,"KEEO","EEO",,,
 19729,"KEET","medium_airport","Shelby County Airport",33.17699814,-86.78279877,586,"NA","US","US-AL","Alabaster","no",,,"KEET","EET","https://al-shelbycountytourism.civicplus.com/index.aspx?nid=109","https://en.wikipedia.org/wiki/Shelby_County_Airport_(Alabama)","21A"
 19730,"KEFC","small_airport","Belle Fourche Municipal Airport",44.73419952,-103.8619995,3191,"NA","US","US-SD","Belle Fourche","no",,,"KEFC","EFC",,,
 19731,"KEFD","medium_airport","Ellington Airport",29.607299804700002,-95.1587982178,32,"NA","US","US-TX","Houston","no","KEFD","EFD","KEFD","EFD",,"https://en.wikipedia.org/wiki/Ellington_Airport_(Texas)","Ellington Field"
@@ -61982,7 +61982,7 @@
 40898,"SK-404","small_airport","Calicanto Airport",4.488611,-75.01,2024,"SA","CO","CO-TOL","Alvarado","no",,,,"CAT",,,
 40868,"SK-405","small_airport","Cerritos Airport",4.841625,-74.775853,756,"SA","CO","CO-TOL","Ambalema","no",,,,"CRR",,,
 40892,"SK-406","small_airport","Chicoral - Estra Airport",4.202222,-74.969722,1248,"SA","CO","CO-TOL","Chicoral","no",,,,"CHA",,,
-40917,"SK-407","small_airport","Cruz Verde Airport",4.41,-75.14,3039,"SA","CO","CO-TOL","Ibague","no",,,"SKCE","CVT",,"https://en.wikipedia.org/wiki/Cruz_Verde_Airport",
+40917,"SK-407","small_airport","Cruz Verde Airport",4.389627,-75.130653,2979,"NA","CO","CO-TOL","Ibague","no","SKCE",,"SKCE","CVT",,"https://en.wikipedia.org/wiki/Cruz_Verde_Airport",
 40904,"SK-408","small_airport","El Aceituno Airport",4.347222,-75.024167,2131,"SA","CO","CO-TOL","Ibague","no",,,,"ECB",,,
 40887,"SK-409","small_airport","El Diamante Airport",4.571667,-74.939167,1268,"SA","CO","CO-TOL","Alvarado","no",,,,"ALV",,,
 40910,"SK-410","small_airport","El Escobal Airport",4.395556,-75.070833,2479,"SA","CO","CO-TOL","Ibague","no",,,,"EET",,,
@@ -62619,7 +62619,7 @@
 24638,"SN61","small_airport","Yoder Airpark",37.659698486328125,-97.62950134277344,1475,"NA","US","US-KS","Goddard","no",,,"SN61","SN61",,,
 24639,"SN62","small_airport","Roberts Field",37.874632,-97.513711,1384,"NA","US","US-KS","Bentley","no",,,,"SN62",,,
 24640,"SN63","closed","Gail Ballard Airport",37.608758,-99.115518,2165,"NA","US","US-KS","Haviland","no",,,,,,,"SN63"
-24641,"SN64","small_airport","Eck Field",37.696438,-97.543951,1330,"NA","US","US-KS","Goddard","no",,,,"SN64",,,
+24641,"SN64","small_airport","Eck Field",37.696438,-97.543951,1330,"NA","US","US-KS","Goddard","no",,,,"SN64",,,"KS64"
 24642,"SN65","small_airport","Lake Waltanna Airport",37.5939,-97.615457,1440,"NA","US","US-KS","Goddard","no",,,,"SN65",,,
 24645,"SN68","small_airport","Lil Bird Airport",37.878817,-97.309041,1456,"NA","US","US-KS","Valley Center","no",,,,"SN68",,,
 24646,"SN69","small_airport","Emmerson Airport",37.9314,-94.642407,860,"NA","US","US-KS","Hammond","no",,,,"SN69",,,
@@ -71764,6 +71764,7 @@
 611265,"US-13065","small_airport","Pleasant Valley Airport",47.255708,-101.421149,2021,"NA","US","US-ND","Stanton","no",,,"ND24","ND24",,,
 611267,"US-13066","small_airport","Larry Land Airport",35.866801,-87.687257,454,"NA","US","US-TN","Only","no",,,"TN55","TN55",,,
 611374,"US-13067","closed","Seidel Ranch Airport",30.147713,-97.662779,510,"NA","US","US-TX","Elroy","no",,,,,,,"02XS"
+611435,"US-13068","closed","Francis J Mellar Field",37.395452,-76.53028,75,"NA","US","US-VA","Gloucester","no",,,,,,,"W57, Evans Airport"
 334443,"US-1307","closed","Desert Gardens Airport",33.6573,-114.2357,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334444,"US-1308","closed","Ora Acres Airport",33.68147,-114.21366,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334445,"US-1309","small_airport","Salome Emergency Airfield",33.58057,-113.58721,,"NA","US","US-AZ","Salome","no",,,,,,,
@@ -80993,7 +80994,7 @@
 25394,"VA62","small_airport","The Grass Patch Airport",39.257856,-77.65407,530,"NA","US","US-VA","Lovettsville","no",,,"VA62","VA62",,,
 25398,"VA66","small_airport","Breeden Airport",38.607601165771484,-77.56939697265625,210,"NA","US","US-VA","Catlett","no",,,"VA66","VA66",,,
 25400,"VA68","small_airport","Lakeview Aerodrome",37.116908,-79.603844,1020,"NA","US","US-VA","Moneta","no",,,"VA68","VA68",,,
-25402,"VA70","heliport","Riverside Walter Reed Hospital Heliport",37.42179870605469,-76.54299926757812,75,"NA","US","US-VA","Gloucester","no",,,"VA70","VA70",,,
+25402,"VA70","heliport","Riverside Walter Reed Hospital Heliport",37.419782,-76.542906,75,"NA","US","US-VA","Gloucester","no",,,"VA70","VA70",,,
 25404,"VA72","small_airport","Covington Airport",36.600101470947266,-80.0386962890625,940,"NA","US","US-VA","Martinsville","no",,,"VA72","VA72",,,
 25405,"VA73","small_airport","Mazza Airport",37.244789,-77.4939,190,"NA","US","US-VA","Matoaca","no",,,"VA73","VA73",,,
 25410,"VA78","heliport","White Oak Farm Heliport",37.071552276599995,-76.8744659424,91,"NA","US","US-VA","Surry","no",,,"VA78","VA78",,,
