@@ -11778,7 +11778,7 @@
 506926,"AU-0536","heliport","Muskoka Helicopter Landing Site",-33.448833,151.073167,26,"OC","AU","AU-NSW","Gunderman","no",,,,"OZHDC",,,
 506931,"AU-0537","heliport","McLean Oval Helicopter Landing Site",-34.556037,148.368001,1385,"OC","AU","AU-NSW","Harden","no",,,,"OZHJK",,,
 507115,"AU-0538","small_airport","Tinbeerwah Airstrip (private)",-26.411335,152.962976,,"OC","AU","AU-QLD","Cooroy","no",,,,"QN00",,,
-507237,"AU-0539","large_airport","Western Sydney International (Nancy-Bird Walton) Airport",-33.883461,150.712981,262,"OC","AU","AU-NSW","Sydney","no","YSWS","WSI","YSWS",,"https://www.wsiairport.com.au/","https://en.wikipedia.org/wiki/Western_Sydney_International_Airport","Badgerys Creek"
+507237,"AU-0539","large_airport","Western Sydney International (Nancy-Bird Walton) Airport",-33.883461,150.712981,262,"OC","AU","AU-NSW","Sydney","yes","YSWS","WSI","YSWS",,"https://www.wsiairport.com.au/","https://en.wikipedia.org/wiki/Western_Sydney_International_Airport","Badgerys Creek"
 507244,"AU-0540","closed","RAAF Station Schofields",-33.713611,150.871111,49,"OC","AU","AU-NSW","Sydney","no",,,,,,"https://en.wikipedia.org/wiki/RAAF_Station_Schofields",
 507245,"AU-0541","closed","Fleurs Aerodrome",-33.863056,150.774167,138,"OC","AU","AU-NSW","Kemps Creek","no",,,,,,"https://en.wikipedia.org/wiki/Fleurs_Aerodrome",
 507246,"AU-0542","closed","Castlereagh Aerodrome",-33.676944,150.6875,151,"OC","AU","AU-NSW","Sydney","no",,,,,,"https://en.wikipedia.org/wiki/Castlereagh_Aerodrome",
@@ -25785,7 +25785,7 @@
 29738,"FABP","small_airport","Black Rock Airport",-27.129724,22.846255,3450,"AF","ZA","ZA-NC","Santoy","no","FABP",,"FABP",,,,
 46533,"FABR","medium_airport","Barberton Airport",-25.717147,30.974974,2250,"AF","ZA","ZA-MP","Umjindi (Barberton)","no","FABR",,"FABR",,"https://web.archive.org/web/20230820195632/http://barbertonairport.co.za/","https://en.wikipedia.org/wiki/Barberton_Airport","FABN, ABR, bush air, barberton valley, bush pilots, CC Pocock"
 27279,"FABS","small_airport","Brits Airport",-25.532301,27.7759,3756,"AF","ZA","ZA-NW","Brits","no","FABS",,"FABS",,,"https://en.wikipedia.org/wiki/Brits_Airfield",
-41156,"FABT","small_airport","Bethesda Road Airport",-31.873199,24.7969,4630,"AF","ZA","ZA-EC","Bethesda","no",,,,,,,
+41156,"FABT","closed","Bethesda Road Airport",-31.870073,24.792337,4630,"AF","ZA","ZA-EC","Bethesda","no",,,,,,,"FABT"
 41152,"FABU","small_airport","Bultfontein Airport",-28.273369,26.135835,4400,"AF","ZA","ZA-FS","Bultfontein","no","FABU","UTE","FABU",,,,
 29726,"FABV","small_airport","Brandviei Airfield",-30.467773,20.469417,2999,"AF","ZA","ZA-NC","Brandviei","no",,,,,,,
 27278,"FABW","small_airport","Karoo Gateway Airport",-32.306395,22.667146,2941,"AF","ZA","ZA-WC","Beaufort West","no","FABW",,"FABW",,,,"Beaufort West"
@@ -25798,7 +25798,7 @@
 41304,"FACE","small_airport","Ceres Airport",-33.316594,19.426676,1519,"AF","ZA","ZA-WC","Ceres","no","FACE",,"FACE",,,,
 29755,"FACF","small_airport","St Francis Airfield",-34.186901,24.834999,131,"AF","ZA","ZA-EC","St Francis Bay","no","FACF",,"FACF",,"https://stfrancisfield.com/26-2/",,
 326496,"FACG","small_airport","Caledon Airfield",-34.259523,19.416214,936,"AF","ZA","ZA-WC","Caledon","no","FACG",,"FACG",,,,
-41148,"FACH","small_airport","Cookhouse Airport",-32.744701,25.796301,1893,"AF","ZA","ZA-EC","Cookhouse","no",,,,,,,
+41148,"FACH","closed","Cookhouse Airport",-32.789329,25.817592,1893,"AF","ZA","ZA-EC","Cookhouse","no",,,,,,,"FACH"
 41307,"FACI","small_airport","Citrusdal Airport",-32.620425,19.004033,532,"AF","ZA","ZA-WC","Citrusdal","no",,,,,,,
 27280,"FACK","small_airport","Christiana Airport",-27.877192,25.204376,3978,"AF","ZA","ZA-NW","Christiana","no",,,,,,,
 29757,"FACL","small_airport","Carolina Airport",-26.0781,30.092501,5420,"AF","ZA","ZA-MP","Carolina","no",,,,,,,
@@ -25807,7 +25807,7 @@
 2775,"FACT","large_airport","Cape Town International Airport",-33.97403,18.604333,151,"AF","ZA","ZA-WC","Cape Town","yes","FACT","CPT","FACT",,"https://www.airports.co.za/airports/cape-town-international-airport","https://en.wikipedia.org/wiki/Cape_Town_International_Airport","Kaapstad Internasionale Lughawe, CTIA, DF Malan Airport"
 2776,"FACV","small_airport","Calvinia Airport",-31.500299,19.725901,3250,"AF","ZA","ZA-NC","Calvinia","no","FACV",,"FACV",,,,
 31037,"FACW","small_airport","Clanwilliam Airport",-32.177,18.8819,416,"AF","ZA","ZA-WC","Clanwilliam","no","FACW",,"FACW",,,,
-41153,"FACX","closed","Cathcart Airport",-32.283832,27.149448,3959,"AF","ZA","ZA-EC","Cathcart","no",,,,,,,"FACX"
+41153,"FACX","closed","Cathcart Airport",-32.276718,27.151986,3959,"AF","ZA","ZA-EC","Cathcart","no",,,,,,,"FACX"
 41297,"FACY","small_airport","Stilbaai Airport",-34.3517990112,21.424800872800002,266,"AF","ZA","ZA-WC","Stilbaai","no",,,"FACY",,,,
 29821,"FADA","small_airport","De Aar Airport",-30.6922,24.020599,4154,"AF","ZA","ZA-NC","De Aar","no","FADA",,"FADA",,,,
 29837,"FADB","small_airport","Dwaalboom Airport",-24.807199,26.8297,3652,"AF","ZA","ZA-LP","Dwaalboom","no","FADB",,"FADB",,,,
@@ -25815,25 +25815,25 @@
 29833,"FADD","small_airport","Dundee Airport",-28.1831,30.2225,4219,"AF","ZA","ZA-NL","Dundee","no",,,,,,,
 41204,"FADE","closed","Delmas Municipal Aerodrome",-26.121855,28.690238,5075,"AF","ZA","ZA-MP","Delmas","no",,,,,,"https://en.wikipedia.org/wiki/Delmas_Municipal_Aerodrome","FADE"
 611444,"FADF","small_airport","Driefontein Fochville Airport",-26.580276,27.442775,4760,"AF","ZA","ZA-FS",,"no","FADF",,"FADF",,,,
-41158,"FADG","small_airport","Dordrecht Airport",-31.383333,27.033333,5200,"AF","ZA","ZA-EC","Dordrecht","no",,,,,,,
+41158,"FADG","closed","Dordrecht Airport",-31.363183,27.031616,5200,"AF","ZA","ZA-EC","Dordrecht","no",,,,,,,
 31038,"FADH","small_airport","Durnacol Airport",-28.046101,30.006399,4317,"AF","ZA","ZA-NL","Durnacol","no",,,,,,,
-2777,"FADK","small_airport","Mubatuba Airport",-28.368401,32.2481,210,"AF","ZA","ZA-NL","Mubatuba","no","FADK","DUK","FADK",,,,
+2777,"FADK","small_airport","Mubatuba Airport",-28.366957,32.246701,210,"AF","ZA","ZA-NL","Mubatuba","no","FADK","DUK","FADK",,,,"Dukuduku"
 29823,"FADL","small_airport","Delareyville Airport",-26.679199,25.474701,4469,"AF","ZA","ZA-NW","Delareyville","no","FADL",,"FADL",,,,
-41234,"FADM","small_airport","Kokstad Airport",-30.556499,29.408199,4084,"AF","ZA","ZA-NL","Kokstad","no",,,,,,,
-29825,"FADO","small_airport","Dendron Airport",-23.3806,29.320801,3399,"AF","ZA","ZA-LP","Dendron","no","FADO",,"FADO",,,,
+41234,"FADM","closed","Kokstad Airport",-30.556499,29.408199,4084,"AF","ZA","ZA-NL","Kokstad","no",,,,,,,
+29825,"FADO","small_airport","Dendron Airport",-23.37938,29.326218,3399,"AF","ZA","ZA-LP","Dendron","no","FADO",,"FADO",,,,
 41146,"FADP","small_airport","Darlington Dam Lodge Airport",-33.096683,25.256839,967,"AF","ZA","ZA-EC","Port Elizabeth","no","FADP",,"FADP",,,,
 32185,"FADQ","small_airport","Zulu Inyala Airport",-27.8494,32.3097,160,"AF","ZA","ZA-NL","Phinda","no","FADQ","PZL","FADQ",,,,"Phinda Airfield"
 41303,"FADS","small_airport","De Doorns Airport",-33.455557,19.684493,1626,"AF","ZA","ZA-WC","De Doorns","no","FADS",,"FADS",,,,
 299617,"FADU","small_airport","Walkersons Field",-25.36278,30.18778,6041,"AF","ZA","ZA-MP",,"no","FADU",,"FADU",,"http://www.walkersons.co.za/",,"Lodge, Resort, Fly-inn"
-41187,"FADV","small_airport","Devon Airport",-26.358999,28.7897,5460,"AF","ZA","ZA-GT","Devon","no",,,,,,,
+41187,"FADV","closed","Devon Airport",-26.358999,28.7897,5460,"AF","ZA","ZA-GT","Devon","no",,,,,,,
 41301,"FADX","small_airport","Delta 200 Airstrip",-33.649494,18.47188,220,"AF","ZA","ZA-WC","Koeberg","no","FADX",,"FADX",,,,
 41215,"FADY","small_airport","De Aar Military Airport",-30.636509,23.919725,4037,"AF","ZA","ZA-NC","De Aar","no",,,"FADY",,,,"FA0016"
-41240,"FADZ","small_airport","Drakensberg Gardens Airport",-29.752678,29.248288,5948,"AF","ZA","ZA-NL","Drakensberg Gardens","no","FADZ",,"FADZ",,,,
-29860,"FAEC","small_airport","Estcourt Airport",-29.047199,29.910601,4262,"AF","ZA","ZA-NL","Estcourt","no","FAEC",,"FAEC",,,,
-41168,"FAED","small_airport","Edenburg Airport",-29.75,25.9,4509,"AF","ZA","ZA-FS","Edenburg","no",,,,,,,
-31039,"FAEG","small_airport","Egnep Airport",-24.566999,30.316999,2299,"AF","ZA","ZA-LP","Egnep","no",,,,,,,
+41240,"FADZ","small_airport","Drakensberg Gardens Airport",-29.742529,29.266608,5948,"AF","ZA","ZA-NL","Drakensberg Gardens","no","FADZ",,"FADZ",,,,
+29860,"FAEC","small_airport","Estcourt Airport",-29.047199,29.910601,4262,"AF","ZA","ZA-NL","Estcourt","no","FAEC",,"FAEC",,,,"Umtshezi"
+41168,"FAED","small_airport","Edenburg Airport",-29.74625,25.920452,4509,"AF","ZA","ZA-FS","Edenburg","no",,,,,,,
+31039,"FAEG","closed","Egnep Airport",-24.566999,30.316999,2299,"AF","ZA","ZA-LP","Egnep","no",,,,,,,
 2779,"FAEL","large_airport","King Phalo Airport",-33.035599,27.825899,435,"AF","ZA","ZA-EC","East London","yes","FAEL","ELS","FAEL",,"https://www.airports.co.za/airports/King-Phalo-airport","https://en.wikipedia.org/wiki/East_London_Airport",
-27281,"FAEM","small_airport","Empangeni Airport",-28.719999313354492,31.889999389648438,251,"AF","ZA","ZA-NL","Empangeni","no","FAEM","EMG","FAEM",,,,
+27281,"FAEM","small_airport","Empangeni Airport",-28.719517,31.892727,251,"AF","ZA","ZA-NL","Empangeni","no","FAEM","EMG","FAEM",,,,
 345668,"FAEN","small_airport","Entabeni Airstrip",-24.1933,28.735,3890,"AF","ZA","ZA-LP","Entabeni","no","FAEN",,"FAEN",,,,
 2780,"FAEO","medium_airport","Ermelo Airport",-26.4956,29.979799,5700,"AF","ZA","ZA-MP","Ermelo","no","FAEO",,"FAEO",,,,
 29846,"FAER","small_airport","Ellisras Matimba Airport",-23.7267,27.688299,2799,"AF","ZA","ZA-LP","Ellisras","no",,"ELL",,,,,
@@ -25841,58 +25841,58 @@
 41159,"FAET","small_airport","Elliot Airport",-31.3069,27.849501,5028,"AF","ZA","ZA-EC","Elliot","no","FAET",,"FAET",,,,
 2781,"FAFB","medium_airport","Ficksburg Sentraoes Airport",-28.82309913635254,27.908899307250977,5315,"AF","ZA","ZA-FS","Ficksburg","no","FAFB","FCB","FAFB",,,,
 41182,"FAFF","small_airport","Frankfort Airport",-27.286786,28.514585,5176,"AF","ZA","ZA-FS","Frankfort","no",,,,,,,
-41217,"FAFG","small_airport","Flamingo Vlei Airport",-30.490999,21.1217,3248,"AF","ZA","ZA-NC","Flamingo Vlei","no",,,,,,,
-29871,"FAFO","small_airport","Fort Beaufort Airport",-32.790501,26.5777,1581,"AF","ZA","ZA-EC","Fort Beaufort","no",,,,,,,
+41217,"FAFG","closed","Flamingo Vlei Airport",-30.491762,21.121752,3248,"AF","ZA","ZA-NC","Flamingo Vlei","no",,,,,,,"FAFG"
+29871,"FAFO","small_airport","KwaMaqoma Airport",-32.790501,26.5777,1581,"AF","ZA","ZA-EC","Fort Beaufort","no","FAFO",,"FAFO",,,,"Fort Beaufort"
 29878,"FAFR","small_airport","Fraserburg Airport",-31.933901,21.502501,4180,"AF","ZA","ZA-NC","Fraseburg","no",,,,,,,
-31040,"FAFU","small_airport","Fraaiuitzicht Airport",-27.316999,27.25,4841,"AF","ZA","ZA-FS","Fraaiuitzicht","no",,,,,,,
+31040,"FAFU","closed","Fraaiuitzicht Airport",-27.316999,27.25,4841,"AF","ZA","ZA-FS","Fraaiuitzicht","no",,,,,,,
 29879,"FAFW","small_airport","Freeway Airport",-25.4772,28.290001,3819,"AF","ZA","ZA-GT","Kromdraai","no","FAFW",,"FAFW",,,,
-31042,"FAGA","small_airport","The Grange Airport",-30.267,29.966999,2600,"AF","ZA","ZA-NL","Umzimkulu","no",,,,"FA0068",,,
+31042,"FAGA","closed","The Grange Airport",-30.267,29.966999,2600,"AF","ZA","ZA-NL","Umzimkulu","no",,,,,,,"FA0068"
 2782,"FAGC","medium_airport","Grand Central Airport",-25.986299514799995,28.1401004791,5325,"AF","ZA","ZA-GT","Midrand","no","FAGC","GCJ","FAGC",,,"https://en.wikipedia.org/wiki/Grand_Central_Airport",
 611447,"FAGF","small_airport","Grootfontein Airstrip",-33.769516,18.702807,387,"AF","ZA","ZA-WC",,"no","FAGF",,"FAGF",,,,
 2783,"FAGG","large_airport","George Airport",-34.0056,22.378902,648,"AF","ZA","ZA-WC","George","yes","FAGG","GRJ","FAGG",,"https://www.airports.co.za/airports/george-airport","https://en.wikipedia.org/wiki/George_Airport","P.W. Botha Airport"
-41248,"FAGH","small_airport","Glen Grey Airport",-28.833334,29.466667,3500,"AF","ZA","ZA-NL","Emmaus","no",,,,,,,
+41248,"FAGH","closed","Glen Grey Airport",-28.833334,29.466667,3500,"AF","ZA","ZA-NL","Emmaus","no",,,,,,,
 27283,"FAGI","small_airport","Giyani Airport",-23.2833,30.65,1584,"AF","ZA","ZA-LP","Giyani","no","FAGI","GIY","FAGI",,,"https://af.wikipedia.org/wiki/Giyani-lughawe",
 29893,"FAGJ","small_airport","Gifvlei Airport",-30.368249,20.016341,3199,"AF","ZA","ZA-NC","Gifvlei","no",,,,,,,
 29919,"FAGL","small_airport","Groblersdal Kob Airport",-25.186899,29.403299,3051,"AF","ZA","ZA-LP","Groblersdal","no","FAGL",,"FAGL",,,,
 2784,"FAGM","medium_airport","Rand Airport",-26.2425,28.151199,5483,"AF","ZA","ZA-GT","Johannesburg","no","FAGM","QRA","FAGM",,,"https://en.wikipedia.org/wiki/Rand_Airport",
-29907,"FAGO","small_airport","Gowrie Airport",-24.737165,31.560287,1200,"AF","ZA","ZA-MP",,"no",,,,,,,
+29907,"FAGO","small_airport","Gowrie Airport",-24.737124,31.560631,1200,"AF","ZA","ZA-MP","Chitwa Chitwa","no","FACC",,"FACC",,,,
 2785,"FAGR","small_airport","Graaff Reinet Airport",-32.1936,24.541401,2604,"AF","ZA","ZA-EC","Graaff-Reinet","no","FAGR",,"FAGR",,,,
 2786,"FAGT","small_airport","Grahamstown Airport",-33.284698,26.4981,2135,"AF","ZA","ZA-EC","Grahamstown","no","FAGT",,"FAGT",,,,
 29912,"FAGV","small_airport","Gravelotte Airport",-23.91127,30.696192,1650,"AF","ZA","ZA-LP","Gravelotte","no","FAGV",,"FAGV",,,,
 31043,"FAGW","small_airport","Magwa Airport",-31.393942,29.69347,1823,"AF","ZA","ZA-EC","Magwa","no",,,,,,,
 2787,"FAGY","small_airport","Greytown Airport",-29.122,30.5867,3531,"AF","ZA","ZA-NL","Greytown","no","FAGY",,"FAGY",,,"https://en.wikipedia.org/wiki/Greytown_Airport",
 2788,"FAHA","small_airport","Harmony Airport",-28.078699,26.8612,4399,"AF","ZA","ZA-FS","Virginia","no",,,,,,,
-41269,"FAHB","small_airport","Hartebeespoortdam Airport",-24.502399,28.0791,3740,"AF","ZA","ZA-LP","Hartebeespoort","no",,,,,,,
+41269,"FAHB","closed","Hartebeespoortdam Airport",-24.502399,28.0791,3740,"AF","ZA","ZA-LP","Hartebeespoort","no",,,,,,,
 29964,"FAHC","small_airport","Howick Airport",-29.552799,30.2111,3619,"AF","ZA","ZA-NL","Howick","no","FAHC",,"FAHC",,,,
-41139,"FAHD","small_airport","Humansdorp Airport",-34.036598,24.7889,345,"AF","ZA","ZA-EC","Humansdorp","no",,,,,,,
+41139,"FAHD","closed","Humansdorp Airport",-34.036598,24.7889,345,"AF","ZA","ZA-EC","Humansdorp","no",,,,,,,
 30302,"FAHE","small_airport","Pullenshope Hendrina Airport",-25.9778,29.6189,5171,"AF","ZA","ZA-MP","Hendrina","no",,,,,,,
 29945,"FAHF","small_airport","Henry's Flats Airport",-33.045796,25.714874,1709,"AF","ZA","ZA-EC","Henry's Flats","no","FAHF",,"FAHF",,,,
 27284,"FAHG","small_airport","Heidelburg Airport",-26.51,28.389999,5089,"AF","ZA","ZA-GT","Heidelburg","no","FAHG",,"FAHG",,,"https://en.wikipedia.org/wiki/Heidelberg_Airport",
-27285,"FAHH","small_airport","Hibberdene Airport",-30.583947,30.558562,89,"AF","ZA","ZA-NL","Hibberdene","no",,,,,,,
+27285,"FAHH","closed","Hibberdene Airport",-30.583947,30.558562,89,"AF","ZA","ZA-NL","Hibberdene","no",,,,,,,
 29935,"FAHI","small_airport","Halfweg Airport",-30.0133,20.1392,3159,"AF","ZA","ZA-NC","Halfweg","no","FAHI",,"FAHI",,,,
 29937,"FAHJ","small_airport","Harding Airport",-30.574529,29.907017,2890,"AF","ZA","ZA-NL","Harding","no","FAHJ",,"FAHJ",,,,
-29932,"FAHK","small_airport","Haakdoornboom Airport",-25.5872,28.115801,4055,"AF","ZA","ZA-GT","Haakdoornboom","no",,,,,,,
+29932,"FAHK","closed","Haakdoornboom Airport",-25.5872,28.115801,4055,"AF","ZA","ZA-GT","Haakdoornboom","no",,,,,,,"FAHK"
 29948,"FAHL","small_airport","Hluhluwe Airport",-28.0166049887,32.2751712799,249,"AF","ZA","ZA-NL","Hluhluwe","no","FAHL","HLW","FAHL",,,"https://en.wikipedia.org/wiki/Hluhluwe_Airport",
 29943,"FAHO","small_airport","Heilbron Airport",-27.278601,27.9956,5200,"AF","ZA","ZA-FS","Heilbron","no","FAHO",,"FAHO",,,,
 29959,"FAHP","small_airport","Hoopstad Airport",-27.821699,25.916901,4131,"AF","ZA","ZA-FS","Hoopstad","no","FAHP",,"FAHP",,,,
-2789,"FAHR","medium_airport","Harrismith Airport",-28.2351,29.106199,5585,"AF","ZA","ZA-FS","Harrismith","no",,"HRS",,,,"https://en.wikipedia.org/wiki/Harrismith_Airport",
+2789,"FAHR","medium_airport","Harrismith Airport",-28.234936,29.106361,5585,"AF","ZA","ZA-FS","Harrismith","no",,"HRS",,,,"https://en.wikipedia.org/wiki/Harrismith_Airport","FAHR"
 2790,"FAHS","closed","Non-Existent Airport",-46.181902,-12.114796,1743,"AF","ZZ","ZZ-U-A",,"no",,,,,,,
 29953,"FAHT","medium_airport","Eastgate Airport / Air Force Base Hoedspruit",-24.361864,31.052921,1801,"AF","ZA","ZA-LP","Hoedspruit","yes","FAHS","HDS","FAHS",,"https://eastgateairport.co.za","https://en.wikipedia.org/wiki/Air_Force_Base_Hoedspruit","Hoedspruit Airport, Hoedspruit Air Force Base"
 29950,"FAHU","small_airport","H M S Bastard Memorial Airport",-30.5425,29.499001,4701,"AF","ZA","ZA-NL","H.M.S.Bastard Memorial","no","FAHU",,"FAHU",,,,
 2791,"FAHV","small_airport","Big Water Airport",-30.562111,25.529343,4189,"AF","ZA","ZA-FS","Gariep Dam","no","FAGA",,"FAGA",,"https://bigwater.aero/",,"FAHV"
-41254,"FAIA","small_airport","Itala Airport",-27.4867,31.171101,2665,"AF","ZA","ZA-NL","Itala","no","FAIA",,"FAIA",,,,
-29970,"FAID","small_airport","Idutywa Airport",-32.099998,28.3167,2530,"AF","ZA","ZA-EC","Idutywa","no","FAID",,"FAID",,,,
-41245,"FAIS","small_airport","Isithebe Airport",-29.105556,31.407499,313,"AF","ZA","ZA-NL","Nyoni","no","FAIS",,"FAIS",,,,
+41254,"FAIA","small_airport","Itala Airport",-27.531834,31.299856,2665,"AF","ZA","ZA-NL","Itala","no","FAIA",,"FAIA",,,,
+29970,"FAID","closed","Idutywa Airport",-32.109469,28.317119,2530,"AF","ZA","ZA-EC","Idutywa","no",,,,,,,"FAID"
+41245,"FAIS","small_airport","Isithebe Airport",-29.105982,31.407275,313,"AF","ZA","ZA-NL","Nyoni","no","FAIS",,"FAIS",,,,
 41257,"FAIV","small_airport","Ingwavuma Airport",-27.1171,32.008701,2100,"AF","ZA","ZA-NL","Ingwavuma","no","FAIV",,"FAIV",,,,
 31047,"FAIW","small_airport","Indwe Airport",-31.485588,27.350335,4167,"AF","ZA","ZA-EC","Indwe","no",,,,,,,
 345667,"FAJC","small_airport","Jackalberry Airstrip",-24.508666,31.142142,1850,"AF","ZA","ZA-LP",,"no","FAJC",,"FAJC",,,,
-41167,"FAJF","small_airport","Jagersfontain Airport",-29.762501,25.433001,4714,"AF","ZA","ZA-FS","Jagersfontain","no",,,,,,,
+41167,"FAJF","closed","Jagersfontain Airport",-29.762501,25.433001,4714,"AF","ZA","ZA-FS","Jagersfontain","no",,,,,,,
 41142,"FAJP","small_airport","Joubertina Airport",-33.830747,23.827908,2007,"AF","ZA","ZA-EC","Joubertina","no","FAJP",,"FAJP",,,,
-41147,"FAJV","small_airport","Jansenville Airport",-32.939098,24.6707,1430,"AF","ZA","ZA-EC","Jansenville","no","FAJV",,"FAJV",,,,
+41147,"FAJV","small_airport","Jansenville Airport",-32.952239,24.646703,1430,"AF","ZA","ZA-EC","Jansenville","no","FAJV",,"FAJV",,,,
 41258,"FAKB","small_airport","Kosibaai Airport",-27.018262,32.750399,140,"AF","ZA","ZA-NL","Kosi Bay","no","FAKB",,"FAKB",,,,
 2793,"FAKD","medium_airport","P C Pelser Airport",-26.871099,26.718,4444,"AF","ZA","ZA-NW","Klerksdorp","no","FAKD","KXE","FAKD",,,"https://en.wikipedia.org/wiki/Klerksdorp_Airport",
 27287,"FAKE","small_airport","Keimouth Airport",-32.697337,28.356291,222,"AF","ZA","ZA-EC","Keimouth","no","FAKE",,"FAKE",,,,
-41155,"FAKF","small_airport","Koffee Bay Airport",-31.957335,29.174543,10,"AF","ZA","ZA-EC","Koffee Bay","no",,,,,,,
+41155,"FAKF","closed","Koffee Bay Airport",-31.957335,29.174543,10,"AF","ZA","ZA-EC","Koffee Bay","no",,,,,,,
 30036,"FAKG","small_airport","Komati Power Station Airport",-26.0933,29.455601,5289,"AF","ZA","ZA-MP","Komati Power Station","no",,,,,,,
 30023,"FAKH","small_airport","Kenhardt Aerodrome",-29.329436,21.191798,2723,"AF","ZA","ZA-NC","Kenhardt","no",,,,,,,
 31048,"FAKI","small_airport","Kobb Inn Airport",-32.433799,28.683467,147,"AF","ZA","ZA-EC","Kobb Inn","no",,,,,"http://www.kobinn.co.za/",,"Resort, Lodge, Fly-inn"
@@ -25901,7 +25901,7 @@
 30045,"FAKL","small_airport","Kriel Airport",-26.251101,29.1947,5262,"AF","ZA","ZA-MP","Kriel","no","FAKL",,"FAKL",,,,
 2794,"FAKM","large_airport","Kimberley Airport",-28.805401,24.764872,3950,"AF","ZA","ZA-NC","Kimberley","yes","FAKM","KIM","FAKM",,"https://www.airports.co.za/airports/kimberley-airport","https://en.wikipedia.org/wiki/Kimberley_Airport",
 2795,"FAKN","large_airport","Kruger Mpumalanga International Airport",-25.383327,31.105325,2829,"AF","ZA","ZA-MP","Mbombela","yes","FAKN","MQP","FAKN",,"https://kmiairport.co.za","https://en.wikipedia.org/wiki/Kruger_Mpumalanga_International_Airport",
-30037,"FAKO","small_airport","Komga Airport",-32.5928,27.875799,2178,"AF","ZA","ZA-EC","Komga","no",,,,,,,
+30037,"FAKO","closed","Komga Airport",-32.5928,27.875799,2178,"AF","ZA","ZA-EC","Komga","no",,,,,,,
 30038,"FAKP","small_airport","Komatipoort Airport",-25.4403,31.93,541,"AF","ZA","ZA-MP","Komatipoort","no",,"KOF",,,,,
 2796,"FAKR","small_airport","Krugersdorp Airport",-26.080826,27.725915,5499,"AF","ZA","ZA-GT","Krugersdorp","no","FAKR",,"FAKR",,"http://www.fakr.co.za",,"Jack Taylor"
 2797,"FAKS","small_airport","Kroonstad Airport",-27.660601,27.3158,4700,"AF","ZA","ZA-FS","Kroonstad","no","FAKS",,"FAKS",,,"https://en.wikipedia.org/wiki/Kroonstad_Airport",
@@ -25915,7 +25915,7 @@
 30056,"FALB","small_airport","Ladybrand Airfield",-29.181101,27.4536,5180,"AF","ZA","ZA-FS","Ladybrand","no","FALB",,"FALB",,,,
 2801,"FALC","medium_airport","Lime Acres Finsch Mine Airport",-28.36009979248047,23.43910026550293,4900,"AF","ZA","ZA-NC","Lime Acres","no","FALC","LMR","FALC",,,,
 41262,"FALD","small_airport","Londolozi Airport",-24.7478,31.4743,1300,"AF","ZA","ZA-LP","Londolozi","no","FALD","LDZ","FALD",,,,
-300795,"FALE","large_airport","King Shaka International Airport",-29.6144444444,31.1197222222,295,"AF","ZA","ZA-NL","Durban","yes","FALE","DUR","FALE",,,"https://en.wikipedia.org/wiki/King_Shaka_International_Airport","La Mercy Airport"
+300795,"FALE","large_airport","King Shaka International Airport",-29.613381,31.117942,295,"AF","ZA","ZA-NL","Durban","yes","FALE","DUR","FALE",,,"https://en.wikipedia.org/wiki/King_Shaka_International_Airport","La Mercy Airport"
 31050,"FALF","small_airport","Loeriesfontein Airport",-30.906401,19.425301,2997,"AF","ZA","ZA-NC","Loeriesfontein","no","FALF",,"FALF",,,,
 41228,"FALH","small_airport","Lohathla Military Airport",-28.0368,23.0987,4500,"AF","ZA","ZA-NC","Lohathla","no","FALH",,"FALH",,,,
 2802,"FALI","small_airport","Lichtenburg Airport",-26.175699,26.184601,4875,"AF","ZA","ZA-NW","Lichtenburg","no","FALI",,"FALI",,,,
@@ -25926,45 +25926,45 @@
 41247,"FALQ","small_airport","El Mirador Airport",-28.985769,29.476662,3897,"AF","ZA","ZA-NL","Ardmore","no","FALQ",,"FALQ",,,,
 41144,"FALR","small_airport","Steytlerville Airport",-33.337002,24.3214,1450,"AF","ZA","ZA-EC","Steytlerville","no","FALR",,"FALR",,,,
 41305,"FALS","small_airport","Somersveld Airport",-33.246227,18.479998,196,"AF","ZA","ZA-WC","Somersveld","no","FALS",,"FALS",,,,
-2805,"FALW","medium_airport","Langebaanweg Airport",-32.968898773199996,18.1602993011,108,"AF","ZA","ZA-WC","Langebaanweg","no","FALW","SDB","FALW",,,"https://en.wikipedia.org/wiki/AFB_Langebaanweg",
+2805,"FALW","medium_airport","Langebaanweg Air Force Base",-32.968899,18.160299,108,"AF","ZA","ZA-WC","Langebaanweg","no","FALW","SDB","FALW",,,"https://en.wikipedia.org/wiki/AFB_Langebaanweg",
 2806,"FALY","medium_airport","Ladysmith Airport",-28.5816993713,29.749700546299998,3548,"AF","ZA","ZA-NL","Ladysmith","no","FALY","LAY","FALY",,,"https://en.wikipedia.org/wiki/Ladysmith_Airport",
 31051,"FAMA","small_airport","Matatiele Airport",-30.322201,28.794201,4762,"AF","ZA","ZA-NL","Matatiele","no",,,,,,,
 2807,"FAMB","small_airport","Middelburg Airport",-25.684799,29.440201,4886,"AF","ZA","ZA-MP","Middelburg","no","FAMB",,"FAMB",,,,
 30136,"FAMC","small_airport","Middelburg 2 Airport",-31.547199,25.0294,4022,"AF","ZA","ZA-EC","Cape Town","no","FAMC",,"FAMC",,,,
 2808,"FAMD","medium_airport","Malamala Airport",-24.816866,31.544085,1124,"AF","ZA","ZA-MP","Malamala","no","FAMD","AAM","FAMD",,,"https://en.wikipedia.org/wiki/Mala_Mala_Airport",
-31052,"FAMF","small_airport","Malabar Airport",-29.010929,23.849489,3348,"AF","ZA","ZA-NC","Malabar","no",,,,,,,
+31052,"FAMF","closed","Malabar Airport",-29.010929,23.849489,3348,"AF","ZA","ZA-NC","Malabar","no",,,,,,,
 2809,"FAMG","medium_airport","Margate Airport",-30.8574008942,30.343000412,495,"AF","ZA","ZA-NL","Margate","yes","FAMG","MGH","FAMG",,,"https://en.wikipedia.org/wiki/Margate_Airport",
 41285,"FAMH","small_airport","Musina(Messina) Airport",-22.355672,29.9862,1904,"AF","ZA","ZA-LP","Musina","no","FAMH","MEZ","FAMH",,,,
 2810,"FAMI","small_airport","Marble Hall Airport",-24.9891,29.2831,2980,"AF","ZA","ZA-LP","Marble Hall","no","FAMI",,"FAMI",,,,
 2811,"FAMJ","small_airport","Majuba Power Station Airport",-27.0793,29.7785,5600,"AF","ZA","ZA-MP","Amerspoort","no","FAMJ",,"FAMJ",,,,
 41289,"FAMK","closed","Mafikeng Airport",-25.816668,25.616667,4201,"AF","ZA","ZA-NW","Mafikeng","no",,,,,,,"FAMK"
 30111,"FAML","closed","Manyani Game Lodge Airport",-25.8167,25.7167,4383,"AF","ZA","ZA-NW","Mafeking","no",,,,,,,
-2812,"FAMM","medium_airport","Mmabatho International Airport",-25.798400878900004,25.548000335699996,4181,"AF","ZA","ZA-NW","Mafeking","yes","FAMM","MBD","FAMM",,,"https://en.wikipedia.org/wiki/Mmabatho_International_Airport","Mafikeng"
+2812,"FAMM","medium_airport","George Dick Montshioa Airport",-25.798401,25.548,4181,"AF","ZA","ZA-NW","Mafeking","yes","FAMM","MBD","FAMM",,,"https://en.wikipedia.org/wiki/Mmabatho_International_Airport","Mafikeng, Mmabatho International"
 525716,"FAMN","small_airport","Malelane Airport",-25.473581,31.565947,1153,"AF","ZA","ZA-MP","Malelane","no","FAMN","LLE","FAMN",,"https://malelaneairport.co.za/",,
 30164,"FAMO","small_airport","Mossel Bay Airport",-34.158746,22.055676,531,"AF","ZA","ZA-WC","Mossel Bay","no","FAMO","MZY","FAMO",,"http://www.mosselbayaero.com/wmenu.php",,
 41284,"FAMP","small_airport","Madimbo Airport",-22.374701,30.881599,2116,"AF","ZA","ZA-LP","Matshakatini","no","FAMP",,"FAMP",,,,
 41163,"FAMQ","small_airport","Maclear Airport",-31.072201,28.376141,4106,"AF","ZA","ZA-EC","Nqanqarhu (Maclear)","no","FAMF",,"FAMF",,,,
 2814,"FAMS","medium_airport","Morningside Farm Airport",-25.7045001984,26.9090003967,4251,"AF","ZA","ZA-NW","Silveroaks","no","FAMS",,"FAMS",,,,
-41157,"FAMT","small_airport","Molteno Airport",-31.389601,26.3484,5254,"AF","ZA","ZA-EC","Molteno","no",,,,,,,
+41157,"FAMT","small_airport","Molteno Airport",-31.389601,26.3484,5254,"AF","ZA","ZA-EC","Molteno","no",,,,,,,"FAMT"
 2815,"FAMU","medium_airport","Mkuze Airport",-27.626101,32.0443,400,"AF","ZA","ZA-NL","Mkuze","yes","FAMU","MZQ","FAMU",,"https://umda.org.za/mkuze-airport/","https://en.wikipedia.org/wiki/Mkuze","Mkuzi Airport, eMkhuze, uMkhuze, Mkhuze"
 41255,"FAMX","small_airport","Mbazwana Airport",-27.4814,32.593899,195,"AF","ZA","ZA-NL","Mbazwana","no",,,,,,,
 30104,"FAMY","small_airport","Malmesbury Airport",-33.486132,18.710311,971,"AF","ZA","ZA-WC","Malmesbury","no",,,,,,,
-31053,"FAMZ","small_airport","Msauli Airport",-26.049999,31.017,2548,"AF","ZA","ZA-MP","Msauli","no","FAMZ",,"FAMZ",,,,
-41253,"FANA","small_airport","Nongoma Airport",-27.914,31.6562,2596,"AF","ZA","ZA-NL","Nongoma","no","FANA",,"FANA",,,,
+31053,"FAMZ","closed","Msauli Airport",-26.049999,31.017,2548,"AF","ZA","ZA-MP","Msauli","no",,,,,,,"FAMZ"
+41253,"FANA","closed","Nongoma Airport",-27.914,31.6562,2596,"AF","ZA","ZA-NL","Nongoma","no",,,,,,,"FANA"
 2816,"FANC","medium_airport","Newcastle Airport",-27.7705993652,29.976900100699996,4074,"AF","ZA","ZA-NL","Newcastle","no","FANC","NCS","FANC",,,"https://en.wikipedia.org/wiki/Newcastle_Airport_(South_Africa)",
 41271,"FANG","small_airport","Ngala Airport",-24.389,31.326,3357,"AF","ZA","ZA-MP","Ngala","no","FANG","NGL","FANG",,,,
-41243,"FANH","small_airport","New Hanover Airport",-29.356001,30.5184,2490,"AF","ZA","ZA-NL","New Hanover","no",,,,,,,
-41205,"FANL","small_airport","New Largo Airport",-25.9785,28.9844,5038,"AF","ZA","ZA-MP","Witbank","no",,,,,,,
+41243,"FANH","closed","New Hanover Airport",-29.356001,30.5184,2490,"AF","ZA","ZA-NL","New Hanover","no",,,,,,,
+41205,"FANL","closed","New Largo Airport",-25.9785,28.9844,5038,"AF","ZA","ZA-MP","Witbank","no",,,,,,,
 27289,"FANS","small_airport","Nelspruit Airport",-25.5,30.9137992859,2875,"AF","ZA","ZA-MP","Nelspruit","no","FANS","NLP","FANS",,,"https://en.wikipedia.org/wiki/Nelspruit_Airport",
-41214,"FANV","small_airport","Nieuwoudtville Airfield",-31.391097,19.105888,1890,"AF","ZA","ZA-NC","Nieuwoudtville","no",,,,,,,
+41214,"FANV","small_airport","Nieuwoudtville Airfield",-31.367218,19.122202,1890,"AF","ZA","ZA-NC","Nieuwoudtville","no",,,,,,,
 607140,"FANX","small_airport","Diepkloof Airfield",-33.34752,18.69684,689,"AF","ZA","ZA-EC","Malmesbury","no",,,,,,,"FA0526"
 2817,"FANY","small_airport","Nylstroom Airfield",-24.6861,28.4349,3900,"AF","ZA","ZA-LP","Modimolle","no","FANY",,"FANY",,,,
 2818,"FAOB","small_airport","Overberg Airport",-34.563474,20.252438,52,"AF","ZA","ZA-WC","Overberg","no","FAOB","OVG","FAOB",,,"https://en.wikipedia.org/wiki/AFB_Overberg",
-41178,"FAOD","small_airport","Odendaalsrus Airport",-27.871,26.693399,1340,"AF","ZA","ZA-FS","Odendaalsrus","no",,,,,,,
-30210,"FAOF","small_airport","Jack Duvenhage Airport",-27.961815,22.73505,4216,"AF","ZA","ZA-NC","Olifantshoek","no","FAOF",,"FAOF",,,,"Olifantshoek"
+41178,"FAOD","closed","Odendaalsrus Airport",-27.871,26.693399,1340,"AF","ZA","ZA-FS","Odendaalsrus","no",,,,,,,
+30210,"FAOF","closed","Jack Duvenhage Airport",-27.961815,22.73505,4216,"AF","ZA","ZA-NC","Olifantshoek","no",,,,,,,"Olifantshoek, FAOF"
 2819,"FAOH","medium_airport","Oudtshoorn Airport",-33.606998,22.188999,1063,"AF","ZA","ZA-WC","Oudtshoorn","no","FAOH","OUH","FAOH",,,,
 30219,"FAOI","small_airport","Orient Glider Airport",-26.0394,27.5956,5102,"AF","ZA","ZA-GT","Orient","no","FAOI",,"FAOI",,,,
-31054,"FAOL","small_airport","Othawa Airport",-24.733,31.4,1098,"AF","ZA","ZA-LP","Otthawa","no","FAOL",,"FAOL",,,,
+31054,"FAOL","small_airport","Othawa Airport",-24.758414,31.405406,1098,"AF","ZA","ZA-LP","Otthawa","no","FAOL",,"FAOL",,,,
 30222,"FAON","small_airport","Ornate Lake - St Lucia Airport",-28.044901,32.4254,128,"AF","ZA","ZA-NL","Hluhluwe","no",,,,,,,"Hell's Gate Airport"
 31055,"FAOR","large_airport","O.R. Tambo International Airport",-26.140081,28.246801,5558,"AF","ZA","ZA-GT","Johannesburg","yes","FAOR","JNB","FAOR",,"https://ortambo-airport.com/","https://en.wikipedia.org/wiki/O._R._Tambo_International_Airport","Johannesburg International Airport, FAJS"
 41286,"FAOT","small_airport","Ottosdal Airport",-26.7983,26.000299,4860,"AF","ZA","ZA-NW","Ottosdal","no",,,,,,,
@@ -26042,12 +26042,12 @@
 30504,"FAUH","small_airport","Uitenhage Airport",-33.785301,25.383301,289,"AF","ZA","ZA-EC","Uitenhage","no","FAUH",,"FAUH",,,,
 2846,"FAUL","medium_airport","Prince Mangosuthu Buthelezi Airport",-28.3206005096,31.4165000916,1720,"AF","ZA","ZA-NL","Ulundi","no","FAUL","ULD","FAUL",,,"https://en.wikipedia.org/wiki/Ulundi_Airport",
 2847,"FAUP","medium_airport","Upington Airport",-28.400246,21.263592,2782,"AF","ZA","ZA-NC","Upington","yes","FAUP","UTN","FAUP",,"https://www.airports.co.za/airports/upington-international-airport","https://en.wikipedia.org/wiki/Upington_Airport","Pierre van Ryneveld"
-30515,"FAUR","small_airport","Utrecht Airport",-27.6805,30.316799,4101,"AF","ZA","ZA-NL","Utrecht","no","FAUR",,"FAUR",,,,
+30515,"FAUR","small_airport","Utrecht Airport",-27.674236,30.321533,4101,"AF","ZA","ZA-NL","Utrecht","no","FAUR",,"FAUR",,,,
 41260,"FAUS","small_airport","Ulusaba Airport",-24.7854003906,31.3549003601,1263,"AF","ZA","ZA-LP","Ulusaba","no","FAUS","ULX","FAUS",,,,
 2848,"FAUT","medium_airport","K. D. Matanzima Airport",-31.546363184900002,28.6733551025,2400,"AF","ZA","ZA-EC","Mthatha","yes","FAUT","UTT","FAUT",,,"https://en.wikipedia.org/wiki/K.D._Matanzima_Airport","Umtata"
 30516,"FAVA","small_airport","Vaalputs Airport",-30.134199,18.526699,3340,"AF","ZA","ZA-NC","Vaalputs","no","FAVA",,"FAVA",,,,
 2849,"FAVB","medium_airport","Vryburg Airport",-26.982401,24.7288,3920,"AF","ZA","ZA-NW","Vryburg","no","FAVB","VRU","FAVB",,,"https://en.wikipedia.org/wiki/Vryburg_Airport",
-30540,"FAVD","small_airport","Vrede Airport",-27.4403,29.153099,5499,"AF","ZA","ZA-FS","Vrede","no",,,,,,,
+30540,"FAVD","small_airport","Vrede Airport",-27.439856,29.15305,5499,"AF","ZA","ZA-FS","Vrede","no",,,,,,,"FAVD"
 41288,"FAVE","small_airport","Ventersdorp Airport",-26.3009,26.814199,4917,"AF","ZA","ZA-NW","Ventersdorp","no",,,,,,,
 30528,"FAVF","small_airport","Verborgenfontei Airport",-31.1658,23.809401,4360,"AF","ZA","ZA-NC","Verborgenfontein","no","FAVF",,"FAVF",,,,
 2850,"FAVG","medium_airport","Virginia Airport",-29.770599,31.058399,20,"AF","ZA","ZA-NL","Durban","no","FAVG","VIR","FAVG",,,"https://en.wikipedia.org/wiki/Virginia_Airport",
@@ -31004,6 +31004,7 @@
 595205,"HK-0154","heliport","Tsing Shan Range Pak Nai Heliport",22.43353,113.9595,413,"AS","HK","HK-NT","Yuen Long","no",,,,"CP04",,,
 595206,"HK-0155","heliport","Pillar Point Emergency Heliport",22.36019,113.94733,10,"AS","HK","HK-NT","Tuen Mun","no",,,,"CP15",,,
 595208,"HK-0156","heliport","Fan Shui Au Heliport",22.52135,114.24493,623,"AS","HK","HK-NT","North District","no",,,,"EB06",,,
+611478,"HK-0157","closed","RAF Kai Tak",22.326641,114.201845,,"AS","HK","HK-KLN","Kowloon","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Kai_Tak",
 339159,"HK07","heliport","HKGFS  Wan Chai Heliport",22.285045,114.174277,3,"AS","HK","HK-HK","Wan Chai","no",,,"HK07","HK07",,,"Hong Kong Convention and Exhibition Centre, HKGFS New Wan Chai"
 28481,"HKAM","medium_airport","Amboseli Airport",-2.644786,37.252922,3755,"AF","KE","KE-34","Ol Tukai","yes","HKAM","ASV","HKAM",,,"https://en.wikipedia.org/wiki/Amboseli_Airport","Maasai Amboseli Game Reserve"
 313211,"HKB","small_airport","Healy Lake Airport",63.9958,-144.6926,1180,"NA","US","US-AK","Healy Lake","no",,"HKB",,,,"https://en.wikipedia.org/wiki/Healy_Lake_Airport",
@@ -71770,6 +71771,7 @@
 611267,"US-13066","small_airport","Larry Land Airport",35.866801,-87.687257,454,"NA","US","US-TN","Only","no",,,"TN55","TN55",,,
 611374,"US-13067","closed","Seidel Ranch Airport",30.147713,-97.662779,510,"NA","US","US-TX","Elroy","no",,,,,,,"02XS"
 611435,"US-13068","closed","Francis J Mellar Field",37.395452,-76.53028,75,"NA","US","US-VA","Gloucester","no",,,,,,,"W57, Evans Airport"
+611472,"US-13069","small_airport","SunTrax Advanced Air Mobility and Autonomous & Connected Transportation Testing Grounds",28.118653,-81.833994,175,"NA","US","US-FL","Auburndale","no",,,,,"https://suntraxfl.com/",,"UAS, experimental"
 334443,"US-1307","closed","Desert Gardens Airport",33.6573,-114.2357,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334444,"US-1308","closed","Ora Acres Airport",33.68147,-114.21366,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334445,"US-1309","small_airport","Salome Emergency Airfield",33.58057,-113.58721,,"NA","US","US-AZ","Salome","no",,,,,,,
@@ -73829,7 +73831,7 @@
 342372,"US-3361","heliport","Saint David Fire Heliport",31.901151,-110.211033,3707,"NA","US","US-AZ","Saint David","no",,,,,,,
 342373,"US-3362","heliport","San Bernardino County Fire Station 322 Helipad",34.55838,-117.43871,2943,"NA","US","US-CA","Adelanto","no",,,,,,,
 342375,"US-3363","closed","Devil's Garden Airport",41.52174,-120.66515,4993,"NA","US","US-CA","Alturas","no",,,,,,,
-342378,"US-3364","small_airport","Goldthwaite Municipal Airport",31.429283,-98.608337,1458,"NA","US","US-TX","Goldthwaite","no",,,"KT37","T37",,"https://en.wikipedia.org/wiki/Goldthwaite_Municipal_Airport",
+342378,"US-3364","small_airport","Goldthwaite Municipal Airport",31.429283,-98.608337,1458,"NA","US","US-TX","Goldthwaite","no",,,"T37","T37",,"https://en.wikipedia.org/wiki/Goldthwaite_Municipal_Airport","KT37"
 342381,"US-3365","heliport","Pecos County Memorial Hospital Heliport",30.90601,-102.88109,2956,"NA","US","US-TX","Fort Stockton","no",,,,,,,
 342382,"US-3366","heliport","DoubleTree Hotel Anaheim Helipad",33.78838,-117.89156,385,"NA","US","US-CA","Orange","no",,,,,,,
 342383,"US-3367","closed","Zitto Airport",34.1849,-118.3816,682,"NA","US","US-CA","North Hollywood","no",,,,,,,
@@ -85488,7 +85490,7 @@
 41191,"ZA-0024","small_airport","Sun Valley Airfield",-26.033333,27.9,5000,"AF","ZA","ZA-GT","Sun Valley","no",,,,"FA0066",,,
 41192,"ZA-0025","small_airport","Aero 57 Airport",-25.903165817260742,28.082000732421875,5100,"AF","ZA","ZA-GT","Monavoni","no",,,,,,,
 41193,"ZA-0026","small_airport","Blue Mountain Valley Airport",-25.857500076293945,27.627777099609375,4150,"AF","ZA","ZA-GT","Hekpoort","no",,,,,,,
-41194,"ZA-0027","closed","Bronkhorstspruit Airport",-25.771389,28.726944,4800,"AF","ZA","ZA-GT","Bronkhorstspruit","no",,,,,,,
+41194,"ZA-0027","closed","Bronkhorstspruit Airport",-25.771389,28.726944,4800,"AF","ZA","ZA-GT","Bronkhorstspruit","no",,,,,,,"FABI"
 41195,"ZA-0028","small_airport","Wakkerstroom Airport",-27.350000381469727,30.166667938232422,5848,"AF","ZA","ZA-MP","Wakkerstroom","no",,,,,,,
 41196,"ZA-0029","small_airport","Amersfoort Airport",-27.020000457763672,29.8700008392334,4500,"AF","ZA","ZA-MP","Amerspoort","no",,,,,,,
 41197,"ZA-0030","small_airport","Dasville Airport",-26.816668,28.466667,5250,"AF","ZA","ZA-MP","Grootviei","no",,,,"FA0015",,,
@@ -85725,7 +85727,7 @@
 353246,"ZA-0262","small_airport","Vaalkoppies Settlement Airport",-28.44628,21.34287,2733,"AF","ZA","ZA-NC","Vaalkoppies Settlement","no",,,,,,,
 353247,"ZA-0263","small_airport","Namakwari Safaris Airport",-28.54937,21.79037,2808,"AF","ZA","ZA-NC","Groblershoop","no",,,,,,,
 353248,"ZA-0264","small_airport","Skerpioenpunt Airport",-28.86887,22.10493,2923,"AF","ZA","ZA-NC","Groblershoop","no",,,,,,,
-353294,"ZA-0265","small_airport","Mountain View Estate Airfield",-25.86641,27.87726,4731,"AF","ZA","ZA-GT","Lanseria","no",,,,,,,
+353294,"ZA-0265","small_airport","Mountain View Estate Airfield",-25.86641,27.87726,4731,"AF","ZA","ZA-GT","Lanseria","no",,,,,,,"FAMV"
 353299,"ZA-0266","small_airport","Zilverstroom Farm Airport",-29.55615,22.89679,3130,"AF","ZA","ZA-NC","Prieska","no",,,,,,,
 353300,"ZA-0267","small_airport","Bo Karoo South Airport",-29.33704,23.17968,3212,"AF","ZA","ZA-NC","Higgs Hope","no",,,,,,,
 353301,"ZA-0268","small_airport","Higgs Hope Airport",-29.30453,23.28233,3362,"AF","ZA","ZA-NC","Higgs Hope","no",,,,,,,
@@ -85833,6 +85835,9 @@
 610770,"ZA-0373","small_airport","N’tsiri Airstrip",-24.164315,31.345818,1129,"AF","ZA","ZA-MP",,"no","FANI",,"FANI",,,,
 611445,"ZA-0374","small_airport","Ekland Ranch Airstrip",-22.857096,29.868264,2415,"AF","ZA","ZA-LP",,"no","FAER",,"FAER",,,,
 611446,"ZA-0375","small_airport","Elgin Airstrip",-34.171521,19.05275,,"AF","ZA","ZA-WC",,"no","FAEG",,"FAEG",,,,
+611460,"ZA-0376","small_airport","Butterworth Airport",-32.318283,28.134913,,"AF","ZA","ZA-EC","Gcuwa","no","FABV",,"FABV",,,,
+611477,"ZA-0377","closed","Mariepskop Radar Station HLS",-24.54723,30.873038,6382,"AF","ZA","ZA-MP","Mariepskop","no",,,,,,"https://en.wikipedia.org/wiki/Mariepskop#Radar_station","FAMR"
+611479,"ZA-0378","closed","Zuney Airstrip",-33.642209,26.203716,481,"AF","ZA","ZA-EC","Zuney","no",,,,,,,"FAZU"
 31753,"ZA-KIG","small_airport","Koingnaas Airport",-30.187136,17.282706,228,"AF","ZA","ZA-NC","Koingnaas","no",,"KIG",,,,,
 609677,"ZA49","closed","Ilyinskoye-Khovanskoye Airstrip",56.959436,39.781629,456,"EU","RU","RU-IVA",,"no",,,,,,,"ЗА49, ZA49"
 27188,"ZBAA","large_airport","Beijing Capital International Airport",40.077349,116.596702,116,"AS","CN","CN-11","Beijing","yes","ZBAA","PEK","ZBAA",,"https://en.bcia.com.cn/","https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport","BJS, Beijing, Peking, 北京, 北京首都国际机场, 北京首都机场, 北京机场"
