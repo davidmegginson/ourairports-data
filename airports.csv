@@ -9663,7 +9663,7 @@
 348685,"AE-0091","small_airport","Lower Yasat Island Airport",24.18884,51.99655,,"AS","AE","AE-AZ","Al-Yasat","no","OMAY",,,"OMAY",,,
 348686,"AE-0092","small_airport","Ras Ghumais Air Base",24.34092,51.60276,125,"AS","AE","AE-AZ","Ras Ghumais","no",,,,,,,
 351596,"AE-0093","heliport","Dr. Sultan Al Qasimi Centre Heliport",25.281026,55.468881,56,"AS","AE","AE-SH","University City","no",,,,,,,
-351597,"AE-0094","heliport","Higher Colleges of Technology Heliport",25.2925,55.47717,59,"AS","AE","AE-SH","University City","no",,,,,,,
+351597,"AE-0094","heliport","Sharjah Women's College Heliport",25.292517,55.477164,59,"AS","AE","AE-SH","University City","no",,,,,,,"Higher Colleges of Technology"
 351598,"AE-0095","heliport","Dubai Safari Park Heliport",25.17426,55.45979,144,"AS","AE","AE-DU","Wadi Al Amardi","no",,,,,,,
 351604,"AE-0096","heliport","Al Sila Hospital Heliport",24.0433,51.75707,138,"AS","AE","AE-AZ","Baya al Sila","no",,,,,,,
 351605,"AE-0097","heliport","Barakah Nuclear Power Plant Heliport",23.96345,52.24415,20,"AS","AE","AE-AZ","Barakah","no",,,,,,,
@@ -9851,6 +9851,7 @@
 605711,"AE-0281","heliport","Al Raha Heliport",25.72008,55.83235,3,"AS","AE","AE-RK","Al Riffa","no",,,,,,,
 611108,"AE-0282","heliport","Dubai International Vertiport",25.240465,55.365631,115,"AS","AE","AE-DU","Dubai","no",,,,,"https://skyports.net/skyports/uea/dubai",,"Vertiport, eVTOL"
 611349,"AE-0283","small_airport","Skydive Dubai Desert Campus",24.888479,55.546286,505,"AS","AE","AE-DU","Margham","no",,,,,,,
+611526,"AE-0284","heliport","Dubai Men's College Heliport",25.108839,55.388734,94,"AS","AE","AE-DU","Academic City, Dubai","no",,,,,,,
 300307,"AEE","small_airport","Adareil Airport",10.053611,32.959444,1301,"AF","SS","SS-NU","Adar","no",,"AEE","HJAR",,,"https://en.wikipedia.org/wiki/Adareil_Airport",
 300646,"AEI","heliport","Algeciras Heliport",36.12882,-5.441079,98,"EU","ES","ES-AN","Algeciras","yes","LEAG",,"LEAG",,"https://www.aena.es/en/algeciras.html","https://en.wikipedia.org/wiki/Algeciras_Heliport",
 330359,"AEQ","small_airport","Ar Horqin Airport",43.908407,120.15099,1335,"AS","CN","CN-15","Chifeng","no",,"AEQ",,,,"https://en.wikipedia.org/wiki/Ar_Horqin_Airport",
@@ -12992,7 +12993,7 @@
 44057,"BGIS","heliport","Isortoq Heliport",65.547792,-38.976552,92,"NA","GL","GL-SE","Isortoq","yes",,"IOQ","BGIS","ISO",,"https://en.wikipedia.org/wiki/Isortoq_Heliport","Isertoq"
 35289,"BGIT","heliport","Ikamiut Heliport",68.634253,-51.832262,49,"NA","GL","GL-QK","Ikamiut","yes",,"QJI","BGIT",,,"https://en.wikipedia.org/wiki/Ikamiut_Heliport",
 35298,"BGJH","closed","Qaqortoq Heliport",60.715684,-46.029919,53,"NA","GL","GL-KU","Qaqortoq","yes",,,,,"http://airgreenland.com/om_rejsen/efter_rejsen/din_destination_/qaqortoq/","https://en.wikipedia.org/wiki/Qaqortoq_Heliport","JJU, BGJH"
-31694,"BGJN","medium_airport","Ilulissat Airport",69.243202,-51.057098,95,"NA","GL","GL-AV","Ilulissat","yes","BGJN","JAV","BGJN",,"https://mit.gl/ilulissat","https://en.wikipedia.org/wiki/Ilulissat_Airport","Mittarfik Ilulissat, Ilulissat Lufthavn, Jakobshavn"
+31694,"BGJN","large_airport","Ilulissat Airport",69.245641,-51.052243,95,"NA","GL","GL-AV","Ilulissat","yes","BGJN","JAV","BGJN",,"https://mit.gl/ilulissat","https://en.wikipedia.org/wiki/Ilulissat_Airport","Mittarfik Ilulissat, Ilulissat Lufthavn, Jakobshavn"
 35292,"BGKA","heliport","Kangaatsiaq Heliport",68.312657,-53.460208,17,"NA","GL","GL-QK","Kangaatsiaq","yes",,"QPW","BGKA",,,"https://en.wikipedia.org/wiki/Kangaatsiaq_Heliport",
 31786,"BGKK","medium_airport","Kulusuk Airport",65.573601,-37.1236,117,"NA","GL","GL-SE","Kulusuk","yes","BGKK","KUS","BGKK",,,"https://en.wikipedia.org/wiki/Kulusuk_Airport","Kap Dan, BGKD"
 43224,"BGKL","heliport","Upernavik Kujalleq Heliport",72.152743,-55.530986,92,"NA","GL","GL-AV","Upernavik Kujalleq","yes",,,"BGKL","UPK",,"https://en.wikipedia.org/wiki/Upernavik_Kujalleq_Heliport","Søndre Upernavik"
@@ -14269,7 +14270,7 @@
 335933,"BR-1085","heliport","Portal do Porto Helipad",-25.514215,-49.131326,1430,"SA","BR","BR-PR","São José dos Pinhais","no",,,"SIZW","PR0113",,,
 336119,"BR-1087","heliport","Helisul Afonso Pena Heliport",-25.536948,-49.179381,2966,"SA","BR","BR-PR","São José dos Pinhais","no",,,"SJAX","PR0116",,,
 336120,"BR-1088","heliport","Alphaville Araçagy Heliport",-2.470038,-44.173855,125,"SA","BR","BR-MA","Paço do Lumiar","no",,,"SJAY","MA0059",,,
-336123,"BR-1089","closed","Fazed Santa Bárbara Airport",-14.617778,-44.188056,1667,"SA","BR","BR-MG","Manga","no",,,,,,,"SJBF, MG0117"
+336123,"BR-1089","closed","Fazenda Santa Bárbara Airport",-14.617778,-44.188056,1667,"SA","BR","BR-MG","Manga","no",,,,,,,"SJBF, MG0117"
 336125,"BR-1090","small_airport","Nossa Senhora Aparecida Airstrip",-7.351975,-50.376306,1407,"SA","BR","BR-PA","Rio Maria","no",,,"SJBN","PA0068",,,
 336162,"BR-1091","heliport","EZ Towers B Helipad",-23.627196,-46.701829,2844,"SA","BR","BR-SP","São Paulo","no",,,"SJBO","SP0599",,,
 336173,"BR-1092","heliport","São José dos Campos Helipad",-23.211443,-45.900482,1919,"SA","BR","BR-SP","São José dos Campos","no",,,"SJBS","SP0601",,,
@@ -20025,6 +20026,8 @@
 611061,"CN-0511","small_airport","Lu'an Airbase",31.627002,116.274662,,"AS","CN","CN-34",,"no","ZSLA",,,,,,
 611078,"CN-0512","small_airport","Jichang Air Base",43.213121,125.899029,,"AS","CN","CN-22",,"no",,,,,,,
 611186,"CN-0513","small_airport","Chongqing Longxing General Airport",29.748555,106.800601,779,"AS","CN","CN-50","Chongqing","no",,,,,,,
+611507,"CN-0514","heliport","Zayu Heliport",28.73011,96.778623,,"AS","CN","CN-54","Zayu","no",,,,,,,
+611511,"CN-0515","small_airport","Suining Anju Airport",30.394385,105.424785,,"AS","CN","CN-51","Suining","no",,,,,,,"Suining"
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -28153,6 +28156,7 @@
 610797,"FR-1358","heliport","Ecourt-St-Quentin HLS",50.254787,3.081254,133,"EU","FR","FR-HDF","Ecourt-Saint-Quentin, Pas-de-Calais","no",,,,,,,
 611352,"FR-1359","heliport","St-Pol-sur-Ternoise DZ",50.390161,2.353204,,"EU","FR","FR-HDF","Saint pol sur Ternoise","no",,,,,,,
 611416,"FR-1360","small_airport","Saint Antoine private airstrip",44.04387,0.8374,,"EU","FR","FR-NAQ","St Antoine","no",,,,,,,
+611506,"FR-1361","heliport","Nice Air Base (BA 943) Helipad",43.773164,7.420113,,"EU","FR","FR-PAC",,"no",,,,,,,"European Airports, Airports in France, Airports in Provence-Alpes-Côte-d'Azur"
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -31426,6 +31430,7 @@
 603993,"HU-0081","heliport","Miskolc Heliport",48.13071,20.792152,380,"EU","HU","HU-BZ","Miskolc","no",,,,,,,
 608120,"HU-0082","heliport","Szentes Heliport",46.616714,20.28359,259,"EU","HU","HU-CS","Szentes","no",,,,,,,"Légimentő bázis"
 609968,"HU-0083","small_airport","Jabapuszta Airstrip",46.8025,18.0257,,"EU","HU","HU-SO",,"no",,,,,,,
+611509,"HU-0084","heliport","Sétarepülés (seaonal)",46.92375,17.84326,,"EU","HU","HU-VE",,"no",,,,,,,
 3262,"HUAJ","small_airport","Adjumani Airport",3.339239,31.763854,2611,"AF","UG","UG-N","Adjumani","no","HUAJ",,"HUAJ",,,"https://en.wikipedia.org/wiki/Adjumani_Airport",
 32234,"HUAR","medium_airport","Arua Airport",3.049152,30.911714,3951,"AF","UG","UG-N","Arua","yes","HUAR","RUA","HUAR",,,"https://en.wikipedia.org/wiki/Arua_Airport",
 318929,"HUBU","small_airport","Bundibugyo Airport",0.67349,30.025483,3100,"AF","UG","UG-W","Bundibugyo","no","HUBU",,"HUBU",,,"https://en.wikipedia.org/wiki/Bundibugyo_Airport",
@@ -45883,6 +45888,7 @@
 525175,"MG-0021","small_airport","Relais de la Reine Airport",-22.645343,45.323914,2713,"AF","MG","MG-U","Isalo","no",,"RLR",,,"https://lerelaisdelareine.com/hotel-madagascar-isalo-aerodrome/?lang=en",,
 525780,"MG-0022","small_airport","Fihaonana Aerodrome",-18.574666,47.238588,4511,"AF","MG","MG-T","Analamanga","no",,,,,,,
 31688,"MG-0023","closed","Ambanja Airport",-13.644528,48.456595,36,"AF","MG","MG-D","Ambanja","no",,,,,,,"FMNJ"
+611518,"MG-0024","small_airport","Unknown airstrip",-20.631741,44.091199,32,"AF","MG","MG-U","Ambararata","no",,,,,,,
 30933,"MG-DOA","small_airport","Doany Airport",-14.3681001663208,49.510799407958984,,"AF","MG","MG-D","Doany","no",,"DOA",,,,,
 3144,"MG13","small_airport","Fray Bartolome Airport",15.80405,-89.8507,512,"NA","GT","GT-AV","El Achiotal","no",,,"MGFB",,,,"MG13, Inta Northeast"
 4642,"MGBN","small_airport","Bananera Airport",15.4735,-88.837196,130,"NA","GT","GT-IZ","Morales","no",,,"MGBN",,,"https://en.wikipedia.org/wiki/Bananera_Airport",
@@ -54026,7 +54032,7 @@
 317899,"PK-0015","small_airport","Larkana Airport",27.4831,68.1926,167,"AS","PK","PK-SD","Larkana","no",,,,,,,
 317901,"PK-0016","small_airport","Petaro Airport",25.5448,68.3265,113,"AS","PK","PK-SD","Cadet College Petaro","no",,,,,,,
 317902,"PK-0017","small_airport","Jungshahi Airstrip",24.8366,67.7619,45,"AS","PK","PK-SD","Jungshahi","no",,,,,,,
-317903,"PK-0018","closed","Chota Malir Airstrips",24.95,67.173,165,"AS","PK","PK-SD","Karachi","no",,,,,,,
+317903,"PK-0018","closed","Chota Malir Airstrips",24.94746,67.171107,165,"AS","PK","PK-SD","Karachi","no",,,,,,,
 317904,"PK-0019","closed","PAF Base Malir",24.97,67.228,205,"AS","PK","PK-SD","Karachi","no",,,,,,,
 317905,"PK-0020","small_airport","Sujawal Airport",24.6141,68.0827,30,"AS","PK","PK-SD","Sujawal","no",,,,,,,
 340183,"PK-0021","heliport","Makli-Thatta Heliport",24.74058,67.89657,,"AS","PK","PK-SD","Makli","no",,,,,,,
@@ -54102,6 +54108,7 @@
 604062,"PK-0093","heliport","Muzaffarabad Airport Helipad",34.341521,73.505268,,"AS","PK","PK-JK","Muzaffarabad","no",,,,,,,
 604557,"PK-0094","heliport","SUPARCO Heliport",24.917811,66.924606,85,"AS","PK","PK-SD","Karachi,","no",,,,,,"https://en.wikipedia.org/wiki/SUPARCO",
 605516,"PK-0095","heliport","Badok Checkpoint Heliport",25.396389,63.68479,46,"AS","PK","PK-BA","Pasni","no",,,,,,,
+611525,"PK-0096","heliport","Joint Services HQ",33.595962,73.092311,1658,"AS","PK","PK-PB","Chaklala, Rawalpindi","no",,,,,,"https://en.wikipedia.org/wiki/Joint_Staff_Headquarters_(Pakistan)",
 41628,"PK-BHC","small_airport","Bhurban Heliport",33.96099853515625,73.4520034790039,5750,"AS","PK","PK-KP","Bhurban","no",,"BHC",,,,,
 41629,"PK-CWP","closed","Campbellpore Airport",33.766701,72.366898,1175,"AS","PK","PK-PB","Campbellpore","no",,,,,,,"CWP"
 41630,"PK-GRT","small_airport","Gujrat Airport",32.62826,74.067287,760,"AS","PK","PK-PB","Gujrat","no",,"GRT",,,,,
@@ -61172,9 +61179,9 @@
 36669,"SJLC","small_airport","Hakoma Airport",2.722243,-63.577944,2335,"SA","BR","BR-RR","Alto Alegre","no",,,"SJLC","RR0047",,,
 36670,"SJLD","small_airport","Fazenda Porto do Campo Airport",-15.715556,-57.711388,433,"SA","BR","BR-MT","Lambari d'Oeste","no",,,"SJLD","MT0193",,,
 36671,"SJLE","small_airport","Halikato-u Airport",3.223961,-63.202282,994,"SA","BR","BR-RR","Alto Alegre","no",,,"SJLE","RR0048",,,
-36673,"SJLH","small_airport","Jacamim Airport",2.176110029220581,-59.78390121459961,495,"SA","BR","BR-RR","Bonfim","no",,,"SJLH",,,,
-36674,"SJLI","small_airport","Fazenda Lilliani Airport",-4.213611125946045,-46.974998474121094,958,"SA","BR","BR-MA","Bom Jardim","no",,,"SJLI",,,,
-36675,"SJLJ","small_airport","Jatapuzinho Airport",0.5972219705581665,-59.22169876098633,397,"SA","BR","BR-RR","Caroebe","no",,,"SJLJ",,,,
+36673,"SJLH","small_airport","Jacamim Airport",2.175945,-59.78428,495,"SA","BR","BR-RR","Bonfim","no",,,"SJLH","RR0050",,,
+36674,"SJLI","small_airport","Fazenda Lilliani Airport",-4.213611,-46.974998,958,"SA","BR","BR-MA","Bom Jardim","no",,,"SJLI","MA0029",,,
+36675,"SJLJ","small_airport","Jatapuzinho Airport",0.599977,-59.223159,397,"SA","BR","BR-RR","Caroebe","no",,,"SJLJ","RR0051",,,
 36676,"SJLK","small_airport","Lago Grande I Airport",3.442780017852783,-60.352500915527344,298,"SA","BR","BR-RR","Bonfim","no",,,"SJLK",,,,
 36677,"SJLL","small_airport","Maturucá Airport",4.460830211639404,-60.10029983520508,1493,"SA","BR","BR-RR","Normândia","no",,,"SJLL",,,,
 36678,"SJLM","small_airport","Leão de Ouro Airport",4.151669979095459,-61.427799224853516,298,"SA","BR","BR-RR","Pacaraima","no",,,"SJLM",,,,
@@ -64361,7 +64368,7 @@
 37774,"SSZU","small_airport","Fazenda Três Marias Airport",-19.503125,-53.049556,1821,"SA","BR","BR-MS","Água Clara","no",,,"SWUU","MS0425",,,"SJTE, SSZU"
 36608,"SSZW","small_airport","Usina Coruripe - Filial Limeira do Oeste Airport",-19.520191,-50.654031,1384,"SA","BR","BR-MG","Limeira Do Oeste","no","SSZW",,"SSZW","MG0460",,,"SJIQ"
 322989,"ST-0001","seaplane_base","Santo Antonio Seaport",1.63777,7.417778,,"AF","ST","ST-P","Santo Antonio","no",,,,,,,
-322988,"ST-0002","closed","Roça Porto Alegre Airport",0.038624,6.515965,32,"AF","ST","ST-03","Porto Alegro","no",,,,,,,"PGP, PGP"
+322988,"ST-0002","closed","Roça Porto Alegre Airport",0.038624,6.515965,32,"AF","ST","ST-03","Porto Alegro","no",,,,,,,"PGP, FPPA"
 525449,"SU01","small_airport","Campo di volo Porto Pino",39.012206,8.601758,,"EU","IT","IT-88","Sant’Anna Arresi (SU)","no",,,,"SU01","https://www.campovoloportopino.it",,
 6244,"SUAA","medium_airport","Ángel S. Adami International Airport",-34.7892,-56.264702,174,"SA","UY","UY-MO","Montevideo","no",,,"SUAA",,,"https://en.wikipedia.org/wiki/%C3%81ngel_S._Adami_Airport","Aeródromo de Melilla, Melilla Airport"
 30655,"SUAG","small_airport","Artigas International Airport",-30.4007,-56.5079,410,"SA","UY","UY-AR","Artigas","no","SUAG","ATI","SUAG",,,"https://en.wikipedia.org/wiki/Artigas_Airport",
@@ -81934,6 +81941,9 @@
 605573,"VN-0082","heliport","People's Hospital No. 115 Heliport",10.775372,106.668101,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
 605574,"VN-0083","heliport","Saigon Times Square Heliport",10.773857,106.704695,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
 605575,"VN-0084","heliport","Police Heliport",10.7584,106.686185,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
+611510,"VN-0085","small_airport","Phan Thiet Airport",10.999334,108.23164,,"AS","VN","VN-SCC","Phan Thiet","no","VVPT",,,,,"https://en.wikipedia.org/wiki/Phan_Thiet_Airport",
+611514,"VN-0086","closed","Cheo Reo Airstrip",13.394558,108.440909,,"AS","VN","VN-CH",,"no",,,,,,,
+611515,"VN-0087","closed","Kham Duc Airfield",15.437678,107.796414,,"AS","VN","VN-CH","Kham Duc","no",,,,,,,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
@@ -85535,16 +85545,16 @@
 41244,"ZA-0061","small_airport","Clan Airport",-29.358919,30.431117,2180,"AF","ZA","ZA-NL","York","no",,,,,,,
 41246,"ZA-0062","closed","Amatikulu (Microlight) Airport",-29.098167,31.504999,240,"AF","ZA","ZA-NL","Amatikulu","no",,,,,,,
 41249,"ZA-0063","small_airport","Amphitheatre Lodge Airport",-28.639941,29.147501,3900,"AF","ZA","ZA-NL","Ethels Drive","no",,,,,,,
-41250,"ZA-0064","small_airport","Riverview Airport",-28.433332443237305,32.150001525878906,210,"AF","ZA","ZA-NL","Riverview","no",,,,,,,
-41251,"ZA-0065","small_airport","St Lucia Estuary",-28.350000381469727,32.41666793823242,60,"AF","ZA","ZA-NL","St Lucía","no",,,,,,,
-41252,"ZA-0066","small_airport","Battlefields Airport",-28.131526947021484,30.290416717529297,4040,"AF","ZA","ZA-NL","Dundee","no",,,,,,,
-41259,"ZA-0068","small_airport","Bonwa Phala Airport",-24.886667251586914,28.047222137451172,3650,"AF","ZA","ZA-LP","Bonwa Phala","no",,,,,,,
+41250,"ZA-0064","closed","Riverview Airport",-28.433332,32.150002,210,"AF","ZA","ZA-NL","Riverview","no",,,,,,,
+41251,"ZA-0065","closed","St Lucia Estuary",-28.35,32.416668,60,"AF","ZA","ZA-NL","St Lucía","no",,,,,,,
+41252,"ZA-0066","small_airport","Battlefields Airport",-28.132653,30.286818,4040,"AF","ZA","ZA-NL","Dundee","no",,,,,,,
+41259,"ZA-0068","closed","Bonwa Phala Airport",-24.885658,28.045263,3650,"AF","ZA","ZA-LP","Bonwa Phala","no",,,,,,,
 2813,"ZA-0069","small_airport","Riverside Airport",-25.428948,31.577033,1024,"AF","ZA","ZA-MP","Malelane","no",,,,"R326",,,
-41264,"ZA-0070","small_airport","Batavia Airport",-24.668333053588867,26.536666870117188,3195,"AF","ZA","ZA-LP","Batavia","no",,,,,,,
+41264,"ZA-0070","small_airport","Batavia Airport",-24.670495,26.538806,3195,"AF","ZA","ZA-LP","Batavia","no",,,,,,,
 41267,"ZA-0071","small_airport","Blyde Canyon Airport",-24.57088,30.77329,4300,"AF","ZA","ZA-MP","Blyde Canyon","no",,,,,,,
 41268,"ZA-0072","small_airport","Tanda Tula Airport",-24.525533,31.289748,1555,"AF","ZA","ZA-MP","Timbavati","no",,,,,,,"Welverdiend"
 41272,"ZA-0073","small_airport","Nederland Airport",-24.299759,31.288934,1298,"AF","ZA","ZA-MP","Nederland","no",,,,,,,
-41274,"ZA-0074","small_airport","Boulders Game Ranch Airport",-24.108055114746094,30.90916633605957,1500,"AF","ZA","ZA-LP","Gravelotte","no",,,,,,,
+41274,"ZA-0074","small_airport","Boulders Game Ranch Airport",-24.108331,30.912137,1500,"AF","ZA","ZA-LP","Gravelotte","no",,,,,,,
 41275,"ZA-0075","closed","Boulders Game Ranch 2 (Microlight) Airport",-24.084905,30.844052,1500,"AF","ZA","ZA-LP","Gravelotte","no",,,,,,,
 41276,"ZA-0076","small_airport","Ranch Motel Airport",-24.041000366210938,29.27589988708496,4500,"AF","ZA","ZA-LP","Polokwane","no",,,,,,,
 41277,"ZA-0077","small_airport","Babala Lodge Airport",-23.328611373901367,27.60961151123047,2700,"AF","ZA","ZA-LP","Fahad Game Reserve","no",,,,,,,
@@ -85552,24 +85562,24 @@
 41279,"ZA-0079","small_airport","Bergtop Airport",-22.917943954467773,29.457834243774414,2620,"AF","ZA","ZA-LP","Waterpoort","no",,,,,,,
 41280,"ZA-0080","small_airport","Swartwater Highway Strip Airport",-22.8395,28.209708,2800,"AF","ZA","ZA-LP","Swartwater","no",,,,"FA0067",,,
 41281,"ZA-0081","small_airport","Alldays (Greater Kuduland) Airport",-22.80380630493164,28.995750427246094,2590,"AF","ZA","ZA-LP","Alldays","no",,,,,,,
-41282,"ZA-0082","small_airport","Alldays Safaris Airport",-22.667200088500977,29.315200805664062,2650,"AF","ZA","ZA-LP","Alldays","no",,,,,,,
+41282,"ZA-0082","closed","Alldays Safaris Airport",-22.6672,29.315201,2650,"AF","ZA","ZA-LP","Alldays","no",,,,,,,
 41283,"ZA-0083","small_airport","Avarel Airport",-22.579599380493164,29.968900680541992,2100,"AF","ZA","ZA-LP","Mopane","no",,,,,,,
 41287,"ZA-0084","closed","Bospoort Airport",-26.595556,26.229221,5085,"AF","ZA","ZA-NW","Bospoort","no",,,,,,,
 41290,"ZA-0085","closed","Mafikeng North Airport",-25.753393,25.611982,4181,"AF","ZA","ZA-NW","Mogosane","no",,,,,,,
-41291,"ZA-0086","small_airport","Aero Den Airport",-25.726667404174805,27.739721298217773,4050,"AF","ZA","ZA-NW","Brits","no",,,,,,,
+41291,"ZA-0086","small_airport","Aero Den Airport",-25.722817,27.739534,4050,"AF","ZA","ZA-NW","Brits","no",,,,,,,
 41292,"ZA-0087","closed","Botsalano Airport",-25.543189,25.734555,4659,"AF","ZA","ZA-NW","Mathase","no",,,,,,,
-41293,"ZA-0088","small_airport","Beestekraal Airport",-25.299999237060547,27.53333282470703,3200,"AF","ZA","ZA-NW","Massikier","no",,,,,,,
-41294,"ZA-0089","small_airport","Lobatse Southeast Airport",-25.246200561523438,25.881900787353516,3742,"AF","ZA","ZA-NW","Nkwedumang","no",,,,,,,
-41299,"ZA-0090","small_airport","Assegaay Bosch Game Lodge Airport",-33.760250091552734,21.547222137451172,620,"AF","ZA","ZA-WC","Vanwyksdorp","no",,,,,,,
+41293,"ZA-0088","small_airport","Beestekraal Airport",-25.303609,27.533936,3200,"AF","ZA","ZA-NW","Massikier","no",,,,,,,
+41294,"ZA-0089","small_airport","Lobatse Southeast Airport",-25.245403,25.882862,3742,"AF","ZA","ZA-NW","Nkwedumang","no",,,,,,,
+41299,"ZA-0090","small_airport","Assegaay Bosch Game Lodge Airport",-33.759316,21.539335,620,"AF","ZA","ZA-WC","Vanwyksdorp","no",,,,,,,
 41300,"ZA-0091","small_airport","Altona Airport",-33.707637786865234,18.646249771118164,261,"AF","ZA","ZA-WC","Philadelphia","no",,,,,,,
 41308,"ZA-0092","small_airport","Holrivier Airport",-31.56212,18.384994,225,"AF","ZA","ZA-WC","Viermuisklip","no",,,,,,,
-41309,"ZA-0093","small_airport","Britstown Airport",-30.58333396911621,23.516666412353516,3500,"AF","ZA","ZA-NC","Britstown","no",,,,,,,
+41309,"ZA-0093","small_airport","Britstown Airport",-30.60212,23.502614,3500,"AF","ZA","ZA-NC","Britstown","no",,,,,,,
 41603,"ZA-0094","small_airport","Hazyview Airport",-25.050100326538086,31.131900787353516,1810,"AF","ZA","ZA-MP","Hazyview","no",,"HZV",,,,,
 41604,"ZA-0095","small_airport","Khoka Moya Airport",-24.593000411987305,31.41510009765625,1440,"AF","ZA","ZA-LP","Khoka Moya","no",,"KHO",,,,,
 41605,"ZA-0096","small_airport","Mkambati Airport",-31.2849,29.9884,560,"AF","ZA","ZA-EC","Mkambati","no",,"MBM",,,,,
 41606,"ZA-0097","small_airport","Inyati Airport",-24.777700424194336,31.385499954223633,1245,"AF","ZA","ZA-LP","Inyati","no",,"INY",,,,,
-41607,"ZA-0098","small_airport","Tshipise Airport",-22.619300842285156,30.175600051879883,1786,"AF","ZA","ZA-LP","Tshipise","no",,"TSD",,,,,
-41843,"ZA-0099","small_airport","Holbank Airport",-26.570999145507812,30.243000030517578,,"AF","ZA","ZA-MP",,"no",,,,,,,
+41607,"ZA-0098","small_airport","Tshipise Airport",-22.618808,30.177817,1786,"AF","ZA","ZA-LP","Tshipise","no",,"TSD",,,,,
+41843,"ZA-0099","small_airport","Holbank Airport",-26.576858,30.240967,,"AF","ZA","ZA-MP",,"no",,,,,,,
 41844,"ZA-0100","small_airport","Bapsfontein Airport",-25.991908,28.415932,5292,"AF","ZA","ZA-GT","Bapsfontein","no",,,,"FA0004",,,
 41845,"ZA-0101","small_airport","Sappi / Ngodwana",-25.588678,30.622364,,"AF","ZA","ZA-MP",,"no","FAND",,"FAND",,,,
 300640,"ZA-0102","closed","Castle Bromwich Aerodrome/RAF Castle Bromwich",52.517222,-1.786667,,"EU","GB","GB-ENG","Warwickshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Castle_Bromwich",
@@ -85578,15 +85588,15 @@
 299614,"ZA-0105","small_airport","Aviators Paradise Field",-25.692875,27.782657,3800,"AF","ZA","ZA-NW","Primindia","no",,,,,"http://www.aviatorsparadise.co.za/",,
 300057,"ZA-0106","small_airport","[Duplicate] Benics Airport",-25.805984,29.217655,5100,"AF","ZA","ZA-MP","Witbank","no",,,,,,,"trike, microlight"
 300670,"ZA-0107","closed","Robben Island Airstrip",-33.800404,18.363733,,"AF","ZA","ZA-WC","Cape Town","no",,,,,,,
-308162,"ZA-0108","small_airport","Bethal Airport",-26.480902,29.466671,5475,"AF","ZA","ZA-MP","Bethal","no",,,,,,,
+308162,"ZA-0108","closed","Bethal Airport",-26.480902,29.466671,5475,"AF","ZA","ZA-MP","Bethal","no",,,,,,,
 308195,"ZA-0109","small_airport","Bloemhof Airport",-27.6094,25.5794,4127,"AF","ZA","ZA-NW","Bloemhof","no",,,,,,,
 309043,"ZA-0110","small_airport","Panorama Airfield",-26.329316,28.068469,5000,"AF","ZA","ZA-GT","Alberton","no",,,,"PAN",,,
 310576,"ZA-0111","small_airport","Kudu Private Nature Reserve",-24.995,30.403333333299997,4580,"AF","ZA","ZA-MP",,"no",,,,,,,
 310578,"ZA-0112","small_airport","Fly Inn Estate",-25.9711496926,28.3502766059,5300,"AF","ZA","ZA-GT",,"no",,,,,,,
 310582,"ZA-0113","small_airport","Sunset Shores Airfield",-26.851201,28.198428,4955,"AF","ZA","ZA-GT","Sunset Shores","no",,,,,,,"Hilton Head Airstrip"
 310585,"ZA-0114","small_airport","Zebula Airstrip",-24.7567,27.9691,4209,"AF","ZA","ZA-LP","Bela-Bela","no",,,,,"http://www.zebula.co.za/content.aspx?id=170",,"Zebula Golf Estate & Spa"
-312261,"ZA-0115","small_airport","Knysna / High Way Airfield",-33.950756,22.979482,,"AF","ZA","ZA-WC","Knysna","no",,,,,,,
-312610,"ZA-0116","small_airport","Pumba Airstrip",-33.391911,26.346392,,"AF","ZA","ZA-EC","Nelson Mandela Bay","no",,,,,"http://www.pumbagamereserve.co.za/amenities",,
+312261,"ZA-0115","small_airport","Highway Field",-33.950756,22.979482,,"AF","ZA","ZA-WC","Knysna","no",,,,,,,"Rheenendal, High way, Knysna"
+312610,"ZA-0116","closed","Pumba Airstrip",-33.391911,26.346392,,"AF","ZA","ZA-EC","Nelson Mandela Bay","no",,,,,"http://www.pumbagamereserve.co.za/amenities",,
 312611,"ZA-0117","heliport","Pumba Helipad",-33.387799,26.410595,,"AF","ZA","ZA-EC","Nelson Mandela Bay","no",,,,,"http://www.pumbagamereserve.co.za/amenities",,
 312612,"ZA-0118","closed","Simon's Town Shooting Range",-34.206585,18.427413,,"AF","ZA","ZA-WC","Cape Town","no",,,,,,,
 312624,"ZA-0119","heliport","Cape Town Waterfront Heliport",-33.900515,18.426998,9,"AF","ZA","ZA-WC","Cape Town","no","FADW",,"FADW",,,,
@@ -85617,26 +85627,26 @@
 318838,"ZA-0144","small_airport","Luckhof Airport",-29.737988,24.780042,,"AF","ZA","ZA-FS","Luckhof","no",,,,,,,
 318839,"ZA-0145","small_airport","Jacobsdal Airport",-29.11701,24.785856,,"AF","ZA","ZA-FS","Jacobsdal","no",,,,,,,
 318840,"ZA-0146","small_airport","Griekwastad Airport",-28.832734,23.27354,,"AF","ZA","ZA-NC","Griekwastad","no",,,,,,,
-318841,"ZA-0147","small_airport","Lady Grey Golf Course Airstrip",-30.706581,27.208231,,"AF","ZA","ZA-EC","Lady Grey","no",,,,,,,
+318841,"ZA-0147","closed","Lady Grey Golf Course Airstrip",-30.706581,27.208231,,"AF","ZA","ZA-EC","Lady Grey","no",,,,,,,
 318842,"ZA-0148","small_airport","Hanover Airport",-31.075719,24.452623,,"AF","ZA","ZA-NC","Hanover","no",,,,,,,
 318843,"ZA-0149","small_airport","Vosburg Airport",-30.588342,22.894196,,"AF","ZA","ZA-NC","Vosburg","no",,,,,,,
 318845,"ZA-0150","small_airport","Van Zylsrus Airport",-26.887344,22.06304,,"AF","ZA","ZA-NC","Van Zylsrus","no",,,,,,,
 324962,"ZA-0151","small_airport","Leeukop Farm Airfield",-26.866842,28.072443,4954,"AF","ZA","ZA-FS","Deneysville","no",,,,,,,"leeukop,deneysville,vaal,free state,"
 324963,"ZA-0152","small_airport","Vaal Dam Airfield",-26.922516,28.165097,5000,"AF","ZA","ZA-FS","Deneysville","no",,,,,,,"vaal, dam, deneysville,free state"
-326497,"ZA-0153","small_airport","Elandspad Airfield",-34.433548,20.722225,293,"AF","ZA","ZA-WC",,"no",,,,,,,
+326497,"ZA-0153","closed","Elandspad Airfield",-34.433548,20.722225,293,"AF","ZA","ZA-WC",,"no",,,,,,,
 323205,"ZA-0154","small_airport","Shingwedzi Camp Airstrip",-23.114988,31.427508,,"AF","ZA","ZA-LP","Shingwedzi","no",,,,,,,
 323206,"ZA-0155","small_airport","Letaba Rest Camp Airstrip",-23.833534,31.570522,,"AF","ZA","ZA-LP",,"no",,,,,,,
 323207,"ZA-0156","small_airport","Pafuri Camp Airstrip",-22.415096,31.213011,,"AF","ZA","ZA-LP","Pafuri","no",,,,,,,
 323208,"ZA-0157","small_airport","Mutele-Masisi Airport",-22.507196,30.891882,,"AF","ZA","ZA-LP","Mutele","no",,,,,,,
 326499,"ZA-0158","closed","Old George Airfield",-33.975,22.418302,689,"AF","ZA","ZA-WC","George","no",,,,,,,
-331866,"ZA-0159","small_airport","SKA SA Karoo Landing Strip",-30.6938,21.4608,3427,"AF","ZA","ZA-NC","Carnarvon","no",,,,,,,
+331866,"ZA-0159","small_airport","SKA Karoo Landing Strip",-30.690642,21.455448,3427,"AF","ZA","ZA-NC","Carnarvon","no",,,,,,,"Square Kilometer Array, Meerkat"
 332375,"ZA-0160","closed","Chalumna River Airstrip",-33.21,27.572,20,"AF","ZA","ZA-EC","Kayser's Beach","no",,,,,,,
 330312,"ZA-0161","small_airport","Klipriver Airfield",-26.475684,28.111032,5001,"AF","ZA","ZA-GT","Midvaal","no",,,,,,,
 330555,"ZA-0162","small_airport","Bingelela",-28.711116,29.331242,3731,"AF","ZA","ZA-NL","Bergville","no",,,,,"https://www.bingelela.co.za/",,"Sling aircraft"
 333001,"ZA-0163","small_airport","Kalahari Oryx",-28.421977,22.200966,2880,"AF","ZA","ZA-NC","Upington","no",,,,,,,"Tweepoort"
 337687,"ZA-0164","small_airport","Vlakteplaas Airstrip",-33.969025,24.939802,216,"AF","ZA","ZA-EC","Jeffreys Bay","no",,,,,"http://www.skydivejeffreysbay.co.za/vlakteplaas",,
 340246,"ZA-0165","small_airport","Manzengwenya Airstrip",-27.25942,32.7522,154,"AF","ZA","ZA-NL","Manzengwenya","no",,,,,,,"Big Skies"
-340247,"ZA-0166","small_airport","Sodwana Airstrip",-27.56774,32.65322,88,"AF","ZA","ZA-NL","Sodwana Bay","no",,,,,,,
+340247,"ZA-0166","closed","Sodwana Airstrip",-27.56774,32.65322,88,"AF","ZA","ZA-NL","Sodwana Bay","no",,,,,,,
 340248,"ZA-0167","heliport","Netcare uMhlanga Hospital Helipad",-29.72751,31.06868,,"AF","ZA","ZA-NL","uMhlanga","no",,,,,,,
 340249,"ZA-0168","heliport","Intertherm Durban Heliport",-29.74968,31.02946,,"AF","ZA","ZA-NL","Durban North","no",,,,,,,
 331107,"ZA-0169","small_airport","Lekoa Airstrip",-26.9457,28.7136,5085,"AF","ZA","ZA-MP","Herbstfontein","no",,,,,,,"FALEKOA"
@@ -85647,12 +85657,12 @@
 340254,"ZA-0174","heliport","King Edward VIII Hospital Helipad",-29.8822,30.98953,,"AF","ZA","ZA-NL","Durban","no",,,,,,,
 340255,"ZA-0175","heliport","Wentworth Hospital Helipad",-29.9329,30.98915,,"AF","ZA","ZA-NL","Bluff","no",,,,,,,
 340257,"ZA-0176","small_airport","Scottburgh Airfield",-30.30557,30.736022,,"AF","ZA","ZA-NL","Scottburgh","no",,,,,,,
-340258,"ZA-0177","small_airport","Delta Golf Airstrip",-30.773168,30.423876,,"AF","ZA","ZA-NL","Port Shepstone","no",,,,,,,
+340258,"ZA-0177","small_airport","Delta Golf Airstrip",-30.771778,30.424692,,"AF","ZA","ZA-NL","Port Shepstone","no",,,,,,,"Dezzi Raceway"
 340259,"ZA-0178","closed","Port Grosvenor Airfield",-31.371355,29.911104,,"AF","ZA","ZA-EC","Port Grosvenor","no",,,,,,,
 340260,"ZA-0179","small_airport","The Haven Airstrip",-32.242606,28.910072,,"AF","ZA","ZA-EC","Mbhashe","no",,,,,,,
 340261,"ZA-0180","small_airport","Watts Landing Airport",-32.9019,28.0491,279,"AF","ZA","ZA-EC","Kwelega","no","FAWG",,"FAWG",,,,
 340262,"ZA-0181","small_airport","Kwelega Road Airstrip",-32.905791,28.039851,,"AF","ZA","ZA-EC","Kwelega","no",,,,,,,
-340263,"ZA-0182","small_airport","Wings Park Airfield",-32.8248,27.83568,,"AF","ZA","ZA-EC","East London","no",,,,,,,
+340263,"ZA-0182","small_airport","Wings Park Airfield",-32.825743,27.836133,,"AF","ZA","ZA-EC","East London","no",,,,,,,
 340264,"ZA-0183","small_airport","Mtwentwe Farm Airfield",-32.74585,28.22815,,"AF","ZA","ZA-EC","Haga Haga","no",,,,,,,
 340265,"ZA-0184","small_airport","Haga Haga Airfield",-32.75634,28.23044,,"AF","ZA","ZA-EC","Haga Haga","no",,,,,,,
 340266,"ZA-0185","small_airport","Seaview Airport",-34.0011,25.3518,,"AF","ZA","ZA-EC","Gqeberha (Port Elizabeth)","no","FAEW",,"FAEW",,,,
@@ -85674,7 +85684,7 @@
 342032,"ZA-0201","heliport","Ultimate Heliport",-26.0284,28.1108,4826,"AF","ZA","ZA-GT","Midrand","no",,,,,,,
 342033,"ZA-0202","heliport","Edenvale Hospital Helipad",-26.1284,28.1288,5191,"AF","ZA","ZA-GT","Johannesburg","no",,,,,,,
 342034,"ZA-0203","heliport","Mediclinic Sandton Heliport",-26.0779,28.0121,5134,"AF","ZA","ZA-GT","Johannesburg","no",,,,,,,
-342035,"ZA-0204","closed","Chris Hani Baragwanath Hospital Helipad",-26.2603,27.9431,5466,"AF","ZA","ZA-GT","Soweto","no",,,,,,,
+342035,"ZA-0204","heliport","Chris Hani Baragwanath Hospital Helipad",-26.2603,27.9431,5466,"AF","ZA","ZA-GT","Soweto","no",,,,,,,
 342036,"ZA-0205","heliport","Sanan Helipad",-26.2298,28.041,5597,"AF","ZA","ZA-GT","Johannesburg","no",,,,,,,
 342037,"ZA-0206","heliport","Charlotte Maxeke Johannesburg Academic Hospital Helipad",-26.1759,28.0441,5817,"AF","ZA","ZA-GT","Johannesburg","no",,,,,,,
 342038,"ZA-0207","heliport","Waterfall City Hospital Helipad",-26.0135,28.1022,4888,"AF","ZA","ZA-GT","Midrand","no",,,,,,,
@@ -85701,7 +85711,7 @@
 345897,"ZA-0228","small_airport","De Hoop Nature Reserve Airstrip",-34.454359,20.417855,72,"AF","ZA","ZA-WC",,"no",,,,,,,
 345898,"ZA-0229","small_airport","Glendower Farm",-30.5978,29.396,4300,"AF","ZA","ZA-NL",,"no",,,,,,,
 345899,"ZA-0230","small_airport","Madikwe West Airport",-24.8231,26.2236,3646,"AF","ZA","ZA-NW",,"no",,,,,,,
-345900,"ZA-0231","small_airport","SHAMWARI",-33.457012,26.051448,695,"AF","ZA","ZA-EC",,"no",,,,,,,
+345900,"ZA-0231","small_airport","Shamwari Private Game Reserve Airfield",-33.457012,26.051448,695,"AF","ZA","ZA-EC",,"no",,,,,,,
 345901,"ZA-0232","small_airport","Welgevonden Western Airstrip",-24.286108,27.786655,4400,"AF","ZA","ZA-LP","Welgevonden Game Reserve","no",,,,,,,
 345904,"ZA-0233","small_airport","Marataba Airport",-24.2408,27.4908,3215,"AF","ZA","ZA-LP",,"no",,,,,,,
 345913,"ZA-0234","small_airport","Ndlopfu Airfield",-24.1734,31.3278,1129,"AF","ZA","ZA-MP",,"no",,,,,,,
@@ -85715,15 +85725,15 @@
 345922,"ZA-0242","heliport","Interwaste Heliport",-26.2213,28.18166,,"AF","ZA","ZA-GT","Johannesburg","no",,,,,,,
 345923,"ZA-0243","heliport","Nondela Estate Heliport",-28.596288,29.206971,,"AF","ZA","ZA-NL","Nondela Estate","no",,,,,,,
 345924,"ZA-0244","heliport","Paperbark Lodge Helipad",-24.2319,27.8857,,"AF","ZA","ZA-LP","Paperbark Lodge","no",,,,,,,
-345925,"ZA-0245","heliport","Trollope Mining Services Heliport",-26.0067,28.3444,,"AF","ZA","ZA-GT",,"no",,,,,,,
+345925,"ZA-0245","small_airport","Trollope Mining Services Airstrip",-26.006367,28.351015,5289,"AF","ZA","ZA-GT",,"no",,,,,,,
 345926,"ZA-0246","heliport","Moledi Heliport",-25.8806,27.1661,4541,"AF","ZA","ZA-NW",,"no",,,,,,,
 345927,"ZA-0247","heliport","Molori Heliport",-24.7198,26.3793,3182,"AF","ZA","ZA-NW",,"no",,,,,,,
-345928,"ZA-0248","small_airport","Tutwa Airfield",-28.5967,19.8414,,"AF","ZA","ZA-NC",,"no",,,,,,,
+345928,"ZA-0248","small_airport","Tutwa Airfield",-28.594674,19.847335,,"AF","ZA","ZA-NC",,"no",,,,,,,
 345929,"ZA-0249","small_airport","Glen Lyon Farm Airstrip",-28.812247,22.383753,3640,"AF","ZA","ZA-NC",,"no",,,,,,,
 346457,"ZA-0250","heliport","Marula Game Lodge Heliport",-25.125188,29.477766,3340,"AF","ZA","ZA-LP","Motetema","no",,,,,,,
 347768,"ZA-0251","heliport","Eagle View Helipad",-25.390456,30.172134,,"AF","ZA","ZA-MP","Walkersons","no",,,,,,,"Eagle, view, Cabin, helipad"
 31062,"ZA-0252","small_airport","Cape Blue Mine Airport",-29.334946,22.264621,3050,"AF","ZA","ZA-NC","Westerberg","no",,,,,,,
-352686,"ZA-0253","small_airport","Glenside Airfield",-28.886091,29.537859,3520,"AF","ZA","ZA-NL","winterton","no",,,,,,,
+352686,"ZA-0253","small_airport","Glenside Airfield",-28.883581,29.537001,3520,"AF","ZA","ZA-NL","winterton","no",,,,,,,
 353216,"ZA-0254","small_airport","Auchas Airport",-28.33486,16.79609,141,"AF","ZA","ZA-NC","Auchas","no",,,,,,,
 353217,"ZA-0255","small_airport","Grasdrif Airport",-28.38971,17.40487,413,"AF","ZA","ZA-NC","Grasdrif","no",,,,,,,
 353239,"ZA-0256","small_airport","Onseepkans Airport",-28.75211,19.32742,1444,"AF","ZA","ZA-NC","Onseepkans","no",,,,,,,
