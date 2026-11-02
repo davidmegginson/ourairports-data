@@ -4033,6 +4033,7 @@
 10627,"3MO5","small_airport","Nimsick Airport",37.12810134887695,-94.21610260009766,1095,"NA","US","US-MO","Carthage","no",,,"3MO5","3MO5",,,
 10628,"3MO6","closed","Kitty Hawk Estates Airport",39.335602,-94.483597,1000,"NA","US","US-MO","Kearney","no",,,,,,,"3MO6"
 600344,"3MO7","small_airport","Kelly Field",37.958725,-90.627651,698,"NA","US","US-MO","Bonne Terre","no",,,"3MO7","3MO7",,,
+611567,"3MO8","heliport","Fort Leonard Wood Hospital Heliport",37.769188,-92.112203,1068,"NA","US","US-MO","Fort Leonard Wood","no",,,"3MO8","3MO8",,,
 10632,"3MS0","heliport","Grand Gulf Heliport",32.013999938964844,-91.0521011352539,160,"NA","US","US-MS","Port Gibson","no",,,"3MS0","3MS0",,,
 10633,"3MS1","small_airport","Thomas Field",34.806433,-89.461455,485,"NA","US","US-MS","Holly Springs","no",,,"3MS1","3MS1",,,"North Mississippi Flying Service"
 10634,"3MS2","closed","Thunderfoot Ranch Airport",31.0791,-90.028397,390,"NA","US","US-MS","Tylertown","no",,,,,,,"3MS2"
@@ -26715,7 +26716,7 @@
 2940,"FNKU","medium_airport","Kuito Airport",-12.404600143433,16.947399139404,5618,"AF","AO","AO-BIE","Kuito","no","FNKU","SVP","FNKU",,,"https://en.wikipedia.org/wiki/Kuito_Airport",
 2941,"FNLB","small_airport","Lobito Airport",-12.3712,13.5366,10,"AF","AO","AO-BGU","Lobito","no","FNLB","LLT","FNLB",,,"https://en.wikipedia.org/wiki/Lobito_Airport",
 43321,"FNLK","small_airport","Lucapa Airport",-8.442339,20.732701,3029,"AF","AO","AO-LNO","Lucapa","no","FNLK","LBZ","FNLK",,,"https://en.wikipedia.org/wiki/Lucapa_Airport","Lukapa"
-2942,"FNLU","large_airport","Quatro de Fevereiro International Airport",-8.85837,13.2312,243,"AF","AO","AO-LUA","Luanda","yes","FNLU","LAD","FNLU",,,"https://en.wikipedia.org/wiki/Quatro_de_Fevereiro_Airport","4 de Fevereiro"
+2942,"FNLU","large_airport","Quatro de Fevereiro International Airport",-8.85837,13.2312,243,"AF","AO","AO-LUA","Luanda","no","FNLU","LAD","FNLU",,,"https://en.wikipedia.org/wiki/Quatro_de_Fevereiro_Airport","4 de Fevereiro"
 2943,"FNLZ","small_airport","Luzamba Airport",-9.11596012115,18.049299240099998,2904,"AF","AO","AO-LNO","Luzamba","no","FNLZ","LZM","FNLZ",,,"https://en.wikipedia.org/wiki/Cuango-Luzamba_Airport","Cuango"
 2944,"FNMA","medium_airport","Malanje Airport",-9.525090217590332,16.312400817871094,3868,"AF","AO","AO-MAL","Malanje","yes","FNMA","MEG","FNMA",,,"https://en.wikipedia.org/wiki/Malanje_Airport",
 2945,"FNME","medium_airport","Menongue Airport",-14.657600402832031,17.71980094909668,4469,"AF","AO","AO-CCU","Menongue","yes","FNME","SPP","FNME",,,"https://en.wikipedia.org/wiki/Menongue_Airport",
@@ -50313,7 +50314,7 @@
 354390,"NE-0002","small_airport","Kourou Arkenné Airfield",22.782036,14.024777,,"AF","NE","NE-1","Toummo","no",,,,,,,"HDBR, Z23L, Toummo"
 354471,"NE-0003","small_airport","Madama Military Base",21.951146,13.650711,1808,"AF","NE","NE-1","Fort Madama","no",,,,,,"https://en.wikipedia.org/wiki/Madama",
 356363,"NE-0004","small_airport","Fachi Airport",18.1016,11.56553,,"AF","NE","NE-1","Fachi","no",,,,,,,
-42447,"NE-0005","closed","Birni-N'Konni Airport",13.8015,5.24236,846,"AF","NE","NE-5","Birni-N'Konni","no",,,,,,,"DRRB, DRRB"
+42447,"NE-0005","closed","Birni-N'Konni Airport",13.8015,5.24236,846,"AF","NE","NE-5","Birni-N'Konni","no",,,,,,,"BKN, DRRB"
 604544,"NE-0006","small_airport","Tillabéri Airport",14.256092,1.435102,673,"AF","NE","NE-6","Tillabéri","no","DRRL",,"DRRL",,,,"Tillabery"
 22901,"NE01","small_airport","Schutte Airport",40.194698333740234,-98.35199737548828,1876,"NA","US","US-NE","Guide Rock","no",,,"NE01","NE01",,,
 22902,"NE02","heliport","Pender Community Hospital Heliport",42.10609817504883,-96.71109771728516,1348,"NA","US","US-NE","Pender","no",,,"NE02","NE02",,,
@@ -52622,7 +52623,7 @@
 5306,"OSLK","medium_airport","Latakia International Airport",35.4011,35.9487,157,"AS","SY","SY-LA","Latakia","yes","OSLK","LTK","OSLK",,"https://aerotur.aero/en/airport/ltk","https://en.wikipedia.org/wiki/Bassel_Al-Assad_International_Airport","مطار الشهيد باسل الأسد الدولي, Hmeimim Air Base"
 5307,"OSPR","medium_airport","Palmyra Airport",34.5574,38.316898,1322,"AS","SY","SY-HI","Tadmur","no","OSPR","PMS","OSPR",,,"https://en.wikipedia.org/wiki/Palmyra_Airport",
 341073,"OT62","small_airport","Umm Al-Shokhot Airport",25.700539,51.36303,40,"AS","QA","QA-SH","Al-Shahaniya","no",,,"OT62","OT62",,,
-5308,"OTBD","large_airport","Doha International Airport",25.259431,51.565528,35,"AS","QA","QA-DA","Doha","yes","OTBD","DIA","OTBD",,,"https://en.wikipedia.org/wiki/Doha_International_Airport","مطار الدوحة الدولى"
+5308,"OTBD","medium_airport","Doha International Airport",25.259431,51.565528,35,"AS","QA","QA-DA","Doha","no","OTBD","DIA","OTBD",,,"https://en.wikipedia.org/wiki/Doha_International_Airport","مطار الدوحة الدولى"
 5309,"OTBH","medium_airport","Al Udeid Air Base",25.1173000336,51.3149986267,130,"AS","QA","QA-RA","Ar Rayyan","no","OTBH","XJD","OTBH",,,"https://en.wikipedia.org/wiki/Al_Udeid_Air_Base",
 5310,"OTBK","closed","Al Khawr Airport",25.629601,51.506699,6,"AS","QA","QA-KH","Al Khawr","no",,,,,,"https://en.wikipedia.org/wiki/Al_Khor_Airport","Al Khor, OTBK"
 44686,"OTHH","large_airport","Hamad International Airport",25.273056,51.608056,13,"AS","QA","QA-DA","Doha","yes","OTHH","DOH","OTHH",,"http://dohahamadairport.com/","https://en.wikipedia.org/wiki/Hamad_International_Airport","New Doha International Airport"
@@ -77862,7 +77863,7 @@
 505167,"US-7357","heliport","WellStar North Fulton Hospital Heliport",34.06297,-84.32113,1114,"NA","US","US-GA","Roswell","no",,,"65GA","65GA",,,"Kennestone"
 505168,"US-7358","closed","Corn Ranch Airport",33.60563,-104.70535,3965,"NA","US","US-NM","Roswell","no",,,,,,,
 505170,"US-7359","heliport","Air Evac 117 Heliport",33.87922,-84.01883,1037,"NA","US","US-GA","Snellville","no",,,,,,,
-505173,"US-7360","heliport","General Leonard Wood Army Community Hospital Heliport",37.76642,-92.11272,1097,"NA","US","US-MO","Fort Leonard Wood","no",,,,,,,
+505173,"US-7360","closed","General Leonard Wood Army Community Hospital Heliport",37.76642,-92.11272,1097,"NA","US","US-MO","Fort Leonard Wood","no",,,,,,,
 505174,"US-7361","heliport","Pushmataha Hospital Heliport",34.23092,-95.61518,521,"NA","US","US-OK","Antlers","no",,,,,,,
 505177,"US-7362","small_airport","Vanguard Landing",33.209167,-81.929167,235,"NA","US","US-GA","Waynesboro","no",,,"5GA1","5GA1",,,
 505179,"US-7363","heliport","Blue Ridge Tours Heliport",34.839445,-84.336138,1690,"NA","US","US-GA","Blue Ridge","no",,,"70GA","70GA",,,
