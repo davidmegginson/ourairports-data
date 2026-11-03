@@ -16476,6 +16476,7 @@
 610843,"BR-3304","heliport","Fazenda Bonfim Heliport",-11.014463,-37.63615,361,"SA","BR","BR-SE","Lagarto","no",,,"SJID","SE0007",,,
 611337,"BR-3305","small_airport","Fazenda Caaporã Airport",-22.507594,-51.786595,1217,"SA","BR","BR-MT","Bom Jesus do Araguaia","no",,,"SN03","MT1203",,,
 611360,"BR-3306","small_airport","Fazenda Lajeado - Boi na Grota Airport",-4.431442,-50.522319,548,"SA","BR","BR-PA","Novo Repartimento","no",,,"SI71","PA0451",,,
+611588,"BR-3307","small_airport","Pontalina de Goiás Airport",-17.505782,-49.406429,625,"SA","BR","BR-GO","Pontalina","no",,,,,,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -19057,7 +19058,7 @@
 1076,"CJH4","small_airport","Ferland Airport",49.44499969482422,-106.93199920654297,2550,"NA","CA","CA-SK","Ferland","no",,,"CJH4","CJH4",,"https://en.wikipedia.org/wiki/Ferland_Airport","JH4"
 28163,"CJH6","seaplane_base","Atikokan Seaplane Base",48.766701,-91.666702,1296,"NA","CA","CA-ON","Atikokan","no",,,"CJH6","CJH6",,"https://en.wikipedia.org/wiki/Atikokan_Water_Aerodrome","JH6"
 1078,"CJH8","small_airport","Leask Airport",53.016700744628906,-106.75,1715,"NA","CA","CA-SK","Leask","no",,,"CJH8","CJH8",,"https://en.wikipedia.org/wiki/Leask_Airport","JH8"
-16715,"CJJ","small_airport","Ellen Church Field",43.3652992249,-92.133102417,1279,"NA","US","US-IA","Cresco","no",,,"KCJJ","CJJ",,,
+16715,"CJJ","small_airport","Ellen Church Field",43.365299,-92.133102,1279,"NA","US","US-IA","Cresco","no",,,"KCJJ","CJJ","https://secure.iowadot.gov/aviation/airports/airportintermediate.aspx?FAAcode=CJJ",,
 1079,"CJJ2","small_airport","Glenboro Airport",49.54999923706055,-99.33329772949219,1240,"NA","CA","CA-MB","Glenboro","no",,,"CJJ2","CJJ2",,"https://en.wikipedia.org/wiki/Glenboro_Airport","JJ2"
 299263,"CJJ3","small_airport","Wildwood / Loche Mist Farms Airstrip",53.546531,-115.260657,2880,"NA","CA","CA-AB","Wildwood","no",,,"CJJ3","CJJ3",,"https://en.wikipedia.org/wiki/Wildwood/Loche_Mist_Farms_Aerodrome",
 1080,"CJJ4","small_airport","Deloraine Airport",49.15060043334961,-100.5009994506836,1680,"NA","CA","CA-MB","Deloraine","no",,,"CJJ4","CJJ4",,"https://en.wikipedia.org/wiki/Deloraine_Airport","JJ4"
@@ -31436,6 +31437,7 @@
 608120,"HU-0082","heliport","Szentes Heliport",46.616714,20.28359,259,"EU","HU","HU-CS","Szentes","no",,,,,,,"Légimentő bázis"
 609968,"HU-0083","small_airport","Jabapuszta Airstrip",46.8025,18.0257,,"EU","HU","HU-SO",,"no",,,,,,,
 611509,"HU-0084","heliport","Sétarepülés (seaonal)",46.92375,17.84326,,"EU","HU","HU-VE",,"no",,,,,,,
+611590,"HUAD","small_airport","Amudat Airstrip",1.942043,34.933207,4163,"AF","UG","UG-N","Amudat","no","HUAD",,"HUAD",,,,
 3262,"HUAJ","small_airport","Adjumani Airport",3.339239,31.763854,2611,"AF","UG","UG-N","Adjumani","no","HUAJ",,"HUAJ",,,"https://en.wikipedia.org/wiki/Adjumani_Airport",
 32234,"HUAR","medium_airport","Arua Airport",3.049152,30.911714,3951,"AF","UG","UG-N","Arua","yes","HUAR","RUA","HUAR",,,"https://en.wikipedia.org/wiki/Arua_Airport",
 318929,"HUBU","small_airport","Bundibugyo Airport",0.67349,30.025483,3100,"AF","UG","UG-W","Bundibugyo","no","HUBU",,"HUBU",,,"https://en.wikipedia.org/wiki/Bundibugyo_Airport",
@@ -31444,17 +31446,17 @@
 302288,"HUGG","small_airport","Bugungu Airport",2.202788,31.554341,2472,"AF","UG","UG-W","Bujenje","no","HUGG",,"HUGG",,,"https://en.wikipedia.org/wiki/Bugungu_Airstrip",
 3264,"HUGU","medium_airport","Gulu Airport",2.8055601119995117,32.27180099487305,3510,"AF","UG","UG-N","Gulu","yes","HUGU","ULU","HUGU",,,"https://en.wikipedia.org/wiki/Gulu_Airport",
 31702,"HUJI","small_airport","Jinja Airport",0.453094,33.19356,3855,"AF","UG","UG-E","Jinja","no","HUJI","JIN","HUJI",,,"https://en.wikipedia.org/wiki/Jinja_Airport",
-302298,"HUKB","small_airport","Kabale Airport",-1.226111,29.96,6000,"AF","UG","UG-W",,"no",,,"HUKB",,,"https://en.wikipedia.org/wiki/Kabale_Airport",
-315270,"HUKD","small_airport","Kidepo Airport",3.7176,33.7487,4033,"AF","UG","UG-N","Kidepo Valley National Park","no",,,"HUKD",,,"https://en.wikipedia.org/wiki/Kidepo_Airport","Kipepo"
+302298,"HUKB","small_airport","Kabale Airport",-1.221689,29.956973,6000,"AF","UG","UG-W",,"no","HUKB",,"HUKB",,,"https://en.wikipedia.org/wiki/Kabale_Airport",
+315270,"HUKD","small_airport","Kidepo Airport",3.7176,33.7487,4033,"AF","UG","UG-N","Kidepo Valley National Park","no","HUKD",,"HUKD",,,"https://en.wikipedia.org/wiki/Kidepo_Airport","Kipepo"
 313431,"HUKJ","small_airport","Kajjansi Airfield",0.1968,32.55297,3743,"AF","UG","UG-C","Kampala","no",,"KJJ","HUKJ",,,"https://en.wikipedia.org/wiki/Kajjansi_Airfield",
-315269,"HUKK","small_airport","Kakira Airport",0.4933,33.281,3962,"AF","UG","UG-E","Kakira","no",,,"HUKK",,,"https://en.wikipedia.org/wiki/Kakira_Airport",
-315273,"HUKO","small_airport","Kotido Airport",2.953,34.1232,4020,"AF","UG","UG-N","Kotido","no",,,"HUKO",,,"https://en.wikipedia.org/wiki/Kotido_Airport",
+315269,"HUKK","small_airport","Kakira Airport",0.4933,33.281,3962,"AF","UG","UG-E","Kakira","no","HUKK",,"HUKK",,,"https://en.wikipedia.org/wiki/Kakira_Airport",
+315273,"HUKO","small_airport","Kotido Airport",2.953,34.1232,4020,"AF","UG","UG-N","Kotido","no","HUKO",,"HUKO",,,"https://en.wikipedia.org/wiki/Kotido_Airport",
 31776,"HUKS","small_airport","Kasese Airport",0.183,30.1,3146,"AF","UG","UG-W","Kasese","no","HUKS","KSE","HUKS",,,"https://en.wikipedia.org/wiki/Kasese_Airport",
-315272,"HUKT","small_airport","Kitgum Airport",3.2817,32.8882,3130,"AF","UG","UG-N","Kitgum","no",,,"HUKT",,,"https://en.wikipedia.org/wiki/Kitgum_Airport",
-31655,"HULI","small_airport","Lira Airport",2.25,32.9169998169,3580,"AF","UG","UG-N","Lira","no",,,"HULI",,,"https://en.wikipedia.org/wiki/Lira_Airport",
+315272,"HUKT","small_airport","Kitgum Airport",3.2817,32.8882,3130,"AF","UG","UG-N","Kitgum","no","HUKT",,"HUKT",,,"https://en.wikipedia.org/wiki/Kitgum_Airport",
+31655,"HULI","small_airport","Lira Airport",2.247866,32.909938,3580,"AF","UG","UG-N","Lira","no","HULI",,"HULI",,,"https://en.wikipedia.org/wiki/Lira_Airport",
 31884,"HUMA","small_airport","Mbarara Airport",-0.555278,30.5994,4600,"AF","UG","UG-W","Mbarara","no","HUMA","MBQ","HUMA",,,"https://en.wikipedia.org/wiki/Mbarara_Airport","Nyakisharara Airport"
 31733,"HUMI","small_airport","Masindi Airport",1.75806,31.7367,3850,"AF","UG","UG-W","Masindi","no","HUMI","KCU","HUMI",,,"https://en.wikipedia.org/wiki/Masindi_Airport",
-315274,"HUMO","small_airport","Moroto Airport",2.5051,34.5946,4170,"AF","UG","UG-N","Moroto","no",,,"HUMO",,,"https://en.wikipedia.org/wiki/Moroto_Airport",
+315274,"HUMO","small_airport","Moroto Airport",2.5051,34.5946,4170,"AF","UG","UG-N","Moroto","no","HUMO",,"HUMO",,,"https://en.wikipedia.org/wiki/Moroto_Airport",
 315277,"HUMW","small_airport","Mweya Airport",-0.194,29.8941,3160,"AF","UG","UG-W","Mweya","no",,,"HUMW",,,"https://en.wikipedia.org/wiki/Mweya_Airport",
 31724,"HUPA","small_airport","Pakuba Airport",2.326563,31.497698,2365,"AF","UG","UG-W","Pakuba","no","HUPA","PAF","HUPA",,,"https://en.wikipedia.org/wiki/Pakuba_Airfield",
 3265,"HUSO","medium_airport","Soroti Airport",1.7276899814605713,33.622798919677734,3697,"AF","UG","UG-E","Soroti","yes","HUSO","SRT","HUSO",,,"https://en.wikipedia.org/wiki/Soroti_Airport",
@@ -40114,7 +40116,7 @@
 19941,"KGEV","small_airport","Ashe County Airport",36.432418,-81.418519,3180,"NA","US","US-NC","Jefferson","no",,,"KGEV","GEV","http://www.ashencedc.com/ashe-county-airport","https://en.wikipedia.org/wiki/Ashe_County_Airport","NC67"
 19942,"KGEY","small_airport","South Big Horn County Airport",44.51679993,-108.0830002,3939,"NA","US","US-WY","Greybull","no","KGEY","GEY","KGEY","GEY","http://www.bighorncountywy.gov/res-airports.htm",,
 19943,"KGEZ","small_airport","Shelbyville Municipal Airport",39.586044,-85.804024,803,"NA","US","US-IN","Shelbyville","no",,,"KGEZ","GEZ",,"https://en.wikipedia.org/wiki/Shelbyville_Municipal_Airport_(Indiana)",
-17593,"KGFA","heliport","Malmstrom Air Force Base",47.504699707,-111.18699646,3472,"NA","US","US-MT","Great Falls","no",,"GFA","KGFA","GFA","http://www.malmstrom.af.mil/","https://en.wikipedia.org/wiki/Malmstrom_Air_Force_Base","Great Falls Municipal Airport"
+17593,"KGFA","heliport","Malmstrom Air Force Base",47.5047,-111.186996,3472,"NA","US","US-MT","Great Falls","no","KGFA","GFA","KGFA","GFA","http://www.malmstrom.af.mil/","https://en.wikipedia.org/wiki/Malmstrom_Air_Force_Base","Great Falls Municipal Airport"
 17594,"KGFD","small_airport","Pope Field",39.790715,-85.735019,895,"NA","US","US-IN","Greenfield","no","KGFD","GFD","KGFD","GFD",,"https://en.wikipedia.org/wiki/Pope_Field_(Indiana)",
 3553,"KGFK","medium_airport","Grand Forks International Airport",47.949299,-97.176102,845,"NA","US","US-ND","Grand Forks","yes","KGFK","GFK","KGFK","GFK","http://www.gfkairport.com/","https://en.wikipedia.org/wiki/Grand_Forks_International_Airport",
 3554,"KGFL","medium_airport","Floyd Bennett Memorial Airport",43.3412017822,-73.6102981567,328,"NA","US","US-NY","Glens Falls","no","KGFL","GFL","KGFL","GFL","http://www.warrencountydpw.com/airport_07/","https://en.wikipedia.org/wiki/Floyd_Bennett_Memorial_Airport",
@@ -46574,7 +46576,7 @@
 4790,"MPEJ","medium_airport","Enrique Adolfo Jimenez Airport",9.35664,-79.867401,25,"NA","PA","PA-3","Colón","yes","MPEJ","ONX","MPEJ",,,"https://en.wikipedia.org/wiki/Enrique_Adolfo_Jim%C3%A9nez_Airport",
 525236,"MPFE","small_airport","Fernando Eleta Airport",8.411389,-79.111115,311,"NA","PA","PA-8","Pedro de Cocal","no",,,"MPFE",,,"https://en.wikipedia.org/wiki/en:Fernando%20Eleta%20Airport",
 42190,"MPFS","small_airport","Fort Sherman Airport",9.365090370178223,-79.94979858398438,10,"NA","PA","PA-3","Fort Sherman","no",,,"MPFS",,,,
-30768,"MPHO","small_airport","Panamá Pacífico International Airport",8.91479,-79.599602,52,"NA","PA","PA-10","Panamá City","yes","MPPA","BLB","MPPA",,"http://www.panamapacifico.com/","https://en.wikipedia.org/wiki/Panam%C3%A1_Pac%C3%ADfico_International_Airport","HOW, Howard Air Force Base, Panama Pacifico"
+30768,"MPHO","medium_airport","Panamá Pacífico International Airport",8.91479,-79.599602,52,"NA","PA","PA-10","Panamá City","yes","MPPA","BLB","MPPA",,"http://www.panamapacifico.com/","https://en.wikipedia.org/wiki/Panam%C3%A1_Pac%C3%ADfico_International_Airport","MPHO, HOW, Howard Air Force Base, Panama Pacifico"
 316555,"MPI","small_airport","Mamitupu Airport",9.1851,-77.9841,25,"SA","PA","PA-GY","Mamitupu","no",,"MPI",,,,"https://en.wikipedia.org/wiki/Mamitupu_Airport","Mamitupo"
 31937,"MPJE","small_airport","Jaqué Airport",7.51778,-78.157204,29,"NA","PA","PA-5","Jaqué","no","MPJE","JQE","MPJE",,,"https://en.wikipedia.org/wiki/Jaqué_Airport",
 346902,"MPMC","small_airport","Chame Mayor Airport",8.591418,-79.869189,79,"NA","PA","PA-10","Chame","no",,,"MPMC",,,,
@@ -55431,7 +55433,7 @@
 5661,"RKTN","large_airport","Daegu International Airport",35.894394,128.656989,116,"AS","KR","KR-27","Daegu","yes","RKTN","TAE","RKTN",,,"https://en.wikipedia.org/wiki/Daegu_Airport",
 5662,"RKTP","small_airport","Seosan Air Base",36.703999,126.486,39,"AS","KR","KR-44","Seosan","no","RKTP","HMY","RKTP","RK6U",,"https://en.wikipedia.org/wiki/Seosan_Air_Base",
 323239,"RKTS","small_airport","Sangju Airfield",36.407451,128.177158,492,"AS","KR","KR-47","Sangju","no",,,,,,,
-5663,"RKTU","large_airport","Cheongju International Airport/Cheongju Air Base (K-59/G-513)",36.71556,127.500289,191,"AS","KR","KR-43","Cheongju","yes","RKTU","CJJ","RKTU",,"http://cheongju.airport.co.kr/doc/cheongju_eng/","https://en.wikipedia.org/wiki/Cheongju_Airport",
+5663,"RKTU","large_airport","Cheongju International Airport",36.71556,127.500289,191,"AS","KR","KR-43","Cheongju","yes","RKTU","CJJ","RKTU",,"https://www.airport.co.kr/cheongjueng/index.do","https://en.wikipedia.org/wiki/Cheongju_International_Airport","Cheongju Air Base"
 323563,"RKTW","heliport","Woong Cheon Heliport",36.219321,126.54962,53,"AS","KR","KR-44","Sohwang","no","RKTW",,"RKTW",,,,"Woong Cheon, Sohwang, Ongcheon"
 5664,"RKTY","medium_airport","Yecheon Airbase",36.630373,128.34971,354,"AS","KR","KR-47","Yecheon-ri","no","RKTY","YEC","RKTY",,,"https://en.wikipedia.org/wiki/Yecheon_Air_Base; https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
 5665,"RKUC","small_airport","Jochiwon (G-505) Airfield",36.571949,127.296067,82,"AS","KR","KR-44","Jochiwon","no","RKUC",,"RKUC",,,,
@@ -71807,6 +71809,9 @@
 611544,"US-13071","small_airport","Plane and Mane Airport",39.215194,-104.743091,7052,"NA","US","US-CO","Franktown","no",,,"CO40","CO40",,,
 611545,"US-13072","small_airport","Schnack Field",41.812949,-90.444675,664,"NA","US","US-IA","Malone","no",,,"3IA9","3IA9",,,
 611563,"US-13073","seaplane_base","Whitefish Seaplane Base",45.871834,-91.429281,1288,"NA","US","US-WI","Stone Lake","no",,,"WI83","WI83",,,"Whitefish Lake"
+611586,"US-13074","closed","27th Aero Squadron R/C Club 1984-1989",25.929018,-80.403099,2,"NA","US","US-FL","Dade County Florida","no",,,,,,,
+611587,"US-13075","closed","Los Caballos R/C Club",25.784395,-80.377994,,"NA","US","US-FL","Doral","no",,,,,,,
+611589,"US-13076","closed","Caca la Vaca R/C Club 1970's to 1985",25.883741,-80.343018,,"NA","US","US-FL","Hialeah Gardens","no",,,,,,,
 334444,"US-1308","closed","Ora Acres Airport",33.68147,-114.21366,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 334445,"US-1309","small_airport","Salome Emergency Airfield",33.58057,-113.58721,,"NA","US","US-AZ","Salome","no",,,,,,,
 334446,"US-1310","small_airport","75E Airport",33.63726,-113.34238,,"NA","US","US-AZ","Salome","no",,,,,,,
