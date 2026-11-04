@@ -20033,6 +20033,7 @@
 611186,"CN-0513","small_airport","Chongqing Longxing General Airport",29.748555,106.800601,779,"AS","CN","CN-50","Chongqing","no",,,,,,,
 611507,"CN-0514","heliport","Zayu Heliport",28.73011,96.778623,,"AS","CN","CN-54","Zayu","no",,,,,,,
 611511,"CN-0515","small_airport","Suining Anju Airport",30.394385,105.424785,,"AS","CN","CN-51","Suining","no",,,,,,,"Suining"
+611591,"CN-0516","closed","Hengyang Bajialing Airport / Airbase",26.90529,112.628038,,"AS","CN","CN-43","Zhuhui District","no",,,,,,"https://en.wikipedia.org/wiki/Hengyang_Bajialing_Airport","ZGHY, HNY"
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -31458,7 +31459,7 @@
 31733,"HUMI","small_airport","Masindi Airport",1.75806,31.7367,3850,"AF","UG","UG-W","Masindi","no","HUMI","KCU","HUMI",,,"https://en.wikipedia.org/wiki/Masindi_Airport",
 315274,"HUMO","small_airport","Moroto Airport",2.5051,34.5946,4170,"AF","UG","UG-N","Moroto","no","HUMO",,"HUMO",,,"https://en.wikipedia.org/wiki/Moroto_Airport",
 315277,"HUMW","small_airport","Mweya Airport",-0.194,29.8941,3160,"AF","UG","UG-W","Mweya","no",,,"HUMW",,,"https://en.wikipedia.org/wiki/Mweya_Airport",
-31724,"HUPA","small_airport","Pakuba Airport",2.326563,31.497698,2365,"AF","UG","UG-W","Pakuba","no","HUPA","PAF","HUPA",,,"https://en.wikipedia.org/wiki/Pakuba_Airfield",
+31724,"HUPA","small_airport","Pakuba Airport",2.326563,31.497698,2365,"AF","UG","UG-W","Pakuba","no","HUPA","PAF","HUPA",,,"https://en.wikipedia.org/wiki/Pakuba_Airfield","Kabalega Falls"
 3265,"HUSO","medium_airport","Soroti Airport",1.7276899814605713,33.622798919677734,3697,"AF","UG","UG-E","Soroti","yes","HUSO","SRT","HUSO",,,"https://en.wikipedia.org/wiki/Soroti_Airport",
 32476,"HUTO","small_airport","Tororo Airport",0.683,34.167,3840,"AF","UG","UG-E","Tororo","no","HUTO","TRY","HUTO",,,"https://en.wikipedia.org/wiki/Tororo_Airport",
 17657,"HWI","seaplane_base","Hawk Inlet Seaplane Base",58.127399,-134.755997,,"NA","US","US-AK","Hawk Inlet","no",,"HWI","HWI","HWI",,,
@@ -85932,7 +85933,7 @@
 27194,"ZGGG","large_airport","Guangzhou Baiyun International Airport",23.392401,113.299004,50,"AS","CN","CN-44","Guangzhou (Huadu)","yes","ZGGG","CAN","ZGGG",,"http://www.baiyunairport.com/english/index.jsp","https://en.wikipedia.org/wiki/Guangzhou_Baiyun_International_Airport",
 27195,"ZGHA","large_airport","Changsha Huanghua International Airport",28.189199,113.220001,217,"AS","CN","CN-43","Changsha (Changsha)","yes","ZGHA","CSX","ZGHA",,,"https://en.wikipedia.org/wiki/Changsha_Huanghua_International_Airport","长沙黄花国际机场"
 318152,"ZGHC","medium_airport","Hechi Jinchengjiang Airport",24.804344,107.710819,2221,"AS","CN","CN-45","Hechi (Jinchengjiang)","yes","ZGHC","HCJ","ZGHC",,,"https://en.wikipedia.org/wiki/Hechi_Jinchengjiang_Airport",
-31610,"ZGHY","small_airport","Hengyang Nanyue Airport",26.72208,112.617958,,"AS","CN","CN-43","Hengyang","yes","ZGHY","HNY","ZGHY",,,"https://en.wikipedia.org/wiki/Hengyang_Nanyue_Airport",
+31610,"ZGHY","medium_airport","Hengyang Nanyue Airport",26.72208,112.617958,,"AS","CN","CN-43","Hengyang","yes","ZGHY","HNY","ZGHY",,,"https://en.wikipedia.org/wiki/Hengyang_Nanyue_Airport",
 44146,"ZGHZ","medium_airport","Huizhou Pingtan Airport",23.049999,114.599998,50,"AS","CN","CN-44","Huizhou (Pingtan)","yes","ZGHZ","HUZ","ZGHZ",,,"https://en.wikipedia.org/wiki/Huizhou_Airport","Huiyang Air Base, Pingtan Airport"
 27196,"ZGKL","large_airport","Guilin Liangjiang International Airport",25.219828,110.039553,570,"AS","CN","CN-45","Guilin (Lingui)","yes","ZGKL","KWL","ZGKL",,,"https://en.wikipedia.org/wiki/Guilin_Liangjiang_International_Airport",
 308237,"ZGLD","small_airport","Luoding Sulong Airport",22.711169,111.60134,190,"AS","CN","CN-44","Yunfu (Luoding)","no",,,"ZGLD",,,"http://www.wiki86.com/view/4147987.htm",
