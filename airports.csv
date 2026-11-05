@@ -20034,6 +20034,7 @@
 611507,"CN-0514","heliport","Zayu Heliport",28.73011,96.778623,,"AS","CN","CN-54","Zayu","no",,,,,,,
 611511,"CN-0515","small_airport","Suining Anju Airport",30.394385,105.424785,,"AS","CN","CN-51","Suining","no",,,,,,,"Suining"
 611591,"CN-0516","closed","Hengyang Bajialing Airport / Airbase",26.90529,112.628038,,"AS","CN","CN-43","Zhuhui District","no",,,,,,"https://en.wikipedia.org/wiki/Hengyang_Bajialing_Airport","ZGHY, HNY"
+611607,"CN-0517","small_airport","Military Test Base",42.108419,87.151419,,"AS","CN","CN-65",,"no",,,,,,,
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -21191,14 +21192,14 @@
 1697,"CYCS","small_airport","Chesterfield Inlet Airport",63.346901,-90.731102,32,"NA","CA","CA-NU","Chesterfield Inlet","yes","CYCS","YCS","CYCS",,,"https://en.wikipedia.org/wiki/Chesterfield_Inlet_Airport",
 1698,"CYCT","small_airport","Coronation Airport",52.0750007629,-111.444999695,2595,"NA","CA","CA-AB","Coronation","no","CYCT","YCT","CYCT",,,"https://en.wikipedia.org/wiki/Coronation_Airport","YCT"
 1699,"CYCW","small_airport","Chilliwack Airport",49.153157,-121.939309,32,"NA","CA","CA-BC","Chilliwack","no","CYCW","YCW","CYCW",,,"https://en.wikipedia.org/wiki/Chilliwack_Airport","YCW"
-1700,"CYCX","heliport","CFB Gagetown Heliport",45.837766,-66.436729,166,"NA","CA","CA-NB","Oromocto","no",,,"CYCX",,,"https://en.wikipedia.org/wiki/CFB_Gagetown","YCX"
+1700,"CYCX","heliport","CFB Gagetown Heliport",45.837766,-66.436729,166,"NA","CA","CA-NB","Oromocto","no",,"YCX","CYCX",,,"https://en.wikipedia.org/wiki/CFB_Gagetown",
 1701,"CYCY","small_airport","Clyde River Airport",70.486099,-68.516701,87,"NA","CA","CA-NU","Clyde River","yes","CYCY","YCY","CYCY",,,"https://en.wikipedia.org/wiki/Clyde_River_Airport",
 1702,"CYCZ","small_airport","Fairmont Hot Springs Airport",50.331052,-115.873739,2661,"NA","CA","CA-BC","Fairmont Hot Springs","no","CYCZ","YCZ","CYCZ",,,"https://en.wikipedia.org/wiki/Fairmont_Hot_Springs_Airport","YCZ"
 317872,"CYD","small_airport","Ejidal de San Ignacio Airstrip",27.2906,-112.8851,575,"NA","MX","MX-BCS","Mulegé","no",,,,"SNG",,"https://en.wikipedia.org/wiki/San_Ignacio_Downtown_Airstrip",
 353838,"CYD2","seaplane_base","Yellow Dog Lodge Seaplane Base",62.890556,-113.867778,725,"NA","CA","CA-NT","Graham Lake","no",,,"CYD2","CYD2","https://yellowdoglodge.ca/","https://en.wikipedia.org/wiki/Graham_Lake_(Yellow_Dog_Lodge)_Water_Aerodrome",
 1703,"CYDA","medium_airport","Dawson City Airport",64.04309844970703,-139.1280059814453,1215,"NA","CA","CA-YT","Dawson City","yes","CYDA","YDA","CYDA",,,"https://en.wikipedia.org/wiki/Dawson_City_Airport",
 1704,"CYDB","medium_airport","Burwash Airport",61.371101,-139.041,2647,"NA","CA","CA-YT","Burwash Landing","no","CYDB","YDB","CYDB",,,"https://en.wikipedia.org/wiki/Burwash_Airport",
-1705,"CYDC","small_airport","Princeton Airport",49.468102,-120.511002,2298,"NA","CA","CA-BC","Town of Princeton","no",,,"CYDC",,"http://princetonairport.ca","https://en.wikipedia.org/wiki/Princeton_Airport_(British_Columbia)","YDC"
+1705,"CYDC","small_airport","Princeton Airport",49.468102,-120.511002,2298,"NA","CA","CA-BC","Town of Princeton","no","CYDC",,"CYDC",,"http://princetonairport.ca","https://en.wikipedia.org/wiki/Princeton_Airport_(British_Columbia)","YDC"
 1706,"CYDF","medium_airport","Deer Lake Airport",49.208159,-57.396147,72,"NA","CA","CA-NL","Deer Lake","yes","CYDF","YDF","CYDF",,"https://deerlakeairport.com/","https://en.wikipedia.org/wiki/Deer_Lake_Airport_(Newfoundland)",
 1707,"CYDH","heliport","Ottawa / Dwyer Hill Heliport",45.1305999756,-75.9483032227,325,"NA","CA","CA-ON","Ottawa","no",,,"CYDH","CYDH",,,"YDH"
 1708,"CYDL","small_airport","Dease Lake Airport",58.422199,-130.031998,2600,"NA","CA","CA-BC","Dease Lake","yes","CYDL","YDL","CYDL",,,"https://en.wikipedia.org/wiki/Dease_Lake_Airport","YDL"
@@ -45335,7 +45336,7 @@
 44487,"LTFG","medium_airport","Gazipaşa-Alanya Airport",36.298832,32.297017,92,"AS","TR","TR-07","Gazipaşa","yes","LTFG","GZP","LTFG",,"http://www.gzpairport.com/","https://en.wikipedia.org/wiki/Gazipa%C5%9Fa_Airport",
 4568,"LTFH","medium_airport","Samsun-Çarşamba Airport",41.253988,36.567546,18,"AS","TR","TR-55","Samsun","yes","LTFH","SZF","LTFH",,"http://www.carsamba.dhmi.gov.tr/havaalanlari/default.aspx?hv=32","https://en.wikipedia.org/wiki/%C3%87ar%C5%9Famba_Airport",
 4569,"LTFJ","large_airport","Istanbul Sabiha Gökçen International Airport",40.898602,29.3092,312,"AS","TR","TR-34","Pendik, Istanbul","yes","LTFJ","SAW","LTFJ",,"http://www.sgairport.com/","https://en.wikipedia.org/wiki/Istanbul_Sabiha_G%C3%B6k%C3%A7en_International_Airport","Sabiha Gökçen Havalimanı"
-6408,"LTFK","small_airport","Gökçeada Airport",40.204498,25.883302,73,"AS","TR","TR-17","Gökçeada","no","LTFK","GKD","LTFK",,,"https://en.wikipedia.org/wiki/G%C3%B6k%C3%A7eada_Airport","Imbros, İmroz"
+6408,"LTFK","small_airport","Gökçeada Airport",40.204498,25.883302,84,"AS","TR","TR-17","Gökçeada","no","LTFK","GKD","LTFK",,,"https://en.wikipedia.org/wiki/G%C3%B6k%C3%A7eada_Airport","Imbros, İmroz"
 317457,"LTFM","large_airport","İstanbul Airport",41.274874,28.732136,325,"EU","TR","TR-34","Istanbul","yes","LTFM","IST","LTFM",,"https://www.istairport.com/","https://en.wikipedia.org/wiki/Istanbul_Airport","Arnavutköy"
 525056,"LTFN","small_airport","Isparta/Kilic Airport",37.863665,30.355,2874,"AS","TR","TR-32",,"no",,,"LTFN",,,,
 316329,"LTFO","medium_airport","Rize–Artvin Airport",41.179766,40.848802,16,"AS","TR","TR-53","Rize","yes","LTFO","RZV","LTFO",,,"https://en.wikipedia.org/wiki/Rize–Artvin_Airport",
