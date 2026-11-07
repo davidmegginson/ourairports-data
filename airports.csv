@@ -13545,7 +13545,7 @@
 328955,"BR-0349","heliport","BMR Medical Heliport",-25.34695,-49.057376,2930,"SA","BR","BR-PR","Campina Grande do Sul","no",,,"SNBB","PR0128",,,
 328957,"BR-0350","small_airport","Fazenda Bela Vista Airport",-22.617232,-53.580533,840,"SA","BR","BR-MS","Novo Horizonte do Sul","no",,,"SNBE","MS0200",,,
 328996,"BR-0351","heliport","Eco Aviação Heliport",-19.842128,-43.871418,2290,"SA","BR","BR-MG","Belo Horizonte","no",,,"SWAH","MG0277",,,
-329000,"BR-0352","heliport","N. S. A. Heliport",-22.7384254,-45.540062,5663,"SA","BR","BR-SP","Campos do Jordão","yes",,,"SNBK","SNBK",,,
+329000,"BR-0352","heliport","N. S. A. Heliport",-22.738409,-45.539957,5663,"SA","BR","BR-SP","Campos do Jordão","yes",,,"SNBK","SP0691",,,
 329038,"BR-0353","small_airport","Fazenda Dois Irmãos Airport",-22.792222,-54.179444,1381,"SA","BR","BR-MS","Naviraí","no",,,"SNDI","SNDI",,,
 329042,"BR-0355","heliport","Helinorte",-23.415,-46.580555,2605,"SA","BR","BR-SP","São Paulo","no",,,"SSUH","SSUH",,,
 329168,"BR-0356","small_airport","Fazenda Guadiana Airport",-22.074271,-51.038782,1493,"SA","BR","BR-SP","Martinópolis","no",,,"SIGY","SP0178",,,
@@ -32736,6 +32736,7 @@
 611452,"IN-0410","small_airport","Datia Airport",25.649972,78.503167,,"AS","IN","IN-MP","Datia","no","VIDT","DPP",,,,"https://en.wikipedia.org/wiki/Datia_Airport","Datia airport, Airports in Madhya Pradesh,"
 611480,"IN-0411","heliport","Jawai Helipad",25.139289,73.094214,921,"AS","IN","IN-RJ","Sumerpur","no",,,,,"https://jawaihelipad.com/",,
 611540,"IN-0412","heliport","Jaisalmer Indira Helipad",26.922931,70.939075,748,"AS","IN","IN-RJ","Jaisalmer","no",,,,,,,
+611627,"IN-0413","heliport","KP Annex Helipad",18.53776,73.920373,,"AS","IN","IN-MM","Koregaon Park, Pune","no",,,,,,,"Koregaon Park Helipad, Mundhva Helipad"
 31698,"IN-JGB","small_airport","Jagdalpur Airport",19.074301,82.036797,1822,"AS","IN","IN-CT","Jagdalpur","yes","VEJR","JGB","VEJR","VEJR",,"https://en.wikipedia.org/wiki/Jagdalpur_Airport",
 32215,"IN-RJI","small_airport","Rajouri Airport",33.377899,74.315201,3000,"AS","IN","IN-JK","Rajouri","no",,"RJI",,,,"https://en.wikipedia.org/wiki/Rajouri_Airport","Rajauri"
 3302,"IN-VA38","small_airport","Sirohi Airport",24.895099639892578,72.84590148925781,1000,"AS","IN","IN-RJ",,"no",,,"VA38","VA38",,,
@@ -56313,7 +56314,7 @@
 331743,"RU-0521","small_airport","Visokiy Airstrip",44.7770214,40.8997519,,"EU","RU","RU-KDA",,"no",,,,,,,
 332760,"RU-0522","small_airport","Paradrom Pokrov",55.43705,37.626689,,"EU","RU","RU-MOW",,"no",,,,"ZF94",,,
 333503,"RU-0523","small_airport","Podgornoye Airfield",54.740583,20.726472,-5,"EU","RU","RU-KGD",,"no",,,,,"https://aeroland.club/",,"Подгорное"
-334131,"RU-0524","small_airport","Southern Sky Airfield",44.937911,38.929186,,"EU","RU","RU-AD","Enem","no",,,,"XRKD",,,"Southern Sky"
+334131,"RU-0524","small_airport","Southern Sky Airfield",44.937912,38.929186,66,"EU","RU","RU-AD","Enem","no",,,,"XRKD",,,"ЬРКД, Энем"
 335060,"RU-0525","small_airport","Beregovoy Airport",54.358554,127.501488,1150,"AS","RU","RU-AMU","Zeysky District","no",,,,,,,
 335061,"RU-0526","small_airport","Fevralsk Airport",52.495787,130.915318,890,"AS","RU","RU-AMU",,"no",,,"UHBF",,,,
 335168,"RU-0527","small_airport","Byas-Kyuyol Airport",59.498603,119.309163,,"AS","RU","RU-SA",,"no",,,"UEBY",,,,
@@ -57003,6 +57004,7 @@
 611412,"RU-10194","heliport","Gorodishchenskoye LPUMG Helipad",48.804639,44.368804,433,"EU","RU","RU-VGG","Gorodishe","no",,,,"HJ9T",,,"ХЙ9Т, Городище"
 611528,"RU-10195","small_airport","Dugino Airfield",47.179396,39.426574,6,"EU","RU","RU-ROS","Rostov-on-Don","no",,,,"URUD",,,"УРУД, ZCS2, ЗЦС2, Дугино"
 611529,"RU-10196","heliport","Barlak Heliport",55.198834,83.229006,679,"EU","RU","RU-NVS","Barlak","no",,,,"HA76",,,"ХА76, Барлак"
+611629,"RU-10197","small_airport","Yuktali Airstrip",56.588482,121.673151,1350,"AS","RU","RU-AMU","Yuktali","no",,,,,,,"Юктали"
 528461,"RU-1020","heliport","Roman Trebs field",68.624032,57.891887,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
 528462,"RU-1021","heliport","Roman Trebs field",68.609969,57.715387,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
 528463,"RU-1022","heliport","Roman Trebs field",68.655715,57.699562,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
@@ -62819,9 +62821,9 @@
 37039,"SNBH","heliport","Biocor Helipad",-19.981481,-43.944905,3907,"SA","BR","BR-MG","Nova Lima","no",,,"SNBH","MG0248",,,
 279,"SNBI","small_airport","Bacabal Airport",-4.22771,-44.82,64,"SA","BR","BR-MA","Bacabal","no",,,"SNBI","MA0005",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Bacabal",
 347373,"SNBL","small_airport","Fazenda Agropecuária Camargos Airstrip",-16.55293,-46.7692,2067,"SA","BR","BR-MG","Unaí","no","SNBL",,"SNBL","MG0477",,,
-282,"SNBM","small_airport","Cristiano Ferreira Varella Airport",-21.126101,-42.394402,886,"SA","BR","BR-MG","Muriaé","no",,,"SNBM","SNBM",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Muria%C3%A9",
-37041,"SNBN","small_airport","Balbinot Airport",-2.875833034515381,-50.491668701171875,203,"SA","BR","BR-PA","Portel","no",,,"SNBN",,,,
-323611,"SNBQ","heliport","Bela Cintra Heliport",-23.553977,-46.658533,2864,"SA","BR","BR-SP","São Paulo","no",,,"SNBQ",,,,
+282,"SNBM","small_airport","Cristiano Ferreira Varella Airport",-21.126093,-42.394207,886,"SA","BR","BR-MG","Muriaé","no",,,"SNBM","MG0051",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Muria%C3%A9",
+37041,"SNBN","small_airport","Balbinot Airport",-2.871424,-50.4876,203,"SA","BR","BR-PA","Portel","no",,,"SNBN","PA0083",,,
+323611,"SNBQ","heliport","Bela Cintra Helistop",-23.553977,-46.658533,2861,"SA","BR","BR-SP","São Paulo","no",,,"SNBQ","SP0692",,,
 283,"SNBR","small_airport","Dom Ricardo Weberberger Airport",-12.0789,-45.008999,2451,"SA","BR","BR-BA","Barreiras","yes","SNBR","BRA","SNBR","BA0011",,"https://en.wikipedia.org/wiki/Barreiras_Airport",
 284,"SNBS","small_airport","Balsas Airport",-7.525305,-46.053364,948,"SA","BR","BR-MA","Balsas","no","SNBS","BSS","SNBS","MA0010",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Balsas",
 37042,"SNBT","small_airport","Benedito Leite Airport",-7.216944,-44.550556,984,"SA","BR","BR-MA","Benedito Leite","no",,,"SNBT",,,"https://pt.wikipedia.org/wiki/Aeroporto_de_Benedito_Leite",
@@ -67208,7 +67210,7 @@
 35126,"UHSH","small_airport","Okha Airport",53.516446,142.881426,123,"AS","RU","RU-SAK","Okha","no","UHSH","OHH","UHSH","OXA",,"https://en.wikipedia.org/wiki/Okha_Airport","Oxa Airport, Аэропóрт Охá, Ekhabi"
 319423,"UHSI","small_airport","Iturup Airport",45.256389,147.95549,387,"AS","RU","RU-SAK","Kurilsk","yes","UHSI","ITU","UHSI",,,"https://en.wikipedia.org/wiki/Iturup_Airport",
 35125,"UHSK","small_airport","Shakhtyorsk Airport",49.1903,142.082993,50,"AS","RU","RU-SAK","Shakhtyorsk","yes","UHSK","EKS","UHSK",,,"https://en.wikipedia.org/wiki/Shakhtyorsk_Airport","УХСК, Shakhtersk Airport, Аэропорт Шахтёрск, Аэропорт Шахтерск"
-41837,"UHSM","small_airport","Yuzhno-Kurilsk Mendeleyevo Airport",43.961066,145.684977,584,"AS","RU","RU-SAK","Yuzhno-Kurilsk","yes","UHSM","DEE","UHSM",,,"https://en.wikipedia.org/wiki/Yuzhno-Kurilsk_Mendeleyevo_Airport","УХСМ, Mendeleevo Airport, Yuzhno-Kurilsk Airport, Island Kunashir Airport, Аэропорт Менделеево, Аэропорт Южно-Курильск, Аэропорт острова Кунашир"
+41837,"UHSM","small_airport","Yuzhno-Kurilsk Mendeleyevo Airport",43.961066,145.684977,584,"AS","RU","RU-SAK","Yuzhno-Kurilsk","yes","UHSM","DEE","UHSM","XHSM",,"https://en.wikipedia.org/wiki/Yuzhno-Kurilsk_Mendeleyevo_Airport","УХСМ, ЬХСМ, Mendeleevo Airport, Yuzhno-Kurilsk Airport, Kunashir Island Airport, Аэропорт Менделеево, Аэропорт Южно-Курильск, Аэропорт острова Кунашир"
 41838,"UHSN","small_airport","Nogliki Airport",51.783955,143.141785,109,"AS","RU","RU-SAK","Nogliki","yes",,"NGK","UHSN",,"https://airportus.ru/board/?airport=nogliki","https://en.wikipedia.org/wiki/Nogliki_Airport","УХСН, Ноглики"
 32521,"UHSO","small_airport","Zonalnoye Airport",50.669929,142.760082,479,"AS","RU","RU-SAK","Tymovskoye","no","UHSO","ZZO","UHSO",,,"https://en.wikipedia.org/wiki/Zonalnoye_Airport","УХСО, Zonalnoe Airport, Аэропорт Зональное"
 6461,"UHSS","large_airport","Yuzhno-Sakhalinsk International Airport",46.885461,142.717466,59,"AS","RU","RU-SAK","Yuzhno-Sakhalinsk","yes","UHSS","UUS","UHSS",,"https://uusaero.ru/","https://en.wikipedia.org/wiki/Yuzhno-Sakhalinsk_Airport","УХСС, Аэропорт Южно-Сахалинск, Khomutovo, Khomutovo International Airport"
@@ -67427,7 +67429,7 @@
 31522,"URKG","medium_airport","Gelendzhik Airport",44.5820926295,38.0124807358,98,"EU","RU","RU-KDA","Gelendzhik","yes","URKG","GDZ","URKG",,"http://basel.aero/en/gelendjik/","https://en.wikipedia.org/wiki/Gelendzhik_Airport","Аэропорт Геленджик"
 6512,"URKK","large_airport","Krasnodar Pashkovsky International Airport",45.034465,39.174215,118,"EU","RU","RU-KDA","Krasnodar","yes","URKK","KRR","URKK",,"https://krr.aero/en/","https://en.wikipedia.org/wiki/Pashkovsky_Airport","Pashkovskiy Airport, Pashkovsky Airport"
 44330,"URKR","small_airport","Armavir Air Base",44.968661,41.107408,712,"EU","RU","RU-KDA","Armavir","no",,,"URKR",,,"https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BC%D0%B0%D0%B2%D0%B8%D1%80_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)","Аэродром Армавир"
-44300,"URKS","small_airport","Enem Airfield",44.945999,38.931999,62,"EU","RU","RU-AD","Enem","no",,,"URKS",,,"https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D0%BC_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)","Аэропорт Энем"
+44300,"URKS","small_airport","Krasnodar / Enem Airport",44.944769,38.936379,62,"EU","RU","RU-AD","Enem","no",,,"URKS",,,"https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D0%BC_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)","УРКС, Аэропорт Краснодар / Энем"
 46100,"URME","small_airport","Yessentuki Airfield",44.06,42.829,,"EU","RU","RU-STA","Yessentuki","no",,,"URME",,,,"Ессентуки"
 42924,"URMG","large_airport","Akhmat Kadyrov Grozny International Airport",43.388106,45.699772,548,"AS","RU","RU-CE","Grozny","yes","URMG","GRV","URMG",,,"https://en.wikipedia.org/wiki/Grozny_Airport","Grozny North, Grozny Severny, Grozny, Аэропорт Грозный Северный, Аэропорт Грозный"
 6513,"URML","large_airport","Makhachkala Uytash International Airport",42.816799,47.652302,12,"AS","RU","RU-DA","Makhachkala","yes","URML","MCX","URML",,,"https://en.wikipedia.org/wiki/Uytash_airport",
