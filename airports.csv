@@ -16481,6 +16481,7 @@
 611612,"BR-3309","small_airport","Fazenda Piquiri 5B Airport",-11.135914,-57.271172,890,"SA","BR","BR-U-A","Juara","no",,,"SN18","MT1208",,,
 611620,"BR-3310","small_airport","Fazenda São José do Corrente Airport",-19.107346,-51.08877,1280,"SA","BR","BR-GO","Itarumã","no",,,"SN53","GO0453",,,
 611622,"BR-3311","small_airport","Fazenda Conquista Airport",-16.382869,-48.571294,3064,"SA","BR","BR-U-A","Gameleira de Goiás","no",,,"SN54","GO0454",,,
+611635,"BR-3312","small_airport","Usina Privado Airport",-20.654,-46.563409,,"SA","BR","BR-MG","Passos","no",,,,,,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -54430,6 +54431,7 @@
 609836,"PL-0291","small_airport","Bucharzewo Airstrip",52.67846,16.11214,,"EU","PL","PL-WP",,"no",,,,,,,
 610725,"PL-0292","small_airport","Kiełpin Airfield",52.62053,15.20084,,"EU","PL","PL-LB",,"no","EPFG",,,,,,
 610749,"PL-0293","small_airport","Lelów Airstrip",50.70846,19.63953,,"EU","PL","PL-SL",,"no",,,,,,,
+611634,"PL-0294","heliport","DOM WESELNY MONIKA Heliport",50.368855,20.341943,,"EU","PL","PL-SK","Chmielów","no","EPMN",,,,,,
 5493,"PLCH","large_airport","Cassidy International Airport",1.986278,-157.350011,5,"OC","KI","KI-L","Kiritimati","yes","PLCH","CXI","PLCH",,,"https://en.wikipedia.org/wiki/Cassidy_International_Airport","Christmas Island, Banana"
 32466,"PLFA","small_airport","Tabuaeran Island Airport",3.89944,-159.389008,,"OC","KI","KI-L","Tabuaeran Island","no","PLFA","TNV","PLFA",,,"https://de.wikipedia.org/wiki/Flugplatz_Tabuaeran","Fanning Island"
 6493,"PLPA","small_airport","Palmyra (Cooper) Airport",5.888748,-162.077866,5,"OC","UM","UM-95","Palmyra Island Atoll","no","PLPA",,"PLPA","P16",,"https://en.wikipedia.org/wiki/Palmyra_(Cooper)_Airport",
