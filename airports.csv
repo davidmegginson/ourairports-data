@@ -13191,6 +13191,8 @@
 39415,"BO-0020","closed","Abapó Airport",-18.63447,-62.936735,2752,"SA","BO","BO-S","Abapó","no",,,,,,,"SLAB, SLAB"
 39538,"BO-0021","small_airport","San Juan Estancias Airport",-14.162648,-64.759276,820,"SA","BO","BO-B","Cercado","no",,,,,,,"SLJN"
 602403,"BO-0022","small_airport","Cobija Southwest Airstrip",-11.092461,-68.86763,825,"SA","BO","BO-N","Cobija","no",,,,,,,
+611643,"BO-0023","closed","Aerodromo San Isidro - El Tambo",-18.017818,-64.452251,5331,"SA","BO","BO-S",,"no",,,,,,,
+611644,"BO-0024","closed","Aeródromo La Cruceña",-17.802249,-62.952743,1151,"SA","BO","BO-S",,"no",,,,,,,"Aeroclub Mondaca"
 41590,"BO-BVL","small_airport","Baures Airport",-13.654426,-63.704718,470,"SA","BO","BO-B","Baures","no",,"BVL","SLBA",,,"https://en.wikipedia.org/wiki/Baures_Airport",
 312780,"BOV","small_airport","Boang Airport",-3.3834,153.2812,85,"OC","PG","PG-NIK","Boang Island","no",,"BOV",,"BOG",,,
 335973,"BQ-0001","closed","Old Flamingo Airport",12.18637,-68.26484,,"NA","BQ","BQ-BO","Kralendijk","no",,,,,,,
@@ -26382,6 +26384,7 @@
 29933,"FI-0022","closed","Haapamäki Airfield",62.255204,24.349478,531,"EU","FI","FI-08","Haapamäki","no",,,,,,,"EFHI, EFHI"
 30308,"FI-0023","closed","Pyhäselkä Airfield",62.464699,30.035299,322,"EU","FI","FI-13","Joensuu","no",,,,,,,"EFPH, EFPH"
 30430,"FI-0024","closed","Sonkajärvi-Jyrkkä Airfield",63.819401,27.7694,600,"EU","FI","FI-15","Sonkajärvi","no",,,,,,"https://fi.wikipedia.org/wiki/fi:Jyrk%C3%A4n%20lentokentt%C3%A4?uselang=en","EFSJ, EFSJ"
+611645,"FI-0025","heliport","Åland Central Hospital",60.114719,19.932905,52,"EU","FI","FI-01",,"no","EFMH",,,,,,"Ahvenanmaan keskussairaala"
 2878,"FIMP","large_airport","Sir Seewoosagur Ramgoolam International Airport",-20.430201,57.683601,186,"AF","MU","MU-GP","Plaine Magnien","yes","FIMP","MRU","FIMP",,"http://aml.mru.aero/","https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_International_Airport","Plaisance International Airport"
 2879,"FIMR","medium_airport","Sir Charles Gaetan Duval Airport",-19.757668,63.36103,95,"AF","MU","MU-RO","Port Mathurin","yes","FIMR","RRG","FIMR",,,"https://en.wikipedia.org/wiki/Rodrigues_Island_Airport","Plaine Corail"
 352637,"FJ-0002","heliport","Vomo Heliport",-17.5014,177.27288,46,"OC","FJ","FJ-W","Vomo","no",,,,,,,
@@ -69018,7 +69021,7 @@
 13114,"US-10515","closed","Mathew Private Field",46.671299,-96.450897,965,"NA","US","US-MN","Barnesville","no",,,,,,,"68MN"
 13123,"US-10516","closed","Lyda Ranch Airstrip",45.3911,-121.276001,2450,"NA","US","US-OR","Dufur","no",,,,,,,"68OR"
 13129,"US-10517","closed","San Patricio International Airport",27.980801,-97.786903,50,"NA","US","US-TX","San Patricio","no",,,,,,,"68TX"
-13140,"US-10518","closed","Eagle's Landing Airport",26.677299,-82.136497,10,"NA","US","US-FL","Fort Myers","no",,,,,,,"69FL"
+13140,"US-10518","closed","Eagle's Landing Airport",26.675969,-82.136868,10,"NA","US","US-FL","Fort Myers","no",,,,,,,"69FL"
 13143,"US-10519","closed","Great Oaks Airport",33.926339,-82.654438,530,"NA","US","US-GA","Tignall","no",,,,,,,"69GE"
 329970,"US-1052","small_airport","Howard Airfield",42.938527,-84.577182,761,"NA","US","US-MI","St. Johns","no",,,"25MI","25MI",,,
 13146,"US-10520","closed","Solar Nr 1 Heliport",38.225899,-87.269699,510,"NA","US","US-IN","Lynnville","no",,,,,,,"69IN"
