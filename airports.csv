@@ -21009,6 +21009,7 @@
 42293,"CU-0113","closed","Matahambre Airport",22.5875,-83.945,396,"NA","CU","CU-01","Minas de Matahambre","no",,,,,,,"MUMH"
 42301,"CU-0114","closed","Matanzas Airport",23.01,-81.510002,9,"NA","CU","CU-04","Matanzas","no",,,,,,,"MUMT"
 604055,"CU-0115","medium_airport","[Duplicate] Holguín Air Base",20.786418,-76.318513,,"NA","CU","CU-11","Holguin","no",,,,,,,
+611653,"CU-0116","closed","26 De Julio (Aeropuerto Viejo)",20.380941,-76.620453,,"NA","CU","CU-12","Bayamo","no",,,,,,,
 527980,"CUB2","seaplane_base","Buckhorn Water Aerodrome",44.53,-78.355,806,"NA","CA","CA-ON","Upper Buckhorn Lake","no",,,"CUB2","CUB2",,,
 316499,"CUJ","small_airport","Culion Airport",11.8553,119.9378,155,"AS","PH","PH-PLW","Culion","no",,"CUJ",,,,,"Patag Airstrip"
 598853,"CV-0001","closed","Francisco Mendes International Airport",14.9261,-23.4948,229,"AF","CV","CV-S","Praia","no",,,,,,"https://en.wikipedia.org/wiki/Francisco_Mendes_International_Airport","RAI, GVFM"
@@ -24375,7 +24376,7 @@
 2472,"EGQS","medium_airport","RAF Lossiemouth",57.7052,-3.33917,42,"EU","GB","GB-SCT","Lossiemouth, Moray","no","EGQS","LMO","EGQS",,"http://www.raf.mod.uk/raflossiemouth/","https://en.wikipedia.org/wiki/RAF_Lossiemouth",
 29179,"EGSA","small_airport","Shipdham Airfield",52.629398,0.928056,210,"EU","GB","GB-ENG","Thetford, Norfolk","no","EGSA",,"EGSA",,"http://www.shipdhamaeroclub.co.uk/","https://en.wikipedia.org/wiki/RAF_Shipdham","RAF Shipdham"
 2473,"EGSC","medium_airport","Cambridge City Airport",52.205002,0.175,47,"EU","GB","GB-ENG","Cambridge, Cambridgeshire","no","EGSC","CBG","EGSC",,"http://www.cambridgeairport.com/","https://en.wikipedia.org/wiki/Cambridge_City_Airport","Marshall, RAF Cambridge"
-29181,"EGSD","heliport","Great Yarmouth - North Denes Heliport",52.635576,1.723016,6,"EU","GB","GB-ENG","Great Yarmouth, Norfolk","no","EGSD",,"EGSD",,,"https://en.wikipedia.org/wiki/Great_Yarmouth_-_North_Denes_Airport","Yarmouth Heliport"
+29181,"EGSD","heliport","Great Yarmouth - North Denes Heliport",52.635576,1.723016,6,"EU","GB","GB-ENG","Great Yarmouth, Norfolk","no","EGSD",,"EGSD",,"https://yarmouthheliport.co.uk/","https://en.wikipedia.org/wiki/Great_Yarmouth_-_North_Denes_Airport","Yarmouth Heliport"
 2474,"EGSF","small_airport","Peterborough Business Airport",52.468102,-0.251111,26,"EU","GB","GB-ENG","Peterborough, Cambridgeshire","no","EGSF",,"EGSF",,"http://www.aerolease.co.uk/","https://en.wikipedia.org/wiki/Peterborough_Business_Airport","Conington Airport, RAF Glatton"
 29182,"EGSG","small_airport","Stapleford Aerodrome",51.6525,0.155833,183,"EU","GB","GB-ENG","Romford, Greater London","no","EGSG",,"EGSG",,"http://www.flysfc.com/","https://en.wikipedia.org/wiki/Stapleford_Aerodrome","Epping Forest, RAF Stapleford Tawney"
 2475,"EGSH","medium_airport","Norwich Airport",52.6758,1.28278,118,"EU","GB","GB-ENG","Norwich, Norfolk","yes","EGSH","NWI","EGSH",,"https://www.norwichairport.co.uk/","https://en.wikipedia.org/wiki/Norwich_Airport","RAF Horsham St Faith"
