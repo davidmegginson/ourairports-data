@@ -8002,7 +8002,7 @@
 14592,"83CO","heliport","Snake River Health Services Inc Heliport",39.60419845581055,-105.95899963378906,9300,"NA","US","US-CO","Keystone","no",,,"83CO","83CO",,,
 597678,"83FA","heliport","Ferguson Heliport",28.096101,-82.476674,51,"NA","US","US-FL","Tampa","no",,,"83FA","83FA",,,
 14593,"83FD","small_airport","Lake Montaza Airport",27.580299377441406,-80.81529998779297,52,"NA","US","US-FL","Okeechobee","no",,,"83FD","83FD",,,
-14594,"83FL","small_airport","Nassau Airport",30.618799209594727,-81.53369903564453,20,"NA","US","US-FL","Yulee","no",,,"83FL","83FL",,,
+14594,"83FL","small_airport","Nassau Airport",30.626725,-81.534484,20,"NA","US","US-FL","Yulee","no",,,"83FL","83FL",,,
 14595,"83GA","small_airport","Brock Airpark",30.99970054626465,-84.506103515625,130,"NA","US","US-GA","Bainbridge","no",,,"83GA","83GA",,,
 14596,"83IA","heliport","Keokuk County Health Center Heliport",41.3224983215332,-92.20549774169922,753,"NA","US","US-IA","Sigourney","no",,,"83IA","83IA",,,
 14597,"83IL","small_airport","Oltman-Shuck Airport",40.892799377441406,-89.10399627685547,736,"NA","US","US-IL","Minonk","no",,,"83IL","83IL",,,
@@ -26298,7 +26298,7 @@
 17360,"FD92","small_airport","Southerland Strip",28.732799530029297,-81.07869720458984,15,"NA","US","US-FL","Geneva","no",,,"FD92","FD92",,,
 17361,"FD93","small_airport","Yellow River Airstrip",30.686354,-86.747564,150,"NA","US","US-FL","Holt","no",,,"FD93","FD93",,,
 17362,"FD94","small_airport","Hartzog Field",30.718900680541992,-85.60669708251953,125,"NA","US","US-FL","Chipley","no",,,"FD94","FD94",,,
-17364,"FD96","small_airport","Hilliard's Private Airport",26.832599639892578,-81.0801010131836,13,"NA","US","US-FL","Moore Haven","no",,,"FD96","FD96",,,
+17364,"FD96","closed","Hilliard's Private Airport",26.8326,-81.080101,13,"NA","US","US-FL","Moore Haven","no",,,,,,,"FD96"
 17365,"FD97","heliport","NCH Downtown Hospital Heliport",26.151028,-81.797769,42,"NA","US","US-FL","Naples","no",,,"FD97","FD97",,,"Naples Community Hospital Heliport"
 17366,"FD98","seaplane_base","Ferguson Seaplane Base",28.71470069885254,-81.27010345458984,10,"NA","US","US-FL","Winter Springs","no",,,"FD98","FD98",,,
 17367,"FD99","heliport","Dr. P. Phillips Hospital Heliport",28.429591,-81.477099,98,"NA","US","US-FL","Orlando","no",,,"FD99","FD99",,,"Sand Lake Health Center"
@@ -77687,7 +77687,7 @@
 430514,"US-7160","heliport","Baptist Health Bethesda Hospital West Heliport",26.52929,-80.19844,21,"NA","US","US-FL","Boynton Beach","no",,,,"FL47",,,
 430530,"US-7161","heliport","Englewood Community Hospital Heliport",26.95098,-82.32641,12,"NA","US","US-FL","Englewood","no",,,"0FL4","0FL4",,,"HCA Florida"
 430536,"US-7162","small_airport","BNCFL Airport",29.58089,-81.59189,13,"NA","US","US-FL","San Mateo","no",,,"34FL","34FL",,,
-430543,"US-7163","heliport","HCA Florida Citrus Hospital Heliport",28.83402,-82.3354,82,"NA","US","US-FL","Inverness","no",,,,,,,
+430543,"US-7163","heliport","HCA Florida Citrus Hospital Heliport",28.83402,-82.3354,82,"NA","US","US-FL","Inverness","no",,,,"FD96",,,
 430544,"US-7164","closed","Holtsmans Airport",38.689446,-121.524131,25,"NA","US","US-CA","Rio Linda","no",,,,,,,"CA16"
 430545,"US-7165","heliport","VA Medical Center Livermore Heliport",37.6271,-121.75961,558,"NA","US","US-CA","Livermore","no",,,,,,,
 430546,"US-7166","closed","Davis Airport",35.61022,-117.67256,2299,"NA","US","US-CA","Ridgecrest","no",,,,,,,
