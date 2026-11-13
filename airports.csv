@@ -13193,6 +13193,7 @@
 602403,"BO-0022","small_airport","Cobija Southwest Airstrip",-11.092461,-68.86763,825,"SA","BO","BO-N","Cobija","no",,,,,,,
 611643,"BO-0023","closed","Aerodromo San Isidro - El Tambo",-18.017818,-64.452251,5331,"SA","BO","BO-S",,"no",,,,,,,
 611644,"BO-0024","closed","Aeródromo La Cruceña",-17.802249,-62.952743,1151,"SA","BO","BO-S",,"no",,,,,,,"Aeroclub Mondaca"
+611661,"BO-0025","heliport","Yacuses Heliport",-18.894902,-58.422173,509,"SA","BO","BO-S","Germán Busch","no","SLHY",,"SLHY",,,,
 41590,"BO-BVL","small_airport","Baures Airport",-13.654426,-63.704718,470,"SA","BO","BO-B","Baures","no",,"BVL","SLBA",,,"https://en.wikipedia.org/wiki/Baures_Airport",
 312780,"BOV","small_airport","Boang Airport",-3.3834,153.2812,85,"OC","PG","PG-NIK","Boang Island","no",,"BOV",,"BOG",,,
 335973,"BQ-0001","closed","Old Flamingo Airport",12.18637,-68.26484,,"NA","BQ","BQ-BO","Kralendijk","no",,,,,,,
@@ -29842,7 +29843,7 @@
 345070,"GB-0999","small_airport","Cowbit Airstrip",52.757061,-0.140913,,"EU","GB","GB-ENG",,"no",,,,,,,
 345075,"GB-1000","small_airport","Donnydeade Airstrip",54.47681,-6.74402,,"EU","GB","GB-NIR",,"no",,,,,,,
 345229,"GB-1001","small_airport","Clees Hall Airstrip",51.976581,0.741734,,"EU","GB","GB-ENG","Bures, Suffolk","no",,,,,,,
-345348,"GB-1002","small_airport","Clotton airstrip UL",53.16963,-2.69955,,"EU","GB","GB-ENG",,"no",,,,,,,
+345348,"GB-1002","closed","Clotton Airstrip",53.16963,-2.69955,,"EU","GB","GB-ENG",,"no",,,,,,,
 345395,"GB-1003","small_airport","Hamilton House Airstrip",51.663785,-1.446633,,"EU","GB","GB-ENG","Charney","no",,,,,,,
 345413,"GB-1004","small_airport","Chipstead Private Airstrip",51.291025,-0.166131,,"EU","GB","GB-ENG","Coulsdon, Greater London","no",,,,,,,
 345676,"GB-1005","small_airport","Plains Airstrip",55.014319,-6.538587,,"EU","GB","GB-NIR","Ballymoney, Londonderry","no",,,,,,,
@@ -30142,7 +30143,7 @@
 594997,"GB-1299","heliport","Crosshouse University Hospital",55.613234,-4.544758,,"EU","GB","GB-SCT",,"no",,,,,,,
 594998,"GB-1300","heliport","Dumfries Hospital",55.060637,-3.66087,,"EU","GB","GB-SCT",,"no",,,,,,,
 595000,"GB-1301","heliport","Wishaw Hospital",55.774133,-3.937385,,"EU","GB","GB-SCT",,"no",,,,,,,
-595053,"GB-1302","heliport","Holyrood Palace temp landing site",55.952523,-3.16835,,"EU","GB","GB-SCT",,"no",,,,,,,
+595053,"GB-1302","heliport","Holyrood Palace",55.952523,-3.16835,,"EU","GB","GB-SCT",,"no",,,,,,,
 595054,"GB-1303","heliport","Fettes Police HQ",55.961107,-3.226444,,"EU","GB","GB-SCT",,"no",,,,,,,
 595059,"GB-1304","heliport","Cringletie House Hotel",55.688258,-3.219197,,"EU","GB","GB-SCT",,"no",,,,,,,
 595063,"GB-1305","heliport","Cumbrae Helipad",55.746395,-4.939486,,"EU","GB","GB-SCT",,"no",,,,,,,
@@ -30183,7 +30184,7 @@
 602211,"GB-1341","heliport","Bishopsgate House Heliport",51.4365,-0.59276,259,"EU","GB","GB-ENG","Egham, Surrey","no",,,,,,,
 602212,"GB-1342","heliport","Harefield Hospital Heliport",51.60734,-0.48456,282,"EU","GB","GB-ENG","Uxbridge, Greater London","no",,,,,,,
 602990,"GB-1343","heliport","Windsor/Ascot Heliport",51.540965,-0.673344,198,"EU","GB","GB-ENG","Burnham, Buckinghamshire","no",,,,,,,"Groverfield Hotel"
-602991,"GB-1344","heliport","Broadoaks Country House Heliport",54.401592,-2.917709,351,"EU","GB","GB-ENG","Windermere, Cumbria","no",,,,,,,
+602991,"GB-1344","heliport","Broadoaks Country House Helipad",54.401592,-2.917709,351,"EU","GB","GB-ENG","Windermere, Cumbria","no",,,,,,,
 602992,"GB-1345","heliport","Lainston House Hotel Heliport",51.082346,-1.368216,350,"EU","GB","GB-ENG","Winchester, Hampshire","no",,,,,,,
 603091,"GB-1346","closed","Bowmore Flying Boat Station",55.758889,-6.288056,0,"EU","GB","GB-SCT","Isle of Islay, Argyll and Bute","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Bowmore","Bones Aviation ID X6BM"
 603999,"GB-1347","closed","Samlesbury Aerodrome",53.773281,-2.569377,249,"EU","GB","GB-ENG","Balderstone, Lancashire","no",,,,,,"https://en.wikipedia.org/wiki/Samlesbury_Aerodrome","BAE Systems"
@@ -31953,6 +31954,7 @@
 607495,"ID-0408","small_airport","Kilmit Airstrip",-4.309575,138.122154,3291,"AS","ID","ID-PP","Kilmit","no",,,,,,,
 610141,"ID-0410","small_airport","Byan Airport",0.549769,116.101542,226,"AS","ID","ID-KI","Umaq Dian, Tabang, Kutai Kartanegara Regency","no","WAGU",,"WAGU",,,,"Bayan Group"
 610145,"ID-0411","small_airport","Pasema Airstrip",-4.376692,139.083463,4269,"AS","ID","ID-PP","Pasema, Yahukimo","no",,,,,,,
+611666,"ID-0412","small_airport","Twon",0.000002,0.000002,,"AS","ID","ID-U-A",,"no",,,,,"https://www.dave-witte.com","https://www.dave-witte.com",
 41361,"ID-AAS","small_airport","Apalapsili Airport",-3.882495,139.310932,3100,"AS","ID","ID-PP","Apalapsili","no",,"AAS","WAVR","APA",,"https://en.wikipedia.org/wiki/Apalapsili_Airport",
 41362,"ID-AGD","small_airport","Anggi Airport",-1.3858,133.8737,6644,"AS","ID","ID-PB","Anggi-Papua Island","no",,"AGD","WAUA",,,"https://en.wikipedia.org/wiki/Anggi_Airport","WASG"
 43978,"ID-AHI","small_airport","Mina Wanam Airport",-7.540726,139.110916,22,"AS","ID","ID-PS","Wanam","no",,,,,,,"WT82"
@@ -62300,6 +62302,7 @@
 39416,"SLAQ","small_airport","Aiquile Airport",-18.215401,-65.187798,7208,"SA","BO","BO-C","Campero","no",,,"SLAQ",,,"https://en.wikipedia.org/wiki/Aiquile_Airport",
 29671,"SLAS","small_airport","Ascención de Guarayos Airport",-15.933365,-63.155575,807,"SA","BO","BO-S","Ascensión de Guarayos","no","SLAS","ASC","SLAS",,,"https://en.wikipedia.org/wiki/Ascensi%C3%B3n_de_Guarayos_Airport",
 39420,"SLBB","small_airport","Bulo Bulo Airport",-17.257334,-64.366669,886,"SA","BO","BO-C","Carrasco","no",,,"SLBB",,,"https://en.wikipedia.org/wiki/Bulo_Bulo_Airport",
+611660,"SLBE","small_airport","Beirut Airstrip",-17.6525,-62.654722,925,"SA","BO","BO-S","Chiquitos","no","SLBE",,"SLBE",,,,
 39481,"SLBF","small_airport","Blanca Flor Airport",-11.7272,-66.9263,598,"SA","BO","BO-N","Madre De Dios","no",,,"SLBF",,,"https://en.wikipedia.org/wiki/Blanca_Flor_Airport",
 39484,"SLBH","small_airport","Buena Hora Airport",-12.133333,-66.533333,656,"SA","BO","BO-B","Ballivian","no",,,"SLBH",,,"https://en.wikipedia.org/wiki/Buena_Hora_Airport",
 6179,"SLBJ","medium_airport","Bermejo Airport",-22.7733001709,-64.31289672850001,1249,"SA","BO","BO-T","Bermejo","no","SLBJ","BJO","SLBJ",,,"https://en.wikipedia.org/wiki/Bermejo_Airport",
@@ -62316,7 +62319,7 @@
 39428,"SLCG","small_airport","Charagua Airport",-19.785601,-63.1884,2040,"SA","BO","BO-S","Cordillera","no",,,"SLCG",,,"https://en.wikipedia.org/wiki/Charagua_Airport",
 39486,"SLCI","small_airport","Caigua Airport",-21.136389,-63.752778,1685,"SA","BO","BO-T","Gran Chaco","no",,,"SLCI",,,"https://en.wikipedia.org/wiki/Caigua_Airport","Carapari, Caigua"
 39492,"SLCL","small_airport","Collpani Airport",-18.882706,-66.796671,12185,"SA","BO","BO-O","Abaroa","no",,,"SLCL",,,"https://en.wikipedia.org/wiki/Challapata_Airport",
-39487,"SLCM","small_airport","Camacho Airport",-11.505,-67.6847,690,"SA","BO","BO-N","Camacho","no",,,"SLCM",,,,
+39487,"SLCM","small_airport","Camacho Airport",-11.505062,-67.685006,690,"SA","BO","BO-N","Camacho","no","SLCM",,"SLCM",,,,
 29776,"SLCN","small_airport","Charaña Airport",-17.5947,-69.433098,13339,"SA","BO","BO-L","Charaña","no",,,"SLCN",,,"https://en.wikipedia.org/wiki/Chara%C3%B1a_Airport",
 6182,"SLCO","medium_airport","Capitán Aníbal Arab Airport",-11.039109,-68.782774,889,"SA","BO","BO-N","Cobija","yes","SLCO","CIJ","SLCO",,,"https://en.wikipedia.org/wiki/Cap._Anibal_Arab_Airport",
 29797,"SLCP","small_airport","Concepción Airport",-16.142688,-62.026595,1620,"SA","BO","BO-S","Concepción","no","SLCP","CEP","SLCP",,,"https://en.wikipedia.org/wiki/Concepci%C3%B3n_Airport",
@@ -62328,7 +62331,7 @@
 39491,"SLCX","small_airport","Chive Airport",-12.377833366394043,-68.56766510009766,618,"SA","BO","BO-L","Iturralde","no",,,"SLCX",,,,
 39430,"SLCY","small_airport","Collpa Airport",-17.565000534057617,-63.17470169067383,1170,"SA","BO","BO-S","A. Ibañez","no",,,"SLCY",,,,
 39423,"SLDA","small_airport","Caranda Airport",-17.512562,-63.537002,1082,"SA","BO","BO-S","Ichilo","no",,,"SLDA",,,"https://en.wikipedia.org/wiki/Caranda_Airport",
-314417,"SLDL","small_airport","Dalmacia Airport",-17.4426,-62.2442,888,"SA","BO","BO-S",,"no",,,"SLDL",,,,
+314417,"SLDL","small_airport","Dalmacia Airport",-17.4426,-62.2442,888,"SA","BO","BO-S",,"no","SLDL",,"SLDL",,,,
 39435,"SLDN","small_airport","El Desengano Airport",-14.2736,-65.440002,730,"SA","BO","BO-B","Yacuma","no",,,"SLDN",,,"https://en.wikipedia.org/wiki/El_Desenga%C3%B1o_Airport",
 39433,"SLEA","small_airport","El Cocal Airport",-13.569948,-66.071841,722,"SA","BO","BO-B","Yacuma","no",,,"SLEA",,,"https://en.wikipedia.org/wiki/El_Cocal_Airport",
 39498,"SLEC","small_airport","El Cairo Airport",-13.783334,-66.400002,722,"SA","BO","BO-B","Yacuma","no",,,"SLEC",,,"https://en.wikipedia.org/wiki/El_Cairo_Airport",
@@ -62350,12 +62353,13 @@
 39507,"SLFR","small_airport","Florencia Airport",-15.683333,-65.566666,574,"SA","BO","BO-B","Moxos","no",,,"SLFR",,,"https://en.wikipedia.org/wiki/Florencia_Airport",
 512154,"SLGM","medium_airport","Guayaramerín Airport",-10.88856,-65.380955,456,"SA","BO","BO-B","Guayaramerín","yes","SLGM","GYA","SLGM",,,"https://en.wikipedia.org/wiki/Guayaramer%C3%ADn_Airport",
 39508,"SLGP","small_airport","Guirapembi Airport",-18.056,-63.163166,1493,"SA","BO","BO-S","Cordillera","no",,,"SLGP",,,"https://en.wikipedia.org/wiki/Guirapembi_Airport",
-314416,"SLGQ","small_airport","Chiquitos Airport",-18.5222,-60.6804,1058,"SA","BO","BO-S",,"no",,,"SLGQ",,,,
+314416,"SLGQ","small_airport","Chiquitos Airport",-18.5222,-60.6804,1058,"SA","BO","BO-S",,"no","SLCQ",,"SLCQ",,,,
 29926,"SLGY","small_airport","Capitán de Av. Emilio Beltrán Airport",-10.820306,-65.346494,557,"SA","BO","BO-B","Guayaramerín","no","SLGY",,"SLGY",,,"https://web.archive.org/web/20160928075315/https://en.wikipedia.org/wiki/Guayaramer%C3%ADn_Airport","GYA"
 39485,"SLHA","small_airport","Cachascani Airport",-13.5,-64.199997,722,"SA","BO","BO-B","Itenes","no",,,"SLHA",,,"https://en.wikipedia.org/wiki/Cachascani_Airport",
 39442,"SLHC","small_airport","Huacareta Airport",-20.3908,-64.015404,4668,"SA","BO","BO-H","H. Silez","no",,,"SLHC",,,"https://en.wikipedia.org/wiki/Huacareta_Airport",
 6181,"SLHI","small_airport","Chimore Airport",-16.976834,-65.145568,875,"SA","BO","BO-C","Chimore","yes","SLHI","CCA","SLHI",,,"https://en.wikipedia.org/wiki/Chimore_Airport",
 39441,"SLHJ","small_airport","Huacaraje Airport",-13.605556,-63.879444,846,"SA","BO","BO-B","Itenes","no","SLHJ","BVK","SLHJ",,,"https://en.wikipedia.org/wiki/Huacaraje_Airport",
+611659,"SLHM","heliport","Mutun Heliport",-19.108898,-57.822845,494,"SA","BO","BO-S","Carnen de la Frontera","no","SLHM",,"SLHM",,,,
 39427,"SLHS","small_airport","Chacobos Airport",-19.594801,-62.565701,1437,"SA","BO","BO-S","Parapeti","no",,,"SLHS",,,"https://en.wikipedia.org/wiki/Chacobos_Airport",
 308773,"SLHT","heliport","Transierra Helipuerto",-21.3385,-63.479,1486,"SA","BO","BO-T","Transierra Natural Gas Co.","no",,,"SLHT",,,,
 39443,"SLIG","small_airport","Inglaterra Airport",-13.4438,-66.505997,780,"SA","BO","BO-B","Ballivian","no",,,"SLIG",,,"https://en.wikipedia.org/wiki/Inglaterra_Airport",
