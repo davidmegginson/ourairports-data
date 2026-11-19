@@ -24243,7 +24243,7 @@
 2398,"EGCC","large_airport","Manchester Airport",53.349375,-2.279521,257,"EU","GB","GB-ENG","Manchester, Greater Manchester","yes","EGCC","MAN","EGCC",,"http://www.manchesterairport.co.uk/","https://en.wikipedia.org/wiki/Manchester_Airport","Ringway Airport, RAF Ringway"
 29115,"EGCF","small_airport","Sandtoft Airfield",53.559358,-0.859043,11,"EU","GB","GB-ENG","Doncaster, South Yorkshire","no",,,"EGCF",,"http://www.newsandtoftaviation.co.uk/","https://en.wikipedia.org/wiki/Sandtoft_Airfield",
 307765,"EGCG","small_airport","Strubby Airfield",53.310956,0.173017,45,"EU","GB","GB-ENG","Alford, Lincolnshire","no","EGCG",,"EGCG",,"http://www.strubbyairfield.co.uk/",,"Strubby"
-314580,"EGCH","heliport","Holyhead Heliport",53.298848,-4.616862,39,"EU","GB","GB-WLS",,"no",,,"EGCH",,,,
+314580,"EGCH","closed","Holyhead Heliport",53.298848,-4.616862,39,"EU","GB","GB-WLS",,"no",,,,,,,"EGCH"
 29116,"EGCJ","small_airport","Sherburn-in-Elmet Airfield",53.788458,-1.216877,26,"EU","GB","GB-ENG","Selby, North Yorkshire","no","EGCJ",,"EGCJ",,"http://www.sherburn-aero-club.org.uk/","https://en.wikipedia.org/wiki/Sherburn-in-Elmet_Airfield","RAF Sherburn"
 2400,"EGCK","small_airport","Caernarfon Airport",53.101819,-4.337614,1,"EU","GB","GB-WLS","Caernarfon","no","EGCK",,"EGCK",,"http://www.caernarfonairport.com","https://en.wikipedia.org/wiki/Caernarfon_Airport","QKC"
 29117,"EGCL","small_airport","Fenland Airfield",52.739201,-0.029722,8,"EU","GB","GB-ENG","Spalding, Lincolnshire","no",,,"EGCL",,,"https://en.wikipedia.org/wiki/Fenland_Airfield",
@@ -29244,7 +29244,7 @@
 320305,"GB-0393","small_airport","Currock Hill Glider Field",54.932695,-1.846739,800,"EU","GB","GB-ENG","Newcastle upon Tyne, Tyne and Wear","no",,,,,"https://www.northumbriagliding.co.uk/",,"Northumbria Gliding Club, Chopwell"
 320365,"GB-0394","small_airport","Little Snoring Airfield",52.860285,0.903092,,"EU","GB","GB-ENG","Fakenham, Norfolk","no",,,,,"http://www.mcaullyflyinggroup.org/little-snoring-flying-in.aspx",,"Light Aircraft Company, RAF Little Snoring"
 320366,"GB-0395","small_airport","Main Hall Farm Airfield",52.271944,-0.070833,63,"EU","GB","GB-ENG","Cambridge, Cambridgeshire","no",,,,,,,
-331472,"GB-0396","heliport","Ysbyty Gwynedd Hospital Heliport",53.208729,-4.15706,,"EU","GB","GB-WLS",,"no",,,,,,,
+331472,"GB-0396","heliport","Ysbyty Gwynedd Hospital Helipad",53.208715,-4.157145,,"EU","GB","GB-WLS",,"no",,,,,,,
 320407,"GB-0397","small_airport","Chilbolton Airfield",51.136852,-1.419439,292,"EU","GB","GB-ENG","Stockbridge, Hampshire","no",,,,,"http://chilboltonflyingclub.co.uk",,
 320408,"GB-0398","small_airport","Saint Michaels Airfield",53.8518,-2.79346,28,"EU","GB","GB-ENG","Preston, Lancashire","no",,,,,"http://www.northernmicrolights.co.uk/",,"Northern Microlights"
 320409,"GB-0399","small_airport","Chase Farm Airstrip",51.5681,-2.38754,325,"EU","GB","GB-ENG",,"no",,,,,,,
@@ -29465,7 +29465,7 @@
 331648,"GB-0614","small_airport","Ringmer Glider Field",50.907978,0.105314,,"EU","GB","GB-ENG","Lewes, East Sussex","no",,,,,"http://sussexgliding.co.uk",,
 331679,"GB-0615","small_airport","London Gliding Club",51.868549,-0.545165,,"EU","GB","GB-ENG","Dunstable, Central Bedfordshire","no",,,,,"http://www.londonglidingclub.co.uk",,
 331711,"GB-0616","small_airport","Darlton Gliding Club",53.244587,-0.859207,157,"EU","GB","GB-ENG","Tuxford, Nottinghamshire","no",,,,,"http://darltonglidingclub.co.uk",,
-331714,"GB-0617","heliport","Ysbyty Glan Clywd Hospital Heliport",53.273738,-3.498112,,"EU","GB","GB-WLS",,"no",,,,,,,
+331714,"GB-0617","heliport","Ysbyty Glan Clywd Hospital Helipad",53.273744,-3.498148,,"EU","GB","GB-WLS",,"no",,,,,,,
 331715,"GB-0618","heliport","Great North Air Ambulance",54.6916425,-2.6621042,,"EU","GB","GB-ENG","Langwathby","no",,,,,,,
 331723,"GB-0619","small_airport","Stanton Farm Airstrip",51.33876,-1.873359,361,"EU","GB","GB-ENG","Stanton St Bernard, Wiltshire","no",,,,,,,
 331747,"GB-0620","small_airport","Truleigh Manor Farm Airstrip",50.89813,-0.253251,,"EU","GB","GB-ENG","Henfield, West Sussex","no",,,,,,,
@@ -29921,7 +29921,7 @@
 509446,"GB-1070","heliport","PSNI Maydown Heliport",55.026446,-7.256445,60,"EU","GB","GB-NIR","Maydown","no",,,,,,,
 509472,"GB-1071","heliport","Kerrera helipad",56.421188,-5.489551,,"EU","GB","GB-SCT",,"no",,,,,,,
 509473,"GB-1072","heliport","Oban Bay Helipad",56.411581,-5.482437,,"EU","GB","GB-SCT",,"no",,,,,,,
-509474,"GB-1073","heliport","Royal Infirmary Edinburgh",55.924628,-3.136168,,"EU","GB","GB-SCT",,"no",,,,,,,
+509474,"GB-1073","heliport","Royal Infirmary of Edinburgh",55.922182,-3.136554,,"EU","GB","GB-SCT",,"no",,,,,,,
 509475,"GB-1074","heliport","Borders General Hospital",55.596183,-2.742157,,"EU","GB","GB-SCT",,"no",,,,,,,
 509603,"GB-1075","small_airport","Teuchats Farm Airstrip",56.254848,-2.969981,,"EU","GB","GB-SCT",,"no",,,,,,,
 509604,"GB-1076","closed","Heriot private airstrip (closed)",55.765833,-2.960621,,"EU","GB","GB-SCT",,"no",,,,,,,
@@ -30132,7 +30132,7 @@
 307538,"GB-1281","small_airport","Badminton Airfield",51.548417,-2.303181,495,"EU","GB","GB-ENG","Badminton, Gloucestershire","no",,,,,,,
 307747,"GB-1282","closed","Fadmoor Airfield",54.308098,-0.974114,,"EU","GB","GB-ENG","Fadmoor, Kirbymoorside","no",,,,,,,"EG19, EG35"
 594858,"GB-1283","heliport","Addiston Mains Farm Heliport",55.915381,-3.349063,,"EU","GB","GB-SCT","Riccarton, Edinburgh","no",,,,,,,
-594859,"GB-1284","heliport","RIE Rooftop",55.921057,-3.137,,"EU","GB","GB-SCT",,"no",,,,,,,
+594859,"GB-1284","closed","RIE Rooftop",55.921057,-3.137,,"EU","GB","GB-SCT",,"no",,,,,,,
 594860,"GB-1285","heliport","Gilmerton",55.901433,-3.125167,,"EU","GB","GB-SCT",,"no",,,,,,,
 594861,"GB-1286","heliport","Burncastle",55.759817,-2.725083,,"EU","GB","GB-SCT",,"no",,,,,,,
 594862,"GB-1287","heliport","Queen Elizabeth Hospital",55.861634,-4.342079,,"EU","GB","GB-SCT",,"no",,,,,,,
@@ -30219,6 +30219,7 @@
 611334,"GB-1369","heliport","Greenbank Helipad",53.523847,-2.957511,36,"EU","GB","GB-ENG","Maghull, Liverpool","no",,,,,,,
 611406,"GB-1370","heliport","Blythe Hall Helipad",53.584218,-2.848588,,"EU","GB","GB-ENG",,"no",,,,,,,
 611407,"GB-1371","heliport","Alder Hey Children's Hospital Helipad",53.418504,-2.898901,144,"EU","GB","GB-ENG","West Derby, Liverpool","no",,,,,"https://www.alderhey.nhs.uk/",,
+611724,"GB-1372","heliport","Aintree Racecourse Heliport",53.474421,-2.939873,,"EU","GB","GB-ENG",,"no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121916,-2.053439,150,"EU","GB","GB-SCT","Foula","yes",,"FOA","EG3G",,,"https://en.wikipedia.org/w/index.php?title=Foula_Airfield&oldid=1234064311","EG42"
@@ -62361,8 +62362,10 @@
 39512,"SLEZ","small_airport","La Esperanza Airport",-14.766666412353516,-65.53333282470703,1100,"SA","BO","BO-B","Moxos","no",,,"SLEZ",,,,
 39506,"SLFA","small_airport","Fatima Airport",-15.333333,-66.800003,1000,"SA","BO","BO-B","Ballivian","no",,,"SLFA",,,"https://en.wikipedia.org/wiki/Fatima_Airport",
 39440,"SLFL","small_airport","Florida Airport",-14.607418,-61.198396,600,"SA","BO","BO-S","Moira","no",,,"SLFL",,,"https://en.wikipedia.org/wiki/Florida_Airport_(Bolivia)",
+611726,"SLFN","small_airport","Finlandia Airport",-14.616133,-65.142158,473,"SA","BO","BO-B","Finlandia","no","SLFN",,"SLFN",,,,
 39439,"SLFO","small_airport","Flor De Oro Airport",-13.5548,-61.004101,560,"SA","BO","BO-S","Moxos","no",,,"SLFO",,,"https://en.wikipedia.org/wiki/Flor_de_Oro_Airport",
 39507,"SLFR","small_airport","Florencia Airport",-15.683333,-65.566666,574,"SA","BO","BO-B","Moxos","no",,,"SLFR",,,"https://en.wikipedia.org/wiki/Florencia_Airport",
+611725,"SLGG","small_airport","Guayabas Guayacanes BBA Airstrip",-17.230857,-62.200182,835,"SA","BO","BO-S","Ñuflo Chávez","no","SLGG",,"SLGG",,,,
 512154,"SLGM","medium_airport","Guayaramerín Airport",-10.88856,-65.380955,456,"SA","BO","BO-B","Guayaramerín","yes","SLGM","GYA","SLGM",,,"https://en.wikipedia.org/wiki/Guayaramer%C3%ADn_Airport",
 39508,"SLGP","small_airport","Guirapembi Airport",-18.056,-63.163166,1493,"SA","BO","BO-S","Cordillera","no",,,"SLGP",,,"https://en.wikipedia.org/wiki/Guirapembi_Airport",
 314416,"SLGQ","small_airport","Chiquitos Airport",-18.5222,-60.6804,1058,"SA","BO","BO-S",,"no","SLCQ",,"SLCQ",,,,
@@ -62373,7 +62376,7 @@
 39441,"SLHJ","small_airport","Huacaraje Airport",-13.605556,-63.879444,846,"SA","BO","BO-B","Itenes","no","SLHJ","BVK","SLHJ",,,"https://en.wikipedia.org/wiki/Huacaraje_Airport",
 611659,"SLHM","heliport","Mutun Heliport",-19.108898,-57.822845,494,"SA","BO","BO-S","Carnen de la Frontera","no","SLHM",,"SLHM",,,,
 39427,"SLHS","small_airport","Chacobos Airport",-19.594801,-62.565701,1437,"SA","BO","BO-S","Parapeti","no",,,"SLHS",,,"https://en.wikipedia.org/wiki/Chacobos_Airport",
-308773,"SLHT","heliport","Transierra Helipuerto",-21.3385,-63.479,1486,"SA","BO","BO-T","Transierra Natural Gas Co.","no",,,"SLHT",,,,
+308773,"SLHT","heliport","Transierra Helipuerto",-21.3385,-63.479,1486,"SA","BO","BO-T","Transierra Natural Gas Co.","no","SLHT",,"SLHT",,,,
 39443,"SLIG","small_airport","Inglaterra Airport",-13.4438,-66.505997,780,"SA","BO","BO-B","Ballivian","no",,,"SLIG",,,"https://en.wikipedia.org/wiki/Inglaterra_Airport",
 39544,"SLIN","small_airport","Santa Catalina Airport",-15.5,-65.91666412353516,722,"SA","BO","BO-B","Moxos","no",,,"SLIN",,,,
 39536,"SLIP","small_airport","Samaipata Airport",-18.193056,-63.877778,5600,"SA","BO","BO-S","Florida","no",,,"SLIP",,,"https://en.wikipedia.org/wiki/Samaipata_Florida_Airport",
@@ -62381,7 +62384,7 @@
 39444,"SLIT","small_airport","Itaguazurenda Airport",-19.7775,-63.087799,1598,"SA","BO","BO-S","Cordillera","no",,,"SLIT",,,"https://en.wikipedia.org/wiki/Itaguazurenda_Airport",
 39445,"SLIX","small_airport","Ixiamas Airport",-13.76,-68.136833,725,"SA","BO","BO-L","Iturralde","no",,,"SLIX",,,"https://en.wikipedia.org/wiki/Ixiamas_Airport",
 39510,"SLIY","small_airport","Intiraymi Airport",-17.795833,-67.434722,12467,"SA","BO","BO-O","La Joya","no",,,"SLIY",,,"https://en.wikipedia.org/wiki/Intiraymi_Airport",
-39446,"SLIZ","small_airport","Izozog Airport",-18.663834,-63.002335,1082,"SA","BO","BO-S","Cordillera","no",,,"SLIZ",,,"https://en.wikipedia.org/wiki/Izozog_Airport",
+39446,"SLIZ","small_airport","Izozog Airport",-18.670784,-63.002003,1082,"SA","BO","BO-S","Cordillera","no","SLIZ",,"SLIZ",,,"https://en.wikipedia.org/wiki/Izozog_Airport",
 39447,"SLJA","small_airport","Jatata Airport",-11.772833,-67.255997,575,"SA","BO","BO-N","Madre De Dios","no",,,"SLJA",,,"https://en.wikipedia.org/wiki/Jatata_Airport",
 611683,"SLJD","small_airport","San Judas Tadeo Airport",-17.236212,-61.906415,842,"SA","BO","BO-S","Ñuflo de Chávez","no","SLJD",,"SLJD",,,,
 30376,"SLJE","small_airport","San José De Chiquitos Airport",-17.830799,-60.743099,974,"SA","BO","BO-S","San José de Chiquitos","no","SLJE","SJS","SLJE",,,"https://en.wikipedia.org/wiki/San_Jos%C3%A9_de_Chiquitos_Airport",
@@ -62463,6 +62466,7 @@
 6190,"SLTJ","medium_airport","Capitan Oriel Lea Plaza Airport",-21.5557,-64.701302,6079,"SA","BO","BO-T","Tarija","yes","SLTJ","TJA","SLTJ",,,"https://en.wikipedia.org/wiki/Cap._Oriel_Lea_Plaza_Airport",
 39470,"SLTL","small_airport","San Cristóbal Toldos Airport",-21.175602,-67.166689,12467,"SA","BO","BO-P","Nor Lipez","no","SLTL",,"SLTL",,,"https://en.wikipedia.org/wiki/Ventilla_Airport",
 39551,"SLTO","small_airport","Totora Airport",-17.798166275024414,-68.09349822998047,12530,"SA","BO","BO-O","Oruro","no",,,"SLTO",,,,
+611727,"SLTP","small_airport","Tarope Airstrip",-17.050793,-62.252038,826,"SA","BO","BO-S","Ñuflo de Chávez","no","SLTP",,"SLTP",,,,
 6191,"SLTR","medium_airport","Teniente Av. Jorge Henrich Arauz Airport",-14.8187,-64.917999,509,"SA","BO","BO-B","Trinidad","yes","SLTR","TDD","SLTR",,,"https://en.wikipedia.org/wiki/Tte._Av._Jorge_Henrich_Arauz_Airport",
 39472,"SLTU","small_airport","Turco Airport",-18.195833206176758,-68.14199829101562,12500,"SA","BO","BO-O","Sajama","no",,,"SLTU",,,,
 39469,"SLTW","small_airport","Tita Airport",-18.466400146484375,-62.11199951171875,1312,"SA","BO","BO-S","San Rafael","no",,,"SLTW",,,,
@@ -63333,7 +63337,7 @@
 37304,"SNVV","small_airport","Valente Airport",-11.411776,-39.440988,1096,"SA","BR","BR-BA","Valente","no",,,"SJ7W","BA0060",,,"SNVV"
 37305,"SNVW","small_airport","Fazenda Santa Paula Airport",-14.016944,-60.056667,771,"SA","BR","BR-MT","Comodoro","no",,,"SSWO","MT0321",,,"SNVW, São João do Guaporé"
 37306,"SNVX","heliport","Helisul Slin Heliport",-27.542352,-48.624635,63,"SA","BR","BR-SC","São José","no",,,"SNVX","SC0083",,,"Golden Air Heliport"
-37307,"SNVY","small_airport","Aeródromo de  Fazenda Ouro Verde",-23.976944,-55.365276,1299,"SA","BR","BR-MS","Paranhos","no",,,"SNVY",,,,
+37307,"SNVY","small_airport","Fazenda Ouro Verde Airport",-23.977975,-55.36412,1417,"SA","BR","BR-MS","Paranhos","no",,,"SNVY","MS0231",,,
 608990,"SNW1","small_airport","Fazenda Maranata Airport",-10.901179,-52.865695,1020,"SA","BR","BR-MT","São José do Xingu","no",,,"SNW1","MT1183",,,
 601070,"SNW2","heliport","Sebold Heliport",-26.480755,-49.104438,173,"SA","BR","BR-SC","Jaraguá do Sul","no",,,"SNW2","SC0252",,,
 601068,"SNW3","small_airport","Estancia Pau d'Alho Airport",-9.464392,-60.525014,528,"SA","BR","BR-MT","Aripuanã","no",,,"SNW3","MT1125",,,
@@ -63343,8 +63347,8 @@
 601060,"SNW8","small_airport","Fazenda Santo Antônio Airport",-27.757578,-53.8124,1651,"SA","BR","BR-RS","Campo Novo","no",,,"SNW8","RS0205",,,
 601058,"SNW9","small_airport","Fazenda Retiro Airport",-8.840036,-43.961476,1109,"SA","BR","BR-PI","Cristino Castro","no",,,"SNW9","PI0120",,,
 30833,"SNWC","small_airport","Camocim - Pinto Martins Airport",-2.895596,-40.859299,46,"SA","BR","BR-CE","Camocim","no","SNWC","CMC","SNWC","CE0011",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Camocim",
-37311,"SNWD","small_airport","Fazenda Guavirá Airport",-23.430278778076172,-54.608333587646484,1335,"SA","BR","BR-MS","Iguatemi","no",,,"SNWD",,,,
-37313,"SNWF","small_airport","Fazenda Cachoeirinha Airport",-22.43805694580078,-55.231666564941406,1476,"SA","BR","BR-MS","Ponta Porã","no",,,"SNWF",,,,
+37311,"SNWD","small_airport","Fazenda Guavirá Airport",-23.43268,-54.60707,1335,"SA","BR","BR-MS","Iguatemi","no",,,"SNWD","MS0232",,,
+37313,"SNWF","small_airport","Fazenda Cachoeirinha Airport",-22.439318,-55.235301,1555,"SA","BR","BR-MS","Ponta Porã","no",,,"SNWF","MS0233",,,
 37314,"SNWG","small_airport","Fazenda Iporã Airport",-23.582209,-54.048893,591,"SA","BR","BR-MS","Itaquiraí","no",,,"SNWG","MS0234",,,"SNWS"
 37315,"SNWH","small_airport","Fazenda São Mateus Airport",-22.963045,-53.545769,883,"SA","BR","BR-PR","Querência do Norte","no",,,"SNWH","PR0069",,,
 37316,"SNWI","small_airport","Fazenda São João do Guapore Airport",-14.068889,-60.009167,594,"SA","BR","BR-MT","Nova Lacerda","no",,,"SNWI",,,,"Fazenda São João II Airport"
