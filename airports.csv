@@ -51175,6 +51175,9 @@
 32055,"NTGW","small_airport","Nukutavake Airport",-19.284613,-138.768367,17,"OC","PF","PF-U-A","Nukutavake","no","NTGW","NUK","NTGW",,,"https://en.wikipedia.org/wiki/Nukutavake_Airport",
 4996,"NTGY","small_airport","Tureia Airport",-20.784262,-138.56796,12,"OC","PF","PF-U-A","Tureia","no","NTGY","ZTA","NTGY",,,"https://en.wikipedia.org/wiki/Tureia_Airport",
 4997,"NTHE","medium_airport","Ahe Airport",-14.4281,-146.257004,11,"OC","PF","PF-U-A","Ahe Atoll","yes","NTHE","AHE","NTHE",,"https://www.service-public.pf/dac/","https://en.wikipedia.org/wiki/Ahe_Airport","Tenukupara"
+611735,"NTHF","heliport","Afareaitu CHT Heiport",-17.550259,-149.790026,5,"OC","PF","PF-U-A","Moorea-Maiao","no","NTHF",,"NTHF",,,,
+611736,"NTHP","heliport","Taaone Hospital Helistop",-17.52806,-149.54639,96,"OC","PF","PF-U-A","Papeete","no","NTHP",,"NTHP",,,,
+611738,"NTHV","heliport","Taravao Hospital Heliport",-17.732831,-149.304573,101,"OC","PF","PF-U-A","Taravao","no","NTHV",,"NTHV",,,,
 31752,"NTKA","small_airport","Kauehi Airport",-15.780622,-145.128443,13,"OC","PF","PF-U-A","Kauehi","yes","NTKA","KHZ","NTKA",,,"https://en.wikipedia.org/wiki/Kauehi_Aerodrome",
 4998,"NTKF","small_airport","Faaite Airport",-16.68657,-145.329394,7,"OC","PF","PF-U-A","Faaite","no","NTKF","FAC","NTKF",,,"https://en.wikipedia.org/wiki/Faaite_Airport",
 31128,"NTKH","small_airport","Fakahina Airport",-15.992259,-140.164246,3,"OC","PF","PF-U-A","Fakahina","yes","NTKH","FHZ","NTKH",,,"https://en.wikipedia.org/wiki/Fakahina_Airfield",
@@ -52719,7 +52722,6 @@
 316553,"PA-0026","small_airport","Tonosí Airport",7.4148,-80.4466,55,"NA","PA","PA-7","Tonosí","no",,,,,,,
 316554,"PA-0027","small_airport","Candelaria Airport",7.7326,-80.1403,65,"NA","PA","PA-7","La Candelaria","no",,,,,,,
 342551,"PA-0028","small_airport","Nusatupo Airport",9.43392,-78.83173,18,"NA","PA","PA-GY","Nusatupo","no",,,,,,,
-342552,"PA-0029","small_airport","Wannukandi Airport",9.273166,-78.139873,13,"NA","PA","PA-GY","Wannukandi","no",,,,,,,
 342553,"PA-0030","small_airport","Mansukun Airport",9.05011,-77.80985,10,"NA","PA","PA-GY","Mansukum","no",,,,,,,
 342554,"PA-0031","closed","Napakanti Airport",9.012796,-77.802531,66,"NA","PA","PA-GY","Napakanti","no",,,,,,,
 342555,"PA-0032","small_airport","Caledonia Airport",8.90201,-77.69286,3,"NA","PA","PA-GY","Suletupu","no","MPCA",,"MPCA",,,,"CDE"
