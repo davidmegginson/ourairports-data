@@ -6454,7 +6454,7 @@
 13018,"66CA","small_airport","Rancho San Simeon Airport",35.60770034790039,-121.11000061035156,320,"NA","US","US-CA","Cambria","no",,,"66CA","66CA",,,
 13020,"66CN","heliport","Northrop Palos Verdes Heliport",33.76060104370117,-118.38800048828125,1080,"NA","US","US-CA","Palos Verdes","no",,,"66CN","66CN",,,
 13021,"66CO","heliport","Rotor Leasing Heliport",39.09080123901367,-104.54399871826172,7260,"NA","US","US-CO","Elbert","no",,,"66CO","66CO",,,
-601636,"66FA","heliport","Tootsies Cabaret Heliport",25.942167,-80.202269,10,"NA","US","US-FL","Miami Gardens","no",,,"66FA","66FA",,,
+601636,"66FA","heliport","Tootsies Cabaret Heliport",25.942167,-80.202269,10,"NA","US","US-FL","Miami Gardens","no",,,,,,,"66FA"
 13022,"66FD","small_airport","JR's STOLport",29.004012,-82.554531,50,"NA","US","US-FL","Dunnellon","no",,,"66FD","66FD",,,
 13023,"66FL","closed","VA Outpatient Clinic Heliport",28.254392,-80.744305,29,"NA","US","US-FL","Melbourne","no",,,,,,,"66FL"
 13024,"66G","small_airport","William Tiny Zehnder Field",43.314364,-83.710055,645,"NA","US","US-MI","Frankenmuth","no",,,,"66G",,"https://en.wikipedia.org/wiki/W.M._%27Tiny%27_Zehnder_Field",
@@ -66243,6 +66243,7 @@
 611176,"TR-0360","heliport","Anamur Air Radar Command Heliport",36.03047,32.78227,,"AS","TR","TR-33",,"no",,,,,,,
 611177,"TR-0361","heliport","Bozyazi Port Helipad",36.097528,32.936774,,"AS","TR","TR-33",,"no",,,,,,,
 611178,"TR-0362","heliport","Mut Ömerağa Firefighting Heliport",36.744381,33.3731,,"AS","TR","TR-33",,"no",,,,,,,
+611779,"TR-0363","heliport","Kırklareli Helibase",41.716074,27.247145,563,"AS","TR","TR-39","Kırklareli","no",,,,,,,
 43074,"TRPG","large_airport","John A. Osborne Airport",16.791835,-62.193204,550,"NA","MS","MS-SP","Gerald's Park","yes","TRPG","MNI","TRPG",,,"https://en.wikipedia.org/wiki/John_A._Osborne_Airport","Gerald's Airport, Brades"
 25017,"TS00","small_airport","Fuller Airport",32.787314,-97.180499,490,"NA","US","US-TX","Fort Worth","no",,,"TS00","TS00",,,
 25019,"TS02","small_airport","One Sixty Four Place Airport",33.119598388671875,-98.23059844970703,1200,"NA","US","US-TX","Jacksboro","no",,,"TS02","TS02",,,
@@ -68297,7 +68298,7 @@
 326260,"US-0810","heliport","GAC Waterfront Heliport",30.400611,-86.860526,6,"NA","US","US-FL","Navarre","no",,,"FD32","FD32",,,
 326261,"US-0811","seaplane_base","Jones Brothers East Seaplane Base",28.797634,-81.646972,65,"NA","US","US-FL","Mount Dora","no",,,"FD68","FD68","https://www.jonesairandsea.com/",,
 326273,"US-0812","small_airport","Mettler Airport",43.277774,-97.558545,1362,"NA","US","US-SD","Menno","no",,,"SD77","SD77",,,
-331524,"US-0813","heliport","GEICO Helistop",28.53752,-81.384373,197,"NA","US","US-FL","Orlando","no",,,"FL05","FL05",,,
+331524,"US-0813","heliport","South St Garage Helistop",28.53752,-81.384373,197,"NA","US","US-FL","Orlando","no",,,"FL05","FL05",,,"GEICO Helistop"
 326276,"US-0814","heliport","Melrose Hospital Heliport",45.675767,-94.8262469,1212,"NA","US","US-MN","Melrose","no",,,"MN78","MN78",,,
 326277,"US-0815","small_airport","Horning Farms Airstrip",34.730738,-98.014461,1100,"NA","US","US-OK","Marlow","no",,,"92OK","92OK",,,
 326279,"US-0816","small_airport","Malcom Farm Airport",34.643097,-98.044016,1150,"NA","US","US-OK","Marlow","no",,,"OK91","OK91",,,
@@ -71708,7 +71709,7 @@
 607824,"US-12935","small_airport","HD Farm & Ranch Airport",30.849273,-98.202923,1408,"NA","US","US-TX","Burnet","no",,,"01TA","01TA",,,
 607826,"US-12936","seaplane_base","H2oztec Seaplane Base",28.598868,-81.814355,93,"NA","US","US-FL","Groveland","no",,,"0FL5","0FL5",,,"Cherry Lake"
 607843,"US-12937","small_airport","S.C. Stagner Field",30.926483,-88.134805,250,"NA","US","US-AL","Saraland","no",,,"26AL","26AL",,,
-607845,"US-12938","small_airport","Baham Airstrip",30.576266,-92.017711,34,"NA","US","US-LA","Opelousas","no",,,"2LA3","2LA3",,,
+607845,"US-12938","small_airport","Baham Airstrip [CLOSED]",30.576266,-92.017711,34,"NA","US","US-LA","Opelousas","no",,,"2LA3","2LA3",,,
 607847,"US-12939","seaplane_base","BK's Landing Seaplane Base",45.93167,-91.471937,1292,"NA","US","US-WI","Hayward","no",,,"29WI","29WI",,,"Windigo Lake"
 334358,"US-1294","small_airport","Curry Ridge Airport",32.723321,-113.938501,329,"NA","US","US-AZ","Tacna","no",,,"AZ60","AZ60",,,
 607850,"US-12940","small_airport","Quihi Creek Vineyard Airport",29.460278,-98.951859,947,"NA","US","US-TX","Hondo","no",,,"45TA","45TA",,,
@@ -71864,6 +71865,7 @@
 611760,"US-13079","heliport","Florida Coast Medical Center Heliport",27.208123,-80.33164,16,"NA","US","US-U-A","Port St. Lucie","no",,,"1FL3","1FL3",,,
 334444,"US-1308","closed","Ora Acres Airport",33.68147,-114.21366,,"NA","US","US-AZ","Quartzsite","no",,,,,,,
 611765,"US-13080","heliport","Pagosa Springs Medical Center Heliport",37.251603,-107.078167,7546,"NA","US","US-CO","Pagosa Springs","no",,,"4CO8","4CO8",,,
+611781,"US-13081","heliport","Priolo Heliport",27.407587,-80.973002,43,"NA","US","US-FL","Okeechobee","no",,,"66FA","66FA",,,
 334445,"US-1309","small_airport","Salome Emergency Airfield",33.58057,-113.58721,,"NA","US","US-AZ","Salome","no",,,,,,,
 334446,"US-1310","small_airport","75E Airport",33.63726,-113.34238,,"NA","US","US-AZ","Salome","no",,,,,,,
 334450,"US-1311","closed","Gringo Pass Airfield",31.88181,-112.812,,"NA","US","US-AZ","Lukeville","no",,,,,,,"lukeville, gringo pass"
@@ -75741,7 +75743,7 @@
 347731,"US-5181","seaplane_base","Serenity Seaplane Base",29.572889,-95.050561,0,"NA","US","US-TX","Seabrook","no",,,"95XS","95XS",,,
 347734,"US-5182","small_airport","Home Field",33.607911,-83.355257,488,"NA","US","US-GA","Madison","no",,,"GA65","GA65",,,
 347735,"US-5183","heliport","Jackson County Regional Health Center Heliport",42.046308,-90.656858,752,"NA","US","US-IA","Maquoketa","no",,,"IA65","IA65",,,
-347737,"US-5184","small_airport","Slickpoo MX Park Airport",46.323533,-116.71345,1730,"NA","US","US-ID","Slickpoo","no",,,"ID45","ID45",,,
+347737,"US-5184","small_airport","Slickpoo Airport",46.323533,-116.71345,1730,"NA","US","US-ID","Slickpoo","no",,,"ID45","ID45",,,"Slickpoo MX Park"
 347739,"US-5185","small_airport","Pearson Airstrip",44.068611,-120.803333,3900,"NA","US","US-OR","Prineville","no",,,"OR84","OR84",,,
 347741,"US-5186","small_airport","K2 Airport",45.752743,-119.383403,748,"NA","US","US-OR","Echo","no",,,"OR92","OR92",,,
 347750,"US-5187","small_airport","Flying Tails Airport",33.306528,-79.948642,62,"NA","US","US-SC","Bonneau","no",,,"SC05","SC05",,,
