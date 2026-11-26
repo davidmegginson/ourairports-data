@@ -16494,6 +16494,10 @@
 611622,"BR-3311","small_airport","Fazenda Conquista Airport",-16.382869,-48.571294,3064,"SA","BR","BR-U-A","Gameleira de Goiás","no",,,"SN54","GO0454",,,
 611635,"BR-3312","small_airport","Usina Privado Airport",-20.654,-46.563409,,"SA","BR","BR-MG","Passos","no",,,,,,,
 611709,"BR-3313","small_airport","Fazenda Selena Taludia Airstrip",-18.581583,-53.71665,1241,"SA","BR","BR-U-A","Figueirão","no",,,"SN31","MS0831",,,
+611797,"BR-3314","closed","Ponta de Nossa Senhora Helipad",-12.813675,-38.640583,46,"SA","BR","BR-BA","Salvador","no",,,,,,,"SWNN, BA0233"
+611798,"BR-3315","small_airport","Fazenda Três Muchachas Airport",-19.64341,-54.031793,1831,"SA","BR","BR-MS","Bandeirantes","no",,,"SWMU","MS0386",,,
+611802,"BR-3316","small_airport","Chácara São Matheus Airport",-23.485153,-52.570233,1447,"SA","BR","BR-PR","Japurá","no",,,"SWMT","PR0097",,,
+611991,"BR-3317","heliport","Fazenda da Máquina Heliport",-19.440018,-44.313811,2493,"SA","BR","BR-MG","Sete Lagoas","no",,,"SWMD","MG0283",,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -30183,7 +30187,7 @@
 598468,"GB-1330","small_airport","Lartington Moor Airstrip",54.53098,-2.10375,,"EU","GB","GB-ENG",,"no",,,,,,,
 599012,"GB-1331","heliport","Tarbert",57.890626,-6.796712,,"EU","GB","GB-SCT",,"no",,,,,,,
 599132,"GB-1332","closed","RAF Hemswell",53.408278,-0.590458,220,"EU","GB","GB-ENG","Hemswell, Lincolnshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Hemswell",
-599256,"GB-1333","heliport","Clifton Dykes",54.644062,-2.692487,,"EU","GB","GB-ENG",,"no",,,,,,,
+599256,"GB-1333","heliport","Clifton Dykes Heliport",54.644062,-2.692487,404,"EU","GB","GB-ENG","Penrith, Cumbria","no",,,,,,,"Haversheaf Hall"
 599308,"GB-1334","closed","RAF Long Kesh",54.490669,-6.103835,115,"EU","GB","GB-NIR","Maze, County Down","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Long_Kesh",
 599309,"GB-1335","heliport","Lisburn Heliport",54.49328,-6.097745,118,"EU","GB","GB-NIR","Lisburn, County Down","no",,,,,,,
 599921,"GB-1336","small_airport","(Duplicate)East Kirkby Airfield",53.13889,-0.00056,39,"EU","GB","GB-ENG","East Kirkby","no",,,,,"https://lincsaviation.co.uk","https://en.m.wikipedia.org/wiki/Lincolnshire_Aviation_Heritage_Centre?utm_source=chatgpt.com","RAF East Kirkby; Lincolnshire Aviation Heritage Centre; Bomber Command; Avro Lancaster NX611 “Just Jane”; Mosquito HJ711; East Lindsey; WW2 airfield; museum; heritage."
@@ -39032,7 +39036,7 @@
 3409,"KBIS","medium_airport","Bismarck Municipal Airport",46.772734,-100.746874,1661,"NA","US","US-ND","Bismarck","yes","KBIS","BIS","KBIS","BIS","https://bismarckairport.com/","https://en.wikipedia.org/wiki/Bismarck_Municipal_Airport","Burleigh County Airport"
 19379,"KBIV","small_airport","West Michigan Regional Airport",42.742901,-86.107399,698,"NA","US","US-MI","Holland","no",,,"KBIV","BIV","http://westmichiganregionalairport.com/","https://en.wikipedia.org/wiki/West_Michigan_Regional_Airport","Tulip City Airport"
 3410,"KBIX","medium_airport","Keesler Air Force Base",30.4104003906,-88.92440032959999,33,"NA","US","US-MS","Biloxi","no","KBIX","BIX","KBIX","BIX",,"https://en.wikipedia.org/wiki/Keesler_Air_Force_Base",
-3411,"KBJC","medium_airport","Rocky Mountain Metropolitan Airport",39.908798,-105.116997,5673,"NA","US","US-CO","Denver","yes","KBJC","BJC","KBJC","BJC",,"https://en.wikipedia.org/wiki/Rocky_Mountain_Metropolitan_Airport","Jefferson County Airport, Jeffco Airport"
+3411,"KBJC","medium_airport","Rocky Mountain Metropolitan Airport",39.908798,-105.116997,5673,"NA","US","US-CO","Denver","no","KBJC","BJC","KBJC","BJC","https://www.jeffco.us/airport","https://en.wikipedia.org/wiki/Rocky_Mountain_Metropolitan_Airport","Jefferson County Airport, Jeffco Airport"
 19380,"KBJI","medium_airport","Bemidji Regional Airport",47.50939941,-94.93370056,1391,"NA","US","US-MN","Bemidji","no","KBJI","BJI","KBJI","BJI","http://www.bemidjiairport.org/","https://en.wikipedia.org/wiki/Bemidji_Regional_Airport",
 19381,"KBJJ","small_airport","Wayne County Airport",40.874801635699995,-81.88829803470001,1136,"NA","US","US-OH","Wooster","no","KBJJ","BJJ","KBJJ","BJJ","http://www.woosterwaynecountyairport.com/","https://en.wikipedia.org/wiki/Wayne_County_Airport_(Ohio)",
 19382,"KBKD","small_airport","Stephens County Airport",32.71900177,-98.89099884030001,1284,"NA","US","US-TX","Breckenridge","no","KBKD","BKD","KBKD","BKD",,,
@@ -65092,10 +65096,12 @@
 561,"SWMK","small_airport","Maturacá Airport",0.628269,-66.115097,329,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SWMK","AM0049",,,
 37966,"SWMN","small_airport","Fazenda Montana Airport",-15.214686,-50.836191,1076,"SA","BR","BR-GO","Matrinchã","no",,,"SJSX","GO0086",,,"SWMN, Fazenda Forquilha"
 37967,"SWMO","small_airport","Fazenda Maria José Airport",-17.452777862548828,-54.74222183227539,1716,"SA","BR","BR-MT","Itiquira","no",,,"SWMO",,,,
+611800,"SWMP","heliport","Paladino Heliport",-7.254811,-34.928551,259,"SA","BR","BR-PE","Alhandra","no",,,"SWMP","PB0022",,,
 37968,"SWMQ","small_airport","Fazenda Muiraquitã Airport",-10.428823,-60.546942,433,"SA","BR","BR-MT","Aripuanã","no",,,"SWMQ","MT0368",,,
-37970,"SWMT","small_airport","Fazenda Centro da Mata Airport",-12.657777786254883,-54.82777786254883,1214,"SA","BR","BR-MT","Nova Ubiratã","no",,,"SWMT",,,,
-37971,"SWMU","small_airport","Surumu Airport",4.31639003754,-60.7005996704,1640,"SA","BR","BR-RR","Pacaraima","no",,,"SWMU",,,,
-37972,"SWMV","small_airport","Paa-Piu Airport",2.72694,-62.9506,984,"SA","BR","BR-RR","Mucajaí","no",,,"SWMV",,,"https://pt.wikipedia.org/wiki/Aeroporto_de_Mucaja%C3%AD",
+611801,"SWMS","heliport","Monte Sinai III Helistop",-21.177392,-47.800764,1781,"SA","BR","BR-SP","Ribeirão Preto","no",,,"SWMS","SP0817",,,
+37970,"SWMT","small_airport","Fazenda Centro da Mata Airport",-12.657778,-54.827778,1214,"SA","BR","BR-MT","Nova Ubiratã","no",,,,,,,"SWMT"
+37971,"SWMU","small_airport","Surumu Airport",4.31639,-60.7006,1640,"SA","BR","BR-RR","Pacaraima","no",,,,,,,"SWMU"
+37972,"SWMV","small_airport","Paa-Piu Airport",2.72694,-62.9506,984,"SA","BR","BR-RR","Mucajaí","no",,,"SWMV","RR0110",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Mucaja%C3%AD",
 562,"SWMW","small_airport","Maués Airport",-3.37217,-57.7248,69,"SA","BR","BR-AM","Maués","no","SWMW","MBZ","SWMW","AM0020",,"https://en.wikipedia.org/wiki/Mau%C3%A9s_Airport",
 139,"SWMX","small_airport","Morrinhos Airport",-17.761758,-49.121654,2634,"SA","BR","BR-GO","Morrinhos","no",,,"SJ4Y","GO0028",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Morrinhos","SWMX, SB48"
 37973,"SWMY","small_airport","Porto Fluvial Suiá Missu Airport",-11.566944122314453,-50.700557708740234,623,"SA","BR","BR-MT","Barra Do Garças","no",,,"SWMY",,,,
