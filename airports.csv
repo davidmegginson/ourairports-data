@@ -5811,7 +5811,7 @@
 12344,"5FD6","heliport","Boca Grande Helistop",26.742300033569336,-82.25869750976562,10,"NA","US","US-FL","Boca Grande","no",,,"5FD6","5FD6",,,
 12345,"5FD7","small_airport","Chinsegut Airport",28.6117000579834,-82.3678970336914,80,"NA","US","US-FL","Brooksville","no",,,"5FD7","5FD7",,,
 12346,"5FD8","heliport","Bokeelia Helistop",26.670576,-82.134583,10,"NA","US","US-FL","Cape Coral","no",,,"5FD8","5FD8",,,
-12347,"5FD9","heliport","St James Helistop",26.511499404907227,-82.0884017944336,6,"NA","US","US-FL","Cape Coral","no",,,"5FD9","5FD9",,,
+12347,"5FD9","heliport","St James Helistop",26.510793,-82.08497,6,"NA","US","US-FL","Cape Coral","no",,,"5FD9","5FD9",,,"Lee County Mosquito Control"
 12348,"5FL0","small_airport","Dusty Airpatch Airport",28.41309928894043,-82.22339630126953,120,"NA","US","US-FL","Dade City","no",,,"5FL0","5FL0",,,
 12349,"5FL1","small_airport","Ezell Airport",29.90329933166504,-83.60790252685547,25,"NA","US","US-FL","Keaton Beach","no",,,"5FL1","5FL1",,,
 12350,"5FL2","heliport","HCA Florida Blake Hospital Heliport",27.482162,-82.622466,17,"NA","US","US-FL","Bradenton","no",,,"5FL2","5FL2",,,"HCA L.W. Blake Hospital Heliport, Blake Medical Center Heliport"
@@ -19957,8 +19957,8 @@
 525153,"CN-0415","small_airport","Hejing Bayinbuluke Airport",42.976395,83.995543,8219,"AS","CN","CN-65","Hejing","yes","ZWHJ","HJB","ZWHJ",,,"https://en.wikipedia.org/wiki/Hejing_Bayinbuluke_Airport",
 525160,"CN-0416","small_airport","Otog Front Banner Oljoq Airport",38.1712,107.3905,,"AS","CN","CN-15","Otog Front Banner","no",,"OTQ",,,,,
 525757,"CN-0417","small_airport","Qitai Jiangbulake Airport",44.166086,89.55014,,"AS","CN","CN-65","Qitai","yes","ZWQT","JBK","ZWQT",,,"https://en.wikipedia.org/wiki/Qitai_Jiangbulake_Airport",
-525766,"CN-0418","medium_airport","Hohhot Shengle International Airport (under construction)",40.480965,111.575174,,"AS","CN","CN-15","Hohhot","no",,,,,,"https://en.wikipedia.org/wiki/Hohhot_Shengle_International_Airport",
-525771,"CN-0419","small_airport","Zaozhuang Yiyun Airport (under construction)",34.9074,117.408,,"AS","CN","CN-37","Zaozhuang","no",,,,,,"https://en.wikipedia.org/wiki/Zaozhuang_Yiyun_Airport",
+525766,"CN-0418","large_airport","Hohhot Shengle International Airport",40.479722,111.573056,3407,"AS","CN","CN-15","Hohhot","yes","ZBHH","HET","ZBHH",,,"https://en.wikipedia.org/wiki/Hohhot_Shengle_International_Airport",
+525771,"CN-0419","small_airport","Zaozhuang Yiyun Airport",34.9074,117.408,629,"AS","CN","CN-37","Zaozhuang","yes","ZSZF","ZZH","ZSZF",,,"https://en.wikipedia.org/wiki/Zaozhuang_Yiyun_Airport",
 525772,"CN-0420","small_airport","Honghe Mengzi Airport (under construction)",23.464782,103.347487,,"AS","CN","CN-53","Mengzi","no",,,,,,"https://en.wikipedia.org/wiki/Honghe_Mengzi_Airport",
 525773,"CN-0421","medium_airport","Zhaotong Zhaoyang Airport",27.205843,103.691511,,"AS","CN","CN-53","Zhaotong","yes","ZPZT","ZAT",,,,"https://wikipedia.org/wiki/Zhaotong_Zhaoyang_Airport",
 525774,"CN-0422","small_airport","Lishui Airport",28.3727,119.839,,"AS","CN","CN-33","Lishui (Liandu)","no","ZSLI","LIJ","ZSLI",,,"https://en.wikipedia.org/wiki/Lishui_Airport","ZSLR"
@@ -29020,7 +29020,7 @@
 314755,"GB-0162","closed","RAF Wath Head",54.82321,-3.09613,260,"EU","GB","GB-ENG","Wigton, Cumbria","no",,,,,,,"RAF, No. 10 SLG"
 314756,"GB-0163","closed","RAF Hutton in the Forest",54.731525,-2.883456,654,"EU","GB","GB-ENG","Penrith, Cumbria","no",,,,,,,"RAF, No. 8 SLG"
 314757,"GB-0164","closed","RAF Brayton Park",54.773889,-3.301111,248,"EU","GB","GB-ENG","Wigton, Cumbria","no",,,,,,,"RAF, No. 39 SLG"
-314758,"GB-0165","closed","RAF Hornby Hall",54.659023,-2.652931,360,"EU","GB","GB-ENG","Penrith, Cumbria","no",,,,,,,"RAF, No. 9 SLG, Brougham"
+314758,"GB-0165","closed","RAF Hornby Hall",54.659444,-2.667778,360,"EU","GB","GB-ENG","Penrith, Cumbria","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Hornby_Hall","RAF, No. 9 SLG, Brougham"
 314759,"GB-0166","small_airport","Glassonby Airfield",54.737994,-2.651861,600,"EU","GB","GB-ENG","Penrith, Cumbria","no",,,,,"http://www.therowleyestates.com/services/airfield/",,
 314760,"GB-0167","closed","RAF Longtown",55.006064,-2.92078,117,"EU","GB","GB-ENG","Carlisle, Cumbria","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Longtown","RAF Longtown"
 314761,"GB-0168","small_airport","Berrier Airstrip",54.656504,-2.93365,1037,"EU","GB","GB-ENG","Penrith, Cumbria","no",,,,,,,
@@ -30228,6 +30228,8 @@
 611407,"GB-1371","heliport","Alder Hey Children's Hospital Helipad",53.418504,-2.898901,144,"EU","GB","GB-ENG","West Derby, Liverpool","no",,,,,"https://www.alderhey.nhs.uk/",,
 611724,"GB-1372","heliport","Aintree Racecourse Heliport",53.474421,-2.939873,,"EU","GB","GB-ENG",,"no",,,,,,,
 611773,"GB-1373","heliport","Hinton House Helipad",51.324467,-2.322997,439,"EU","GB","GB-ENG","Hinton Charterhouse, Somerset","no",,,,,,"https://en.wikipedia.org/wiki/Hinton_House,_Hinton_Charterhouse",
+613263,"GB-1374","closed","RAF Cottam",54.063333,-0.483056,495,"EU","GB","GB-ENG","Cottam, East Riding of Yorkshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Cottam",
+613264,"GB-1375","closed","RAF Dalton",54.176944,-1.359722,66,"EU","GB","GB-ENG","Dalton, North Yorkshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Dalton",
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121916,-2.053439,150,"EU","GB","GB-SCT","Foula","yes",,"FOA","EG3G",,,"https://en.wikipedia.org/w/index.php?title=Foula_Airfield&oldid=1234064311","EG42"
@@ -31903,7 +31905,7 @@
 41473,"ID-0336","closed","Beringin Airport",-0.942549,114.89399,126,"AS","ID","ID-KT","Murateweh","no",,,,,,"https://en.wikipedia.org/wiki/Beringin_Airport","WRBM, WAOM, WAGK, GXA"
 41479,"ID-0337","closed","Kalabahi Airport",-8.216667,124.566666,33,"AS","ID","ID-NT","Kalabahi","no",,,,,,,"WRKM"
 41491,"ID-0338","closed","Tanjung Perak Airport",-7.217473,112.712343,9,"AS","ID","ID-JI","Surabaya","no",,,,,,"https://en.wikipedia.org/wiki/Morokrembangan_Naval_Air_Base","WRSP, Krembangan, Morokrembangan"
-26747,"ID-0339","medium_airport","Old Nabire Airport",-3.368586,135.496702,20,"OC","ID","ID-PT","Nabire","yes",,,,,,,"NBX, WABI, Douw Aturure"
+26747,"ID-0339","closed","Old Nabire Airport",-3.368586,135.496702,20,"AS","ID","ID-PT","Nabire","yes",,,,,,,"NBX, WABI"
 26838,"ID-0340","medium_airport","Tabing Airport",-0.874989,100.351997,9,"AS","ID","ID-SB","Padang","yes",,,,,,"https://en.wikipedia.org/wiki/Tabing_Airport","WIMG"
 26849,"ID-0341","medium_airport","Susilo Airport",0.063851,111.473572,98,"AS","ID","ID-KB","Sintang","no",,,,,,"https://en.wikipedia.org/wiki/Susilo_Airport","SQG, WIOS"
 32654,"ID-0342","small_airport","Helvetia Airport",3.68306,98.644203,49,"AS","ID","ID-SU","Medan","no",,,,,,,"WIMH"
@@ -39260,7 +39262,7 @@
 19533,"KCOM","small_airport","Coleman Municipal Airport",31.841100692699996,-99.4036026001,1697,"NA","US","US-TX","Coleman","no","KCOM","COM","KCOM","COM","http://www.cityofcolemantx.us/airport.html","https://en.wikipedia.org/wiki/Coleman_Municipal_Airport",
 19534,"KCON","medium_airport","Concord Municipal Airport",43.20270157,-71.50229645,342,"NA","US","US-NH","Concord","no","KCON","CON","KCON","CON","http://www.concordnh.gov/facilities/facility/details/Concord-Municipal-Airport-31","https://en.wikipedia.org/wiki/Concord_Municipal_Airport",
 19535,"KCOQ","small_airport","Cloquet Carlton County Airport",46.701099,-92.503601,1279,"NA","US","US-MN","Cloquet","no",,,"KCOQ","COQ",,"https://en.wikipedia.org/wiki/Cloquet_Carlton_County_Airport",
-3463,"KCOS","large_airport","City of Colorado Springs Municipal Airport",38.805801,-104.700996,6187,"NA","US","US-CO","Colorado Springs","yes","KCOS","COS","KCOS","COS","https://flycos.coloradosprings.gov/","https://en.wikipedia.org/wiki/Colorado_Springs_Airport","Peterson SFB, Colorado Springs Airport"
+3463,"KCOS","large_airport","Colorado Springs Airport",38.805801,-104.700996,6187,"NA","US","US-CO","Colorado Springs","yes","KCOS","COS","KCOS","COS","https://flycos.coloradosprings.gov/","https://en.wikipedia.org/wiki/Colorado_Springs_Airport","Peterson SFB, Colorado Springs Airport"
 19536,"KCOT","small_airport","Cotulla-La Salle County Airport",28.45669937,-99.22029877,474,"NA","US","US-TX","Cotulla","no","KCOT","COT","KCOT","COT","http://www.cotullaairport.com/","https://en.wikipedia.org/wiki/Cotulla%E2%80%93La_Salle_County_Airport",
 3464,"KCOU","medium_airport","Columbia Regional Airport",38.8181,-92.219597,889,"NA","US","US-MO","Columbia","yes","KCOU","COU","KCOU","COU",,"https://en.wikipedia.org/wiki/Columbia_Regional_Airport",
 19537,"KCPC","small_airport","Columbus County Municipal Airport",34.27289963,-78.71499634,99,"NA","US","US-NC","Whiteville","no",,,"KCPC","CPC",,"https://en.wikipedia.org/wiki/Columbus_County_Municipal_Airport",
@@ -50266,7 +50268,7 @@
 22839,"NC99","small_airport","Bagwell Airport",35.67430114746094,-78.6072006225586,300,"NA","US","US-NC","Garner","no",,,"NC99","NC99",,,
 4957,"NCAI","small_airport","Aitutaki Airport",-18.837091,-159.761008,14,"OC","CK","CK-U-A","Aitutaki","yes","NCAI","AIT","NCAI",,"https://cookislandsairports.com/home/","https://en.wikipedia.org/wiki/Aitutaki_Airport",
 30629,"NCAT","small_airport","Enua Airport",-19.96780014038086,-158.11900329589844,36,"OC","CK","CK-U-A","Atiu Island","yes","NCAT","AIU","NCAT",,,"https://en.wikipedia.org/wiki/Enua_Airport",
-22840,"NCL","heliport","Comlantflt Heliport",36.92509841918945,-76.30439758300781,14,"NA","US","US-VA","Norfolk","no",,,"NCL","NCL",,,
+22840,"NCL","heliport","Comlantflt Heliport",36.931988,-76.301939,14,"NA","US","US-VA","Norfolk","no","KNCL",,"KNCL","NCL",,,
 31900,"NCMG","small_airport","Mangaia Island Airport",-21.895987,-157.906662,45,"OC","CK","CK-U-A","Mangaia Island","no","NCMG","MGS","NCMG",,,"https://en.wikipedia.org/wiki/Mangaia_Airport",
 31907,"NCMH","small_airport","Manihiki Island Airport",-10.38091,-160.999424,11,"OC","CK","CK-U-A","Manihiki Island","yes","NCMH","MHX","NCMH",,,"https://en.wikipedia.org/wiki/Manihiki_Island_Airport","Humphrey Island, Te Fuinga o Niva"
 31968,"NCMK","small_airport","Mauke Airport",-20.13610076904297,-157.34500122070312,26,"OC","CK","CK-U-A","Mauke Island","yes","NCMK","MUK","NCMK",,,"https://en.wikipedia.org/wiki/Mauke_Airport","Akatoka Manava Airport"
@@ -68942,7 +68944,7 @@
 12516,"US-10407","closed","Double E Heliport",39.269501,-93.654404,670,"NA","US","US-MO","Norborne","no",,,,,,,"5MO8"
 12521,"US-10408","closed","Walnut Creek Airport",32.591925,-89.924912,315,"NA","US","US-MS","Canton","no",,,,,,,"5MS4"
 12531,"US-10409","closed","Lathan Strip",34.876301,-80.619202,575,"NA","US","US-NC","Monroe","no",,,,,,,"5NC2"
-329926,"US-1041","closed","Miami Gliderport Landing Strip",25.608162,-80.474778,7,"NA","US","US-FL","Homestead","no",,,,,,,"22FD"
+329926,"US-1041","closed","Miami Gliderport",25.609163,-80.474867,7,"NA","US","US-FL","Homestead","no",,,,,,,"22FD"
 12541,"US-10410","closed","Tesch Strip",46.1436,-97.243103,1114,"NA","US","US-ND","Lidgerwood","no",,,,,,,"5ND4"
 12543,"US-10411","closed","Trumbull Ranch Airport",41.549999,-100.834,3260,"NA","US","US-NE","Ringgold","no",,,,,,,"5NE1"
 12547,"US-10412","closed","Trego Airport",41.20853,-101.14504,2957,"NA","US","US-NE","Sutherland","no",,,,,,,"5NE5"
@@ -85954,7 +85956,7 @@
 300671,"ZBER","medium_airport","Erenhot Saiwusu International Airport",43.424079,112.091081,3301,"AS","CN","CN-15","Erenhot","yes","ZBER","ERL","ZBER",,,"https://en.wikipedia.org/wiki/Erenhot_Saiwusu_International_Airport","Saiwusu Airport"
 315854,"ZBES","medium_airport","Arxan Yi'ershi Airport",47.3106,119.9117,2925,"AS","CN","CN-15","Arxan","yes","ZBES","YIE","ZBES",,,"https://en.wikipedia.org/wiki/Arxan_Yi%27ershi_Airport",
 300860,"ZBHD","medium_airport","Handan Airport",36.524824,114.424126,229,"AS","CN","CN-13","Handan","yes","ZBHD","HDG","ZBHD",,"https://hdairport.net","https://en.wikipedia.org/wiki/Handan_Airport","Handan Matou Airport"
-27189,"ZBHH","large_airport","Hohhot Baita International Airport",40.849658,111.824598,3556,"AS","CN","CN-15","Hohhot","yes","ZBHH","HET","ZBHH",,"http://www.hhhtbtjc.com/","https://en.wikipedia.org/wiki/Hohhot_Baita_International_Airport",
+27189,"ZBHH","closed","Hohhot Baita International Airport",40.849658,111.824598,3556,"AS","CN","CN-15","Hohhot","no",,,,,"http://www.hhhtbtjc.com/","https://en.wikipedia.org/wiki/Hohhot_Baita_International_Airport",
 327443,"ZBHZ","medium_airport","Holingol Huolinhe Airport",45.487222,119.407222,,"AS","CN","CN-15","Holingol","yes","ZBHZ","HUO","ZBHZ",,,"https://en.wikipedia.org/wiki/Holingol_Huolinhe_Airport",
 27190,"ZBLA","large_airport","Hulunbuir Hailar Airport",49.208616,119.822301,2169,"AS","CN","CN-15","Hailar","yes","ZBLA","HLD","ZBLA",,,"https://en.wikipedia.org/wiki/Hulunbuir_Hailar_Airport","Hailar Dongshan"
 323216,"ZBLF","medium_airport","Linfen Yaodu Airport",36.132629,111.641236,1483,"AS","CN","CN-14","Linfen (Yaodu)","yes","ZBLF","LFQ","ZBLF",,,"https://en.wikipedia.org/wiki/Linfen_Qiaoli_Airport","Qiaoli"
