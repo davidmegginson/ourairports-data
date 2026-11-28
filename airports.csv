@@ -84403,7 +84403,7 @@
 38407,"YKCA","small_airport","Kings Canyon Airport",-24.260229,131.488924,2100,"OC","AU","AU-NT","Petermann","no","YKCA","KBJ","YKCA",,,,
 27671,"YKCK","small_airport","Killiecrankie Airfield",-39.848801,147.858002,144,"OC","AU","AU-TAS","Killiecrankie","no",,,"YKCK",,,"https://en.wikipedia.org/wiki/Killiecrankie_Airstrip",
 27672,"YKCS","small_airport","Kings Creek Airport",-24.421285,131.819458,615,"OC","AU","AU-NT","Petermann","no","YKCS","KCS","YKCS",,,,
-352071,"YKDD","small_airport","Koodaideri Mine Airport",-22.504291,119.07683,1473,"OC","AU","AU-WA","Koodaideri Mine","no",,"OOD","YKDD",,"https://www.riotinto.com/en/news/releases/2020/WAs-newest-airport-opens-at-Rio-Tintos-Gudai-Darri-mine",,"Gudai-Darri"
+352071,"YKDD","small_airport","Gudai Darri Mine Airport",-22.504291,119.07683,1473,"OC","AU","AU-WA","Gudai Darri Mine","yes","YKDD","OOD","YKDD",,"https://www.riotinto.com/en/news/releases/2020/WAs-newest-airport-opens-at-Rio-Tintos-Gudai-Darri-mine",,"Gudai-Darri"
 27673,"YKDI","small_airport","Kadina Airport",-33.96963,137.659748,42,"OC","AU","AU-SA",,"no",,,"YKDI",,,"https://en.wikipedia.org/wiki/Kadina_Airport",
 38408,"YKDL","small_airport","Kondoolka Airport",-32.02389907836914,134.86099243164062,,"OC","AU","AU-SA",,"no",,,"YKDL",,,,
 27674,"YKDM","small_airport","Kidman Springs Airport",-16.11669921875,130.9530029296875,88,"OC","AU","AU-NT",,"no",,,"YKDM",,,,
